@@ -1,5 +1,95 @@
 [
   {
+    "description": "Exercise: Introduction to Git",
+    "id": "ekaterinam47/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "ekaterinam47/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:47:04Z",
+    "url": "https://github.com/ekaterinam47/skills-introduction-to-git"
+  },
+  {
+    "description": "",
+    "id": "bearxiong2k/skills",
+    "language": "Python",
+    "name": "bearxiong2k/skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:47:00Z",
+    "url": "https://github.com/bearxiong2k/skills"
+  },
+  {
+    "description": "A collection of my own custom skills for claude code",
+    "id": "JackSmack1971/real-world-engineering-skills",
+    "language": "\u2014",
+    "name": "JackSmack1971/real-world-engineering-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:46:45Z",
+    "url": "https://github.com/JackSmack1971/real-world-engineering-skills"
+  },
+  {
+    "description": "Plugin marketplace for Claude Code with the skills I use daily: structured commits, root-cause debugging, plan/implement",
+    "id": "pt-hieu/skills",
+    "language": "Python",
+    "name": "pt-hieu/skills",
+    "stars": 1,
+    "updated_at": "2026-05-25T20:46:18Z",
+    "url": "https://github.com/pt-hieu/skills"
+  },
+  {
+    "description": "Reusable AI agent skills by @JohnWayneeee \u2014 ui polish, React Flow, payoff modeling, browser audit, and more",
+    "id": "JohnWayneeee/ai-agent-skills",
+    "language": "\u2014",
+    "name": "JohnWayneeee/ai-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:46:07Z",
+    "url": "https://github.com/JohnWayneeee/ai-agent-skills"
+  },
+  {
+    "description": "",
+    "id": "iemejia/fabio-skills",
+    "language": "Shell",
+    "name": "iemejia/fabio-skills",
+    "stars": 1,
+    "updated_at": "2026-05-25T20:46:02Z",
+    "url": "https://github.com/iemejia/fabio-skills"
+  },
+  {
+    "description": "",
+    "id": "dawsonblock/agent_eval_skills_merged_clean",
+    "language": "Python",
+    "name": "dawsonblock/agent_eval_skills_merged_clean",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:45:45Z",
+    "url": "https://github.com/dawsonblock/agent_eval_skills_merged_clean"
+  },
+  {
+    "description": "My clone repository",
+    "id": "mmerino99/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "mmerino99/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:45:39Z",
+    "url": "https://github.com/mmerino99/skills-introduction-to-github"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:45:30Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:45:30Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -63,15 +153,6 @@
     "url": "https://github.com/jore731/skills"
   },
   {
-    "description": "Plugin marketplace for Claude Code with the skills I use daily: structured commits, root-cause debugging, plan/implement",
-    "id": "pt-hieu/skills",
-    "language": "Python",
-    "name": "pt-hieu/skills",
-    "stars": 1,
-    "updated_at": "2026-05-25T20:43:44Z",
-    "url": "https://github.com/pt-hieu/skills"
-  },
-  {
     "description": "",
     "id": "serkutYILDIRIM/cobol-to-java-modernization-skills",
     "language": "COBOL",
@@ -90,22 +171,13 @@
     "url": "https://github.com/dobplaza006-commits/skills-communicate-using-markdown"
   },
   {
-    "description": "My clone repository",
-    "id": "mmerino99/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "mmerino99/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:44:10Z",
-    "url": "https://github.com/mmerino99/skills-introduction-to-github"
-  },
-  {
     "description": "Plugins and skills for llms",
-    "id": "theodorklauritzen/theoodrklauritzen-skills",
+    "id": "theodorklauritzen/theodorklauritzen-skills",
     "language": "\u2014",
-    "name": "theodorklauritzen/theoodrklauritzen-skills",
+    "name": "theodorklauritzen/theodorklauritzen-skills",
     "stars": 0,
     "updated_at": "2026-05-25T20:42:32Z",
-    "url": "https://github.com/theodorklauritzen/theoodrklauritzen-skills"
+    "url": "https://github.com/theodorklauritzen/theodorklauritzen-skills"
   },
   {
     "description": "Opinionated skills, personas, workflows, and roles for AI agents",
@@ -178,15 +250,6 @@
     "stars": 2199,
     "updated_at": "2026-05-25T20:41:35Z",
     "url": "https://github.com/flutter/skills"
-  },
-  {
-    "description": "",
-    "id": "dawsonblock/agent_eval_skills_merged_clean",
-    "language": "Python",
-    "name": "dawsonblock/agent_eval_skills_merged_clean",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:41:21Z",
-    "url": "https://github.com/dawsonblock/agent_eval_skills_merged_clean"
   },
   {
     "description": "",
@@ -360,15 +423,6 @@
     "url": "https://github.com/nchandar/skills"
   },
   {
-    "description": "",
-    "id": "iemejia/fabio-skills",
-    "language": "Shell",
-    "name": "iemejia/fabio-skills",
-    "stars": 1,
-    "updated_at": "2026-05-25T20:35:31Z",
-    "url": "https://github.com/iemejia/fabio-skills"
-  },
-  {
     "description": "Exercise: Create and run a GitHub Actions Workflow",
     "id": "Yiyang-Bai/skills-hello-github-actions",
     "language": "\u2014",
@@ -394,15 +448,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T20:34:56Z",
     "url": "https://github.com/DanielUmedaKuhn/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "A collection of my own custom skills for claude code",
-    "id": "JackSmack1971/real-world-engineering-skills",
-    "language": "\u2014",
-    "name": "JackSmack1971/real-world-engineering-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:34:54Z",
-    "url": "https://github.com/JackSmack1971/real-world-engineering-skills"
   },
   {
     "description": "Custom OpenClaw skills for Mohammed - Managed by Future Mohammed AI",
@@ -529,24 +574,6 @@
     "stars": 43,
     "updated_at": "2026-05-25T20:34:18Z",
     "url": "https://github.com/luoyuweidu1/podcastcut-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:30:32Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:30:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Community-contributed AI skills for New Zealand public data \u2014 LINZ, Stats NZ, Auckland Transport, weather, and more.",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T20:23:36Z",
     "url": "https://github.com/GF-aramirez/skills-introduction-to-codeql"
-  },
-  {
-    "description": "Deploy discrete, purpose-built AI skills for Claude and other SKILL.md-compatible agents to automate focused, recurrent ",
-    "id": "Raisecornfritter28/mvsd-ai-skills",
-    "language": "\u2014",
-    "name": "Raisecornfritter28/mvsd-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-05-25T20:23:36Z",
-    "url": "https://github.com/Raisecornfritter28/mvsd-ai-skills"
-  },
-  {
-    "description": "",
-    "id": "NadyAlwazah/flutter-task05-skills-academy-beg",
-    "language": "Dart",
-    "name": "NadyAlwazah/flutter-task05-skills-academy-beg",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:23:36Z",
-    "url": "https://github.com/NadyAlwazah/flutter-task05-skills-academy-beg"
-  },
-  {
-    "description": "Extensible Bot Army skills platform \u2014 NATS-driven skill execution, template rendering, and action dispatch",
-    "id": "ergon-automation-labs/ergon-skills-base",
-    "language": "Elixir",
-    "name": "ergon-automation-labs/ergon-skills-base",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:23:26Z",
-    "url": "https://github.com/ergon-automation-labs/ergon-skills-base"
   }
 ]
