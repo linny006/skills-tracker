@@ -1,5 +1,86 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "it is important to upload your skills",
+    "id": "iradukundaalexandre/my-skills-protofolio",
+    "language": "HTML",
+    "name": "iradukundaalexandre/my-skills-protofolio",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:15:13Z",
+    "url": "https://github.com/iradukundaalexandre/my-skills-protofolio"
+  },
+  {
+    "description": "",
+    "id": "leoenchanted/animal-script-skills",
+    "language": "HTML",
+    "name": "leoenchanted/animal-script-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:15:05Z",
+    "url": "https://github.com/leoenchanted/animal-script-skills"
+  },
+  {
+    "description": "Skills to be used in the customware sandbox",
+    "id": "customware-ai/skills",
+    "language": "\u2014",
+    "name": "customware-ai/skills",
+    "stars": 1,
+    "updated_at": "2026-05-25T16:15:04Z",
+    "url": "https://github.com/customware-ai/skills"
+  },
+  {
+    "description": "Use SocialRouter with your favorite agent",
+    "id": "socialrouter/skills",
+    "language": "\u2014",
+    "name": "socialrouter/skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:14:56Z",
+    "url": "https://github.com/socialrouter/skills"
+  },
+  {
+    "description": "Monkey-brain dump/kick/play skills for Claude Code and GitHub Copilot",
+    "id": "Theerapon/monkey-brain-skills",
+    "language": "\u2014",
+    "name": "Theerapon/monkey-brain-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:14:52Z",
+    "url": "https://github.com/Theerapon/monkey-brain-skills"
+  },
+  {
+    "description": "AI Agent skills for the Hot programming language",
+    "id": "hot-dev/hot-skills",
+    "language": "\u2014",
+    "name": "hot-dev/hot-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:14:27Z",
+    "url": "https://github.com/hot-dev/hot-skills"
+  },
+  {
+    "description": "My own curated skills for agentic work.",
+    "id": "Dolliwyx/skills",
+    "language": "\u2014",
+    "name": "Dolliwyx/skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:14:24Z",
+    "url": "https://github.com/Dolliwyx/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:13:56Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "A contract which provides a detailed scaffold for the way I want my skills structured. It can be called to create, updat",
     "id": "bewilderbeast24/ai-skills-skill_scaffold",
     "language": "PowerShell",
@@ -522,7 +603,7 @@
     "url": "https://github.com/AlemTuzlak/skills"
   },
   {
-    "description": "A collection of AI skills based on input floating around on the internet ",
+    "description": "A library of 200+ mental model cards for disciplined critical thinking \u2014 with card deck, connection graph, and situation",
     "id": "lima-bravo/skills-framework",
     "language": "HTML",
     "name": "lima-bravo/skills-framework",
@@ -594,15 +675,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:00:34Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Collection of cloud skills for the agent skills paradigm",
     "id": "MishFTW/mish-skills",
     "language": "Shell",
@@ -619,15 +691,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T16:10:54Z",
     "url": "https://github.com/Ng-Guo-Yao/skills-introduction-to-github"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -835,68 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T15:56:44Z",
     "url": "https://github.com/Nitesh9842/ElevanceSkills-Internship-"
-  },
-  {
-    "description": "Opinionated Claude AI skills toolkit for solo full-stack devs \u2014 plan, build, deploy, and audit web projects end-to-end. ",
-    "id": "MustafaEEroglu/claude-skills-toolkit",
-    "language": "\u2014",
-    "name": "MustafaEEroglu/claude-skills-toolkit",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:56:31Z",
-    "url": "https://github.com/MustafaEEroglu/claude-skills-toolkit"
-  },
-  {
-    "description": "",
-    "id": "afdmorillo/GE-IT-Skills-portfolio",
-    "language": "\u2014",
-    "name": "afdmorillo/GE-IT-Skills-portfolio",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:56:08Z",
-    "url": "https://github.com/afdmorillo/GE-IT-Skills-portfolio"
-  },
-  {
-    "description": "Exercise: Communicate using Markdown",
-    "id": "Lanny-codes/skills-communicate-using-markdown",
-    "language": "\u2014",
-    "name": "Lanny-codes/skills-communicate-using-markdown",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:55:56Z",
-    "url": "https://github.com/Lanny-codes/skills-communicate-using-markdown"
-  },
-  {
-    "description": "",
-    "id": "SanderMuller/boost-skills",
-    "language": "PHP",
-    "name": "SanderMuller/boost-skills",
-    "stars": 1,
-    "updated_at": "2026-05-25T15:55:54Z",
-    "url": "https://github.com/SanderMuller/boost-skills"
-  },
-  {
-    "description": "Claude Code plugin: skills, commands, and tooling for SpecScore-driven specification authoring (specstudio:ideate, specs",
-    "id": "specscore/specstudio-skills",
-    "language": "\u2014",
-    "name": "specscore/specstudio-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:55:03Z",
-    "url": "https://github.com/specscore/specstudio-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "cryptofixyup/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "cryptofixyup/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:55:00Z",
-    "url": "https://github.com/cryptofixyup/skills-introduction-to-github"
-  },
-  {
-    "description": "\u4e2a\u4eba agent \u64cd\u4f5c\u7cfb\u7edf skill \u5305\uff1a\u4ece\u7acb\u9879\u5230\u6c89\u6dc0\uff0c\u8986\u76d6\u8f6f\u4ef6\u5de5\u7a0b\u5168\u6d41\u7a0b\u300220 \u4e2a skill\u30016 \u4e2a\u9636\u6bb5\u30013 \u5c42\u67b6\u6784\u3002",
-    "id": "initxy/initxy-skills",
-    "language": "Shell",
-    "name": "initxy/initxy-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:54:31Z",
-    "url": "https://github.com/initxy/initxy-skills"
   }
 ]
