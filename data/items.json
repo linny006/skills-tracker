@@ -1,5 +1,113 @@
 [
   {
+    "description": "Exercise: Create Applications with the Copilot CLI",
+    "id": "office975/skills-create-applications-with-the-copilot-cli",
+    "language": "\u2014",
+    "name": "office975/skills-create-applications-with-the-copilot-cli",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:00:35Z",
+    "url": "https://github.com/office975/skills-create-applications-with-the-copilot-cli"
+  },
+  {
+    "description": "Exercise: Code with Codespaces",
+    "id": "Chris-tiee/skills-code-with-codespaces",
+    "language": "\u2014",
+    "name": "Chris-tiee/skills-code-with-codespaces",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:00:34Z",
+    "url": "https://github.com/Chris-tiee/skills-code-with-codespaces"
+  },
+  {
+    "description": "Use skills to manage the project lifecycle",
+    "id": "a-green-hand-jack/ml-research-skills",
+    "language": "Python",
+    "name": "a-green-hand-jack/ml-research-skills",
+    "stars": 4,
+    "updated_at": "2026-05-26T17:00:31Z",
+    "url": "https://github.com/a-green-hand-jack/ml-research-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "Takaedza/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "Takaedza/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:00:30Z",
+    "url": "https://github.com/Takaedza/skills-introduction-to-github"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-26T17:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Kleros knowledge and skills for AI agents",
+    "id": "kleros/kleros-skills",
+    "language": "HTML",
+    "name": "kleros/kleros-skills",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:00:05Z",
+    "url": "https://github.com/kleros/kleros-skills"
+  },
+  {
+    "description": "Master Claude Code plugin for creating, auditing, evaluating, optimizing, and packaging skills and plugins",
+    "id": "voidfreud/skillsmith",
+    "language": "Python",
+    "name": "voidfreud/skillsmith",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:00:02Z",
+    "url": "https://github.com/voidfreud/skillsmith"
+  },
+  {
+    "description": "Exercise: Publish Docker Images",
+    "id": "seokhaki/skills-publish-docker-images",
+    "language": "JavaScript",
+    "name": "seokhaki/skills-publish-docker-images",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:59:58Z",
+    "url": "https://github.com/seokhaki/skills-publish-docker-images"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:59:55Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
+    "id": "reasonless-throne486/sast-skills",
+    "language": "\u2014",
+    "name": "reasonless-throne486/sast-skills",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:59:54Z",
+    "url": "https://github.com/reasonless-throne486/sast-skills"
+  },
+  {
+    "description": "Organize AI agent skills, scripts, and references in scalable folders for fast reuse across engineering, research, writi",
+    "id": "marysatasselshaped667/skills-collection-1",
+    "language": "Python",
+    "name": "marysatasselshaped667/skills-collection-1",
+    "stars": 1,
+    "updated_at": "2026-05-26T16:59:52Z",
+    "url": "https://github.com/marysatasselshaped667/skills-collection-1"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:59:49Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
     "description": "GitHub Copilot CLI agent skills for Microsoft field engineers \u2014 territory insights, SE activity logging, and more.",
     "id": "vijaycinn/copilot-skills",
     "language": "Python",
@@ -169,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T16:57:53Z",
     "url": "https://github.com/sagnikmitra/skills-registry"
-  },
-  {
-    "description": "Master Claude Code plugin for creating, auditing, evaluating, optimizing, and packaging skills and plugins",
-    "id": "voidfreud/skillsmith",
-    "language": "Python",
-    "name": "voidfreud/skillsmith",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:57:49Z",
-    "url": "https://github.com/voidfreud/skillsmith"
   },
   {
     "description": "Test iOS agent skills with 11 tasks, 260+ scenarios, and 850+ assertions across 3 models",
@@ -799,104 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T16:52:01Z",
     "url": "https://github.com/Revised-odontaspis309/trading-skills"
-  },
-  {
-    "description": "Manage reusable AI coding skills in a multi-skill workspace for easy reuse, sync, and expansion",
-    "id": "aramamer4577-source/skills",
-    "language": "Shell",
-    "name": "aramamer4577-source/skills",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:52:00Z",
-    "url": "https://github.com/aramamer4577-source/skills"
-  },
-  {
-    "description": "Exercise: Publish Docker Images",
-    "id": "seokhaki/skills-publish-docker-images",
-    "language": "JavaScript",
-    "name": "seokhaki/skills-publish-docker-images",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:52:00Z",
-    "url": "https://github.com/seokhaki/skills-publish-docker-images"
-  },
-  {
-    "description": "Claude Code skills for Salesforce Success Guides \u2014 Agentforce coaching via MCP",
-    "id": "joseantoniorodriguezSFDC/sf-skills",
-    "language": "\u2014",
-    "name": "joseantoniorodriguezSFDC/sf-skills",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:51:41Z",
-    "url": "https://github.com/joseantoniorodriguezSFDC/sf-skills"
-  },
-  {
-    "description": "",
-    "id": "kornthiwars/SKILLS-AI",
-    "language": "\u2014",
-    "name": "kornthiwars/SKILLS-AI",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:51:33Z",
-    "url": "https://github.com/kornthiwars/SKILLS-AI"
-  },
-  {
-    "description": "Build AI skills for social media strategy, content creation, and analysis across text-first platforms",
-    "id": "Abwor9658/social-media-skills",
-    "language": "Shell",
-    "name": "Abwor9658/social-media-skills",
-    "stars": 2,
-    "updated_at": "2026-05-26T16:51:32Z",
-    "url": "https://github.com/Abwor9658/social-media-skills"
-  },
-  {
-    "description": "",
-    "id": "asafyakov/campaigner-10x-skills",
-    "language": "\u2014",
-    "name": "asafyakov/campaigner-10x-skills",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:51:31Z",
-    "url": "https://github.com/asafyakov/campaigner-10x-skills"
-  },
-  {
-    "description": "43 composable skills that turn an AI coding agent into a product team \u2014 research, marketing, product, and meta-process. ",
-    "id": "hungv47/meta-skills",
-    "language": "TypeScript",
-    "name": "hungv47/meta-skills",
-    "stars": 9,
-    "updated_at": "2026-05-26T16:51:30Z",
-    "url": "https://github.com/hungv47/meta-skills"
-  },
-  {
-    "description": "Reusable Folloze-oriented Codex skills",
-    "id": "0xTrey/Folloze-Skills",
-    "language": "Python",
-    "name": "0xTrey/Folloze-Skills",
-    "stars": 1,
-    "updated_at": "2026-05-26T16:51:19Z",
-    "url": "https://github.com/0xTrey/Folloze-Skills"
-  },
-  {
-    "description": "",
-    "id": "nevco-sports/scorebird-skills",
-    "language": "Shell",
-    "name": "nevco-sports/scorebird-skills",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:51:19Z",
-    "url": "https://github.com/nevco-sports/scorebird-skills"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-05-26T16:51:17Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "This is a repository of skills for interfacing UiPath capabilities to external developers.",
-    "id": "UiPath/skills",
-    "language": "Python",
-    "name": "UiPath/skills",
-    "stars": 92,
-    "updated_at": "2026-05-26T16:58:36Z",
-    "url": "https://github.com/UiPath/skills"
   }
 ]
