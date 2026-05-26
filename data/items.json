@@ -1,5 +1,68 @@
 [
   {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "Nannadn/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "Nannadn/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-05-26T10:31:40Z",
+    "url": "https://github.com/Nannadn/skills-introduction-to-github"
+  },
+  {
+    "description": "Auto-generated agent skills from trending data engineering repos, by ara.so",
+    "id": "Aradotso/data-skills",
+    "language": "\u2014",
+    "name": "Aradotso/data-skills",
+    "stars": 1,
+    "updated_at": "2026-05-26T10:31:23Z",
+    "url": "https://github.com/Aradotso/data-skills"
+  },
+  {
+    "description": "\u6211\u7684 skills",
+    "id": "Jsmond2016/fe-skills",
+    "language": "JavaScript",
+    "name": "Jsmond2016/fe-skills",
+    "stars": 0,
+    "updated_at": "2026-05-26T10:31:11Z",
+    "url": "https://github.com/Jsmond2016/fe-skills"
+  },
+  {
+    "description": "React.js iteration",
+    "id": "rachoom/skillsconnectpro-next",
+    "language": "TypeScript",
+    "name": "rachoom/skillsconnectpro-next",
+    "stars": 0,
+    "updated_at": "2026-05-26T10:31:04Z",
+    "url": "https://github.com/rachoom/skillsconnectpro-next"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-05-26T10:30:41Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 0,
+    "updated_at": "2026-05-26T10:30:38Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Exercise: Introduction to CodeQL",
+    "id": "Chris-tiee/skills-introduction-to-codeql",
+    "language": "Python",
+    "name": "Chris-tiee/skills-introduction-to-codeql",
+    "stars": 0,
+    "updated_at": "2026-05-26T10:30:34Z",
+    "url": "https://github.com/Chris-tiee/skills-introduction-to-codeql"
+  },
+  {
     "description": "Exercise: Get started using GitHub Copilot",
     "id": "cimiculka/skills-getting-started-with-github-copilot",
     "language": "JavaScript",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T10:29:02Z",
     "url": "https://github.com/engineerrobin/skills-expand-your-team-with-copilot"
-  },
-  {
-    "description": "Exercise: Introduction to CodeQL",
-    "id": "Chris-tiee/skills-introduction-to-codeql",
-    "language": "Python",
-    "name": "Chris-tiee/skills-introduction-to-codeql",
-    "stars": 0,
-    "updated_at": "2026-05-26T10:29:02Z",
-    "url": "https://github.com/Chris-tiee/skills-introduction-to-codeql"
   },
   {
     "description": "Exercise: Build applications with GitHub Copilot agent mode",
@@ -394,15 +448,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T10:25:44Z",
     "url": "https://github.com/blamejs/exceptd-skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "JMAM07/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "JMAM07/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-05-26T10:22:37Z",
-    "url": "https://github.com/JMAM07/skills-introduction-to-git"
   },
   {
     "description": "",
@@ -711,15 +756,6 @@
     "url": "https://github.com/bearsunday/BEAR.Skills"
   },
   {
-    "description": "React.js iteration",
-    "id": "rachoom/skillsconnectpro-next",
-    "language": "TypeScript",
-    "name": "rachoom/skillsconnectpro-next",
-    "stars": 0,
-    "updated_at": "2026-05-26T10:16:44Z",
-    "url": "https://github.com/rachoom/skillsconnectpro-next"
-  },
-  {
     "description": "Distribute AI Skills as Composer dependencies",
     "id": "roxblnfk/skills",
     "language": "PHP",
@@ -765,15 +801,6 @@
     "url": "https://github.com/artgaurav16420-oss/Auto-Skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-05-26T10:15:42Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
     "id": "jianshuo/claude-skills",
     "language": "Python",
@@ -781,15 +808,6 @@
     "stars": 61,
     "updated_at": "2026-05-26T10:15:42Z",
     "url": "https://github.com/jianshuo/claude-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 0,
-    "updated_at": "2026-05-26T10:15:39Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T10:14:20Z",
     "url": "https://github.com/glaude-skills/account-partition"
-  },
-  {
-    "description": "",
-    "id": "ejworks-tsurutani/skills-artifacts",
-    "language": "JavaScript",
-    "name": "ejworks-tsurutani/skills-artifacts",
-    "stars": 0,
-    "updated_at": "2026-05-26T10:14:08Z",
-    "url": "https://github.com/ejworks-tsurutani/skills-artifacts"
-  },
-  {
-    "description": "",
-    "id": "anuveyatsu/antigravity-awesome-skills-data",
-    "language": "Python",
-    "name": "anuveyatsu/antigravity-awesome-skills-data",
-    "stars": 0,
-    "updated_at": "2026-05-26T10:14:05Z",
-    "url": "https://github.com/anuveyatsu/antigravity-awesome-skills-data"
   }
 ]
