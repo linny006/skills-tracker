@@ -1,5 +1,59 @@
 [
   {
+    "description": "Claude Code skills for frontend craft and UI engineering",
+    "id": "Abel-Odorico/peep-skills",
+    "language": "Python",
+    "name": "Abel-Odorico/peep-skills",
+    "stars": 0,
+    "updated_at": "2026-05-27T02:00:27Z",
+    "url": "https://github.com/Abel-Odorico/peep-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T02:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The repo for all system/public ornn skills",
+    "id": "ChronoAIProject/ornn-skills",
+    "language": "Shell",
+    "name": "ChronoAIProject/ornn-skills",
+    "stars": 0,
+    "updated_at": "2026-05-27T02:00:10Z",
+    "url": "https://github.com/ChronoAIProject/ornn-skills"
+  },
+  {
+    "description": "",
+    "id": "herocwhsu/agent-skills-setup",
+    "language": "Shell",
+    "name": "herocwhsu/agent-skills-setup",
+    "stars": 0,
+    "updated_at": "2026-05-27T02:00:05Z",
+    "url": "https://github.com/herocwhsu/agent-skills-setup"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:59:09Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "org-dev-launch/Workforce-Skills-Framework-Review-Tool",
+    "language": "HTML",
+    "name": "org-dev-launch/Workforce-Skills-Framework-Review-Tool",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:59:09Z",
+    "url": "https://github.com/org-dev-launch/Workforce-Skills-Framework-Review-Tool"
+  },
+  {
     "description": "",
     "id": "996Code/ai-skills",
     "language": "\u2014",
@@ -171,15 +225,6 @@
     "url": "https://github.com/darktire/skills"
   },
   {
-    "description": "Claude Code skills for frontend craft and UI engineering",
-    "id": "Abel-Odorico/peep-skills",
-    "language": "Python",
-    "name": "Abel-Odorico/peep-skills",
-    "stars": 0,
-    "updated_at": "2026-05-27T01:52:55Z",
-    "url": "https://github.com/Abel-Odorico/peep-skills"
-  },
-  {
     "description": "",
     "id": "longbisheng/skills-for-dcu",
     "language": "\u2014",
@@ -241,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T01:51:28Z",
     "url": "https://github.com/techyabraham/skillsair"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "Anthony59Ruiz/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "Anthony59Ruiz/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-05-27T01:51:18Z",
-    "url": "https://github.com/Anthony59Ruiz/skills-introduction-to-git"
   },
   {
     "description": "",
@@ -468,15 +504,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 0,
-    "updated_at": "2026-05-27T01:45:30Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Your personal GitHub registry for AI Agent Skills. One repo. EVERY agent. EVERY device. Loaded on demand \u2014 Zero startup ",
     "id": "anand-92/skills-registry",
     "language": "Go",
@@ -484,15 +511,6 @@
     "stars": 2,
     "updated_at": "2026-05-27T01:46:08Z",
     "url": "https://github.com/anand-92/skills-registry"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T01:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -838,15 +856,6 @@
   },
   {
     "description": "",
-    "id": "herocwhsu/agent-skills-setup",
-    "language": "Shell",
-    "name": "herocwhsu/agent-skills-setup",
-    "stars": 0,
-    "updated_at": "2026-05-27T01:33:55Z",
-    "url": "https://github.com/herocwhsu/agent-skills-setup"
-  },
-  {
-    "description": "",
     "id": "carlosmarte/agents-skills-github-cli",
     "language": "\u2014",
     "name": "carlosmarte/agents-skills-github-cli",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T01:30:51Z",
     "url": "https://github.com/rsclarke/amp-skills"
-  },
-  {
-    "description": "\u96c6\u6210walkup\u5bf9\u5e94\u7684skills",
-    "id": "lemoncake1214/freya_walkup-ai-skills",
-    "language": "Python",
-    "name": "lemoncake1214/freya_walkup-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-05-27T01:30:50Z",
-    "url": "https://github.com/lemoncake1214/freya_walkup-ai-skills"
   }
 ]
