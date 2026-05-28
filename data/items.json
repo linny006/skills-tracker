@@ -1,5 +1,95 @@
 [
   {
+    "description": "Enhance AI/ML research by automating workflow checks, validating hypotheses, and converting experiment results into pres",
+    "id": "nerk1456/research-skills",
+    "language": "Python",
+    "name": "nerk1456/research-skills",
+    "stars": 2,
+    "updated_at": "2026-05-28T19:30:58Z",
+    "url": "https://github.com/nerk1456/research-skills"
+  },
+  {
+    "description": "Colecao de skills para Claude - guias, frameworks e automacoes usados internamente pela JET Digital",
+    "id": "jertczxk/jet-skills",
+    "language": "\u2014",
+    "name": "jertczxk/jet-skills",
+    "stars": 0,
+    "updated_at": "2026-05-28T19:30:57Z",
+    "url": "https://github.com/jertczxk/jet-skills"
+  },
+  {
+    "description": "Exercise: Publish Docker Images",
+    "id": "blueedge24/skills-publish-docker-images",
+    "language": "JavaScript",
+    "name": "blueedge24/skills-publish-docker-images",
+    "stars": 0,
+    "updated_at": "2026-05-28T19:30:53Z",
+    "url": "https://github.com/blueedge24/skills-publish-docker-images"
+  },
+  {
+    "description": "",
+    "id": "uohnajune/Entry_Level_AI_Skills",
+    "language": "HTML",
+    "name": "uohnajune/Entry_Level_AI_Skills",
+    "stars": 0,
+    "updated_at": "2026-05-28T19:30:50Z",
+    "url": "https://github.com/uohnajune/Entry_Level_AI_Skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "Carl531/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "Carl531/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-05-28T19:30:42Z",
+    "url": "https://github.com/Carl531/skills-introduction-to-github"
+  },
+  {
+    "description": "Skills de Cowork de Coderhouse",
+    "id": "estefaniaf-30/coderhouse-skills-wiki",
+    "language": "HTML",
+    "name": "estefaniaf-30/coderhouse-skills-wiki",
+    "stars": 0,
+    "updated_at": "2026-05-28T19:30:42Z",
+    "url": "https://github.com/estefaniaf-30/coderhouse-skills-wiki"
+  },
+  {
+    "description": "Production-Ready Agent Skills : product analytics, growth experiments, CRM, research synthesis, postmortems, data contra",
+    "id": "sisodiabhumca/agent-skills",
+    "language": "Python",
+    "name": "sisodiabhumca/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-05-28T19:30:41Z",
+    "url": "https://github.com/sisodiabhumca/agent-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-05-28T19:30:36Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 1,
+    "updated_at": "2026-05-28T19:30:35Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Provide adaptive Claude Code skills that guide system design, coding, and task management through principle-based decisi",
+    "id": "AbdulRehman0745/Nature-use-skills",
+    "language": "Shell",
+    "name": "AbdulRehman0745/Nature-use-skills",
+    "stars": 1,
+    "updated_at": "2026-05-28T19:30:26Z",
+    "url": "https://github.com/AbdulRehman0745/Nature-use-skills"
+  },
+  {
     "description": "Provide a complete Traditional Chinese guide to building and testing Skills for Claude, based on Anthropic's official do",
     "id": "Cathyoffthehook238/Guild-to-Building-Skills-for-Claude",
     "language": "\u2014",
@@ -25,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T19:30:17Z",
     "url": "https://github.com/robotka1321/great-product-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "Carl531/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "Carl531/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-05-28T19:30:30Z",
-    "url": "https://github.com/Carl531/skills-introduction-to-github"
   },
   {
     "description": "Provide AI-guided skills to build native-like Ionic Capacitor apps using React, Angular, and Vue with best development p",
@@ -225,15 +306,6 @@
     "url": "https://github.com/Blaynelargish66/knx-skills"
   },
   {
-    "description": "Skills de Cowork de Coderhouse",
-    "id": "estefaniaf-30/coderhouse-skills-wiki",
-    "language": "HTML",
-    "name": "estefaniaf-30/coderhouse-skills-wiki",
-    "stars": 0,
-    "updated_at": "2026-05-28T19:28:38Z",
-    "url": "https://github.com/estefaniaf-30/coderhouse-skills-wiki"
-  },
-  {
     "description": "Provide structured markdown guides to teach AI assistants how to complete complex React Native engineering tasks efficie",
     "id": "Marshanda14816/agent-skills",
     "language": "\u2014",
@@ -340,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-05-28T19:27:48Z",
     "url": "https://github.com/felipemsilva/PowerSkills"
-  },
-  {
-    "description": "Colecao de skills para Claude - guias, frameworks e automacoes usados internamente pela JET Digital",
-    "id": "jertczxk/jet-skills",
-    "language": "\u2014",
-    "name": "jertczxk/jet-skills",
-    "stars": 0,
-    "updated_at": "2026-05-28T19:27:43Z",
-    "url": "https://github.com/jertczxk/jet-skills"
   },
   {
     "description": "Provide AI agents with skills to interact seamlessly with Aster Finance Futures and Spot testnet APIs for trading, marke",
@@ -621,15 +684,6 @@
     "url": "https://github.com/teixasalone/UnrealEngine5-Skills"
   },
   {
-    "description": "",
-    "id": "uohnajune/Entry_Level_AI_Skills",
-    "language": "HTML",
-    "name": "uohnajune/Entry_Level_AI_Skills",
-    "stars": 0,
-    "updated_at": "2026-05-28T19:25:07Z",
-    "url": "https://github.com/uohnajune/Entry_Level_AI_Skills"
-  },
-  {
     "description": "Provide AI agent skills for the Symfony UX frontend stack using the Agent Skills open standard for seamless integration ",
     "id": "BKR-57/symfony-ux-skills",
     "language": "\u2014",
@@ -844,59 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T19:22:07Z",
     "url": "https://github.com/felipebretas15-spec/skills-github-pages"
-  },
-  {
-    "description": "Reusable agent skills for LVTD projects and Django SaaS workflows",
-    "id": "LVTD-LLC/skills",
-    "language": "JavaScript",
-    "name": "LVTD-LLC/skills",
-    "stars": 0,
-    "updated_at": "2026-05-28T19:21:59Z",
-    "url": "https://github.com/LVTD-LLC/skills"
-  },
-  {
-    "description": "Provide essential skills for Apple development, including Xcode workflows, Dash docset management, and Swift package sca",
-    "id": "Syniox5334/apple-dev-skills",
-    "language": "Python",
-    "name": "Syniox5334/apple-dev-skills",
-    "stars": 1,
-    "updated_at": "2026-05-28T19:21:46Z",
-    "url": "https://github.com/Syniox5334/apple-dev-skills"
-  },
-  {
-    "description": "Provide Python project setups, testing tools, and FastAPI/MCP bootstraps using uv-first workflows for consistent automat",
-    "id": "prabhulkarraj05/python-skills",
-    "language": "Shell",
-    "name": "prabhulkarraj05/python-skills",
-    "stars": 0,
-    "updated_at": "2026-05-28T19:21:39Z",
-    "url": "https://github.com/prabhulkarraj05/python-skills"
-  },
-  {
-    "description": "Skills de Claude Code para el mercado mexicano. 14 personas hand-crafted con validaci\u00f3n PSEC-MX (ENIGH 2024 + AMAI + PRO",
-    "id": "lahh1986/sistemia-skills-mx",
-    "language": "\u2014",
-    "name": "lahh1986/sistemia-skills-mx",
-    "stars": 0,
-    "updated_at": "2026-05-28T19:21:04Z",
-    "url": "https://github.com/lahh1986/sistemia-skills-mx"
-  },
-  {
-    "description": "Provide comprehensive backtesting skills for trading strategies across Indian, US, and crypto markets using VectorBT and",
-    "id": "Lakshay57200/vectorbt-backtesting-skills",
-    "language": "HTML",
-    "name": "Lakshay57200/vectorbt-backtesting-skills",
-    "stars": 0,
-    "updated_at": "2026-05-28T19:21:01Z",
-    "url": "https://github.com/Lakshay57200/vectorbt-backtesting-skills"
-  },
-  {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "MaxVAndreev-gcore/skills-github-pages",
-    "language": "\u2014",
-    "name": "MaxVAndreev-gcore/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-05-28T19:20:57Z",
-    "url": "https://github.com/MaxVAndreev-gcore/skills-github-pages"
   }
 ]
