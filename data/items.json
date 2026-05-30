@@ -1,5 +1,59 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-30T01:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code Cassandra Expert Skill",
+    "id": "rustyrazorblade/skills",
+    "language": "Python",
+    "name": "rustyrazorblade/skills",
+    "stars": 39,
+    "updated_at": "2026-05-30T01:30:05Z",
+    "url": "https://github.com/rustyrazorblade/skills"
+  },
+  {
+    "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
+    "id": "tomevault-io/skills-registry",
+    "language": "\u2014",
+    "name": "tomevault-io/skills-registry",
+    "stars": 0,
+    "updated_at": "2026-05-30T01:30:04Z",
+    "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "econruc-skills",
+    "id": "yangyugang1218/econruc-skills",
+    "language": "Python",
+    "name": "yangyugang1218/econruc-skills",
+    "stars": 0,
+    "updated_at": "2026-05-30T01:30:01Z",
+    "url": "https://github.com/yangyugang1218/econruc-skills"
+  },
+  {
+    "description": "",
+    "id": "Berilkdd/skillsproutify",
+    "language": "JavaScript",
+    "name": "Berilkdd/skillsproutify",
+    "stars": 0,
+    "updated_at": "2026-05-30T01:29:47Z",
+    "url": "https://github.com/Berilkdd/skillsproutify"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 1,
+    "updated_at": "2026-05-30T01:29:43Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "",
     "id": "bingkina/skills-tech-news-publisher",
     "language": "\u2014",
@@ -400,7 +454,7 @@
     "id": "Yuan1z0825/nature-skills",
     "language": "Python",
     "name": "Yuan1z0825/nature-skills",
-    "stars": 13773,
+    "stars": 13774,
     "updated_at": "2026-05-30T01:16:37Z",
     "url": "https://github.com/Yuan1z0825/nature-skills"
   },
@@ -457,24 +511,6 @@
     "stars": 1,
     "updated_at": "2026-05-30T01:15:30Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 1,
-    "updated_at": "2026-05-30T01:15:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-30T01:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T00:59:50Z",
     "url": "https://github.com/lzbovani/codex-skills"
-  },
-  {
-    "description": "A library of commands and skills for Claude Code",
-    "id": "pfeff/claude-skills",
-    "language": "Shell",
-    "name": "pfeff/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-30T00:59:46Z",
-    "url": "https://github.com/pfeff/claude-skills"
-  },
-  {
-    "description": "Step-by-step causal inference \u2014 method selection, assumptions, and robustness checks",
-    "id": "RobsonTigre/everyday-causal-skills",
-    "language": "Python",
-    "name": "RobsonTigre/everyday-causal-skills",
-    "stars": 19,
-    "updated_at": "2026-05-30T00:59:36Z",
-    "url": "https://github.com/RobsonTigre/everyday-causal-skills"
-  },
-  {
-    "description": "425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI pac",
-    "id": "jeremylongshore/claude-code-plugins-plus-skills",
-    "language": "Python",
-    "name": "jeremylongshore/claude-code-plugins-plus-skills",
-    "stars": 2262,
-    "updated_at": "2026-05-30T01:29:12Z",
-    "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
-  },
-  {
-    "description": "",
-    "id": "aktsmm/Agent-Skills",
-    "language": "Python",
-    "name": "aktsmm/Agent-Skills",
-    "stars": 14,
-    "updated_at": "2026-05-30T00:58:35Z",
-    "url": "https://github.com/aktsmm/Agent-Skills"
   }
 ]
