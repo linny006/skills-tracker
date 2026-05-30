@@ -1,5 +1,86 @@
 [
   {
+    "description": "",
+    "id": "bartekbp/claude-skills",
+    "language": "TypeScript",
+    "name": "bartekbp/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:45:54Z",
+    "url": "https://github.com/bartekbp/claude-skills"
+  },
+  {
+    "description": "Arquivos .md sobre Genexus",
+    "id": "GxBrasilNOficial/GeneXus-XPZ-Skills",
+    "language": "PowerShell",
+    "name": "GxBrasilNOficial/GeneXus-XPZ-Skills",
+    "stars": 8,
+    "updated_at": "2026-05-30T18:45:53Z",
+    "url": "https://github.com/GxBrasilNOficial/GeneXus-XPZ-Skills"
+  },
+  {
+    "description": "Postagens Inteligentes",
+    "id": "5vitz/Killer-Skills",
+    "language": "Python",
+    "name": "5vitz/Killer-Skills",
+    "stars": 1,
+    "updated_at": "2026-05-30T18:45:39Z",
+    "url": "https://github.com/5vitz/Killer-Skills"
+  },
+  {
+    "description": "",
+    "id": "ilamanov/skills",
+    "language": "Python",
+    "name": "ilamanov/skills",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:45:36Z",
+    "url": "https://github.com/ilamanov/skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-05-30T18:45:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "",
+    "id": "ichen09/Clutter-Bench-Skills-",
+    "language": "\u2014",
+    "name": "ichen09/Clutter-Bench-Skills-",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:45:30Z",
+    "url": "https://github.com/ichen09/Clutter-Bench-Skills-"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 1,
+    "updated_at": "2026-05-30T18:45:29Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "robomotionio/robomotion-skills",
+    "language": "Python",
+    "name": "robomotionio/robomotion-skills",
+    "stars": 2,
+    "updated_at": "2026-05-30T18:45:26Z",
+    "url": "https://github.com/robomotionio/robomotion-skills"
+  },
+  {
+    "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
+    "id": "phuati/claude-skills-arsenal",
+    "language": "HTML",
+    "name": "phuati/claude-skills-arsenal",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:45:25Z",
+    "url": "https://github.com/phuati/claude-skills-arsenal"
+  },
+  {
     "description": "Um conjunto de **15 skills especializadas** e **19 refer\u00eancias** que transformam o Claude num assistente de product desi",
     "id": "Dubowl/minhas-skills",
     "language": "\u2014",
@@ -286,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T18:39:25Z",
     "url": "https://github.com/Dhiraj123-star/openai-skills"
-  },
-  {
-    "description": "Postagens Inteligentes",
-    "id": "5vitz/Killer-Skills",
-    "language": "Python",
-    "name": "5vitz/Killer-Skills",
-    "stars": 1,
-    "updated_at": "2026-05-30T18:39:16Z",
-    "url": "https://github.com/5vitz/Killer-Skills"
   },
   {
     "description": "My clone repository",
@@ -585,24 +657,6 @@
     "url": "https://github.com/proton-pidgeon/claude-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 1,
-    "updated_at": "2026-05-30T18:30:35Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-05-30T18:30:29Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Auto-generated agent skills from trending AI agents repos, by ara.so",
     "id": "Aradotso/ai-agent-skills",
     "language": "\u2014",
@@ -844,59 +898,5 @@
     "stars": 3,
     "updated_at": "2026-05-30T18:24:14Z",
     "url": "https://github.com/hwj123hwj/custom-skills"
-  },
-  {
-    "description": "",
-    "id": "onfire-ai/onfire-mcp-skills",
-    "language": "\u2014",
-    "name": "onfire-ai/onfire-mcp-skills",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:23:48Z",
-    "url": "https://github.com/onfire-ai/onfire-mcp-skills"
-  },
-  {
-    "description": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, cl",
-    "id": "BioTender-max/awesome-bio-agent-skills",
-    "language": "Python",
-    "name": "BioTender-max/awesome-bio-agent-skills",
-    "stars": 25,
-    "updated_at": "2026-05-30T18:23:47Z",
-    "url": "https://github.com/BioTender-max/awesome-bio-agent-skills"
-  },
-  {
-    "description": "",
-    "id": "Agnizzz/java-fundamentals-course-skillswap",
-    "language": "Java",
-    "name": "Agnizzz/java-fundamentals-course-skillswap",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:23:41Z",
-    "url": "https://github.com/Agnizzz/java-fundamentals-course-skillswap"
-  },
-  {
-    "description": "Reusable agent skills",
-    "id": "OrionRiitters/agent-skills",
-    "language": "Python",
-    "name": "OrionRiitters/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:23:19Z",
-    "url": "https://github.com/OrionRiitters/agent-skills"
-  },
-  {
-    "description": "Reusable Claude Code skills: session-close, retrospective, prompt-reviewer, and more. Ready to fork and contribute.",
-    "id": "AndyB840506/claude-code-skills",
-    "language": "HTML",
-    "name": "AndyB840506/claude-code-skills",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:22:55Z",
-    "url": "https://github.com/AndyB840506/claude-code-skills"
-  },
-  {
-    "description": "Curated catalog of Agent Skills for the Inference Gateway ecosystem",
-    "id": "inference-gateway/skills",
-    "language": "JavaScript",
-    "name": "inference-gateway/skills",
-    "stars": 1,
-    "updated_at": "2026-05-30T18:42:06Z",
-    "url": "https://github.com/inference-gateway/skills"
   }
 ]
