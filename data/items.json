@@ -1,5 +1,50 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-30T12:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "rysun-rajeshdabhi/skills-resolve-merge-conflicts",
+    "language": "\u2014",
+    "name": "rysun-rajeshdabhi/skills-resolve-merge-conflicts",
+    "stars": 0,
+    "updated_at": "2026-05-30T12:15:04Z",
+    "url": "https://github.com/rysun-rajeshdabhi/skills-resolve-merge-conflicts"
+  },
+  {
+    "description": "skills.md for codex, code, gemini ",
+    "id": "akillness/oh-my-skills",
+    "language": "Shell",
+    "name": "akillness/oh-my-skills",
+    "stars": 20,
+    "updated_at": "2026-05-30T12:14:24Z",
+    "url": "https://github.com/akillness/oh-my-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 1,
+    "updated_at": "2026-05-30T12:14:07Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
+    "id": "phuati/claude-skills-arsenal",
+    "language": "HTML",
+    "name": "phuati/claude-skills-arsenal",
+    "stars": 0,
+    "updated_at": "2026-05-30T12:14:03Z",
+    "url": "https://github.com/phuati/claude-skills-arsenal"
+  },
+  {
     "description": "",
     "id": "aftalforque-design/GE-IT-Skills-Portfolio",
     "language": "\u2014",
@@ -115,15 +160,6 @@
     "stars": 653,
     "updated_at": "2026-05-30T12:11:48Z",
     "url": "https://github.com/NVIDIA/skills"
-  },
-  {
-    "description": "",
-    "id": "rysun-rajeshdabhi/skills-resolve-merge-conflicts",
-    "language": "\u2014",
-    "name": "rysun-rajeshdabhi/skills-resolve-merge-conflicts",
-    "stars": 0,
-    "updated_at": "2026-05-30T12:11:41Z",
-    "url": "https://github.com/rysun-rajeshdabhi/skills-resolve-merge-conflicts"
   },
   {
     "description": "Exercise: Introduction to CodeQL",
@@ -261,6 +297,15 @@
     "url": "https://github.com/zeyuyuyu/router-skills-evolve"
   },
   {
+    "description": "Copilot CLI plugin \u2014 9 token-optimization skills + 2 agents (@token-doctor, @prompt-optimizer) for the tokopt CLI. Measu",
+    "id": "shinyay/tokopt-skills",
+    "language": "\u2014",
+    "name": "shinyay/tokopt-skills",
+    "stars": 0,
+    "updated_at": "2026-05-30T12:06:33Z",
+    "url": "https://github.com/shinyay/tokopt-skills"
+  },
+  {
     "description": "Windows + PowerShell skills manager for Claude, Codex, Gemini, and Trae. Aggregate, curate, build, and sync AI agent ski",
     "id": "sciman-top/skills-manager",
     "language": "PowerShell",
@@ -383,7 +428,7 @@
     "language": "JavaScript",
     "name": "b-badis/skills-getting-started-with-github-copilot",
     "stars": 0,
-    "updated_at": "2026-05-30T12:09:40Z",
+    "updated_at": "2026-05-30T12:15:23Z",
     "url": "https://github.com/b-badis/skills-getting-started-with-github-copilot"
   },
   {
@@ -432,15 +477,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 1,
-    "updated_at": "2026-05-30T12:00:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Chewiesoft Marketplace \u2014 Claude Code plugin marketplace with skills and commands for development workflows",
     "id": "j0ruge/skills_commands_manager",
     "language": "Python",
@@ -457,15 +493,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T12:00:25Z",
     "url": "https://github.com/ar2r/agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-30T12:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The repo for all system/public ornn skills",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T11:46:59Z",
     "url": "https://github.com/yunyunfanfan/yunfanwriting_skills"
-  },
-  {
-    "description": "\u7b26\u5408nature\u8bba\u6587\u5b66\u672f\u8868\u8fbe\u548c\u79d1\u7814\u7ed8\u56fe\u7684Skill",
-    "id": "Yuan1z0825/nature-skills",
-    "language": "Python",
-    "name": "Yuan1z0825/nature-skills",
-    "stars": 13950,
-    "updated_at": "2026-05-30T11:46:32Z",
-    "url": "https://github.com/Yuan1z0825/nature-skills"
-  },
-  {
-    "description": "",
-    "id": "lanzuanxianggua/agent-security-skills",
-    "language": "Shell",
-    "name": "lanzuanxianggua/agent-security-skills",
-    "stars": 1,
-    "updated_at": "2026-05-30T11:46:16Z",
-    "url": "https://github.com/lanzuanxianggua/agent-security-skills"
-  },
-  {
-    "description": "Intelligent Hyperlocal freelance ecosystem- Project at Nayoda",
-    "id": "sravankarapakula/SkillSphere",
-    "language": "JavaScript",
-    "name": "sravankarapakula/SkillSphere",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:45:56Z",
-    "url": "https://github.com/sravankarapakula/SkillSphere"
   }
 ]
