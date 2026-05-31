@@ -1,5 +1,68 @@
 [
   {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "gopal-kalyanasundaram/skills-getting-started-with-github-copilot",
+    "language": "\u2014",
+    "name": "gopal-kalyanasundaram/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:45:22Z",
+    "url": "https://github.com/gopal-kalyanasundaram/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-31T20:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Free Claude skills for marketers \u2014 built by Brittany Winfield of The Winfield Creative. Diagnose, build, and optimize yo",
+    "id": "thewinfieldcreative/stronger-marketing-skills",
+    "language": "\u2014",
+    "name": "thewinfieldcreative/stronger-marketing-skills",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:45:06Z",
+    "url": "https://github.com/thewinfieldcreative/stronger-marketing-skills"
+  },
+  {
+    "description": "This is my personal configuration of skills as a Ruby on Rails Dev",
+    "id": "igmarin/rails-agent-skills",
+    "language": "Ruby",
+    "name": "igmarin/rails-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-05-31T20:45:20Z",
+    "url": "https://github.com/igmarin/rails-agent-skills"
+  },
+  {
+    "description": "",
+    "id": "greendrop/agent-skills",
+    "language": "Shell",
+    "name": "greendrop/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-05-31T20:44:56Z",
+    "url": "https://github.com/greendrop/agent-skills"
+  },
+  {
+    "description": "A collection of agents skills",
+    "id": "AbhishekSharma-17/skills-graph",
+    "language": "Python",
+    "name": "AbhishekSharma-17/skills-graph",
+    "stars": 1,
+    "updated_at": "2026-05-31T20:44:55Z",
+    "url": "https://github.com/AbhishekSharma-17/skills-graph"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 2,
+    "updated_at": "2026-05-31T20:44:54Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "",
     "id": "trumandaniels/AgenticSkillsPublic",
     "language": "\u2014",
@@ -414,24 +477,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 2,
-    "updated_at": "2026-05-31T20:30:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-31T20:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Exercise: Secure your Repository Supply Chain",
     "id": "nayanamukadam/skills-secure-repository-supply-chain",
     "language": "C#",
@@ -511,15 +556,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T20:28:16Z",
     "url": "https://github.com/blntrsz/skills"
-  },
-  {
-    "description": "",
-    "id": "greendrop/agent-skills",
-    "language": "Shell",
-    "name": "greendrop/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-05-31T20:28:14Z",
-    "url": "https://github.com/greendrop/agent-skills"
   },
   {
     "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T20:29:02Z",
     "url": "https://github.com/maheshofficial0011/skillsaathi-campus-peer-learning"
-  },
-  {
-    "description": "",
-    "id": "rio123-gh/skills-public",
-    "language": "Python",
-    "name": "rio123-gh/skills-public",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:13:14Z",
-    "url": "https://github.com/rio123-gh/skills-public"
-  },
-  {
-    "description": "lib.mkSkillFlake: build installable Nix flakes from Claude Code agent-skill directories",
-    "id": "nhooey/flake-skills",
-    "language": "Nix",
-    "name": "nhooey/flake-skills",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:13:11Z",
-    "url": "https://github.com/nhooey/flake-skills"
-  },
-  {
-    "description": "The most powerful Figma Console MCP capabilities, repackaged as Markdown skills for the native Figma MCP server \u2014 design",
-    "id": "southleft/figma-console-mcp-skills",
-    "language": "JavaScript",
-    "name": "southleft/figma-console-mcp-skills",
-    "stars": 2,
-    "updated_at": "2026-05-31T20:12:48Z",
-    "url": "https://github.com/southleft/figma-console-mcp-skills"
-  },
-  {
-    "description": "Exercise: Build applications with GitHub Copilot agent mode",
-    "id": "asimzubair/skills-build-applications-w-copilot-agent-mode",
-    "language": "CSS",
-    "name": "asimzubair/skills-build-applications-w-copilot-agent-mode",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:27:14Z",
-    "url": "https://github.com/asimzubair/skills-build-applications-w-copilot-agent-mode"
   }
 ]
