@@ -1,5 +1,68 @@
 [
   {
+    "description": "",
+    "id": "aktsmm/Agent-Skills",
+    "language": "Python",
+    "name": "aktsmm/Agent-Skills",
+    "stars": 17,
+    "updated_at": "2026-06-01T21:46:23Z",
+    "url": "https://github.com/aktsmm/Agent-Skills"
+  },
+  {
+    "description": "My Skill Setup",
+    "id": "zachmayer/skills",
+    "language": "Python",
+    "name": "zachmayer/skills",
+    "stars": 1,
+    "updated_at": "2026-06-01T21:45:48Z",
+    "url": "https://github.com/zachmayer/skills"
+  },
+  {
+    "description": "skills for BP Assistant",
+    "id": "unfoldingWord/bp-assistant-skills",
+    "language": "JavaScript",
+    "name": "unfoldingWord/bp-assistant-skills",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:45:43Z",
+    "url": "https://github.com/unfoldingWord/bp-assistant-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-06-01T21:45:34Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-01T21:45:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "AI Skills for Antithesis Users",
+    "id": "antithesishq/antithesis-skills",
+    "language": "JavaScript",
+    "name": "antithesishq/antithesis-skills",
+    "stars": 63,
+    "updated_at": "2026-06-01T21:45:26Z",
+    "url": "https://github.com/antithesishq/antithesis-skills"
+  },
+  {
+    "description": "",
+    "id": "tavastamara/winter-skills-hub",
+    "language": "TypeScript",
+    "name": "tavastamara/winter-skills-hub",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:45:15Z",
+    "url": "https://github.com/tavastamara/winter-skills-hub"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-06-01T21:45:13Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Skills from hussainweb",
+    "id": "hussainweb/skills",
+    "language": "\u2014",
+    "name": "hussainweb/skills",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:45:04Z",
+    "url": "https://github.com/hussainweb/skills"
   },
   {
     "description": "Auto-generated agent skills from trending security & appsec repos, by ara.so",
@@ -72,15 +144,6 @@
     "url": "https://github.com/Babbage-LLC/agentic-skills"
   },
   {
-    "description": "",
-    "id": "aktsmm/Agent-Skills",
-    "language": "Python",
-    "name": "aktsmm/Agent-Skills",
-    "stars": 17,
-    "updated_at": "2026-06-01T21:43:07Z",
-    "url": "https://github.com/aktsmm/Agent-Skills"
-  },
-  {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
     "id": "ssurmic/claude-investment-skills",
     "language": "Python",
@@ -88,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T21:42:54Z",
     "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "My Skill Setup",
-    "id": "zachmayer/skills",
-    "language": "Python",
-    "name": "zachmayer/skills",
-    "stars": 1,
-    "updated_at": "2026-06-01T21:44:18Z",
-    "url": "https://github.com/zachmayer/skills"
   },
   {
     "description": "This is a repository of skills for interfacing UiPath capabilities to external developers.",
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T21:40:37Z",
     "url": "https://github.com/ralleh-ai/ralleh-skills"
-  },
-  {
-    "description": "Skills from hussainweb",
-    "id": "hussainweb/skills",
-    "language": "\u2014",
-    "name": "hussainweb/skills",
-    "stars": 0,
-    "updated_at": "2026-06-01T21:45:04Z",
-    "url": "https://github.com/hussainweb/skills"
   },
   {
     "description": "\u9762\u5411\u4e2a\u4eba\u5f00\u53d1\u8005\u7684 AI Coding Skills \u5408\u96c6",
@@ -439,24 +484,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T21:30:52Z",
     "url": "https://github.com/Lubosky/house-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-06-01T21:30:33Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 2,
-    "updated_at": "2026-06-01T21:30:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T21:13:52Z",
     "url": "https://github.com/rul3rst4/skills"
-  },
-  {
-    "description": "skills for AD-Alterome database.",
-    "id": "YaoXinZhi/adalterome-skills",
-    "language": "Python",
-    "name": "YaoXinZhi/adalterome-skills",
-    "stars": 0,
-    "updated_at": "2026-06-01T21:13:49Z",
-    "url": "https://github.com/YaoXinZhi/adalterome-skills"
-  },
-  {
-    "description": "Ionworks SDK skills and slash commands for Claude Code",
-    "id": "ionworks/ionworks-skills",
-    "language": "Shell",
-    "name": "ionworks/ionworks-skills",
-    "stars": 3,
-    "updated_at": "2026-06-01T21:13:40Z",
-    "url": "https://github.com/ionworks/ionworks-skills"
-  },
-  {
-    "description": "Exercise: Code with Codespaces",
-    "id": "tsmith507leuko/skills-code-with-codespaces",
-    "language": "Python",
-    "name": "tsmith507leuko/skills-code-with-codespaces",
-    "stars": 0,
-    "updated_at": "2026-06-01T21:13:37Z",
-    "url": "https://github.com/tsmith507leuko/skills-code-with-codespaces"
   }
 ]
