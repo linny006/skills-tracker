@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83e\udde0 Curated collection of 1209+ best OpenClaw skills \u2014 weekly updated by MyClaw.ai",
+    "id": "LeoYeAI/openclaw-master-skills",
+    "language": "Python",
+    "name": "LeoYeAI/openclaw-master-skills",
+    "stars": 2012,
+    "updated_at": "2026-06-01T02:00:23Z",
+    "url": "https://github.com/LeoYeAI/openclaw-master-skills"
+  },
+  {
+    "description": "SkillsUSA NLSC 2026 \u2014 Atlanta, Georgia NYS CTEA Delegation ",
+    "id": "Abdool04/SkillsUSA-NLSC-2026-Atlanta-Georgia-NYS-CTEA-Delegation-",
+    "language": "HTML",
+    "name": "Abdool04/SkillsUSA-NLSC-2026-Atlanta-Georgia-NYS-CTEA-Delegation-",
+    "stars": 0,
+    "updated_at": "2026-06-01T02:00:16Z",
+    "url": "https://github.com/Abdool04/SkillsUSA-NLSC-2026-Atlanta-Georgia-NYS-CTEA-Delegation-"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-01T02:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The repo for all system/public ornn skills",
+    "id": "ChronoAIProject/ornn-skills",
+    "language": "JavaScript",
+    "name": "ChronoAIProject/ornn-skills",
+    "stars": 0,
+    "updated_at": "2026-06-01T02:00:13Z",
+    "url": "https://github.com/ChronoAIProject/ornn-skills"
+  },
+  {
+    "description": "Teach AI agents modern .NET skills for ASP.NET Core, EF, Blazor, MAUI, and more with a growing community catalog",
+    "id": "Postpartum-genushyacinthus29/dotnet-skills",
+    "language": "C#",
+    "name": "Postpartum-genushyacinthus29/dotnet-skills",
+    "stars": 6,
+    "updated_at": "2026-06-01T01:59:41Z",
+    "url": "https://github.com/Postpartum-genushyacinthus29/dotnet-skills"
+  },
+  {
+    "description": "Public repository for Infra Agent Skills",
+    "id": "wutz/infra-skills",
+    "language": "JavaScript",
+    "name": "wutz/infra-skills",
+    "stars": 0,
+    "updated_at": "2026-06-01T01:59:35Z",
+    "url": "https://github.com/wutz/infra-skills"
+  },
+  {
+    "description": "Pi agent skills for using Gemini, Grok, DeepSeek, Claude & ChatGPT via browser \u2014 no API keys required.",
+    "id": "Syysean/web-ai-skills",
+    "language": "\u2014",
+    "name": "Syysean/web-ai-skills",
+    "stars": 1,
+    "updated_at": "2026-06-01T01:59:32Z",
+    "url": "https://github.com/Syysean/web-ai-skills"
+  },
+  {
+    "description": "DevFlow Skills - \u5e73\u53f0\u65e0\u5173\u7684 AI Coding Agent \u6280\u80fd\u5e93\uff0c\u652f\u6301 Claude Code / OpenCode / Codex \u7b49\u591a\u5e73\u53f0",
+    "id": "zhouhao4221/devflow-skills",
+    "language": "JavaScript",
+    "name": "zhouhao4221/devflow-skills",
+    "stars": 0,
+    "updated_at": "2026-06-01T01:59:30Z",
+    "url": "https://github.com/zhouhao4221/devflow-skills"
+  },
+  {
+    "description": "A collection of Agent Skills for AI coding agents: anvil (backend craft) and scribe (documentation craft).",
+    "id": "1broseidon/skills",
+    "language": "\u2014",
+    "name": "1broseidon/skills",
+    "stars": 0,
+    "updated_at": "2026-06-01T01:59:25Z",
+    "url": "https://github.com/1broseidon/skills"
+  },
+  {
+    "description": "Three-council audit protocol skills for Claude: math-god-mode, OG-math-experts, controls-expert-reviewer. With Step-0 co",
+    "id": "d8maldon/council-skills",
+    "language": "\u2014",
+    "name": "d8maldon/council-skills",
+    "stars": 0,
+    "updated_at": "2026-06-01T01:59:21Z",
+    "url": "https://github.com/d8maldon/council-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-01T01:59:19Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Build and test production-ready software from simple prompts using a reliable 9-stage pipeline with full verification an",
     "id": "aydenbarkle11-gif/claude-enterprise-skills",
     "language": "Shell",
@@ -59,7 +158,7 @@
     "language": "TypeScript",
     "name": "wangjiehu/codex-skills-registry",
     "stars": 0,
-    "updated_at": "2026-06-01T01:58:36Z",
+    "updated_at": "2026-06-01T01:59:40Z",
     "url": "https://github.com/wangjiehu/codex-skills-registry"
   },
   {
@@ -167,7 +266,7 @@
     "language": "Shell",
     "name": "skdkfk8758/carpdm-skills",
     "stars": 0,
-    "updated_at": "2026-06-01T01:57:50Z",
+    "updated_at": "2026-06-01T02:00:15Z",
     "url": "https://github.com/skdkfk8758/carpdm-skills"
   },
   {
@@ -178,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T01:57:47Z",
     "url": "https://github.com/Pushpade7366/jetpack-compose-skills"
-  },
-  {
-    "description": "Pi agent skills for using Gemini, Grok, DeepSeek, Claude & ChatGPT via browser \u2014 no API keys required.",
-    "id": "Syysean/web-ai-skills",
-    "language": "\u2014",
-    "name": "Syysean/web-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:57:40Z",
-    "url": "https://github.com/Syysean/web-ai-skills"
   },
   {
     "description": "Provide 20 Claude Code commands that apply proven thinking frameworks to improve reasoning, problem-solving, and decisio",
@@ -630,15 +720,6 @@
     "url": "https://github.com/Marshanda14816/agent-skills"
   },
   {
-    "description": "SkillsUSA NLSC 2026 \u2014 Atlanta, Georgia NYS CTEA Delegation ",
-    "id": "Abdool04/SkillsUSA-NLSC-2026-Atlanta-Georgia-NYS-CTEA-Delegation-",
-    "language": "HTML",
-    "name": "Abdool04/SkillsUSA-NLSC-2026-Atlanta-Georgia-NYS-CTEA-Delegation-",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:53:01Z",
-    "url": "https://github.com/Abdool04/SkillsUSA-NLSC-2026-Atlanta-Georgia-NYS-CTEA-Delegation-"
-  },
-  {
     "description": "Provide Android development skills and tools to build, test, and upgrade real apps with Kotlin, Compose, XML, and legacy",
     "id": "Aotocom/android-agent-skills",
     "language": "Python",
@@ -817,86 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T01:50:07Z",
     "url": "https://github.com/AsadJaved66/Web-Skills-Protocol"
-  },
-  {
-    "description": "Manage SEO tasks with 44 Claude Code commands for audits, backlink analysis, ranking tracking, SERP research, and conten",
-    "id": "YogeshKu7877/claude-seo-skills",
-    "language": "Python",
-    "name": "YogeshKu7877/claude-seo-skills",
-    "stars": 3,
-    "updated_at": "2026-06-01T01:49:57Z",
-    "url": "https://github.com/YogeshKu7877/claude-seo-skills"
-  },
-  {
-    "description": "Provide structured, AI-native code review rules and examples to improve code quality and support both human and automate",
-    "id": "Khwaja-Khunshan/beforemerge-skills",
-    "language": "JavaScript",
-    "name": "Khwaja-Khunshan/beforemerge-skills",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:49:55Z",
-    "url": "https://github.com/Khwaja-Khunshan/beforemerge-skills"
-  },
-  {
-    "description": "store all my skills across projects",
-    "id": "laciel-chin/agents_my_skills",
-    "language": "\u2014",
-    "name": "laciel-chin/agents_my_skills",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:49:54Z",
-    "url": "https://github.com/laciel-chin/agents_my_skills"
-  },
-  {
-    "description": "Enable AI tools to perform product management tasks like critiquing PRDs, analyzing SaaS metrics, and planning roadmaps ",
-    "id": "ayybee1/product-manager-skills",
-    "language": "\u2014",
-    "name": "ayybee1/product-manager-skills",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:49:51Z",
-    "url": "https://github.com/ayybee1/product-manager-skills"
-  },
-  {
-    "description": "",
-    "id": "caidazi/dafa-skills",
-    "language": "\u2014",
-    "name": "caidazi/dafa-skills",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:49:45Z",
-    "url": "https://github.com/caidazi/dafa-skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "ziiyeahh/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "ziiyeahh/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:49:36Z",
-    "url": "https://github.com/ziiyeahh/skills-introduction-to-git"
-  },
-  {
-    "description": "",
-    "id": "codesoda/skills",
-    "language": "Shell",
-    "name": "codesoda/skills",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:49:32Z",
-    "url": "https://github.com/codesoda/skills"
-  },
-  {
-    "description": "Enable AI agents to access crypto data, execute trades, and interact with DeFi protocols using natural language across m",
-    "id": "gabie333/binance-skills-hub",
-    "language": "\u2014",
-    "name": "gabie333/binance-skills-hub",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:49:28Z",
-    "url": "https://github.com/gabie333/binance-skills-hub"
-  },
-  {
-    "description": "\ud83d\udd2c A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | \u7cbe\u9009 23,000+ ",
-    "id": "brycewang-stanford/Auto-Empirical-Research-Skills",
-    "language": "Stata",
-    "name": "brycewang-stanford/Auto-Empirical-Research-Skills",
-    "stars": 1455,
-    "updated_at": "2026-06-01T01:50:25Z",
-    "url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills"
   }
 ]
