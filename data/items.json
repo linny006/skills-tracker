@@ -1,5 +1,41 @@
 [
   {
+    "description": "Exercise: Expand your team with GitHub Copilot cloud agent",
+    "id": "RohanTabhane/skills-expand-your-team-with-copilot",
+    "language": "\u2014",
+    "name": "RohanTabhane/skills-expand-your-team-with-copilot",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:15:35Z",
+    "url": "https://github.com/RohanTabhane/skills-expand-your-team-with-copilot"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-04T12:15:24Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "s10886820t/SkillSwap-School",
+    "language": "Java",
+    "name": "s10886820t/SkillSwap-School",
+    "stars": 2,
+    "updated_at": "2026-06-04T12:15:23Z",
+    "url": "https://github.com/s10886820t/SkillSwap-School"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-04T12:15:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "",
     "id": "ifew/skills",
     "language": "\u2014",
@@ -131,7 +167,7 @@
     "language": "C#",
     "name": "ReeniReddyPinninti/skills-secure-repository-supply-chain",
     "stars": 0,
-    "updated_at": "2026-06-04T12:15:05Z",
+    "updated_at": "2026-06-04T12:15:24Z",
     "url": "https://github.com/ReeniReddyPinninti/skills-secure-repository-supply-chain"
   },
   {
@@ -304,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T12:12:18Z",
     "url": "https://github.com/joemacstevens/db-marketing-skills"
-  },
-  {
-    "description": "",
-    "id": "s10886820t/SkillSwap-School",
-    "language": "Java",
-    "name": "s10886820t/SkillSwap-School",
-    "stars": 2,
-    "updated_at": "2026-06-04T12:12:10Z",
-    "url": "https://github.com/s10886820t/SkillSwap-School"
   },
   {
     "description": "",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T12:01:15Z",
     "url": "https://github.com/daranguena/skills-introduction-to-git"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 3,
-    "updated_at": "2026-06-04T12:00:41Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 3,
-    "updated_at": "2026-06-04T12:00:39Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "",
-    "id": "kishore-tide/claude-skills",
-    "language": "\u2014",
-    "name": "kishore-tide/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:00:20Z",
-    "url": "https://github.com/kishore-tide/claude-skills"
   }
 ]
