@@ -1,6 +1,51 @@
 [
   {
     "description": "",
+    "id": "ArtemProshkovskiy/laravel-maintenance-skills",
+    "language": "\u2014",
+    "name": "ArtemProshkovskiy/laravel-maintenance-skills",
+    "stars": 0,
+    "updated_at": "2026-06-05T11:45:41Z",
+    "url": "https://github.com/ArtemProshkovskiy/laravel-maintenance-skills"
+  },
+  {
+    "description": "React skills for AI coding agents - React, Hooks, Next.js, Redux, React Native",
+    "id": "full-statck-skills/react-skills",
+    "language": "\u2014",
+    "name": "full-statck-skills/react-skills",
+    "stars": 0,
+    "updated_at": "2026-06-05T11:45:40Z",
+    "url": "https://github.com/full-statck-skills/react-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 4,
+    "updated_at": "2026-06-05T11:45:37Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-05T11:45:35Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "sharanupriyaa/Skillswap",
+    "language": "\u2014",
+    "name": "sharanupriyaa/Skillswap",
+    "stars": 0,
+    "updated_at": "2026-06-05T11:45:31Z",
+    "url": "https://github.com/sharanupriyaa/Skillswap"
+  },
+  {
+    "description": "",
     "id": "ClarentCinematics/Codex-Skills-for-Enterprise",
     "language": "Python",
     "name": "ClarentCinematics/Codex-Skills-for-Enterprise",
@@ -36,6 +81,15 @@
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
+    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
+    "id": "Maider81/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "language": "\u2014",
+    "name": "Maider81/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "stars": 0,
+    "updated_at": "2026-06-05T11:45:11Z",
+    "url": "https://github.com/Maider81/skills-scale-institutional-knowledge-using-copilot-spaces"
+  },
+  {
     "description": "Pencil MCP design skills - design tools, systems, UI design",
     "id": "full-statck-skills/pencil-skills",
     "language": "Python",
@@ -43,6 +97,24 @@
     "stars": 0,
     "updated_at": "2026-06-05T11:45:09Z",
     "url": "https://github.com/full-statck-skills/pencil-skills"
+  },
+  {
+    "description": "\u706b\u4e00\u4e94\u516c\u53f8\u5f00\u53d1\u7684skills\u5408\u96c6\u90fd\u5728\u8fd9\u91cc",
+    "id": "zhaobod1/huo15-skills",
+    "language": "Python",
+    "name": "zhaobod1/huo15-skills",
+    "stars": 0,
+    "updated_at": "2026-06-05T11:45:02Z",
+    "url": "https://github.com/zhaobod1/huo15-skills"
+  },
+  {
+    "description": "",
+    "id": "bust4crimes/Skillservice-frontend",
+    "language": "JavaScript",
+    "name": "bust4crimes/Skillservice-frontend",
+    "stars": 0,
+    "updated_at": "2026-06-05T11:44:57Z",
+    "url": "https://github.com/bust4crimes/Skillservice-frontend"
   },
   {
     "description": "OpenSpec skills - SDD workflow for AI coding agents",
@@ -70,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T11:44:36Z",
     "url": "https://github.com/bog5d/claude-skills"
-  },
-  {
-    "description": "",
-    "id": "ArtemProshkovskiy/laravel-maintenance-skills",
-    "language": "\u2014",
-    "name": "ArtemProshkovskiy/laravel-maintenance-skills",
-    "stars": 0,
-    "updated_at": "2026-06-05T11:44:33Z",
-    "url": "https://github.com/ArtemProshkovskiy/laravel-maintenance-skills"
   },
   {
     "description": "Node Version Manager skills - install, setup, CI, troubleshooting",
@@ -835,68 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T11:37:02Z",
     "url": "https://github.com/ssyan110/skills-introduction-to-git"
-  },
-  {
-    "description": "",
-    "id": "Uncoated-ell721/Awesome-Claude-Skills",
-    "language": "\u2014",
-    "name": "Uncoated-ell721/Awesome-Claude-Skills",
-    "stars": 3,
-    "updated_at": "2026-06-05T11:36:59Z",
-    "url": "https://github.com/Uncoated-ell721/Awesome-Claude-Skills"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-06-05T11:36:58Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance your productivity with Claude AI using curated prompts, skills, and best practices from the ClaudeSkills repos",
-    "id": "kyawshinethu/ClaudeSkills",
-    "language": "Python",
-    "name": "kyawshinethu/ClaudeSkills",
-    "stars": 7,
-    "updated_at": "2026-06-05T11:36:57Z",
-    "url": "https://github.com/kyawshinethu/ClaudeSkills"
-  },
-  {
-    "description": "",
-    "id": "satvikdhumaleheadout/rca-skills-notebook",
-    "language": "HTML",
-    "name": "satvikdhumaleheadout/rca-skills-notebook",
-    "stars": 0,
-    "updated_at": "2026-06-05T11:36:54Z",
-    "url": "https://github.com/satvikdhumaleheadout/rca-skills-notebook"
-  },
-  {
-    "description": "Repository for skills to assist AI coding agents with .NET and C#",
-    "id": "dotnet/skills",
-    "language": "C#",
-    "name": "dotnet/skills",
-    "stars": 3271,
-    "updated_at": "2026-06-05T11:36:53Z",
-    "url": "https://github.com/dotnet/skills"
-  },
-  {
-    "description": "",
-    "id": "luochonglie/wukong-skills-market",
-    "language": "Python",
-    "name": "luochonglie/wukong-skills-market",
-    "stars": 0,
-    "updated_at": "2026-06-05T11:36:43Z",
-    "url": "https://github.com/luochonglie/wukong-skills-market"
-  },
-  {
-    "description": "Provide skills for AI conding agents",
-    "id": "dalihub/dali-skills",
-    "language": "Shell",
-    "name": "dalihub/dali-skills",
-    "stars": 0,
-    "updated_at": "2026-06-05T11:45:15Z",
-    "url": "https://github.com/dalihub/dali-skills"
   }
 ]
