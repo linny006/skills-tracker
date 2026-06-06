@@ -1,5 +1,86 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-06T23:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Heardly Book Skills \u2014 executable AI skill toolkits for thousands of books",
+    "id": "heardlyapp/book-skills",
+    "language": "\u2014",
+    "name": "heardlyapp/book-skills",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:44:52Z",
+    "url": "https://github.com/heardlyapp/book-skills"
+  },
+  {
+    "description": "",
+    "id": "uriva/p2b-skills",
+    "language": "Scheme",
+    "name": "uriva/p2b-skills",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:44:37Z",
+    "url": "https://github.com/uriva/p2b-skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "MatteCarro/skills-copilot-codespaces-vscode",
+    "language": "JavaScript",
+    "name": "MatteCarro/skills-copilot-codespaces-vscode",
+    "stars": 1,
+    "updated_at": "2026-06-06T23:43:40Z",
+    "url": "https://github.com/MatteCarro/skills-copilot-codespaces-vscode"
+  },
+  {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "oibaf88/skills-github-pages",
+    "language": "HTML",
+    "name": "oibaf88/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:43:00Z",
+    "url": "https://github.com/oibaf88/skills-github-pages"
+  },
+  {
+    "description": "Two TDD-authored Agent Skills for codebase hygiene: unifying-projects (consolidate duplication) and cleaning-up-projects",
+    "id": "Dudude-bit/codebase-hygiene-skills",
+    "language": "Shell",
+    "name": "Dudude-bit/codebase-hygiene-skills",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:42:23Z",
+    "url": "https://github.com/Dudude-bit/codebase-hygiene-skills"
+  },
+  {
+    "description": "",
+    "id": "rudyzhuang/piflow-skills",
+    "language": "JavaScript",
+    "name": "rudyzhuang/piflow-skills",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:41:33Z",
+    "url": "https://github.com/rudyzhuang/piflow-skills"
+  },
+  {
+    "description": "Agent skills for Graffiticode",
+    "id": "graffiticode/graffiticode-skills",
+    "language": "\u2014",
+    "name": "graffiticode/graffiticode-skills",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:41:26Z",
+    "url": "https://github.com/graffiticode/graffiticode-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-06T23:41:05Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Pers\u00f6nliche Claude-Code-Skills (Plugin-Marketplace)",
     "id": "philippasigl/psg-skills",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "\u2014",
     "name": "Sentinel-PoC/claude-skills",
     "stars": 0,
-    "updated_at": "2026-06-06T23:40:48Z",
+    "updated_at": "2026-06-06T23:43:58Z",
     "url": "https://github.com/Sentinel-PoC/claude-skills"
   },
   {
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T23:40:47Z",
     "url": "https://github.com/lima-bravo/skills-framework"
-  },
-  {
-    "description": "Heardly Book Skills \u2014 executable AI skill toolkits for thousands of books",
-    "id": "heardlyapp/book-skills",
-    "language": "\u2014",
-    "name": "heardlyapp/book-skills",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:40:13Z",
-    "url": "https://github.com/heardlyapp/book-skills"
   },
   {
     "description": "",
@@ -72,15 +144,6 @@
     "url": "https://github.com/BenKorea/claude-code-skills"
   },
   {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "oibaf88/skills-github-pages",
-    "language": "HTML",
-    "name": "oibaf88/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:38:33Z",
-    "url": "https://github.com/oibaf88/skills-github-pages"
-  },
-  {
     "description": "Library and curated collection for packaging Claude Code Agent Skills as Nix flakes.",
     "id": "nhooey/skillspkgs",
     "language": "Nix",
@@ -88,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T23:37:58Z",
     "url": "https://github.com/nhooey/skillspkgs"
-  },
-  {
-    "description": "Two TDD-authored Agent Skills for codebase hygiene: unifying-projects (consolidate duplication) and cleaning-up-projects",
-    "id": "Dudude-bit/codebase-hygiene-skills",
-    "language": "\u2014",
-    "name": "Dudude-bit/codebase-hygiene-skills",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:38:08Z",
-    "url": "https://github.com/Dudude-bit/codebase-hygiene-skills"
   },
   {
     "description": "Empire Product Factory \u2014 Skills & Workflows for Claude Code",
@@ -126,15 +180,6 @@
     "url": "https://github.com/phuati/claude-skills-arsenal"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-06T23:35:58Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "",
     "id": "27Aaron/skills",
     "language": "Python",
@@ -158,7 +203,7 @@
     "language": "JavaScript",
     "name": "product-on-purpose/pm-skills",
     "stars": 273,
-    "updated_at": "2026-06-06T23:35:40Z",
+    "updated_at": "2026-06-06T23:43:40Z",
     "url": "https://github.com/product-on-purpose/pm-skills"
   },
   {
@@ -221,7 +266,7 @@
     "language": "TypeScript",
     "name": "reddb-io/red-skills",
     "stars": 0,
-    "updated_at": "2026-06-06T23:32:31Z",
+    "updated_at": "2026-06-06T23:45:10Z",
     "url": "https://github.com/reddb-io/red-skills"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 5,
     "updated_at": "2026-06-06T23:30:30Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 3,
-    "updated_at": "2026-06-06T23:30:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T23:20:02Z",
     "url": "https://github.com/HeIT2703/multi-agent-company-skills"
-  },
-  {
-    "description": "Optimiza campa\u00f1as de Paid Ads en el mercado espa\u00f1ol con skills de IA compatibles con Claude Code, Cursor y agentes que s",
-    "id": "Myracoagulable91/paid-ads-skills-spain",
-    "language": "\u2014",
-    "name": "Myracoagulable91/paid-ads-skills-spain",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:19:57Z",
-    "url": "https://github.com/Myracoagulable91/paid-ads-skills-spain"
-  },
-  {
-    "description": "Automate Reddit tasks using your actual browser and account with support for AI agents and the SKILL.md format.",
-    "id": "beggarticksarthurtatum121/reddit-skills",
-    "language": "Python",
-    "name": "beggarticksarthurtatum121/reddit-skills",
-    "stars": 2,
-    "updated_at": "2026-06-06T23:19:50Z",
-    "url": "https://github.com/beggarticksarthurtatum121/reddit-skills"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:19:49Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
-  },
-  {
-    "description": "Distill human behaviors, roles, and personality traits into reusable AI agent skills for your projects.",
-    "id": "LatestPlayz/awesome-persona-skills",
-    "language": "\u2014",
-    "name": "LatestPlayz/awesome-persona-skills",
-    "stars": 2,
-    "updated_at": "2026-06-06T23:19:43Z",
-    "url": "https://github.com/LatestPlayz/awesome-persona-skills"
   }
 ]
