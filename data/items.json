@@ -1,5 +1,50 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-07T14:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "QuantumBFS/claude-code-skills",
+    "language": "Python",
+    "name": "QuantumBFS/claude-code-skills",
+    "stars": 14,
+    "updated_at": "2026-06-07T14:45:10Z",
+    "url": "https://github.com/QuantumBFS/claude-code-skills"
+  },
+  {
+    "description": "MEXC crypto trading tools for Claude Code and OpenAI Codex,  based on official MEXC API , with support for spot trading,",
+    "id": "mncrftfrcnm/mexc-agent-trading-skills",
+    "language": "Python",
+    "name": "mncrftfrcnm/mexc-agent-trading-skills",
+    "stars": 1,
+    "updated_at": "2026-06-07T14:45:09Z",
+    "url": "https://github.com/mncrftfrcnm/mexc-agent-trading-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-07T14:45:07Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Aurora \u9526\u65f6 Zi Wei Dou Shu WeChat skill suite for Codex",
+    "id": "yulonghua666-sketch/ziwei-wechat-skills",
+    "language": "\u2014",
+    "name": "yulonghua666-sketch/ziwei-wechat-skills",
+    "stars": 0,
+    "updated_at": "2026-06-07T14:45:07Z",
+    "url": "https://github.com/yulonghua666-sketch/ziwei-wechat-skills"
+  },
+  {
     "description": "",
     "id": "avisalmon/skills_vscode",
     "language": "JavaScript",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T14:44:28Z",
     "url": "https://github.com/gfoo/gfoo-agent-skills"
-  },
-  {
-    "description": "MEXC crypto trading tools for Claude Code and OpenAI Codex,  based on official MEXC API , with support for spot trading,",
-    "id": "mncrftfrcnm/mexc-agent-trading-skills",
-    "language": "Python",
-    "name": "mncrftfrcnm/mexc-agent-trading-skills",
-    "stars": 1,
-    "updated_at": "2026-06-07T14:44:26Z",
-    "url": "https://github.com/mncrftfrcnm/mexc-agent-trading-skills"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -68,7 +104,7 @@
     "language": "\u2014",
     "name": "Roulandu/ImageMuse-Skills",
     "stars": 2,
-    "updated_at": "2026-06-07T14:43:44Z",
+    "updated_at": "2026-06-07T14:45:17Z",
     "url": "https://github.com/Roulandu/ImageMuse-Skills"
   },
   {
@@ -473,7 +509,7 @@
     "language": "TypeScript",
     "name": "he18718143986-design/auto_skills",
     "stars": 0,
-    "updated_at": "2026-06-07T14:39:50Z",
+    "updated_at": "2026-06-07T14:45:06Z",
     "url": "https://github.com/he18718143986-design/auto_skills"
   },
   {
@@ -536,7 +572,7 @@
     "language": "\u2014",
     "name": "0xByteRush/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-06-07T14:38:12Z",
+    "updated_at": "2026-06-07T14:45:22Z",
     "url": "https://github.com/0xByteRush/skills-communicate-using-markdown"
   },
   {
@@ -702,24 +738,6 @@
     "url": "https://github.com/astefanutti/diagram-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 3,
-    "updated_at": "2026-06-07T14:30:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-07T14:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
     "id": "tomevault-io/skills-registry",
     "language": "\u2014",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T14:27:41Z",
     "url": "https://github.com/strmforge/tianlu-skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "y7tu47/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "y7tu47/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-06-07T14:27:31Z",
-    "url": "https://github.com/y7tu47/skills-introduction-to-git"
-  },
-  {
-    "description": "Your agent, with Taste ",
-    "id": "Lattice-skills/Lattice",
-    "language": "TypeScript",
-    "name": "Lattice-skills/Lattice",
-    "stars": 0,
-    "updated_at": "2026-06-07T14:27:13Z",
-    "url": "https://github.com/Lattice-skills/Lattice"
   }
 ]
