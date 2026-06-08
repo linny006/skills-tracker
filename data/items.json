@@ -5,8 +5,26 @@
     "language": "HTML",
     "name": "koustuba26/skills-review-pull-requests",
     "stars": 0,
-    "updated_at": "2026-06-08T21:30:00Z",
+    "updated_at": "2026-06-08T21:30:28Z",
     "url": "https://github.com/koustuba26/skills-review-pull-requests"
+  },
+  {
+    "description": "Turn Claude into your personal real estate investment analyst. 15 skills, 28 prompts, JS automation, Python financial li",
+    "id": "b-kub24/re-analyst-skills",
+    "language": "\u2014",
+    "name": "b-kub24/re-analyst-skills",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:30:24Z",
+    "url": "https://github.com/b-kub24/re-analyst-skills"
+  },
+  {
+    "description": "\u81ea\u5b9a\u4e49 Agent Skills \u914d\u7f6e\u5e93",
+    "id": "xsfwqtj-del/agent-skills",
+    "language": "\u2014",
+    "name": "xsfwqtj-del/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:30:20Z",
+    "url": "https://github.com/xsfwqtj-del/agent-skills"
   },
   {
     "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
@@ -14,8 +32,44 @@
     "language": "\u2014",
     "name": "Anthony59Ruiz/skills-github-pages",
     "stars": 0,
-    "updated_at": "2026-06-08T21:29:54Z",
+    "updated_at": "2026-06-08T21:30:27Z",
     "url": "https://github.com/Anthony59Ruiz/skills-github-pages"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-08T21:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-08T21:30:13Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
+    "id": "tomevault-io/skills-registry",
+    "language": "\u2014",
+    "name": "tomevault-io/skills-registry",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:30:03Z",
+    "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Exercise: Introduction to CodeQL",
+    "id": "mordidalokita-bit/skills-introduction-to-codeql",
+    "language": "Python",
+    "name": "mordidalokita-bit/skills-introduction-to-codeql",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:29:59Z",
+    "url": "https://github.com/mordidalokita-bit/skills-introduction-to-codeql"
   },
   {
     "description": "A skills plugin for minecraft, built for the latest version",
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T21:29:29Z",
     "url": "https://github.com/ironchefchn/skills-expand-your-team-with-copilot"
-  },
-  {
-    "description": "Turn Claude into your personal real estate investment analyst. 15 skills, 28 prompts, JS automation, Python financial li",
-    "id": "b-kub24/re-analyst-skills",
-    "language": "\u2014",
-    "name": "b-kub24/re-analyst-skills",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:29:25Z",
-    "url": "https://github.com/b-kub24/re-analyst-skills"
   },
   {
     "description": "Exercise: Customize Your GitHub Copilot Experience",
@@ -405,15 +450,6 @@
     "url": "https://github.com/OpenCageData/opencage-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-08T21:22:30Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "",
     "id": "devctllabs/devctl-skills",
     "language": "\u2014",
@@ -648,15 +684,6 @@
     "url": "https://github.com/aakashkolli/resume-skills-extraction"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 3,
-    "updated_at": "2026-06-08T21:15:33Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T21:09:20Z",
     "url": "https://github.com/yeshwantmuralidhar/skills-customize-your-github-copilot-experience"
-  },
-  {
-    "description": "",
-    "id": "mnfst-ai/Stage_Manager_Skills",
-    "language": "Shell",
-    "name": "mnfst-ai/Stage_Manager_Skills",
-    "stars": 5,
-    "updated_at": "2026-06-08T21:09:19Z",
-    "url": "https://github.com/mnfst-ai/Stage_Manager_Skills"
-  },
-  {
-    "description": "Agent skills powered by the Zentropi content classification engine",
-    "id": "zentropi-ai/skills",
-    "language": "Python",
-    "name": "zentropi-ai/skills",
-    "stars": 4,
-    "updated_at": "2026-06-08T21:08:36Z",
-    "url": "https://github.com/zentropi-ai/skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "sjcostanza/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "sjcostanza/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:08:18Z",
-    "url": "https://github.com/sjcostanza/skills-introduction-to-git"
   }
 ]
