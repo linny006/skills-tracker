@@ -1,5 +1,86 @@
 [
   {
+    "description": "Provide accurate AI-driven support for Solana development using sol-parser-sdk and sol-trade-sdk skills focused on DEX, ",
+    "id": "kaiphrox/AI-Skills",
+    "language": "Shell",
+    "name": "kaiphrox/AI-Skills",
+    "stars": 2,
+    "updated_at": "2026-06-09T00:15:15Z",
+    "url": "https://github.com/kaiphrox/AI-Skills"
+  },
+  {
+    "description": "gujun1502 \u7684 Claude Code skills \u96c6\u5408",
+    "id": "gujun1502/skills",
+    "language": "Python",
+    "name": "gujun1502/skills",
+    "stars": 1,
+    "updated_at": "2026-06-09T00:15:13Z",
+    "url": "https://github.com/gujun1502/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-09T00:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud074\ub77c\uc6b0\ub4dc\uc5d0 \ub300\ud55c \uc774\ud574 \ubc0f \ucee8\ud150\uce20 \uc81c\uc791\uc744 \uc704\ud55c skills",
+    "id": "Atom-oh/oh-my-cloud-skills",
+    "language": "Python",
+    "name": "Atom-oh/oh-my-cloud-skills",
+    "stars": 13,
+    "updated_at": "2026-06-09T00:15:27Z",
+    "url": "https://github.com/Atom-oh/oh-my-cloud-skills"
+  },
+  {
+    "description": "Exercise: Communicate using Markdown",
+    "id": "Drasko83/skills-communicate-using-markdown",
+    "language": "\u2014",
+    "name": "Drasko83/skills-communicate-using-markdown",
+    "stars": 0,
+    "updated_at": "2026-06-09T00:15:06Z",
+    "url": "https://github.com/Drasko83/skills-communicate-using-markdown"
+  },
+  {
+    "description": "Public Claude skill: find today's deals near user + auto-redeem via merchant playbooks from deal.echo365.ai",
+    "id": "colakang/freetoday-skills",
+    "language": "\u2014",
+    "name": "colakang/freetoday-skills",
+    "stars": 1,
+    "updated_at": "2026-06-09T00:14:34Z",
+    "url": "https://github.com/colakang/freetoday-skills"
+  },
+  {
+    "description": "Perform automated multi-layer security analysis on AI Agent skills to detect code risks and runtime threats efficiently.",
+    "id": "HutCh1E/Skills-check",
+    "language": "Python",
+    "name": "HutCh1E/Skills-check",
+    "stars": 0,
+    "updated_at": "2026-06-09T00:14:34Z",
+    "url": "https://github.com/HutCh1E/Skills-check"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-09T00:14:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Heardly Book Skills \u2014 executable AI skill toolkits for thousands of books",
+    "id": "heardlyapp/book-skills",
+    "language": "\u2014",
+    "name": "heardlyapp/book-skills",
+    "stars": 0,
+    "updated_at": "2026-06-09T00:14:31Z",
+    "url": "https://github.com/heardlyapp/book-skills"
+  },
+  {
     "description": "Discover and access 2,868 categorized OpenClaw skills with Chinese support, easing development without language barriers",
     "id": "Sehab121/awesome-openclaw-skills-CN",
     "language": "\u2014",
@@ -90,15 +171,6 @@
     "url": "https://github.com/aplustutoring/aplus-marketing-skills"
   },
   {
-    "description": "\ud074\ub77c\uc6b0\ub4dc\uc5d0 \ub300\ud55c \uc774\ud574 \ubc0f \ucee8\ud150\uce20 \uc81c\uc791\uc744 \uc704\ud55c skills",
-    "id": "Atom-oh/oh-my-cloud-skills",
-    "language": "Python",
-    "name": "Atom-oh/oh-my-cloud-skills",
-    "stars": 13,
-    "updated_at": "2026-06-09T00:12:44Z",
-    "url": "https://github.com/Atom-oh/oh-my-cloud-skills"
-  },
-  {
     "description": "A repository for random Claude skills...",
     "id": "neil729/claude-skills",
     "language": "\u2014",
@@ -162,15 +234,6 @@
     "url": "https://github.com/imJpereira/skills-hello-github-actions"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-09T00:11:41Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Code skills collection",
     "id": "FrankLedo/claude-skills",
     "language": "JavaScript",
@@ -223,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T00:11:02Z",
     "url": "https://github.com/hugogu/skills"
-  },
-  {
-    "description": "Public Claude skill: find today's deals near user + auto-redeem via merchant playbooks from deal.echo365.ai",
-    "id": "colakang/freetoday-skills",
-    "language": "\u2014",
-    "name": "colakang/freetoday-skills",
-    "stars": 1,
-    "updated_at": "2026-06-09T00:11:11Z",
-    "url": "https://github.com/colakang/freetoday-skills"
   },
   {
     "description": "Manage, share, and safely publish Codex skills with automated sanitization, validation, and streamlined installation wor",
@@ -558,15 +612,6 @@
     "url": "https://github.com/Bboyfarouk/skills"
   },
   {
-    "description": "Heardly Book Skills \u2014 executable AI skill toolkits for thousands of books",
-    "id": "heardlyapp/book-skills",
-    "language": "\u2014",
-    "name": "heardlyapp/book-skills",
-    "stars": 0,
-    "updated_at": "2026-06-09T00:04:25Z",
-    "url": "https://github.com/heardlyapp/book-skills"
-  },
-  {
     "description": "Router + Skills + Model Training: 99% accuracy with 83% cost saving (verified on HumanEval 164)",
     "id": "zeyuyuyu/router-skills-evolve",
     "language": "Python",
@@ -684,15 +729,6 @@
     "url": "https://github.com/jl338450/fm-skills"
   },
   {
-    "description": "Exercise: Communicate using Markdown",
-    "id": "Drasko83/skills-communicate-using-markdown",
-    "language": "\u2014",
-    "name": "Drasko83/skills-communicate-using-markdown",
-    "stars": 0,
-    "updated_at": "2026-06-09T00:11:59Z",
-    "url": "https://github.com/Drasko83/skills-communicate-using-markdown"
-  },
-  {
     "description": "\ud83e\udd16 Discover top AI agent skills with our curated collection, featuring automated updates and precise classification from ",
     "id": "mtnclk/awesome-top-skills",
     "language": "\u2014",
@@ -716,17 +752,8 @@
     "language": "Python",
     "name": "linny006/awesome-agent-skills",
     "stars": 5,
-    "updated_at": "2026-06-09T00:00:32Z",
+    "updated_at": "2026-06-09T00:15:30Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 3,
-    "updated_at": "2026-06-09T00:00:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "\ud83d\ude80 Build and automate essential skills for software startups with reusable commands for tasks like image compression and ",
@@ -871,32 +898,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T23:57:18Z",
     "url": "https://github.com/Talhaer/cloud-skills-roadmap"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Master 86 essential product management skills from top leaders, curated for PMs and founders to enhance their work wi",
-    "id": "TindanLawrence/lenny-skills",
-    "language": "\u2014",
-    "name": "TindanLawrence/lenny-skills",
-    "stars": 0,
-    "updated_at": "2026-06-08T23:57:18Z",
-    "url": "https://github.com/TindanLawrence/lenny-skills"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Enhance agent capabilities with Wondel.ai Skills, offering a suite of plugins for product strategy, UX design, market",
-    "id": "bilalmirza2001/skills",
-    "language": "Shell",
-    "name": "bilalmirza2001/skills",
-    "stars": 3,
-    "updated_at": "2026-06-08T23:57:17Z",
-    "url": "https://github.com/bilalmirza2001/skills"
-  },
-  {
-    "description": "\ud83d\udd0d Explore 700+ community-built OpenClaw skills to enhance your AI assistant's functionality and automate tasks easily.",
-    "id": "Jovanbeats/awesome-openclaw-Skills",
-    "language": "\u2014",
-    "name": "Jovanbeats/awesome-openclaw-Skills",
-    "stars": 1,
-    "updated_at": "2026-06-08T23:57:14Z",
-    "url": "https://github.com/Jovanbeats/awesome-openclaw-Skills"
   }
 ]
