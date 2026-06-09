@@ -1,5 +1,41 @@
 [
   {
+    "description": "Read about the skills, concepts, and products used by RFE staff. ",
+    "id": "RFEtraining/RFE-skills-navigator",
+    "language": "HTML",
+    "name": "RFEtraining/RFE-skills-navigator",
+    "stars": 0,
+    "updated_at": "2026-06-09T22:15:54Z",
+    "url": "https://github.com/RFEtraining/RFE-skills-navigator"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-09T22:15:39Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-09T22:15:33Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 5,
+    "updated_at": "2026-06-09T22:15:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -862,41 +898,5 @@
     "stars": 2,
     "updated_at": "2026-06-09T22:04:04Z",
     "url": "https://github.com/syw-afk/skills"
-  },
-  {
-    "description": "",
-    "id": "xbreton/skills-secure-repository-supply-chain",
-    "language": "C#",
-    "name": "xbreton/skills-secure-repository-supply-chain",
-    "stars": 0,
-    "updated_at": "2026-06-09T22:04:33Z",
-    "url": "https://github.com/xbreton/skills-secure-repository-supply-chain"
-  },
-  {
-    "description": "\ud83d\ude80 Manage AI capabilities effortlessly with SkillsMaster, a powerful platform for creating, installing, and using custom ",
-    "id": "LufyXd458/SkillsMaster",
-    "language": "TypeScript",
-    "name": "LufyXd458/SkillsMaster",
-    "stars": 1,
-    "updated_at": "2026-06-09T22:03:50Z",
-    "url": "https://github.com/LufyXd458/SkillsMaster"
-  },
-  {
-    "description": "",
-    "id": "dominikszabo/opencode-skills",
-    "language": "JavaScript",
-    "name": "dominikszabo/opencode-skills",
-    "stars": 0,
-    "updated_at": "2026-06-09T22:03:30Z",
-    "url": "https://github.com/dominikszabo/opencode-skills"
-  },
-  {
-    "description": "",
-    "id": "carsalgut/reverse-skills",
-    "language": "\u2014",
-    "name": "carsalgut/reverse-skills",
-    "stars": 0,
-    "updated_at": "2026-06-09T22:03:10Z",
-    "url": "https://github.com/carsalgut/reverse-skills"
   }
 ]
