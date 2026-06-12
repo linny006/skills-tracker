@@ -1,12 +1,813 @@
 [
   {
+    "description": "",
+    "id": "ChihChiu29/gemini_skills",
+    "language": "Python",
+    "name": "ChihChiu29/gemini_skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:15:19Z",
+    "url": "https://github.com/ChihChiu29/gemini_skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "marina-kimura/skills-introduction-to-github-2",
+    "language": "\u2014",
+    "name": "marina-kimura/skills-introduction-to-github-2",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:15:12Z",
+    "url": "https://github.com/marina-kimura/skills-introduction-to-github-2"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 3,
-    "updated_at": "2026-06-12T05:00:14Z",
+    "updated_at": "2026-06-12T05:15:11Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 5,
+    "updated_at": "2026-06-12T05:15:11Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Exercise: Code with Codespaces",
+    "id": "SoshiShibata/skills-code-with-codespaces",
+    "language": "Python",
+    "name": "SoshiShibata/skills-code-with-codespaces",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:14:55Z",
+    "url": "https://github.com/SoshiShibata/skills-code-with-codespaces"
+  },
+  {
+    "description": "",
+    "id": "savi-tha-p/skillshub",
+    "language": "HTML",
+    "name": "savi-tha-p/skillshub",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:14:45Z",
+    "url": "https://github.com/savi-tha-p/skillshub"
+  },
+  {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "bsvarsha0412-maker/skills-getting-started-with-github-copilot",
+    "language": "Python",
+    "name": "bsvarsha0412-maker/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:14:42Z",
+    "url": "https://github.com/bsvarsha0412-maker/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "Production-tested skills for Claude Code \u2014 session management, multi-session reconciliation, worktree recovery, and skil",
+    "id": "conorbronsdon/claude-code-skills",
+    "language": "\u2014",
+    "name": "conorbronsdon/claude-code-skills",
+    "stars": 4,
+    "updated_at": "2026-06-12T05:14:41Z",
+    "url": "https://github.com/conorbronsdon/claude-code-skills"
+  },
+  {
+    "description": "Plugins & Agent Skills for Pactflow, Pact & Drift",
+    "id": "pactflow/pactflow-agent-skills",
+    "language": "Python",
+    "name": "pactflow/pactflow-agent-skills",
+    "stars": 3,
+    "updated_at": "2026-06-12T05:14:35Z",
+    "url": "https://github.com/pactflow/pactflow-agent-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "natsuki0528/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "natsuki0528/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:14:11Z",
+    "url": "https://github.com/natsuki0528/skills-introduction-to-github"
+  },
+  {
+    "description": "\u751f\u547d\u6d8c\u73b0\u6280\u80fd\u5e93",
+    "id": "smyx-sunjinhui/smyx-open-claw-skills",
+    "language": "Python",
+    "name": "smyx-sunjinhui/smyx-open-claw-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:14:08Z",
+    "url": "https://github.com/smyx-sunjinhui/smyx-open-claw-skills"
+  },
+  {
+    "description": "",
+    "id": "maneesh-dhabria/pmos-skills",
+    "language": "JavaScript",
+    "name": "maneesh-dhabria/pmos-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:14:28Z",
+    "url": "https://github.com/maneesh-dhabria/pmos-skills"
+  },
+  {
+    "description": "compilation of curated skills for developing awesome applications",
+    "id": "cedmandocdoc/awesome-skills",
+    "language": "JavaScript",
+    "name": "cedmandocdoc/awesome-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:14:03Z",
+    "url": "https://github.com/cedmandocdoc/awesome-skills"
+  },
+  {
+    "description": "Exercise: Customize Your GitHub Copilot Experience",
+    "id": "diya021/skills-customize-your-github-copilot-experience",
+    "language": "JavaScript",
+    "name": "diya021/skills-customize-your-github-copilot-experience",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:13:55Z",
+    "url": "https://github.com/diya021/skills-customize-your-github-copilot-experience"
+  },
+  {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "Faji0113/skills-github-pages",
+    "language": "\u2014",
+    "name": "Faji0113/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:13:52Z",
+    "url": "https://github.com/Faji0113/skills-github-pages"
+  },
+  {
+    "description": "Exercise: Agent Orchestration: Build Your AI Dream Team",
+    "id": "baoqger/skills-agent-orchestration-build-your-ai-dream-team-local",
+    "language": "Shell",
+    "name": "baoqger/skills-agent-orchestration-build-your-ai-dream-team-local",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:13:41Z",
+    "url": "https://github.com/baoqger/skills-agent-orchestration-build-your-ai-dream-team-local"
+  },
+  {
+    "description": "Exercise: introduction to repository management",
+    "id": "5rijal/skills-introduction-to-repository-management",
+    "language": "JavaScript",
+    "name": "5rijal/skills-introduction-to-repository-management",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:13:40Z",
+    "url": "https://github.com/5rijal/skills-introduction-to-repository-management"
+  },
+  {
+    "description": "My clone repository",
+    "id": "Mit296/skills-release-based-workflow",
+    "language": "JavaScript",
+    "name": "Mit296/skills-release-based-workflow",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:13:34Z",
+    "url": "https://github.com/Mit296/skills-release-based-workflow"
+  },
+  {
+    "description": "Private research repository for comic strip creation experiments, retro hand-inked manga style generation, prompt engine",
+    "id": "ObliviousOdin/foundational-comic-skills",
+    "language": "Python",
+    "name": "ObliviousOdin/foundational-comic-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:13:33Z",
+    "url": "https://github.com/ObliviousOdin/foundational-comic-skills"
+  },
+  {
+    "description": "",
+    "id": "nent0116/public-skills",
+    "language": "JavaScript",
+    "name": "nent0116/public-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:13:32Z",
+    "url": "https://github.com/nent0116/public-skills"
+  },
+  {
+    "description": "Claude Code Skills, runbooks, MCP configs, and automation scripts for DevOps engineers working with Kubernetes, blockcha",
+    "id": "seokheejang/claude-ops-skills",
+    "language": "Shell",
+    "name": "seokheejang/claude-ops-skills",
+    "stars": 1,
+    "updated_at": "2026-06-12T05:13:31Z",
+    "url": "https://github.com/seokheejang/claude-ops-skills"
+  },
+  {
+    "description": "Exercise: Review pull requests",
+    "id": "saltyland/skills-review-pull-requests",
+    "language": "HTML",
+    "name": "saltyland/skills-review-pull-requests",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:12:57Z",
+    "url": "https://github.com/saltyland/skills-review-pull-requests"
+  },
+  {
+    "description": "",
+    "id": "tcfialho/Herald.Ai.Skills",
+    "language": "Python",
+    "name": "tcfialho/Herald.Ai.Skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:12:56Z",
+    "url": "https://github.com/tcfialho/Herald.Ai.Skills"
+  },
+  {
+    "description": "Exercise: Customize Your GitHub Copilot Experience",
+    "id": "tatasadi/skills-customize-your-github-copilot-experience",
+    "language": "JavaScript",
+    "name": "tatasadi/skills-customize-your-github-copilot-experience",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:12:54Z",
+    "url": "https://github.com/tatasadi/skills-customize-your-github-copilot-experience"
+  },
+  {
+    "description": "",
+    "id": "qianhui9/my-skills-hub",
+    "language": "HTML",
+    "name": "qianhui9/my-skills-hub",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:14:10Z",
+    "url": "https://github.com/qianhui9/my-skills-hub"
+  },
+  {
+    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
+    "id": "nanakura-lab/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "language": "\u2014",
+    "name": "nanakura-lab/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:12:44Z",
+    "url": "https://github.com/nanakura-lab/skills-scale-institutional-knowledge-using-copilot-spaces"
+  },
+  {
+    "description": "",
+    "id": "machenjie/rd-skills",
+    "language": "Python",
+    "name": "machenjie/rd-skills",
+    "stars": 2,
+    "updated_at": "2026-06-12T05:12:42Z",
+    "url": "https://github.com/machenjie/rd-skills"
+  },
+  {
+    "description": "Local skill retrieval library for coding agents: lexical search, Chroma vector search, warm daemon mode, and learning-lo",
+    "id": "AI4sale/unlimited-skills",
+    "language": "Python",
+    "name": "AI4sale/unlimited-skills",
+    "stars": 5,
+    "updated_at": "2026-06-12T05:12:37Z",
+    "url": "https://github.com/AI4sale/unlimited-skills"
+  },
+  {
+    "description": "Website",
+    "id": "asiawright1122-boop/Killer-AgentSkills",
+    "language": "TypeScript",
+    "name": "asiawright1122-boop/Killer-AgentSkills",
+    "stars": 1,
+    "updated_at": "2026-06-12T05:12:23Z",
+    "url": "https://github.com/asiawright1122-boop/Killer-AgentSkills"
+  },
+  {
+    "description": "",
+    "id": "ShahrukhFx31/skillshow-pr-review",
+    "language": "\u2014",
+    "name": "ShahrukhFx31/skillshow-pr-review",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:12:10Z",
+    "url": "https://github.com/ShahrukhFx31/skillshow-pr-review"
+  },
+  {
+    "description": "",
+    "id": "wewakedixit/next-skills",
+    "language": "JavaScript",
+    "name": "wewakedixit/next-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:12:01Z",
+    "url": "https://github.com/wewakedixit/next-skills"
+  },
+  {
+    "description": "",
+    "id": "mingming-cn/ucloud-skills",
+    "language": "Python",
+    "name": "mingming-cn/ucloud-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:11:55Z",
+    "url": "https://github.com/mingming-cn/ucloud-skills"
+  },
+  {
+    "description": "Heardly Book Skills \u2014 executable AI skill toolkits for thousands of books",
+    "id": "heardlyapp/book-skills",
+    "language": "\u2014",
+    "name": "heardlyapp/book-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:11:45Z",
+    "url": "https://github.com/heardlyapp/book-skills"
+  },
+  {
+    "description": "Exercise: Expand your team with GitHub Copilot cloud agent",
+    "id": "edeguzman1016/skills-expand-your-team-with-copilot",
+    "language": "JavaScript",
+    "name": "edeguzman1016/skills-expand-your-team-with-copilot",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:11:45Z",
+    "url": "https://github.com/edeguzman1016/skills-expand-your-team-with-copilot"
+  },
+  {
+    "description": "",
+    "id": "danygiguere/audit-skills",
+    "language": "\u2014",
+    "name": "danygiguere/audit-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:11:44Z",
+    "url": "https://github.com/danygiguere/audit-skills"
+  },
+  {
+    "description": "Reusable agent skills for action-oriented execution, knowledge management, research workflows, and human-agent collabora",
+    "id": "pscheidegger/operator-skills",
+    "language": "\u2014",
+    "name": "pscheidegger/operator-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:11:43Z",
+    "url": "https://github.com/pscheidegger/operator-skills"
+  },
+  {
+    "description": "Agent skills for SigNoz",
+    "id": "SigNoz/agent-skills",
+    "language": "JavaScript",
+    "name": "SigNoz/agent-skills",
+    "stars": 6,
+    "updated_at": "2026-06-12T05:11:36Z",
+    "url": "https://github.com/SigNoz/agent-skills"
+  },
+  {
+    "description": "Curated, trusted open catalog of 2,500+ AI agent skills for Claude Code, Cursor, Codex, Gemini, OpenClaw, MCP, and more.",
+    "id": "agentskillexchange/skills",
+    "language": "Python",
+    "name": "agentskillexchange/skills",
+    "stars": 13,
+    "updated_at": "2026-06-12T05:11:07Z",
+    "url": "https://github.com/agentskillexchange/skills"
+  },
+  {
+    "description": "",
+    "id": "magmonium/skills",
+    "language": "Shell",
+    "name": "magmonium/skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:11:07Z",
+    "url": "https://github.com/magmonium/skills"
+  },
+  {
+    "description": "Exercise: Communicate using Markdown",
+    "id": "Faji0113/skills-communicate-using-markdown",
+    "language": "\u2014",
+    "name": "Faji0113/skills-communicate-using-markdown",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:11:07Z",
+    "url": "https://github.com/Faji0113/skills-communicate-using-markdown"
+  },
+  {
+    "description": "",
+    "id": "rutuja-codes03/SkillSwap",
+    "language": "JavaScript",
+    "name": "rutuja-codes03/SkillSwap",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:10:53Z",
+    "url": "https://github.com/rutuja-codes03/SkillSwap"
+  },
+  {
+    "description": "\u8bfbpaper\u7684\u65f6\u5019\u53d1\u73b0\uff0c\u5f88\u591a\u65f6\u5019\u5176\u5b9e\u5728\u5f00\u59cb\u524d\u90fd\u6ca1\u660e\u767d\u81ea\u5df1\u8981\u4ecepaper\u4e2d\u83b7\u5f97\u4ec0\u4e48\uff0c\u601d\u8def\u603b\u662f\u5230\u5904\u8df3\u8dc3\uff0c\u9605\u8bfb\u6548\u7387\u6781\u4f4e\u3002\u4e8e\u662f\u4e4e\u6253\u7b97\u505a\u8fd9\u4e2a skills\uff0c\u5e2e\u52a9\u81ea\u5df1\u66f4\u5feb\u5b9a\u4f4d\u9605\u8bfb\u52a8\u673a\uff0c\u8ba9\u6bcf\u4e00\u6b21\u8bfb\u8bba\u6587\u53ef\u4ee5\u76ee\u7684\u660e\u786e\uff0c\u4ea7\u51fa\u660e\u786e\uff0c\u4e0d\u8d39\u65e0\u7528\u529f\u3002",
+    "id": "snake-fan/Paper-Reading-Skills",
+    "language": "\u2014",
+    "name": "snake-fan/Paper-Reading-Skills",
+    "stars": 3,
+    "updated_at": "2026-06-12T05:10:47Z",
+    "url": "https://github.com/snake-fan/Paper-Reading-Skills"
+  },
+  {
+    "description": "Auto-generated agent skills from trending security & appsec repos, by ara.so",
+    "id": "Aradotso/security-skills",
+    "language": "\u2014",
+    "name": "Aradotso/security-skills",
+    "stars": 1,
+    "updated_at": "2026-06-12T05:09:58Z",
+    "url": "https://github.com/Aradotso/security-skills"
+  },
+  {
+    "description": "",
+    "id": "thoughtspot/thoughtspot-agent-skills",
+    "language": "Python",
+    "name": "thoughtspot/thoughtspot-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-06-12T05:11:07Z",
+    "url": "https://github.com/thoughtspot/thoughtspot-agent-skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "ryouta-ino/skills-release-based-workflow",
+    "language": "JavaScript",
+    "name": "ryouta-ino/skills-release-based-workflow",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:09:58Z",
+    "url": "https://github.com/ryouta-ino/skills-release-based-workflow"
+  },
+  {
+    "description": "Auto-generated agent skills from trending marketing & growth repos, by ara.so",
+    "id": "Aradotso/marketing-skills",
+    "language": "\u2014",
+    "name": "Aradotso/marketing-skills",
+    "stars": 1,
+    "updated_at": "2026-06-12T05:09:37Z",
+    "url": "https://github.com/Aradotso/marketing-skills"
+  },
+  {
+    "description": "tdesign skills",
+    "id": "liweijie0812/tdesign-skills",
+    "language": "TypeScript",
+    "name": "liweijie0812/tdesign-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:09:29Z",
+    "url": "https://github.com/liweijie0812/tdesign-skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "SoshiShibata/skills-connect-the-dots",
+    "language": "\u2014",
+    "name": "SoshiShibata/skills-connect-the-dots",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:09:32Z",
+    "url": "https://github.com/SoshiShibata/skills-connect-the-dots"
+  },
+  {
+    "description": "",
+    "id": "ashishxcode/skills",
+    "language": "\u2014",
+    "name": "ashishxcode/skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:09:11Z",
+    "url": "https://github.com/ashishxcode/skills"
+  },
+  {
+    "description": "",
+    "id": "fuzhengwei/xfg-skills-free-token-plan",
+    "language": "Python",
+    "name": "fuzhengwei/xfg-skills-free-token-plan",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:08:40Z",
+    "url": "https://github.com/fuzhengwei/xfg-skills-free-token-plan"
+  },
+  {
+    "description": "",
+    "id": "murakawa-nativecamp/Skills-APP---for-Designers",
+    "language": "Shell",
+    "name": "murakawa-nativecamp/Skills-APP---for-Designers",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:08:06Z",
+    "url": "https://github.com/murakawa-nativecamp/Skills-APP---for-Designers"
+  },
+  {
+    "description": "",
+    "id": "Thiviyanath/Professional-Skills--Portfolio",
+    "language": "JavaScript",
+    "name": "Thiviyanath/Professional-Skills--Portfolio",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:07:51Z",
+    "url": "https://github.com/Thiviyanath/Professional-Skills--Portfolio"
+  },
+  {
+    "description": "",
+    "id": "scardoso-lu/fabric-skills",
+    "language": "Python",
+    "name": "scardoso-lu/fabric-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:07:28Z",
+    "url": "https://github.com/scardoso-lu/fabric-skills"
+  },
+  {
+    "description": "Exercise: Resolve Merge Conflicts",
+    "id": "ryouta-ino/skills-resolve-merge-conflicts",
+    "language": "\u2014",
+    "name": "ryouta-ino/skills-resolve-merge-conflicts",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:07:26Z",
+    "url": "https://github.com/ryouta-ino/skills-resolve-merge-conflicts"
+  },
+  {
+    "description": "Protect your code with automated testing",
+    "id": "alexsuglio/skills-test-with-actions",
+    "language": "Python",
+    "name": "alexsuglio/skills-test-with-actions",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:07:15Z",
+    "url": "https://github.com/alexsuglio/skills-test-with-actions"
+  },
+  {
+    "description": "Skills for using tools that improve LLM-driven .NET / C# development",
+    "id": "richlander/dotnet-skills",
+    "language": "\u2014",
+    "name": "richlander/dotnet-skills",
+    "stars": 52,
+    "updated_at": "2026-06-12T05:07:01Z",
+    "url": "https://github.com/richlander/dotnet-skills"
+  },
+  {
+    "description": "The Physical Sandbox & Aesthetic Governance Suite for Coding Agents",
+    "id": "luoning/agent-skills",
+    "language": "Python",
+    "name": "luoning/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:06:53Z",
+    "url": "https://github.com/luoning/agent-skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "DonatoSam/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "DonatoSam/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:06:46Z",
+    "url": "https://github.com/DonatoSam/skills-introduction-to-git"
+  },
+  {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "kakitetsu0310-dev/skills-github-pages",
+    "language": "\u2014",
+    "name": "kakitetsu0310-dev/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:06:39Z",
+    "url": "https://github.com/kakitetsu0310-dev/skills-github-pages"
+  },
+  {
+    "description": "",
+    "id": "18518300669/skills",
+    "language": "Python",
+    "name": "18518300669/skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:06:26Z",
+    "url": "https://github.com/18518300669/skills"
+  },
+  {
+    "description": "\u7cbe\u9009 skills \u96c6\u5408",
+    "id": "326sun/Hanako-skills-collection",
+    "language": "Python",
+    "name": "326sun/Hanako-skills-collection",
+    "stars": 3,
+    "updated_at": "2026-06-12T05:05:48Z",
+    "url": "https://github.com/326sun/Hanako-skills-collection"
+  },
+  {
+    "description": "",
+    "id": "klinucsd/sage_skills",
+    "language": "Python",
+    "name": "klinucsd/sage_skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:05:30Z",
+    "url": "https://github.com/klinucsd/sage_skills"
+  },
+  {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "Shishu123/skills-getting-started-with-github-copilot",
+    "language": "JavaScript",
+    "name": "Shishu123/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:05:29Z",
+    "url": "https://github.com/Shishu123/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "DuggireddyVenkataHarshitha/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "DuggireddyVenkataHarshitha/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:05:12Z",
+    "url": "https://github.com/DuggireddyVenkataHarshitha/skills-introduction-to-git"
+  },
+  {
+    "description": "",
+    "id": "rpoongundran/skills-resolve-merge-conflicts",
+    "language": "\u2014",
+    "name": "rpoongundran/skills-resolve-merge-conflicts",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:05:08Z",
+    "url": "https://github.com/rpoongundran/skills-resolve-merge-conflicts"
+  },
+  {
+    "description": "",
+    "id": "Hyunbin-Im/claudecowork-skills",
+    "language": "Python",
+    "name": "Hyunbin-Im/claudecowork-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:05:07Z",
+    "url": "https://github.com/Hyunbin-Im/claudecowork-skills"
+  },
+  {
+    "description": "",
+    "id": "sadespresso/ray-skills",
+    "language": "\u2014",
+    "name": "sadespresso/ray-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:05:01Z",
+    "url": "https://github.com/sadespresso/ray-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "katens3/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "katens3/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:04:32Z",
+    "url": "https://github.com/katens3/skills-introduction-to-github"
+  },
+  {
+    "description": "",
+    "id": "malkreide/future-skills-evidence-graph",
+    "language": "Python",
+    "name": "malkreide/future-skills-evidence-graph",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:07:34Z",
+    "url": "https://github.com/malkreide/future-skills-evidence-graph"
+  },
+  {
+    "description": "AgentSkills",
+    "id": "FeatherHunter/SKILLS",
+    "language": "HTML",
+    "name": "FeatherHunter/SKILLS",
+    "stars": 1,
+    "updated_at": "2026-06-12T05:04:10Z",
+    "url": "https://github.com/FeatherHunter/SKILLS"
+  },
+  {
+    "description": "AI agent skills for resume tailoring and job application automation",
+    "id": "soilSpoon/skills",
+    "language": "JavaScript",
+    "name": "soilSpoon/skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:04:06Z",
+    "url": "https://github.com/soilSpoon/skills"
+  },
+  {
+    "description": "",
+    "id": "BoloBoloMe/skills",
+    "language": "Python",
+    "name": "BoloBoloMe/skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:04:03Z",
+    "url": "https://github.com/BoloBoloMe/skills"
+  },
+  {
+    "description": "Exercise: Create Applications with the Copilot CLI",
+    "id": "aayuspudasaini/skills-create-applications-with-the-copilot-cli",
+    "language": "Shell",
+    "name": "aayuspudasaini/skills-create-applications-with-the-copilot-cli",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:03:51Z",
+    "url": "https://github.com/aayuspudasaini/skills-create-applications-with-the-copilot-cli"
+  },
+  {
+    "description": "Custom skills collection for LLM desktop applications",
+    "id": "evl-alex/llm-skills",
+    "language": "Python",
+    "name": "evl-alex/llm-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:03:50Z",
+    "url": "https://github.com/evl-alex/llm-skills"
+  },
+  {
+    "description": "",
+    "id": "Skillscalex/skillscale",
+    "language": "TypeScript",
+    "name": "Skillscalex/skillscale",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:03:45Z",
+    "url": "https://github.com/Skillscalex/skillscale"
+  },
+  {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "rogpl/skills-getting-started-with-github-copilot",
+    "language": "JavaScript",
+    "name": "rogpl/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:04:23Z",
+    "url": "https://github.com/rogpl/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "Repositorio oficial de skills para el entorno Mexicano ca\u00f3tico.",
+    "id": "elimorals/Skills_MX",
+    "language": "Python",
+    "name": "elimorals/Skills_MX",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:03:37Z",
+    "url": "https://github.com/elimorals/Skills_MX"
+  },
+  {
+    "description": "BoT_eng Skills",
+    "id": "TanB-eng/my-skills",
+    "language": "\u2014",
+    "name": "TanB-eng/my-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:03:32Z",
+    "url": "https://github.com/TanB-eng/my-skills"
+  },
+  {
+    "description": "Battle-tested Claude Code skills for game development: tiered workflow, Godot headless testing, shared-repo discipline, ",
+    "id": "sonic7881963/gamedev-skills",
+    "language": "PowerShell",
+    "name": "sonic7881963/gamedev-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:03:20Z",
+    "url": "https://github.com/sonic7881963/gamedev-skills"
+  },
+  {
+    "description": "Exercise: Introduction to CodeQL",
+    "id": "sarthakshinde8022/skills-introduction-to-codeql",
+    "language": "Python",
+    "name": "sarthakshinde8022/skills-introduction-to-codeql",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:10:03Z",
+    "url": "https://github.com/sarthakshinde8022/skills-introduction-to-codeql"
+  },
+  {
+    "description": "Skills for the ecdsa.fail challenge",
+    "id": "jieyilong/ecdsafail_skills",
+    "language": "\u2014",
+    "name": "jieyilong/ecdsafail_skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:02:54Z",
+    "url": "https://github.com/jieyilong/ecdsafail_skills"
+  },
+  {
+    "description": "Dodi skills plugins for Claude Code",
+    "id": "dodi-hq/dodi-skills",
+    "language": "Shell",
+    "name": "dodi-hq/dodi-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:02:36Z",
+    "url": "https://github.com/dodi-hq/dodi-skills"
+  },
+  {
+    "description": "Exercise: Build applications with GitHub Copilot agent mode",
+    "id": "simplysudipta/skills-build-applications-w-copilot-agent-mode",
+    "language": "Shell",
+    "name": "simplysudipta/skills-build-applications-w-copilot-agent-mode",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:02:30Z",
+    "url": "https://github.com/simplysudipta/skills-build-applications-w-copilot-agent-mode"
+  },
+  {
+    "description": "",
+    "id": "malfo-y/sdd-skills",
+    "language": "Python",
+    "name": "malfo-y/sdd-skills",
+    "stars": 2,
+    "updated_at": "2026-06-12T05:01:50Z",
+    "url": "https://github.com/malfo-y/sdd-skills"
+  },
+  {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "igeorge-gith/skills-getting-started-with-github-copilot",
+    "language": "JavaScript",
+    "name": "igeorge-gith/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:01:45Z",
+    "url": "https://github.com/igeorge-gith/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "Exercise: Build applications with GitHub Copilot agent mode",
+    "id": "alexsuglio/skills-build-applications-w-copilot-agent-mode",
+    "language": "TypeScript",
+    "name": "alexsuglio/skills-build-applications-w-copilot-agent-mode",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:01:05Z",
+    "url": "https://github.com/alexsuglio/skills-build-applications-w-copilot-agent-mode"
+  },
+  {
+    "description": "Exercise: Communicate using Markdown",
+    "id": "Jamzes2/skills-communicate-using-markdown",
+    "language": "\u2014",
+    "name": "Jamzes2/skills-communicate-using-markdown",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:01:02Z",
+    "url": "https://github.com/Jamzes2/skills-communicate-using-markdown"
+  },
+  {
+    "description": "Exercise: Create Applications with the Copilot CLI",
+    "id": "KionBreadley01/skills-create-applications-with-the-copilot-cli",
+    "language": "JavaScript",
+    "name": "KionBreadley01/skills-create-applications-with-the-copilot-cli",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:00:57Z",
+    "url": "https://github.com/KionBreadley01/skills-create-applications-with-the-copilot-cli"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "reinaakane2024-droid/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "reinaakane2024-droid/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:00:56Z",
+    "url": "https://github.com/reinaakane2024-droid/skills-introduction-to-github"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-12T05:00:32Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "The repo for all system/public ornn skills",
@@ -16,15 +817,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T05:00:12Z",
     "url": "https://github.com/ChronoAIProject/ornn-skills"
-  },
-  {
-    "description": "",
-    "id": "magmonium/skills",
-    "language": "Shell",
-    "name": "magmonium/skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:59:59Z",
-    "url": "https://github.com/magmonium/skills"
   },
   {
     "description": "Security and token-efficiency skills for AI coding agents (Claude Code, Cursor, GitHub Copilot, Codex, Gemini CLI)",
@@ -63,15 +855,6 @@
     "url": "https://github.com/hoangtmbk/skills"
   },
   {
-    "description": "My clone repository",
-    "id": "SoshiShibata/skills-connect-the-dots",
-    "language": "\u2014",
-    "name": "SoshiShibata/skills-connect-the-dots",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:59:27Z",
-    "url": "https://github.com/SoshiShibata/skills-connect-the-dots"
-  },
-  {
     "description": "111",
     "id": "yi-17-lab/skills",
     "language": "TypeScript",
@@ -95,17 +878,8 @@
     "language": "Python",
     "name": "jeremylongshore/claude-code-plugins-plus-skills",
     "stars": 2357,
-    "updated_at": "2026-06-12T04:58:45Z",
+    "updated_at": "2026-06-12T05:07:12Z",
     "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
-  },
-  {
-    "description": "",
-    "id": "malkreide/future-skills-evidence-graph",
-    "language": "Python",
-    "name": "malkreide/future-skills-evidence-graph",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:59:57Z",
-    "url": "https://github.com/malkreide/future-skills-evidence-graph"
   },
   {
     "description": "",
@@ -113,7 +887,7 @@
     "language": "JavaScript",
     "name": "hasebemiyu1127-coder/skills-release-based-workflow",
     "stars": 0,
-    "updated_at": "2026-06-12T04:58:49Z",
+    "updated_at": "2026-06-12T05:15:07Z",
     "url": "https://github.com/hasebemiyu1127-coder/skills-release-based-workflow"
   },
   {
@@ -124,779 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T04:58:30Z",
     "url": "https://github.com/donggu1105/donggu-skills"
-  },
-  {
-    "description": "Accessibility specialist skills plugin for Claude Code.",
-    "id": "masuP9/a11y-specialist-skills",
-    "language": "TypeScript",
-    "name": "masuP9/a11y-specialist-skills",
-    "stars": 53,
-    "updated_at": "2026-06-12T04:58:13Z",
-    "url": "https://github.com/masuP9/a11y-specialist-skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "MGX1001/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "MGX1001/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:58:04Z",
-    "url": "https://github.com/MGX1001/skills-introduction-to-git"
-  },
-  {
-    "description": "",
-    "id": "tomrcc/astrowind-skills-demo",
-    "language": "Astro",
-    "name": "tomrcc/astrowind-skills-demo",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:57:55Z",
-    "url": "https://github.com/tomrcc/astrowind-skills-demo"
-  },
-  {
-    "description": "Claude Code \uac1c\uc778 \uc2a4\ud0ac/\uc2ac\ub798\uc2dc \ucee4\ub9e8\ub4dc \ubaa8\uc74c",
-    "id": "CommitTheKermit/ao-skills",
-    "language": "Python",
-    "name": "CommitTheKermit/ao-skills",
-    "stars": 6,
-    "updated_at": "2026-06-12T04:57:44Z",
-    "url": "https://github.com/CommitTheKermit/ao-skills"
-  },
-  {
-    "description": "",
-    "id": "wkq030117-maker/skills",
-    "language": "\u2014",
-    "name": "wkq030117-maker/skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:57:38Z",
-    "url": "https://github.com/wkq030117-maker/skills"
-  },
-  {
-    "description": "Exercise: Communicate using Markdown",
-    "id": "shunk-super/skills-communicate-using-markdown",
-    "language": "\u2014",
-    "name": "shunk-super/skills-communicate-using-markdown",
-    "stars": 0,
-    "updated_at": "2026-06-12T05:00:10Z",
-    "url": "https://github.com/shunk-super/skills-communicate-using-markdown"
-  },
-  {
-    "description": "Exercise: Code with Codespaces",
-    "id": "taiyo758-rgb/skills-code-with-codespaces",
-    "language": "Shell",
-    "name": "taiyo758-rgb/skills-code-with-codespaces",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:57:26Z",
-    "url": "https://github.com/taiyo758-rgb/skills-code-with-codespaces"
-  },
-  {
-    "description": "AI agent skills for HarmonyOS/ArkTS application development.",
-    "id": "FadingLight9291117/arkts_skills",
-    "language": "\u2014",
-    "name": "FadingLight9291117/arkts_skills",
-    "stars": 7,
-    "updated_at": "2026-06-12T04:57:24Z",
-    "url": "https://github.com/FadingLight9291117/arkts_skills"
-  },
-  {
-    "description": "",
-    "id": "shigindo-inc/personal-skills",
-    "language": "\u2014",
-    "name": "shigindo-inc/personal-skills",
-    "stars": 2,
-    "updated_at": "2026-06-12T04:57:12Z",
-    "url": "https://github.com/shigindo-inc/personal-skills"
-  },
-  {
-    "description": "Exercise: Resolve Merge Conflicts",
-    "id": "ryouta-ino/skills-resolve-merge-conflicts",
-    "language": "\u2014",
-    "name": "ryouta-ino/skills-resolve-merge-conflicts",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:57:12Z",
-    "url": "https://github.com/ryouta-ino/skills-resolve-merge-conflicts"
-  },
-  {
-    "description": "costrict-plugins mirror of yuan1z0825-nature-skills-nature-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/yuan1z0825-nature-skills-nature-skills",
-    "language": "Python",
-    "name": "costrict-plugins-repo/yuan1z0825-nature-skills-nature-skills",
-    "stars": 1,
-    "updated_at": "2026-06-12T04:56:36Z",
-    "url": "https://github.com/costrict-plugins-repo/yuan1z0825-nature-skills-nature-skills"
-  },
-  {
-    "description": "",
-    "id": "chegg-skills/chegg-scheduling-app-backend",
-    "language": "TypeScript",
-    "name": "chegg-skills/chegg-scheduling-app-backend",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:56:38Z",
-    "url": "https://github.com/chegg-skills/chegg-scheduling-app-backend"
-  },
-  {
-    "description": "",
-    "id": "RohitPawar001/skills",
-    "language": "\u2014",
-    "name": "RohitPawar001/skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:56:25Z",
-    "url": "https://github.com/RohitPawar001/skills"
-  },
-  {
-    "description": "Exercise: Build applications with GitHub Copilot agent mode",
-    "id": "edeguzman1016/skills-build-applications-w-copilot-agent-mode",
-    "language": "Shell",
-    "name": "edeguzman1016/skills-build-applications-w-copilot-agent-mode",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:56:24Z",
-    "url": "https://github.com/edeguzman1016/skills-build-applications-w-copilot-agent-mode"
-  },
-  {
-    "description": "Agent skills for Zama FHEVM and protocol development.",
-    "id": "thericardoli/zama-dev-skills",
-    "language": "Python",
-    "name": "thericardoli/zama-dev-skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:56:20Z",
-    "url": "https://github.com/thericardoli/zama-dev-skills"
-  },
-  {
-    "description": "",
-    "id": "BoloBoloMe/skills",
-    "language": "Python",
-    "name": "BoloBoloMe/skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:56:15Z",
-    "url": "https://github.com/BoloBoloMe/skills"
-  },
-  {
-    "description": "costrict-plugins mirror of trailofbits-trailofbits-testing-handbook-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/trailofbits-trailofbits-testing-handbook-skills",
-    "language": "Python",
-    "name": "costrict-plugins-repo/trailofbits-trailofbits-testing-handbook-skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:56:09Z",
-    "url": "https://github.com/costrict-plugins-repo/trailofbits-trailofbits-testing-handbook-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of tanweai-pua-skills-pua (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/tanweai-pua-skills-pua",
-    "language": "TypeScript",
-    "name": "costrict-plugins-repo/tanweai-pua-skills-pua",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:56:00Z",
-    "url": "https://github.com/costrict-plugins-repo/tanweai-pua-skills-pua"
-  },
-  {
-    "description": "",
-    "id": "saransundharesan-create/SKILLS-APPLICATION-CHALLENGE---SPRINT-1",
-    "language": "HTML",
-    "name": "saransundharesan-create/SKILLS-APPLICATION-CHALLENGE---SPRINT-1",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:59Z",
-    "url": "https://github.com/saransundharesan-create/SKILLS-APPLICATION-CHALLENGE---SPRINT-1"
-  },
-  {
-    "description": "costrict-plugins mirror of phuryn-pm-skills-pm-product-strategy (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/phuryn-pm-skills-pm-product-strategy",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/phuryn-pm-skills-pm-product-strategy",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:55Z",
-    "url": "https://github.com/costrict-plugins-repo/phuryn-pm-skills-pm-product-strategy"
-  },
-  {
-    "description": "costrict-plugins mirror of phuryn-pm-skills-pm-marketing-growth (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/phuryn-pm-skills-pm-marketing-growth",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/phuryn-pm-skills-pm-marketing-growth",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:55Z",
-    "url": "https://github.com/costrict-plugins-repo/phuryn-pm-skills-pm-marketing-growth"
-  },
-  {
-    "description": "costrict-plugins mirror of phuryn-pm-skills-pm-toolkit (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/phuryn-pm-skills-pm-toolkit",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/phuryn-pm-skills-pm-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:55Z",
-    "url": "https://github.com/costrict-plugins-repo/phuryn-pm-skills-pm-toolkit"
-  },
-  {
-    "description": "costrict-plugins mirror of phuryn-pm-skills-pm-product-discovery (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/phuryn-pm-skills-pm-product-discovery",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/phuryn-pm-skills-pm-product-discovery",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:55Z",
-    "url": "https://github.com/costrict-plugins-repo/phuryn-pm-skills-pm-product-discovery"
-  },
-  {
-    "description": "costrict-plugins mirror of phuryn-pm-skills-pm-market-research (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/phuryn-pm-skills-pm-market-research",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/phuryn-pm-skills-pm-market-research",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:55Z",
-    "url": "https://github.com/costrict-plugins-repo/phuryn-pm-skills-pm-market-research"
-  },
-  {
-    "description": "costrict-plugins mirror of phuryn-pm-skills-pm-data-analytics (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/phuryn-pm-skills-pm-data-analytics",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/phuryn-pm-skills-pm-data-analytics",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:54Z",
-    "url": "https://github.com/costrict-plugins-repo/phuryn-pm-skills-pm-data-analytics"
-  },
-  {
-    "description": "costrict-plugins mirror of phuryn-pm-skills-pm-execution (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/phuryn-pm-skills-pm-execution",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/phuryn-pm-skills-pm-execution",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:54Z",
-    "url": "https://github.com/costrict-plugins-repo/phuryn-pm-skills-pm-execution"
-  },
-  {
-    "description": "costrict-plugins mirror of petyosi-virtuoso-virtuoso-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/petyosi-virtuoso-virtuoso-skills",
-    "language": "TypeScript",
-    "name": "costrict-plugins-repo/petyosi-virtuoso-virtuoso-skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:54Z",
-    "url": "https://github.com/costrict-plugins-repo/petyosi-virtuoso-virtuoso-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of phuryn-pm-skills-pm-go-to-market (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/phuryn-pm-skills-pm-go-to-market",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/phuryn-pm-skills-pm-go-to-market",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:54Z",
-    "url": "https://github.com/costrict-plugins-repo/phuryn-pm-skills-pm-go-to-market"
-  },
-  {
-    "description": "costrict-plugins mirror of mukul975-anthropic-cybersecurity-skills-cybersecurity-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/mukul975-anthropic-cybersecurity-skills-cybersecurity-skills",
-    "language": "Python",
-    "name": "costrict-plugins-repo/mukul975-anthropic-cybersecurity-skills-cybersecurity-skills",
-    "stars": 12,
-    "updated_at": "2026-06-12T04:55:49Z",
-    "url": "https://github.com/costrict-plugins-repo/mukul975-anthropic-cybersecurity-skills-cybersecurity-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of multica-ai-karpathy-skills-andrej-karpathy-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/multica-ai-karpathy-skills-andrej-karpathy-skills",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/multica-ai-karpathy-skills-andrej-karpathy-skills",
-    "stars": 6,
-    "updated_at": "2026-06-12T04:55:48Z",
-    "url": "https://github.com/costrict-plugins-repo/multica-ai-karpathy-skills-andrej-karpathy-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of minimax-ai-minimax-skills-minimax-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/minimax-ai-minimax-skills-minimax-skills",
-    "language": "C#",
-    "name": "costrict-plugins-repo/minimax-ai-minimax-skills-minimax-skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:47Z",
-    "url": "https://github.com/costrict-plugins-repo/minimax-ai-minimax-skills-minimax-skills"
-  },
-  {
-    "description": "",
-    "id": "open-software-network/agent-skills",
-    "language": "Python",
-    "name": "open-software-network/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:47Z",
-    "url": "https://github.com/open-software-network/agent-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of lijigang-ljg-skills-ljg-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/lijigang-ljg-skills-ljg-skills",
-    "language": "HTML",
-    "name": "costrict-plugins-repo/lijigang-ljg-skills-ljg-skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:45Z",
-    "url": "https://github.com/costrict-plugins-repo/lijigang-ljg-skills-ljg-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of kepano-obsidian-skills-obsidian (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/kepano-obsidian-skills-obsidian",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/kepano-obsidian-skills-obsidian",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:44Z",
-    "url": "https://github.com/costrict-plugins-repo/kepano-obsidian-skills-obsidian"
-  },
-  {
-    "description": "costrict-plugins mirror of imbad0202-academic-research-skills-academic-research-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/imbad0202-academic-research-skills-academic-research-skills",
-    "language": "Python",
-    "name": "costrict-plugins-repo/imbad0202-academic-research-skills-academic-research-skills",
-    "stars": 19,
-    "updated_at": "2026-06-12T04:55:43Z",
-    "url": "https://github.com/costrict-plugins-repo/imbad0202-academic-research-skills-academic-research-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of greensock-gsap-skills-gsap-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/greensock-gsap-skills-gsap-skills",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/greensock-gsap-skills-gsap-skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:42Z",
-    "url": "https://github.com/costrict-plugins-repo/greensock-gsap-skills-gsap-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of forrestchang-karpathy-skills-andrej-karpathy-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/forrestchang-karpathy-skills-andrej-karpathy-skills",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/forrestchang-karpathy-skills-andrej-karpathy-skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:41Z",
-    "url": "https://github.com/costrict-plugins-repo/forrestchang-karpathy-skills-andrej-karpathy-skills"
-  },
-  {
-    "description": "custom skills for my agentic workflow",
-    "id": "keenson/agent-skills",
-    "language": "\u2014",
-    "name": "keenson/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:41Z",
-    "url": "https://github.com/keenson/agent-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-vp-cpo-readiness-advisor (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-vp-cpo-readiness-advisor",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-vp-cpo-readiness-advisor",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:38Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-vp-cpo-readiness-advisor"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-workshop-facilitation (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-workshop-facilitation",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-workshop-facilitation",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:38Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-workshop-facilitation"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-user-story (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-user-story",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-user-story",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:38Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-user-story"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-user-story-mapping-workshop (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-user-story-mapping-workshop",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-user-story-mapping-workshop",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:37Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-user-story-mapping-workshop"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-user-story-mapping (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-user-story-mapping",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-user-story-mapping",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:37Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-user-story-mapping"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-user-story-splitting (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-user-story-splitting",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-user-story-splitting",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:37Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-user-story-splitting"
-  },
-  {
-    "description": "Personal Claude Code skills",
-    "id": "abbashm9/portfolio-skills",
-    "language": "HTML",
-    "name": "abbashm9/portfolio-skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:36Z",
-    "url": "https://github.com/abbashm9/portfolio-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-saas-revenue-growth-metrics (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-saas-revenue-growth-metrics",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-saas-revenue-growth-metrics",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:36Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-saas-revenue-growth-metrics"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-skill-authoring-workflow (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-skill-authoring-workflow",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-skill-authoring-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:36Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-skill-authoring-workflow"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-storyboard (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-storyboard",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-storyboard",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:36Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-storyboard"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-tam-sam-som-calculator (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-tam-sam-som-calculator",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-tam-sam-som-calculator",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:36Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-tam-sam-som-calculator"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-saas-economics-efficiency-metrics (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-saas-economics-efficiency-metrics",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-saas-economics-efficiency-metrics",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:35Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-saas-economics-efficiency-metrics"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "editable29/skills-introduction-to-github1",
-    "language": "\u2014",
-    "name": "editable29/skills-introduction-to-github1",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:35Z",
-    "url": "https://github.com/editable29/skills-introduction-to-github1"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-proto-persona (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-proto-persona",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-proto-persona",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:34Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-proto-persona"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-recommendation-canvas (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-recommendation-canvas",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-recommendation-canvas",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:34Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-recommendation-canvas"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-product-strategy-session (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-product-strategy-session",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-product-strategy-session",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:34Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-product-strategy-session"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-roadmap-planning (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-roadmap-planning",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-roadmap-planning",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:34Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-roadmap-planning"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-problem-statement (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-problem-statement",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-problem-statement",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:33Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-problem-statement"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-problem-framing-canvas (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-problem-framing-canvas",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-problem-framing-canvas",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:33Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-problem-framing-canvas"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-product-sense-interview-answer (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-product-sense-interview-answer",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-product-sense-interview-answer",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:33Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-product-sense-interview-answer"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-prioritization-advisor (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-prioritization-advisor",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-prioritization-advisor",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:32Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-prioritization-advisor"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-press-release (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-press-release",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-press-release",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:32Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-press-release"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-positioning-workshop (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-positioning-workshop",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-positioning-workshop",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:32Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-positioning-workshop"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-positioning-statement (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-positioning-statement",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-positioning-statement",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:31Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-positioning-statement"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-prd-development (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-prd-development",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-prd-development",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:31Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-prd-development"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-pol-probe (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-pol-probe",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-pol-probe",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:30Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-pol-probe"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-pol-probe-advisor (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-pol-probe-advisor",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-pol-probe-advisor",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:30Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-pol-probe-advisor"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-opportunity-solution-tree (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-opportunity-solution-tree",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-opportunity-solution-tree",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:30Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-opportunity-solution-tree"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-pestel-analysis (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-pestel-analysis",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-pestel-analysis",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:30Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-pestel-analysis"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-jobs-to-be-done (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-jobs-to-be-done",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-jobs-to-be-done",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:29Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-jobs-to-be-done"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-finance-metrics-quickref (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-finance-metrics-quickref",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-finance-metrics-quickref",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:29Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-finance-metrics-quickref"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-lean-ux-canvas (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-lean-ux-canvas",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-lean-ux-canvas",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:29Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-lean-ux-canvas"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-finance-based-pricing-advisor (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-finance-based-pricing-advisor",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-finance-based-pricing-advisor",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:28Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-finance-based-pricing-advisor"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-epic-hypothesis (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-epic-hypothesis",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-epic-hypothesis",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:27Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-epic-hypothesis"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-executive-onboarding-playbook (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-executive-onboarding-playbook",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-executive-onboarding-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:27Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-executive-onboarding-playbook"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-feature-investment-advisor (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-feature-investment-advisor",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-feature-investment-advisor",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:27Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-feature-investment-advisor"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-epic-breakdown-advisor (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-epic-breakdown-advisor",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-epic-breakdown-advisor",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:27Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-epic-breakdown-advisor"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-eol-message (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-eol-message",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-eol-message",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:26Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-eol-message"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-director-readiness-advisor (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-director-readiness-advisor",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-director-readiness-advisor",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:26Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-director-readiness-advisor"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-discovery-interview-prep (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-discovery-interview-prep",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-discovery-interview-prep",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:26Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-discovery-interview-prep"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-discovery-process (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-discovery-process",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-discovery-process",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:26Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-discovery-process"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-customer-journey-map (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-customer-journey-map",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-customer-journey-map",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:25Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-customer-journey-map"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-customer-journey-mapping-workshop (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-customer-journey-mapping-workshop",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-customer-journey-mapping-workshop",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:25Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-customer-journey-mapping-workshop"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-company-research (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-company-research",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-company-research",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:24Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-company-research"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-context-engineering-advisor (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-context-engineering-advisor",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-context-engineering-advisor",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:24Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-context-engineering-advisor"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-acquisition-channel-advisor (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-acquisition-channel-advisor",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-acquisition-channel-advisor",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:23Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-acquisition-channel-advisor"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-ai-shaped-readiness-advisor (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-ai-shaped-readiness-advisor",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-ai-shaped-readiness-advisor",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:23Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-ai-shaped-readiness-advisor"
-  },
-  {
-    "description": "costrict-plugins mirror of deanpeters-pm-skills-altitude-horizon-framework (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/deanpeters-pm-skills-altitude-horizon-framework",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/deanpeters-pm-skills-altitude-horizon-framework",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:55:23Z",
-    "url": "https://github.com/costrict-plugins-repo/deanpeters-pm-skills-altitude-horizon-framework"
   }
 ]
