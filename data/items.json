@@ -1,5 +1,50 @@
 [
   {
+    "description": "Reusable public SKILL.md workflows for AI agents",
+    "id": "selamy-labs/agent-skills",
+    "language": "Python",
+    "name": "selamy-labs/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T22:45:27Z",
+    "url": "https://github.com/selamy-labs/agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-12T22:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A curated catalog of self-improved agent skills for Hermes and compatible agents",
+    "id": "shikanime-studio/skills",
+    "language": "\u2014",
+    "name": "shikanime-studio/skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T22:44:39Z",
+    "url": "https://github.com/shikanime-studio/skills"
+  },
+  {
+    "description": "Exercise: Communicate using Markdown",
+    "id": "grogers10/skills-communicate-using-markdown",
+    "language": "\u2014",
+    "name": "grogers10/skills-communicate-using-markdown",
+    "stars": 0,
+    "updated_at": "2026-06-12T22:44:36Z",
+    "url": "https://github.com/grogers10/skills-communicate-using-markdown"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-12T22:44:23Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
     "id": "Mann1988/awesome-claude-skills",
     "language": "Python",
@@ -79,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-06-12T22:42:43Z",
     "url": "https://github.com/Vankill08/claude-skills-mcp"
-  },
-  {
-    "description": "Reusable public SKILL.md workflows for AI agents",
-    "id": "selamy-labs/agent-skills",
-    "language": "Python",
-    "name": "selamy-labs/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T22:44:15Z",
-    "url": "https://github.com/selamy-labs/agent-skills"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -486,15 +522,6 @@
     "url": "https://github.com/alannkl/skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 3,
-    "updated_at": "2026-06-12T22:30:38Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -502,15 +529,6 @@
     "stars": 5,
     "updated_at": "2026-06-12T22:30:37Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-12T22:30:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Skills for Constructive",
@@ -828,15 +846,6 @@
     "url": "https://github.com/heriveltondesenv/skills-integrate-mcp-with-copilot"
   },
   {
-    "description": "Exercise: Communicate using Markdown",
-    "id": "grogers10/skills-communicate-using-markdown",
-    "language": "\u2014",
-    "name": "grogers10/skills-communicate-using-markdown",
-    "stars": 0,
-    "updated_at": "2026-06-12T22:41:35Z",
-    "url": "https://github.com/grogers10/skills-communicate-using-markdown"
-  },
-  {
     "description": "@cinatra-ai/blog-skills \u2014 a Cinatra skill extension",
     "id": "cinatra-ai/blog-skills",
     "language": "\u2014",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T22:16:43Z",
     "url": "https://github.com/drlewis128/business_skills"
-  },
-  {
-    "description": "This repository contains Google Cloud Shell Bash scripts and related materials for automating Google Skills Labs.",
-    "id": "nov05/nov05-gcp-skills-boost",
-    "language": "Shell",
-    "name": "nov05/nov05-gcp-skills-boost",
-    "stars": 1,
-    "updated_at": "2026-06-12T22:16:21Z",
-    "url": "https://github.com/nov05/nov05-gcp-skills-boost"
   }
 ]
