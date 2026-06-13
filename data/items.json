@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI agent skills for Claude Code",
+    "id": "thatjuan/agent-skills",
+    "language": "HTML",
+    "name": "thatjuan/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-13T04:46:27Z",
+    "url": "https://github.com/thatjuan/agent-skills"
+  },
+  {
+    "description": "Local skill retrieval library for coding agents: lexical search, Chroma vector search, warm daemon mode, and learning-lo",
+    "id": "AI4sale/unlimited-skills",
+    "language": "Python",
+    "name": "AI4sale/unlimited-skills",
+    "stars": 5,
+    "updated_at": "2026-06-13T04:45:57Z",
+    "url": "https://github.com/AI4sale/unlimited-skills"
+  },
+  {
+    "description": "Exercise: Customize Your GitHub Copilot Experience",
+    "id": "GerbertGA/skills-customize-your-github-copilot-experience",
+    "language": "JavaScript",
+    "name": "GerbertGA/skills-customize-your-github-copilot-experience",
+    "stars": 0,
+    "updated_at": "2026-06-13T04:45:56Z",
+    "url": "https://github.com/GerbertGA/skills-customize-your-github-copilot-experience"
+  },
+  {
+    "description": "",
+    "id": "myzhao0114-del/idea-bank-skills",
+    "language": "Python",
+    "name": "myzhao0114-del/idea-bank-skills",
+    "stars": 0,
+    "updated_at": "2026-06-13T04:45:30Z",
+    "url": "https://github.com/myzhao0114-del/idea-bank-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-13T04:45:29Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 5,
+    "updated_at": "2026-06-13T04:45:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "",
     "id": "FikyAnggra/skills",
     "language": "\u2014",
@@ -99,15 +153,6 @@
     "url": "https://github.com/deeppatel6598/skills"
   },
   {
-    "description": "Exercise: Customize Your GitHub Copilot Experience",
-    "id": "GerbertGA/skills-customize-your-github-copilot-experience",
-    "language": "JavaScript",
-    "name": "GerbertGA/skills-customize-your-github-copilot-experience",
-    "stars": 0,
-    "updated_at": "2026-06-13T04:42:23Z",
-    "url": "https://github.com/GerbertGA/skills-customize-your-github-copilot-experience"
-  },
-  {
     "description": "",
     "id": "progaming/agent-skills",
     "language": "\u2014",
@@ -167,7 +212,7 @@
     "language": "\u2014",
     "name": "AchmadRizqiR/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-06-13T04:43:57Z",
+    "updated_at": "2026-06-13T04:46:25Z",
     "url": "https://github.com/AchmadRizqiR/skills-introduction-to-github"
   },
   {
@@ -268,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T04:34:50Z",
     "url": "https://github.com/rogerchappel/skillscan"
-  },
-  {
-    "description": "Claude Code skills collection - guizang-ppt-skill & guizang-social-card-skill",
-    "id": "zhouzhousir1/claude-skills",
-    "language": "\u2014",
-    "name": "zhouzhousir1/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-13T04:34:50Z",
-    "url": "https://github.com/zhouzhousir1/claude-skills"
   },
   {
     "description": "APM-installable agent skills for Lean 4 and Mathlib4 \u2014 proof tactics, math domains, review and research workflows, gener",
@@ -414,15 +450,6 @@
     "url": "https://github.com/urem-desu/shadcn-skills-design-starter"
   },
   {
-    "description": "",
-    "id": "myzhao0114-del/idea-bank-skills",
-    "language": "Python",
-    "name": "myzhao0114-del/idea-bank-skills",
-    "stars": 0,
-    "updated_at": "2026-06-13T04:31:06Z",
-    "url": "https://github.com/myzhao0114-del/idea-bank-skills"
-  },
-  {
     "description": "Claude Code skills for WebWorks ePublisher automation - build, test, and customize documentation outputs",
     "id": "quadralay/webworks-agent-skills",
     "language": "Python",
@@ -448,24 +475,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T04:30:38Z",
     "url": "https://github.com/plugin87/shadcn-skills-design-starter"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 5,
-    "updated_at": "2026-06-13T04:30:36Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 3,
-    "updated_at": "2026-06-13T04:30:34Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "My clone repository",
@@ -718,15 +727,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T04:22:38Z",
     "url": "https://github.com/aihao16888/ai-workflow-skills"
-  },
-  {
-    "description": "Local skill retrieval library for coding agents: lexical search, Chroma vector search, warm daemon mode, and learning-lo",
-    "id": "AI4sale/unlimited-skills",
-    "language": "Python",
-    "name": "AI4sale/unlimited-skills",
-    "stars": 5,
-    "updated_at": "2026-06-13T04:27:16Z",
-    "url": "https://github.com/AI4sale/unlimited-skills"
   },
   {
     "description": "A collection of engine-agnostic Claude Code skills: coding-agent delegation, build workflows (scope-to-ship), evals, doc",
