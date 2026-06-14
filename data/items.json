@@ -1,12 +1,84 @@
 [
   {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "programing00/skills-github-pages",
+    "description": "Scan your codebase for quantum-vulnerable cryptography from Claude Code \u2014 Python, Java, and Go. Fully local, no account ",
+    "id": "qryptive/claude-skills",
     "language": "\u2014",
-    "name": "programing00/skills-github-pages",
+    "name": "qryptive/claude-skills",
     "stars": 0,
-    "updated_at": "2026-06-14T17:42:47Z",
-    "url": "https://github.com/programing00/skills-github-pages"
+    "updated_at": "2026-06-14T17:45:17Z",
+    "url": "https://github.com/qryptive/claude-skills"
+  },
+  {
+    "description": "",
+    "id": "Da1v1d/skills",
+    "language": "\u2014",
+    "name": "Da1v1d/skills",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:45:15Z",
+    "url": "https://github.com/Da1v1d/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-14T17:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "vdonthireddy/ollama-gemma-agents-mcp-skills",
+    "language": "Python",
+    "name": "vdonthireddy/ollama-gemma-agents-mcp-skills",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:44:44Z",
+    "url": "https://github.com/vdonthireddy/ollama-gemma-agents-mcp-skills"
+  },
+  {
+    "description": "Diving Skills Library II",
+    "id": "cliff-devries/diving-skills-app",
+    "language": "HTML",
+    "name": "cliff-devries/diving-skills-app",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:43:46Z",
+    "url": "https://github.com/cliff-devries/diving-skills-app"
+  },
+  {
+    "description": "Deterministic 0\u2013100 quality score for Claude Code skills \u2014 information density, readability, topic coverage, structural ",
+    "id": "larsroettig/skillspector-quality",
+    "language": "\u2014",
+    "name": "larsroettig/skillspector-quality",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:43:31Z",
+    "url": "https://github.com/larsroettig/skillspector-quality"
+  },
+  {
+    "description": "Exercise: Review pull requests",
+    "id": "adina232/skills-review-pull-requests",
+    "language": "HTML",
+    "name": "adina232/skills-review-pull-requests",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:43:36Z",
+    "url": "https://github.com/adina232/skills-review-pull-requests"
+  },
+  {
+    "description": "Hermes Agent skills - 14 June 2026 batch",
+    "id": "Watcher-Hermes/hermes-skills",
+    "language": "Python",
+    "name": "Watcher-Hermes/hermes-skills",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:43:19Z",
+    "url": "https://github.com/Watcher-Hermes/hermes-skills"
+  },
+  {
+    "description": "ai.skills.incubation",
+    "id": "nervlin4444/ai.skills.incubation",
+    "language": "Python",
+    "name": "nervlin4444/ai.skills.incubation",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:43:13Z",
+    "url": "https://github.com/nervlin4444/ai.skills.incubation"
   },
   {
     "description": "\ud83d\ude80 \u5b9e\u7528 Claude Code Skills \u5408\u96c6 - \u4ee3\u7801\u63d0\u4ea4\u3001\u6587\u6863\u751f\u6210\u3001\u6d4b\u8bd5\u7f16\u5199\u3001\u4ee3\u7801\u5ba1\u67e5\u7b49 12 \u4e2a\u5f00\u7bb1\u5373\u7528\u7684\u6280\u80fd",
@@ -14,8 +86,35 @@
     "language": "\u2014",
     "name": "sissc0731/claude-code-skills",
     "stars": 0,
-    "updated_at": "2026-06-14T17:42:42Z",
+    "updated_at": "2026-06-14T17:43:04Z",
     "url": "https://github.com/sissc0731/claude-code-skills"
+  },
+  {
+    "description": "Skills for coding agents",
+    "id": "cystema/skills",
+    "language": "\u2014",
+    "name": "cystema/skills",
+    "stars": 1,
+    "updated_at": "2026-06-14T17:43:04Z",
+    "url": "https://github.com/cystema/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-14T17:43:00Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "programing00/skills-github-pages",
+    "language": "\u2014",
+    "name": "programing00/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:42:47Z",
+    "url": "https://github.com/programing00/skills-github-pages"
   },
   {
     "description": "Booster AI domain pack for Claude Code \u2014 companion to agent-rigor",
@@ -43,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-06-14T17:42:28Z",
     "url": "https://github.com/BjornMelin/dev-skills"
-  },
-  {
-    "description": "ai.skills.incubation",
-    "id": "nervlin4444/ai.skills.incubation",
-    "language": "Python",
-    "name": "nervlin4444/ai.skills.incubation",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:42:18Z",
-    "url": "https://github.com/nervlin4444/ai.skills.incubation"
   },
   {
     "description": "Claude Code skill: daily 24h-gated review of your skills against their observations + best practices, with auto-trigger ",
@@ -151,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T17:39:58Z",
     "url": "https://github.com/marcelohaz/afiliados-skills"
-  },
-  {
-    "description": "Hermes Agent skills - 14 June 2026 batch",
-    "id": "Watcher-Hermes/hermes-skills",
-    "language": "Python",
-    "name": "Watcher-Hermes/hermes-skills",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:39:37Z",
-    "url": "https://github.com/Watcher-Hermes/hermes-skills"
   },
   {
     "description": "Exercise: Communicate using Markdown",
@@ -324,15 +405,6 @@
     "url": "https://github.com/yosoyignicion/My.OC.skills-matrix"
   },
   {
-    "description": "Skills for coding agents",
-    "id": "cystema/skills",
-    "language": "\u2014",
-    "name": "cystema/skills",
-    "stars": 1,
-    "updated_at": "2026-06-14T17:33:56Z",
-    "url": "https://github.com/cystema/skills"
-  },
-  {
     "description": "Exercise: Communicate using Markdown",
     "id": "steve-361/skills-communicate-using-markdown",
     "language": "\u2014",
@@ -356,7 +428,7 @@
     "language": "Shell",
     "name": "SudheshnaSaiChandolu/skills-build-applications-w-copilot-agent-mode",
     "stars": 0,
-    "updated_at": "2026-06-14T17:37:57Z",
+    "updated_at": "2026-06-14T17:44:41Z",
     "url": "https://github.com/SudheshnaSaiChandolu/skills-build-applications-w-copilot-agent-mode"
   },
   {
@@ -383,7 +455,7 @@
     "language": "\u2014",
     "name": "kriz43/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-06-14T17:39:26Z",
+    "updated_at": "2026-06-14T17:43:05Z",
     "url": "https://github.com/kriz43/skills-communicate-using-markdown"
   },
   {
@@ -477,24 +549,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 3,
-    "updated_at": "2026-06-14T17:30:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-14T17:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
     "id": "tomevault-io/skills-registry",
     "language": "\u2014",
@@ -511,15 +565,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T17:30:00Z",
     "url": "https://github.com/hellatan/claude-skills"
-  },
-  {
-    "description": "Diving Skills Library II",
-    "id": "cliff-devries/diving-skills-app",
-    "language": "HTML",
-    "name": "cliff-devries/diving-skills-app",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:28:47Z",
-    "url": "https://github.com/cliff-devries/diving-skills-app"
   },
   {
     "description": "A package manager for your agent skills \u2014 one canonical library, loaded on demand, never all at once.",
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T17:15:10Z",
     "url": "https://github.com/AdilNishat/skills-copilot-codespaces-vscode"
-  },
-  {
-    "description": "OWASP Foundation web repository",
-    "id": "OWASP/www-project-agentic-skills-top-10",
-    "language": "HTML",
-    "name": "OWASP/www-project-agentic-skills-top-10",
-    "stars": 101,
-    "updated_at": "2026-06-14T17:15:10Z",
-    "url": "https://github.com/OWASP/www-project-agentic-skills-top-10"
-  },
-  {
-    "description": "",
-    "id": "rentometer/claude-skills",
-    "language": "Shell",
-    "name": "rentometer/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:15:09Z",
-    "url": "https://github.com/rentometer/claude-skills"
-  },
-  {
-    "description": "",
-    "id": "VasupriyaPatnaik/SkillSync-AI",
-    "language": "JavaScript",
-    "name": "VasupriyaPatnaik/SkillSync-AI",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:14:55Z",
-    "url": "https://github.com/VasupriyaPatnaik/SkillSync-AI"
-  },
-  {
-    "description": "",
-    "id": "ericmjl/skills",
-    "language": "TypeScript",
-    "name": "ericmjl/skills",
-    "stars": 35,
-    "updated_at": "2026-06-14T17:15:21Z",
-    "url": "https://github.com/ericmjl/skills"
-  },
-  {
-    "description": "AI Agent Skills",
-    "id": "pedrofuentes/skills",
-    "language": "\u2014",
-    "name": "pedrofuentes/skills",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:13:54Z",
-    "url": "https://github.com/pedrofuentes/skills"
   }
 ]
