@@ -1,11 +1,74 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-16T00:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The repo for all system/public ornn skills",
+    "id": "ChronoAIProject/ornn-skills",
+    "language": "JavaScript",
+    "name": "ChronoAIProject/ornn-skills",
+    "stars": 0,
+    "updated_at": "2026-06-16T00:00:13Z",
+    "url": "https://github.com/ChronoAIProject/ornn-skills"
+  },
+  {
+    "description": "CLI and TUI for managing local AI skill catalogs",
+    "id": "brian-bell/skills-importer",
+    "language": "Rust",
+    "name": "brian-bell/skills-importer",
+    "stars": 0,
+    "updated_at": "2026-06-16T00:00:10Z",
+    "url": "https://github.com/brian-bell/skills-importer"
+  },
+  {
+    "description": "Free, open-source agent skills for AI SEO. Self-contained instruction sets any AI agent can fetch, read, and execute.",
+    "id": "boshify/ai-seo-agent-skills",
+    "language": "Python",
+    "name": "boshify/ai-seo-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-06-16T00:00:10Z",
+    "url": "https://github.com/boshify/ai-seo-agent-skills"
+  },
+  {
+    "description": "",
+    "id": "poorants/ant-skills",
+    "language": "Python",
+    "name": "poorants/ant-skills",
+    "stars": 1,
+    "updated_at": "2026-06-15T23:59:34Z",
+    "url": "https://github.com/poorants/ant-skills"
+  },
+  {
+    "description": "",
+    "id": "GeorgeQLe/agentic-skills",
+    "language": "HTML",
+    "name": "GeorgeQLe/agentic-skills",
+    "stars": 0,
+    "updated_at": "2026-06-15T23:59:32Z",
+    "url": "https://github.com/GeorgeQLe/agentic-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-15T23:59:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Get started using GitHub Copilot",
     "id": "blucheesy/skills-getting-started-with-github-copilot",
     "language": "JavaScript",
     "name": "blucheesy/skills-getting-started-with-github-copilot",
     "stars": 0,
-    "updated_at": "2026-06-15T23:59:13Z",
+    "updated_at": "2026-06-15T23:59:28Z",
     "url": "https://github.com/blucheesy/skills-getting-started-with-github-copilot"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "hamakyo/okf-skills",
     "stars": 0,
-    "updated_at": "2026-06-15T23:57:12Z",
+    "updated_at": "2026-06-16T00:00:12Z",
     "url": "https://github.com/hamakyo/okf-skills"
   },
   {
@@ -135,21 +198,12 @@
     "url": "https://github.com/riffingonsoftware/agent-skills"
   },
   {
-    "description": "CLI and TUI for managing local AI skill catalogs",
-    "id": "brian-bell/skills-importer",
-    "language": "Rust",
-    "name": "brian-bell/skills-importer",
-    "stars": 0,
-    "updated_at": "2026-06-15T23:53:52Z",
-    "url": "https://github.com/brian-bell/skills-importer"
-  },
-  {
     "description": "",
     "id": "Wibx-LABS/wibx-skills",
     "language": "Python",
     "name": "Wibx-LABS/wibx-skills",
     "stars": 0,
-    "updated_at": "2026-06-15T23:53:42Z",
+    "updated_at": "2026-06-15T23:59:58Z",
     "url": "https://github.com/Wibx-LABS/wibx-skills"
   },
   {
@@ -194,7 +248,7 @@
     "language": "Python",
     "name": "tonykoop/claude-skills",
     "stars": 0,
-    "updated_at": "2026-06-15T23:51:08Z",
+    "updated_at": "2026-06-15T23:59:32Z",
     "url": "https://github.com/tonykoop/claude-skills"
   },
   {
@@ -301,7 +355,7 @@
     "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
     "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 28283,
+    "stars": 28284,
     "updated_at": "2026-06-15T23:48:13Z",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
@@ -378,15 +432,6 @@
     "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 3,
-    "updated_at": "2026-06-15T23:45:35Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -403,15 +448,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T23:45:30Z",
     "url": "https://github.com/danielwealth/skillSpotlight"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-15T23:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -556,15 +592,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T23:35:18Z",
     "url": "https://github.com/skills-yaml/skm"
-  },
-  {
-    "description": "",
-    "id": "GeorgeQLe/agentic-skills",
-    "language": "HTML",
-    "name": "GeorgeQLe/agentic-skills",
-    "stars": 0,
-    "updated_at": "2026-06-15T23:34:30Z",
-    "url": "https://github.com/GeorgeQLe/agentic-skills"
   },
   {
     "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T23:26:23Z",
     "url": "https://github.com/xwbcl123/Martin-brew-skills"
-  },
-  {
-    "description": "Automate Odoo development tasks including addon reviews, OCA migrations, test writing, and OWL frontend changes.",
-    "id": "Immoderate-humulin783/odoo-skills",
-    "language": "JavaScript",
-    "name": "Immoderate-humulin783/odoo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-15T23:26:15Z",
-    "url": "https://github.com/Immoderate-humulin783/odoo-skills"
-  },
-  {
-    "description": "Deploy 76 audit-ready robotics skills for Claude with integrated KPI dashboards, ISO standard compliance, and automated ",
-    "id": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "language": "\u2014",
-    "name": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "stars": 1,
-    "updated_at": "2026-06-15T23:25:55Z",
-    "url": "https://github.com/Brownbettywoodsorrelfamily890/robotics-skills-suite"
-  },
-  {
-    "description": "Automate the installation and management of OpenClaw skills without manual configuration.",
-    "id": "Overhand-cool515/loader-openclaw-skills",
-    "language": "\u2014",
-    "name": "Overhand-cool515/loader-openclaw-skills",
-    "stars": 1,
-    "updated_at": "2026-06-15T23:25:49Z",
-    "url": "https://github.com/Overhand-cool515/loader-openclaw-skills"
   }
 ]
