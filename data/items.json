@@ -1,12 +1,129 @@
 [
   {
+    "description": "Diving Skills Library II",
+    "id": "cliff-devries/diving-skills-app",
+    "language": "HTML",
+    "name": "cliff-devries/diving-skills-app",
+    "stars": 0,
+    "updated_at": "2026-06-20T22:05:25Z",
+    "url": "https://github.com/cliff-devries/diving-skills-app"
+  },
+  {
+    "description": "Router + Skills + Model Training: 99% accuracy with 83% cost saving (verified on HumanEval 164)",
+    "id": "zeyuyuyu/router-skills-evolve",
+    "language": "Python",
+    "name": "zeyuyuyu/router-skills-evolve",
+    "stars": 3,
+    "updated_at": "2026-06-20T22:05:06Z",
+    "url": "https://github.com/zeyuyuyu/router-skills-evolve"
+  },
+  {
+    "description": "\ud83c\udf33 A comprehensive collection of all skills available for AI agents and computer-use models \u2014 perception, reasoning, memo",
+    "id": "SamoTech/skills-tree",
+    "language": "Python",
+    "name": "SamoTech/skills-tree",
+    "stars": 2,
+    "updated_at": "2026-06-20T22:04:59Z",
+    "url": "https://github.com/SamoTech/skills-tree"
+  },
+  {
+    "description": "Community skills for Hermes AI Agent \u2014 SEO, WordPress, Marketing, and more",
+    "id": "RobinBeraud/hermes-skills",
+    "language": "\u2014",
+    "name": "RobinBeraud/hermes-skills",
+    "stars": 1,
+    "updated_at": "2026-06-20T22:04:23Z",
+    "url": "https://github.com/RobinBeraud/hermes-skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "sbJanuszCwalinski/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "sbJanuszCwalinski/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-06-20T22:04:10Z",
+    "url": "https://github.com/sbJanuszCwalinski/skills-introduction-to-git"
+  },
+  {
     "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
     "id": "tomevault-io/skills-registry",
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-06-20T22:00:28Z",
+    "updated_at": "2026-06-20T22:04:04Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "id": "addyosmani/agent-skills",
+    "language": "Shell",
+    "name": "addyosmani/agent-skills",
+    "stars": 64105,
+    "updated_at": "2026-06-20T22:03:09Z",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "description": "Skills Development Software \u2014 IT Project 600",
+    "id": "skilifik26-dev/skillsdev",
+    "language": "Python",
+    "name": "skilifik26-dev/skillsdev",
+    "stars": 0,
+    "updated_at": "2026-06-20T22:03:00Z",
+    "url": "https://github.com/skilifik26-dev/skillsdev"
+  },
+  {
+    "description": "Exercise: Secure your Repository Supply Chain",
+    "id": "nicealien666/skills-secure-repository-supply-chain",
+    "language": "C#",
+    "name": "nicealien666/skills-secure-repository-supply-chain",
+    "stars": 0,
+    "updated_at": "2026-06-20T22:04:40Z",
+    "url": "https://github.com/nicealien666/skills-secure-repository-supply-chain"
+  },
+  {
+    "description": "Smart Contract Audits and Triage Skills ",
+    "id": "Yahaya-Salisu/babs-audits-skills",
+    "language": "\u2014",
+    "name": "Yahaya-Salisu/babs-audits-skills",
+    "stars": 1,
+    "updated_at": "2026-06-20T22:01:41Z",
+    "url": "https://github.com/Yahaya-Salisu/babs-audits-skills"
+  },
+  {
+    "description": "Obsidian-backed workflow skills for coding agents",
+    "id": "GeekXtop/obsidian-agent-skills",
+    "language": "JavaScript",
+    "name": "GeekXtop/obsidian-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-20T22:01:10Z",
+    "url": "https://github.com/GeekXtop/obsidian-agent-skills"
+  },
+  {
+    "description": "Claude Code custom Skills collection - Angular/PrimeNG, FastAPI/SQLModel, OpenSpec SDD workflow",
+    "id": "seikaikyo/dash-skills",
+    "language": "Shell",
+    "name": "seikaikyo/dash-skills",
+    "stars": 1,
+    "updated_at": "2026-06-20T22:00:40Z",
+    "url": "https://github.com/seikaikyo/dash-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 5,
+    "updated_at": "2026-06-20T22:00:32Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 9,
+    "updated_at": "2026-06-20T22:00:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -45,15 +162,6 @@
     "url": "https://github.com/smyx-sunjinhui/smyx-open-claw-skills"
   },
   {
-    "description": "Exercise: Secure your Repository Supply Chain",
-    "id": "nicealien666/skills-secure-repository-supply-chain",
-    "language": "C#",
-    "name": "nicealien666/skills-secure-repository-supply-chain",
-    "stars": 0,
-    "updated_at": "2026-06-20T21:58:49Z",
-    "url": "https://github.com/nicealien666/skills-secure-repository-supply-chain"
-  },
-  {
     "description": "Claude Code skills",
     "id": "marcelocantos/skills",
     "language": "Shell",
@@ -61,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T21:58:36Z",
     "url": "https://github.com/marcelocantos/skills"
-  },
-  {
-    "description": "Smart Contract Audits and Triage Skills ",
-    "id": "Yahaya-Salisu/babs-audits-skills",
-    "language": "\u2014",
-    "name": "Yahaya-Salisu/babs-audits-skills",
-    "stars": 1,
-    "updated_at": "2026-06-20T21:57:30Z",
-    "url": "https://github.com/Yahaya-Salisu/babs-audits-skills"
   },
   {
     "description": "My dev workflow, encoded. Might be useful to you too.",
@@ -133,15 +232,6 @@
     "stars": 5,
     "updated_at": "2026-06-20T21:55:16Z",
     "url": "https://github.com/tkersey/skills-zig"
-  },
-  {
-    "description": "Obsidian-backed workflow skills for coding agents",
-    "id": "GeekXtop/obsidian-agent-skills",
-    "language": "JavaScript",
-    "name": "GeekXtop/obsidian-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-20T21:55:30Z",
-    "url": "https://github.com/GeekXtop/obsidian-agent-skills"
   },
   {
     "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
@@ -351,15 +441,6 @@
     "url": "https://github.com/stsgs1980/Z-ai-skills"
   },
   {
-    "description": "Skills Development Software \u2014 IT Project 600",
-    "id": "skilifik26-dev/skillsdev",
-    "language": "Python",
-    "name": "skilifik26-dev/skillsdev",
-    "stars": 0,
-    "updated_at": "2026-06-20T21:47:14Z",
-    "url": "https://github.com/skilifik26-dev/skillsdev"
-  },
-  {
     "description": "Build Unipaas integrations with your AI agent.",
     "id": "UNIPaaS/agent-skills",
     "language": "\u2014",
@@ -376,24 +457,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T21:45:45Z",
     "url": "https://github.com/deniskrizanovic/dk-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 9,
-    "updated_at": "2026-06-20T21:45:30Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 5,
-    "updated_at": "2026-06-20T21:45:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Personal multi-skill repository for reusable Codex workflows.",
@@ -835,68 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T21:20:32Z",
     "url": "https://github.com/nigelmcnie/feature-skills"
-  },
-  {
-    "description": "A trillion-parameter brain to wash my digital dishes.",
-    "id": "wilbeibi/wilbeibi-skills",
-    "language": "Python",
-    "name": "wilbeibi/wilbeibi-skills",
-    "stars": 0,
-    "updated_at": "2026-06-20T21:14:48Z",
-    "url": "https://github.com/wilbeibi/wilbeibi-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "Ruqayya2024/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "Ruqayya2024/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-06-20T21:13:30Z",
-    "url": "https://github.com/Ruqayya2024/skills-introduction-to-github"
-  },
-  {
-    "description": "Agent skills for Kubernetes cluster operations \u2014 Cilium, Talos, Flux, Rook-Ceph, CNPG, Gitea, Tekton, Cert-Manager, Vict",
-    "id": "Aidas-dev/k8s-agent-skills",
-    "language": "Shell",
-    "name": "Aidas-dev/k8s-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-20T21:12:53Z",
-    "url": "https://github.com/Aidas-dev/k8s-agent-skills"
-  },
-  {
-    "description": "",
-    "id": "Attax-io/claude-skills",
-    "language": "JavaScript",
-    "name": "Attax-io/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-20T21:12:52Z",
-    "url": "https://github.com/Attax-io/claude-skills"
-  },
-  {
-    "description": "Personal Claude Code config \u2014 CLAUDE.md, skill.md, rules",
-    "id": "krittapastrycode/krittapastrycode-skills",
-    "language": "Shell",
-    "name": "krittapastrycode/krittapastrycode-skills",
-    "stars": 1,
-    "updated_at": "2026-06-20T21:12:08Z",
-    "url": "https://github.com/krittapastrycode/krittapastrycode-skills"
-  },
-  {
-    "description": "Trading & Investing for AI agents. Trade Stocks, Crypto & Prediction market with one api \ud83d\udcb9",
-    "id": "openfinance-tech/skills",
-    "language": "\u2014",
-    "name": "openfinance-tech/skills",
-    "stars": 3,
-    "updated_at": "2026-06-20T21:12:05Z",
-    "url": "https://github.com/openfinance-tech/skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "mansi-740/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "mansi-740/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-06-20T21:11:59Z",
-    "url": "https://github.com/mansi-740/skills-introduction-to-git"
   }
 ]
