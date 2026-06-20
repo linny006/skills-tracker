@@ -5,8 +5,71 @@
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-06-20T20:59:44Z",
+    "updated_at": "2026-06-20T21:00:29Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Hys Skills",
+    "id": "SilentUniverse/HysSkills",
+    "language": "JavaScript",
+    "name": "SilentUniverse/HysSkills",
+    "stars": 1,
+    "updated_at": "2026-06-20T21:00:19Z",
+    "url": "https://github.com/SilentUniverse/HysSkills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-20T21:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The repo for all system/public ornn skills",
+    "id": "ChronoAIProject/ornn-skills",
+    "language": "JavaScript",
+    "name": "ChronoAIProject/ornn-skills",
+    "stars": 0,
+    "updated_at": "2026-06-20T21:00:12Z",
+    "url": "https://github.com/ChronoAIProject/ornn-skills"
+  },
+  {
+    "description": "Personal skills I use to improve my various agentic workflows",
+    "id": "gkuchar/agent-skills",
+    "language": "\u2014",
+    "name": "gkuchar/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-20T21:00:10Z",
+    "url": "https://github.com/gkuchar/agent-skills"
+  },
+  {
+    "description": "",
+    "id": "Vivek-dev-web/Link_Skills",
+    "language": "TypeScript",
+    "name": "Vivek-dev-web/Link_Skills",
+    "stars": 0,
+    "updated_at": "2026-06-20T21:00:05Z",
+    "url": "https://github.com/Vivek-dev-web/Link_Skills"
+  },
+  {
+    "description": "Curated agent skills for Apex with Nimbus",
+    "id": "nimbus-solution/nimbus-skills",
+    "language": "JavaScript",
+    "name": "nimbus-solution/nimbus-skills",
+    "stars": 0,
+    "updated_at": "2026-06-20T20:59:52Z",
+    "url": "https://github.com/nimbus-solution/nimbus-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 5,
+    "updated_at": "2026-06-20T20:59:49Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Arquivos .md sobre Genexus",
@@ -59,7 +122,7 @@
     "language": "TypeScript",
     "name": "outfitter-dev/skillset",
     "stars": 0,
-    "updated_at": "2026-06-20T20:59:41Z",
+    "updated_at": "2026-06-20T21:00:27Z",
     "url": "https://github.com/outfitter-dev/skillset"
   },
   {
@@ -133,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T20:57:29Z",
     "url": "https://github.com/reecosys/forvex-skills"
-  },
-  {
-    "description": "",
-    "id": "Vivek-dev-web/Link_Skills",
-    "language": "\u2014",
-    "name": "Vivek-dev-web/Link_Skills",
-    "stars": 0,
-    "updated_at": "2026-06-20T20:56:49Z",
-    "url": "https://github.com/Vivek-dev-web/Link_Skills"
   },
   {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
@@ -396,15 +450,6 @@
     "url": "https://github.com/KTDroulard/skills-deploy-to-azure"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 5,
-    "updated_at": "2026-06-20T20:45:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
     "id": "ellmos-ai/skills",
     "language": "Python",
@@ -412,15 +457,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T20:45:21Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-20T20:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T20:30:25Z",
     "url": "https://github.com/AlfonsoSBLA/esic-skills-pack"
-  },
-  {
-    "description": "Plugin marketplace for auto-claude-skills",
-    "id": "damianpapadopoulos/auto-claude-skills-marketplace",
-    "language": "\u2014",
-    "name": "damianpapadopoulos/auto-claude-skills-marketplace",
-    "stars": 0,
-    "updated_at": "2026-06-20T20:29:38Z",
-    "url": "https://github.com/damianpapadopoulos/auto-claude-skills-marketplace"
-  },
-  {
-    "description": "",
-    "id": "damianpapadopoulos/auto-claude-skills",
-    "language": "Shell",
-    "name": "damianpapadopoulos/auto-claude-skills",
-    "stars": 5,
-    "updated_at": "2026-06-20T20:29:36Z",
-    "url": "https://github.com/damianpapadopoulos/auto-claude-skills"
-  },
-  {
-    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
-    "id": "KonovalovAlexey/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "language": "\u2014",
-    "name": "KonovalovAlexey/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "stars": 0,
-    "updated_at": "2026-06-20T20:29:36Z",
-    "url": "https://github.com/KonovalovAlexey/skills-scale-institutional-knowledge-using-copilot-spaces"
-  },
-  {
-    "description": "",
-    "id": "mistakenot/skills",
-    "language": "JavaScript",
-    "name": "mistakenot/skills",
-    "stars": 0,
-    "updated_at": "2026-06-20T20:29:32Z",
-    "url": "https://github.com/mistakenot/skills"
   }
 ]
