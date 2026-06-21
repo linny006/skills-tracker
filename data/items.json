@@ -1,5 +1,50 @@
 [
   {
+    "description": "",
+    "id": "tidy-dev-team/claude-skills",
+    "language": "TypeScript",
+    "name": "tidy-dev-team/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-21T06:30:43Z",
+    "url": "https://github.com/tidy-dev-team/claude-skills"
+  },
+  {
+    "description": "Agent skills for the research-paper lifecycle",
+    "id": "ShaishavMaisuria/research-paper-lifecycle-skills",
+    "language": "Python",
+    "name": "ShaishavMaisuria/research-paper-lifecycle-skills",
+    "stars": 0,
+    "updated_at": "2026-06-21T06:30:36Z",
+    "url": "https://github.com/ShaishavMaisuria/research-paper-lifecycle-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 9,
+    "updated_at": "2026-06-21T06:30:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 5,
+    "updated_at": "2026-06-21T06:30:29Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Exercise: Review pull requests",
+    "id": "P-chris157/skills-review-pull-requests",
+    "language": "HTML",
+    "name": "P-chris157/skills-review-pull-requests",
+    "stars": 0,
+    "updated_at": "2026-06-21T06:30:25Z",
+    "url": "https://github.com/P-chris157/skills-review-pull-requests"
+  },
+  {
     "description": "CSP is an integrated suite of AI-driven coding capabilities. It bridges the gap between essential development workflows ",
     "id": "maythyai/code-skills-package",
     "language": "JavaScript",
@@ -36,15 +81,6 @@
     "url": "https://github.com/amkyawdev/ai-brain-skills"
   },
   {
-    "description": "Exercise: Review pull requests",
-    "id": "P-chris157/skills-review-pull-requests",
-    "language": "HTML",
-    "name": "P-chris157/skills-review-pull-requests",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:30:25Z",
-    "url": "https://github.com/P-chris157/skills-review-pull-requests"
-  },
-  {
     "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
     "id": "tomevault-io/skills-registry",
     "language": "\u2014",
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "tomazb/agent-skills",
     "stars": 2,
-    "updated_at": "2026-06-21T06:28:30Z",
+    "updated_at": "2026-06-21T06:30:46Z",
     "url": "https://github.com/tomazb/agent-skills"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 8,
     "updated_at": "2026-06-21T06:28:09Z",
     "url": "https://github.com/Xuxchloris/hermes-export-skills"
-  },
-  {
-    "description": "Agent skills for the research-paper lifecycle",
-    "id": "ShaishavMaisuria/research-paper-lifecycle-skills",
-    "language": "Python",
-    "name": "ShaishavMaisuria/research-paper-lifecycle-skills",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:28:08Z",
-    "url": "https://github.com/ShaishavMaisuria/research-paper-lifecycle-skills"
   },
   {
     "description": "WalrusSkills",
@@ -149,7 +176,7 @@
     "language": "\u2014",
     "name": "Akeboshiii/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-06-21T06:29:14Z",
+    "updated_at": "2026-06-21T06:30:42Z",
     "url": "https://github.com/Akeboshiii/skills-introduction-to-github"
   },
   {
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T06:23:56Z",
     "url": "https://github.com/jarvs1024/skills"
-  },
-  {
-    "description": "",
-    "id": "tidy-dev-team/claude-skills",
-    "language": "TypeScript",
-    "name": "tidy-dev-team/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:23:54Z",
-    "url": "https://github.com/tidy-dev-team/claude-skills"
   },
   {
     "description": "Some skills that I have developed based on my personal life experiences",
@@ -493,24 +511,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T06:16:22Z",
     "url": "https://github.com/liu-qingyuan/skills-sync-lqy"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 9,
-    "updated_at": "2026-06-21T06:15:34Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 5,
-    "updated_at": "2026-06-21T06:15:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Exercise: Review pull requests",
