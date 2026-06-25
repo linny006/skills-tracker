@@ -1,11 +1,47 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-25T11:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "mattstratton/skills-poc",
+    "language": "Python",
+    "name": "mattstratton/skills-poc",
+    "stars": 0,
+    "updated_at": "2026-06-25T11:30:08Z",
+    "url": "https://github.com/mattstratton/skills-poc"
+  },
+  {
+    "description": "",
+    "id": "darkgrimpy1/skills",
+    "language": "\u2014",
+    "name": "darkgrimpy1/skills",
+    "stars": 0,
+    "updated_at": "2026-06-25T11:30:08Z",
+    "url": "https://github.com/darkgrimpy1/skills"
+  },
+  {
+    "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
+    "id": "tomevault-io/skills-registry",
+    "language": "\u2014",
+    "name": "tomevault-io/skills-registry",
+    "stars": 0,
+    "updated_at": "2026-06-25T11:30:03Z",
+    "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
     "description": "Exercise: Get started using GitHub Copilot",
     "id": "Buczynskyy/skills-getting-started-with-github-copilot",
-    "language": "\u2014",
+    "language": "JavaScript",
     "name": "Buczynskyy/skills-getting-started-with-github-copilot",
     "stars": 0,
-    "updated_at": "2026-06-25T11:29:40Z",
+    "updated_at": "2026-06-25T11:29:56Z",
     "url": "https://github.com/Buczynskyy/skills-getting-started-with-github-copilot"
   },
   {
@@ -14,8 +50,35 @@
     "language": "\u2014",
     "name": "Lioneldellarossa/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-06-25T11:29:42Z",
+    "updated_at": "2026-06-25T11:29:55Z",
     "url": "https://github.com/Lioneldellarossa/skills-introduction-to-github"
+  },
+  {
+    "description": "Agent Skills for BESSER \u2014 deep BESSER knowledge for AI coding agents: UML class modeling, code generators, troubleshooti",
+    "id": "BESSER-PEARL/BESSER-Skills",
+    "language": "Python",
+    "name": "BESSER-PEARL/BESSER-Skills",
+    "stars": 4,
+    "updated_at": "2026-06-25T11:29:48Z",
+    "url": "https://github.com/BESSER-PEARL/BESSER-Skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-06-25T11:29:46Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "pceballos-pca/it-skills",
+    "language": "\u2014",
+    "name": "pceballos-pca/it-skills",
+    "stars": 0,
+    "updated_at": "2026-06-25T11:29:40Z",
+    "url": "https://github.com/pceballos-pca/it-skills"
   },
   {
     "description": "AI\u9a71\u52a8\u91cf\u5316CTA\u7cfb\u7edf - \u9057\u4f20\u7f16\u7a0b\u56e0\u5b50\u6316\u6398",
@@ -70,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-06-25T11:29:06Z",
     "url": "https://github.com/siam70344-source/siam70344-source-skillswap-client."
+  },
+  {
+    "description": "Give your agents the power of the Hugging Face ecosystem",
+    "id": "huggingface/skills",
+    "language": "Python",
+    "name": "huggingface/skills",
+    "stars": 10728,
+    "updated_at": "2026-06-25T11:28:47Z",
+    "url": "https://github.com/huggingface/skills"
   },
   {
     "description": "Auto-generated agent skills from trending marketing & growth repos, by ara.so",
@@ -169,15 +241,6 @@
     "stars": 3512,
     "updated_at": "2026-06-25T11:27:23Z",
     "url": "https://github.com/dotnet/skills"
-  },
-  {
-    "description": "",
-    "id": "pceballos-pca/it-skills",
-    "language": "\u2014",
-    "name": "pceballos-pca/it-skills",
-    "stars": 0,
-    "updated_at": "2026-06-25T11:29:40Z",
-    "url": "https://github.com/pceballos-pca/it-skills"
   },
   {
     "description": "",
@@ -725,7 +788,7 @@
     "language": "TypeScript",
     "name": "gagan114662/agent-skills",
     "stars": 0,
-    "updated_at": "2026-06-25T11:17:49Z",
+    "updated_at": "2026-06-25T11:30:24Z",
     "url": "https://github.com/gagan114662/agent-skills"
   },
   {
@@ -747,15 +810,6 @@
     "url": "https://github.com/pawankmrai/apple-dev-skills"
   },
   {
-    "description": "Agent Skills for BESSER \u2014 deep BESSER knowledge for AI coding agents: UML class modeling, code generators, troubleshooti",
-    "id": "BESSER-PEARL/BESSER-Skills",
-    "language": "Python",
-    "name": "BESSER-PEARL/BESSER-Skills",
-    "stars": 4,
-    "updated_at": "2026-06-25T11:21:14Z",
-    "url": "https://github.com/BESSER-PEARL/BESSER-Skills"
-  },
-  {
     "description": "Zentrale opencode-Skills f\u00fcr KPX-Websites und Marketing",
     "id": "Busch80/opencode-skills",
     "language": "TypeScript",
@@ -765,15 +819,6 @@
     "url": "https://github.com/Busch80/opencode-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-06-25T11:15:34Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -781,15 +826,6 @@
     "stars": 9,
     "updated_at": "2026-06-25T11:15:32Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-25T11:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Journal-specific Claude Code/Codex skill packs covering mainstream journals \u2014 AER, QJE, Nature, Cell, \u7ba1\u7406\u4e16\u754c, \u7ecf\u6d4e\u7814\u7a76 & 200+ ",
@@ -862,41 +898,5 @@
     "stars": 2,
     "updated_at": "2026-06-25T11:14:11Z",
     "url": "https://github.com/SamoTech/skills-tree"
-  },
-  {
-    "description": "A peer-to-peer, credit-based skill-exchange platform (MERN) reframed around Universal Human Values \u2014 trust, reciprocity,",
-    "id": "chiraanthh/SkillSync-UHV",
-    "language": "JavaScript",
-    "name": "chiraanthh/SkillSync-UHV",
-    "stars": 0,
-    "updated_at": "2026-06-25T11:13:58Z",
-    "url": "https://github.com/chiraanthh/SkillSync-UHV"
-  },
-  {
-    "description": "Claude Code skill for generating FTB Quests configuration files (modern JSON5)",
-    "id": "IoIqq/ftb-quests-skills",
-    "language": "Python",
-    "name": "IoIqq/ftb-quests-skills",
-    "stars": 1,
-    "updated_at": "2026-06-25T11:13:55Z",
-    "url": "https://github.com/IoIqq/ftb-quests-skills"
-  },
-  {
-    "description": "",
-    "id": "jaaemperador-prog/GE-IT-Skills-portfolio",
-    "language": "\u2014",
-    "name": "jaaemperador-prog/GE-IT-Skills-portfolio",
-    "stars": 0,
-    "updated_at": "2026-06-25T11:13:46Z",
-    "url": "https://github.com/jaaemperador-prog/GE-IT-Skills-portfolio"
-  },
-  {
-    "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
-    "id": "tomevault-io/skills-registry",
-    "language": "\u2014",
-    "name": "tomevault-io/skills-registry",
-    "stars": 0,
-    "updated_at": "2026-06-25T11:13:28Z",
-    "url": "https://github.com/tomevault-io/skills-registry"
   }
 ]
