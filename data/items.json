@@ -1,12 +1,102 @@
 [
   {
+    "description": "",
+    "id": "directional-star/coco-skills",
+    "language": "HTML",
+    "name": "directional-star/coco-skills",
+    "stars": 0,
+    "updated_at": "2026-06-26T01:30:20Z",
+    "url": "https://github.com/directional-star/coco-skills"
+  },
+  {
     "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
     "id": "tomevault-io/skills-registry",
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-06-26T01:28:56Z",
+    "updated_at": "2026-06-26T01:30:24Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-26T01:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Serenity (@aleabitoreddit) AI/semiconductor supply-chain chokepoint skills \u2014 install via: npx skills add 14H034160212/se",
+    "id": "14H034160212/serenity-skills",
+    "language": "\u2014",
+    "name": "14H034160212/serenity-skills",
+    "stars": 1,
+    "updated_at": "2026-06-26T01:30:06Z",
+    "url": "https://github.com/14H034160212/serenity-skills"
+  },
+  {
+    "description": "",
+    "id": "hattori3104-design/web-design-skills",
+    "language": "HTML",
+    "name": "hattori3104-design/web-design-skills",
+    "stars": 0,
+    "updated_at": "2026-06-26T01:29:59Z",
+    "url": "https://github.com/hattori3104-design/web-design-skills"
+  },
+  {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "dcheval1868-arch/skills-getting-started-with-github-copilot",
+    "language": "JavaScript",
+    "name": "dcheval1868-arch/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-06-26T01:29:53Z",
+    "url": "https://github.com/dcheval1868-arch/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "",
+    "id": "strmforge/tianlu-skills",
+    "language": "JavaScript",
+    "name": "strmforge/tianlu-skills",
+    "stars": 0,
+    "updated_at": "2026-06-26T01:29:50Z",
+    "url": "https://github.com/strmforge/tianlu-skills"
+  },
+  {
+    "description": "",
+    "id": "GuiMendes-BR/skills",
+    "language": "\u2014",
+    "name": "GuiMendes-BR/skills",
+    "stars": 0,
+    "updated_at": "2026-06-26T01:29:37Z",
+    "url": "https://github.com/GuiMendes-BR/skills"
+  },
+  {
+    "description": "Reusable AI workflow skills for planning, review, orchestration, and execution support",
+    "id": "timharris707/skills",
+    "language": "Python",
+    "name": "timharris707/skills",
+    "stars": 0,
+    "updated_at": "2026-06-26T01:29:45Z",
+    "url": "https://github.com/timharris707/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-06-26T01:29:00Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Nature academic writing skills for Claude Code",
+    "id": "dorothyjonesd6xcu-creator/nature-skills",
+    "language": "Python",
+    "name": "dorothyjonesd6xcu-creator/nature-skills",
+    "stars": 0,
+    "updated_at": "2026-06-26T01:28:56Z",
+    "url": "https://github.com/dorothyjonesd6xcu-creator/nature-skills"
   },
   {
     "description": "",
@@ -79,15 +169,6 @@
     "stars": 14,
     "updated_at": "2026-06-26T01:26:38Z",
     "url": "https://github.com/agentskillexchange/skills"
-  },
-  {
-    "description": "",
-    "id": "directional-star/coco-skills",
-    "language": "HTML",
-    "name": "directional-star/coco-skills",
-    "stars": 0,
-    "updated_at": "2026-06-26T01:26:12Z",
-    "url": "https://github.com/directional-star/coco-skills"
   },
   {
     "description": "@cinatra-ai/skill-creator-skills \u2014 a Cinatra skill extension",
@@ -364,7 +445,7 @@
     "id": "uphiago/recon-skills",
     "language": "Python",
     "name": "uphiago/recon-skills",
-    "stars": 53,
+    "stars": 54,
     "updated_at": "2026-06-26T01:20:03Z",
     "url": "https://github.com/uphiago/recon-skills"
   },
@@ -484,24 +565,6 @@
     "stars": 9,
     "updated_at": "2026-06-26T01:15:29Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-06-26T01:15:26Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-26T01:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A repository for the Skills I am putting together that don't have another designated place yet",
@@ -835,68 +898,5 @@
     "stars": 1,
     "updated_at": "2026-06-26T01:00:55Z",
     "url": "https://github.com/pvieira-design/pedro-mota-skills"
-  },
-  {
-    "description": "",
-    "id": "chengkj99/kj-skills",
-    "language": "HTML",
-    "name": "chengkj99/kj-skills",
-    "stars": 13,
-    "updated_at": "2026-06-26T01:00:42Z",
-    "url": "https://github.com/chengkj99/kj-skills"
-  },
-  {
-    "description": "A small public collection of standalone Claude Code skills",
-    "id": "mujtaba3B/mutwo-skills",
-    "language": "Shell",
-    "name": "mujtaba3B/mutwo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-26T01:00:22Z",
-    "url": "https://github.com/mujtaba3B/mutwo-skills"
-  },
-  {
-    "description": "The repo for all system/public ornn skills",
-    "id": "ChronoAIProject/ornn-skills",
-    "language": "JavaScript",
-    "name": "ChronoAIProject/ornn-skills",
-    "stars": 0,
-    "updated_at": "2026-06-26T01:00:16Z",
-    "url": "https://github.com/ChronoAIProject/ornn-skills"
-  },
-  {
-    "description": "Ein kuratiertes Skill-Pack f\u00fcr Claude Code. Gute Workflows als wiederverwendbare Skills \u2014 damit sich bew\u00e4hrte Abl\u00e4ufe ni",
-    "id": "elnebuloso/ai-skills",
-    "language": "\u2014",
-    "name": "elnebuloso/ai-skills",
-    "stars": 0,
-    "updated_at": "2026-06-26T01:00:07Z",
-    "url": "https://github.com/elnebuloso/ai-skills"
-  },
-  {
-    "description": "Skills for Codex",
-    "id": "pasunboneleve/skills",
-    "language": "Shell",
-    "name": "pasunboneleve/skills",
-    "stars": 0,
-    "updated_at": "2026-06-26T00:59:30Z",
-    "url": "https://github.com/pasunboneleve/skills"
-  },
-  {
-    "description": "\u5bf9\u4e8e\u6211\u65e5\u5e38\u4f7f\u7528\u7684\u4ee5\u53ca\u81ea\u5df1\u521b\u5efa\u7684skill\u6587\u4ef6\u5907\u4efd",
-    "id": "anzhaohao/my-skills",
-    "language": "HTML",
-    "name": "anzhaohao/my-skills",
-    "stars": 0,
-    "updated_at": "2026-06-26T00:58:35Z",
-    "url": "https://github.com/anzhaohao/my-skills"
-  },
-  {
-    "description": "A curated list of awesome claude skills",
-    "id": "Snoopiam/awesome-claude-skillsss",
-    "language": "Python",
-    "name": "Snoopiam/awesome-claude-skillsss",
-    "stars": 1,
-    "updated_at": "2026-06-26T01:04:26Z",
-    "url": "https://github.com/Snoopiam/awesome-claude-skillsss"
   }
 ]
