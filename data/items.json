@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
+    "id": "tomevault-io/skills-registry",
+    "language": "\u2014",
+    "name": "tomevault-io/skills-registry",
+    "stars": 0,
+    "updated_at": "2026-06-26T11:31:22Z",
+    "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "huda25ab/2skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "huda25ab/2skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-06-26T11:31:09Z",
+    "url": "https://github.com/huda25ab/2skills-introduction-to-github"
+  },
+  {
+    "description": "\ud83d\ude80 Build cross-platform UI applications using agent skills tailored for the Makepad framework in Rust, ensuring high perf",
+    "id": "SageV1/makepad-skills",
+    "language": "Shell",
+    "name": "SageV1/makepad-skills",
+    "stars": 1,
+    "updated_at": "2026-06-26T11:30:48Z",
+    "url": "https://github.com/SageV1/makepad-skills"
+  },
+  {
+    "description": "Exercise: Resolve Merge Conflicts",
+    "id": "s-mostafasamir-collab/skills-resolve-merge-conflicts",
+    "language": "\u2014",
+    "name": "s-mostafasamir-collab/skills-resolve-merge-conflicts",
+    "stars": 0,
+    "updated_at": "2026-06-26T11:30:40Z",
+    "url": "https://github.com/s-mostafasamir-collab/skills-resolve-merge-conflicts"
+  },
+  {
+    "description": "\ud83e\udd16 Coordinate multi-agent tasks and enhance workflow with versatile skills for autonomous planning and execution.",
+    "id": "stotihv/skills",
+    "language": "TypeScript",
+    "name": "stotihv/skills",
+    "stars": 0,
+    "updated_at": "2026-06-26T11:30:36Z",
+    "url": "https://github.com/stotihv/skills"
+  },
+  {
+    "description": "\ud83c\udfa8 Generate high-quality PPTs with AI, featuring smart transitions and interactive playback for seamless presentations an",
+    "id": "girish6055/NanoBanana-PPT-Skills",
+    "language": "Python",
+    "name": "girish6055/NanoBanana-PPT-Skills",
+    "stars": 13,
+    "updated_at": "2026-06-26T11:30:34Z",
+    "url": "https://github.com/girish6055/NanoBanana-PPT-Skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-06-26T11:30:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-06-26T11:30:27Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "\u53ef\u4ee5\u81ea\u52a9\u5b66\u4e60\u7684skills \u5de5\u5177",
     "id": "silaswei-io/skills-seed",
     "language": "Go",
@@ -27,15 +99,6 @@
     "url": "https://github.com/LinusN191/draftsman-skills"
   },
   {
-    "description": "Exercise: Resolve Merge Conflicts",
-    "id": "s-mostafasamir-collab/skills-resolve-merge-conflicts",
-    "language": "\u2014",
-    "name": "s-mostafasamir-collab/skills-resolve-merge-conflicts",
-    "stars": 0,
-    "updated_at": "2026-06-26T11:30:16Z",
-    "url": "https://github.com/s-mostafasamir-collab/skills-resolve-merge-conflicts"
-  },
-  {
     "description": "Exercise: Introduction to GitHub",
     "id": "dule-dushanoski/skills-introduction-to-github",
     "language": "\u2014",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T11:30:04Z",
     "url": "https://github.com/dule-dushanoski/skills-introduction-to-github"
-  },
-  {
-    "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
-    "id": "tomevault-io/skills-registry",
-    "language": "\u2014",
-    "name": "tomevault-io/skills-registry",
-    "stars": 0,
-    "updated_at": "2026-06-26T11:30:04Z",
-    "url": "https://github.com/tomevault-io/skills-registry"
   },
   {
     "description": "Exercise: Introduction to Git",
@@ -266,7 +320,7 @@
     "language": "\u2014",
     "name": "dinafrancus-png/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-06-26T11:26:20Z",
+    "updated_at": "2026-06-26T11:30:46Z",
     "url": "https://github.com/dinafrancus-png/skills-introduction-to-github"
   },
   {
@@ -376,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T11:23:56Z",
     "url": "https://github.com/bog5d/claude-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 10,
-    "updated_at": "2026-06-26T11:30:27Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "",
@@ -729,15 +774,6 @@
     "url": "https://github.com/kevii-ben/skills-build-applications-w-copilot-agent-mode"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-06-26T11:15:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Skills for software development with AI",
     "id": "javrasya/skills",
     "language": "HTML",
@@ -788,7 +824,7 @@
     "language": "JavaScript",
     "name": "Jean-Fischer/skills",
     "stars": 0,
-    "updated_at": "2026-06-26T11:27:03Z",
+    "updated_at": "2026-06-26T11:31:08Z",
     "url": "https://github.com/Jean-Fischer/skills"
   },
   {
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-26T11:12:34Z",
     "url": "https://github.com/jrojo0153-ux/superagent-skills"
-  },
-  {
-    "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
-    "id": "phuati/claude-skills-arsenal",
-    "language": "HTML",
-    "name": "phuati/claude-skills-arsenal",
-    "stars": 1,
-    "updated_at": "2026-06-26T11:12:07Z",
-    "url": "https://github.com/phuati/claude-skills-arsenal"
-  },
-  {
-    "description": "",
-    "id": "manish4477/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "manish4477/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-06-26T11:12:22Z",
-    "url": "https://github.com/manish4477/skills-introduction-to-github"
-  },
-  {
-    "description": "",
-    "id": "zhaotoday/skills",
-    "language": "\u2014",
-    "name": "zhaotoday/skills",
-    "stars": 1,
-    "updated_at": "2026-06-26T11:11:40Z",
-    "url": "https://github.com/zhaotoday/skills"
-  },
-  {
-    "description": "",
-    "id": "saikiran986/LifeSkills",
-    "language": "\u2014",
-    "name": "saikiran986/LifeSkills",
-    "stars": 0,
-    "updated_at": "2026-06-26T11:11:32Z",
-    "url": "https://github.com/saikiran986/LifeSkills"
   }
 ]
