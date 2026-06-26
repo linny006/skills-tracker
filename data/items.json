@@ -5,8 +5,35 @@
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-06-26T21:00:02Z",
+    "updated_at": "2026-06-26T21:00:24Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-26T21:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "matthewdhuston/agent-skills-ws-matt",
+    "language": "Jupyter Notebook",
+    "name": "matthewdhuston/agent-skills-ws-matt",
+    "stars": 0,
+    "updated_at": "2026-06-26T21:00:15Z",
+    "url": "https://github.com/matthewdhuston/agent-skills-ws-matt"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-06-26T21:00:08Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T20:57:38Z",
     "url": "https://github.com/RowanGrove/siyuan-skills"
-  },
-  {
-    "description": "",
-    "id": "matthewdhuston/agent-skills-ws-matt",
-    "language": "Jupyter Notebook",
-    "name": "matthewdhuston/agent-skills-ws-matt",
-    "stars": 0,
-    "updated_at": "2026-06-26T20:57:36Z",
-    "url": "https://github.com/matthewdhuston/agent-skills-ws-matt"
   },
   {
     "description": "Skills for PMs/DMs. Straight from my .claude directory.",
@@ -711,15 +729,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-06-26T20:45:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Full-stack learning roadmap platform that generates personalized study paths based on interests, skill level, and career",
     "id": "AadritaR/SkillSync",
     "language": "Java",
@@ -727,15 +736,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T20:45:17Z",
     "url": "https://github.com/AadritaR/SkillSync"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-26T20:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
