@@ -5,8 +5,62 @@
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-06-27T13:00:22Z",
+    "updated_at": "2026-06-27T13:01:26Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "\u5f00\u6e90\u4e86Codex Skills\u7b49\u96c6\u5408\uff0c\u5927\u90e8\u5206\u662f\u81ea\u5df1\u5b9e\u9645\u9700\u8981\u641e\u5f97\uff0c\u9700\u8981\u7684\u81ea\u53d6\u3002\u6b22\u8fcestar",
+    "id": "wlzh/skills",
+    "language": "Python",
+    "name": "wlzh/skills",
+    "stars": 576,
+    "updated_at": "2026-06-27T13:01:14Z",
+    "url": "https://github.com/wlzh/skills"
+  },
+  {
+    "description": "\u79c1\u306e\u7ba1\u7406\u3057\u3066\u3044\u308bskill\u3067\u3059",
+    "id": "kosuke-17/my-skills",
+    "language": "JavaScript",
+    "name": "kosuke-17/my-skills",
+    "stars": 0,
+    "updated_at": "2026-06-27T13:00:51Z",
+    "url": "https://github.com/kosuke-17/my-skills"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 63,
+    "updated_at": "2026-06-27T13:00:29Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-06-27T13:00:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-06-27T13:00:26Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "The repo for all system/public ornn skills",
+    "id": "ChronoAIProject/ornn-skills",
+    "language": "JavaScript",
+    "name": "ChronoAIProject/ornn-skills",
+    "stars": 0,
+    "updated_at": "2026-06-27T13:00:22Z",
+    "url": "https://github.com/ChronoAIProject/ornn-skills"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -252,15 +306,6 @@
     "url": "https://github.com/andreashorninquiries/agent-skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 10,
-    "updated_at": "2026-06-27T12:56:21Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "",
     "id": "official-verification/gulf-skills-verify",
     "language": "HTML",
@@ -340,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T12:54:29Z",
     "url": "https://github.com/gagan114662/agent-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "Secure8/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "Secure8/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-06-27T12:54:21Z",
-    "url": "https://github.com/Secure8/skills-introduction-to-github"
   },
   {
     "description": "",
@@ -621,15 +657,6 @@
     "url": "https://github.com/nirmalya8/fantasy-11-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-06-27T12:45:26Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "",
     "id": "3331083641-prog/nature-skills",
     "language": "Python",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-27T12:37:46Z",
     "url": "https://github.com/Allan77bot/hermes-skills"
-  },
-  {
-    "description": "Public Yeelight Smart Home Skill packages and marketplace metadata",
-    "id": "Yeelight/yeelight-smart-home-skills",
-    "language": "JavaScript",
-    "name": "Yeelight/yeelight-smart-home-skills",
-    "stars": 0,
-    "updated_at": "2026-06-27T12:37:31Z",
-    "url": "https://github.com/Yeelight/yeelight-smart-home-skills"
-  },
-  {
-    "description": "",
-    "id": "ansanloms/skills",
-    "language": "TypeScript",
-    "name": "ansanloms/skills",
-    "stars": 0,
-    "updated_at": "2026-06-27T12:36:15Z",
-    "url": "https://github.com/ansanloms/skills"
-  },
-  {
-    "description": "Private test repo for Skills Manager sync validation",
-    "id": "liu-qingyuan/skills-sync-lqy",
-    "language": "Python",
-    "name": "liu-qingyuan/skills-sync-lqy",
-    "stars": 1,
-    "updated_at": "2026-06-27T12:35:43Z",
-    "url": "https://github.com/liu-qingyuan/skills-sync-lqy"
   }
 ]
