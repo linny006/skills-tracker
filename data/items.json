@@ -1,5 +1,131 @@
 [
   {
+    "description": "Exercise: Build applications with GitHub Copilot agent mode",
+    "id": "KSneha-24/skills-build-applications-w-copilot-agent-mode",
+    "language": "Shell",
+    "name": "KSneha-24/skills-build-applications-w-copilot-agent-mode",
+    "stars": 0,
+    "updated_at": "2026-06-27T08:15:16Z",
+    "url": "https://github.com/KSneha-24/skills-build-applications-w-copilot-agent-mode"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-27T08:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "voidsyntaxcore/Skillsetu",
+    "language": "\u2014",
+    "name": "voidsyntaxcore/Skillsetu",
+    "stars": 0,
+    "updated_at": "2026-06-27T08:15:05Z",
+    "url": "https://github.com/voidsyntaxcore/Skillsetu"
+  },
+  {
+    "description": "Exercise: Review pull requests",
+    "id": "franciscooproprio/skills-review-pull-requests",
+    "language": "HTML",
+    "name": "franciscooproprio/skills-review-pull-requests",
+    "stars": 0,
+    "updated_at": "2026-06-27T08:15:11Z",
+    "url": "https://github.com/franciscooproprio/skills-review-pull-requests"
+  },
+  {
+    "description": "",
+    "id": "liuli195/my-agent-skills",
+    "language": "Python",
+    "name": "liuli195/my-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-27T08:15:00Z",
+    "url": "https://github.com/liuli195/my-agent-skills"
+  },
+  {
+    "description": "Skills for Yellow Sunflower open source projects",
+    "id": "y-sunflower/skills",
+    "language": "\u2014",
+    "name": "y-sunflower/skills",
+    "stars": 0,
+    "updated_at": "2026-06-27T08:14:58Z",
+    "url": "https://github.com/y-sunflower/skills"
+  },
+  {
+    "description": "OpenClaw Web Product Lab: 5 polished, public-safe templates for finance dashboards, biography timelines, reading cards, ",
+    "id": "wsh11238/openclaw-skills",
+    "language": "\u2014",
+    "name": "wsh11238/openclaw-skills",
+    "stars": 0,
+    "updated_at": "2026-06-27T08:14:52Z",
+    "url": "https://github.com/wsh11238/openclaw-skills"
+  },
+  {
+    "description": "Customer intelligence skills for Claude Code, powered by ClosedLoop AI",
+    "id": "closedloop-ai-org/claude-code-skills",
+    "language": "\u2014",
+    "name": "closedloop-ai-org/claude-code-skills",
+    "stars": 0,
+    "updated_at": "2026-06-27T08:14:46Z",
+    "url": "https://github.com/closedloop-ai-org/claude-code-skills"
+  },
+  {
+    "description": "my skills",
+    "id": "yizhinailong/skills",
+    "language": "C++",
+    "name": "yizhinailong/skills",
+    "stars": 0,
+    "updated_at": "2026-06-27T08:14:32Z",
+    "url": "https://github.com/yizhinailong/skills"
+  },
+  {
+    "description": "",
+    "id": "xingly/Ethan-skills",
+    "language": "\u2014",
+    "name": "xingly/Ethan-skills",
+    "stars": 0,
+    "updated_at": "2026-06-27T08:14:32Z",
+    "url": "https://github.com/xingly/Ethan-skills"
+  },
+  {
+    "description": "Zentrale opencode-Skills f\u00fcr KPX-Websites und Marketing",
+    "id": "Busch80/opencode-skills",
+    "language": "TypeScript",
+    "name": "Busch80/opencode-skills",
+    "stars": 0,
+    "updated_at": "2026-06-27T08:14:20Z",
+    "url": "https://github.com/Busch80/opencode-skills"
+  },
+  {
+    "description": "List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex,",
+    "id": "bergside/awesome-design-skills",
+    "language": "\u2014",
+    "name": "bergside/awesome-design-skills",
+    "stars": 1429,
+    "updated_at": "2026-06-27T08:14:08Z",
+    "url": "https://github.com/bergside/awesome-design-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-06-27T08:14:02Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Generic Copilot / agent skills, installable via gh skill",
+    "id": "devantler-tech/agent-skills",
+    "language": "Shell",
+    "name": "devantler-tech/agent-skills",
+    "stars": 3,
+    "updated_at": "2026-06-27T08:14:00Z",
+    "url": "https://github.com/devantler-tech/agent-skills"
+  },
+  {
     "description": "",
     "id": "ZhaoYis/My-Skills",
     "language": "TypeScript",
@@ -63,15 +189,6 @@
     "url": "https://github.com/smyx-sunjinhui/smyx-open-claw-skills"
   },
   {
-    "description": "my skills",
-    "id": "yizhinailong/skills",
-    "language": "C++",
-    "name": "yizhinailong/skills",
-    "stars": 0,
-    "updated_at": "2026-06-27T08:11:56Z",
-    "url": "https://github.com/yizhinailong/skills"
-  },
-  {
     "description": "",
     "id": "mr-mohamad-mr/ai-skills",
     "language": "TypeScript",
@@ -95,7 +212,7 @@
     "language": "HTML",
     "name": "mykcs/myk-skills",
     "stars": 0,
-    "updated_at": "2026-06-27T08:11:34Z",
+    "updated_at": "2026-06-27T08:14:25Z",
     "url": "https://github.com/mykcs/myk-skills"
   },
   {
@@ -167,7 +284,7 @@
     "language": "\u2014",
     "name": "l10178/writing-agent-skills",
     "stars": 0,
-    "updated_at": "2026-06-27T08:11:31Z",
+    "updated_at": "2026-06-27T08:14:44Z",
     "url": "https://github.com/l10178/writing-agent-skills"
   },
   {
@@ -187,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T08:07:22Z",
     "url": "https://github.com/r0hansng/skills"
-  },
-  {
-    "description": "Zentrale opencode-Skills f\u00fcr KPX-Websites und Marketing",
-    "id": "Busch80/opencode-skills",
-    "language": "TypeScript",
-    "name": "Busch80/opencode-skills",
-    "stars": 0,
-    "updated_at": "2026-06-27T08:07:01Z",
-    "url": "https://github.com/Busch80/opencode-skills"
   },
   {
     "description": "Writing skills for Olares contributors: documentation, use cases, and UX copy",
@@ -333,15 +441,6 @@
     "url": "https://github.com/aaradhyasinghjadaun808-a11y/skills-introduction-to-github"
   },
   {
-    "description": "Skills for Yellow Sunflower open source projects",
-    "id": "y-sunflower/skills",
-    "language": "\u2014",
-    "name": "y-sunflower/skills",
-    "stars": 0,
-    "updated_at": "2026-06-27T08:03:35Z",
-    "url": "https://github.com/y-sunflower/skills"
-  },
-  {
     "description": "",
     "id": "yb333/skills",
     "language": "Python",
@@ -396,24 +495,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-06-27T08:00:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-27T08:00:23Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The repo for all system/public ornn skills",
     "id": "ChronoAIProject/ornn-skills",
     "language": "JavaScript",
@@ -446,7 +527,7 @@
     "language": "\u2014",
     "name": "ahmedyounus268-syed/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-06-27T08:09:07Z",
+    "updated_at": "2026-06-27T08:14:44Z",
     "url": "https://github.com/ahmedyounus268-syed/skills-introduction-to-github"
   },
   {
@@ -684,15 +765,6 @@
     "url": "https://github.com/cuelight/agent-skills"
   },
   {
-    "description": "OpenClaw Web Product Lab: 5 polished, public-safe templates for finance dashboards, biography timelines, reading cards, ",
-    "id": "wsh11238/openclaw-skills",
-    "language": "\u2014",
-    "name": "wsh11238/openclaw-skills",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:52:01Z",
-    "url": "https://github.com/wsh11238/openclaw-skills"
-  },
-  {
     "description": "",
     "id": "Barisao10/Skillset",
     "language": "\u2014",
@@ -826,77 +898,5 @@
     "stars": 31,
     "updated_at": "2026-06-27T07:47:56Z",
     "url": "https://github.com/akillness/jeo-skills"
-  },
-  {
-    "description": "Exercise: Introduction to CodeQL",
-    "id": "ShreyaBhanot13/skills-introduction-to-codeql",
-    "language": "Python",
-    "name": "ShreyaBhanot13/skills-introduction-to-codeql",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:47:56Z",
-    "url": "https://github.com/ShreyaBhanot13/skills-introduction-to-codeql"
-  },
-  {
-    "description": "",
-    "id": "LinusN191/draftsman-skills",
-    "language": "Python",
-    "name": "LinusN191/draftsman-skills",
-    "stars": 2,
-    "updated_at": "2026-06-27T07:47:44Z",
-    "url": "https://github.com/LinusN191/draftsman-skills"
-  },
-  {
-    "description": "",
-    "id": "shipflutter/skills",
-    "language": "Shell",
-    "name": "shipflutter/skills",
-    "stars": 1,
-    "updated_at": "2026-06-27T07:47:28Z",
-    "url": "https://github.com/shipflutter/skills"
-  },
-  {
-    "description": "",
-    "id": "ErikLee89/Erik-Skills",
-    "language": "Python",
-    "name": "ErikLee89/Erik-Skills",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:47:24Z",
-    "url": "https://github.com/ErikLee89/Erik-Skills"
-  },
-  {
-    "description": "Exercise: Write JavaScript Actions",
-    "id": "blackhebrewisraeli/skills-write-javascript-actions",
-    "language": "JavaScript",
-    "name": "blackhebrewisraeli/skills-write-javascript-actions",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:47:16Z",
-    "url": "https://github.com/blackhebrewisraeli/skills-write-javascript-actions"
-  },
-  {
-    "description": "",
-    "id": "bin448482/worklog-automation-skills",
-    "language": "Python",
-    "name": "bin448482/worklog-automation-skills",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:46:58Z",
-    "url": "https://github.com/bin448482/worklog-automation-skills"
-  },
-  {
-    "description": "",
-    "id": "mike623/agent-skills",
-    "language": "Python",
-    "name": "mike623/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:46:23Z",
-    "url": "https://github.com/mike623/agent-skills"
-  },
-  {
-    "description": "",
-    "id": "pierrelzw/zhiwei-skills",
-    "language": "\u2014",
-    "name": "pierrelzw/zhiwei-skills",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:45:54Z",
-    "url": "https://github.com/pierrelzw/zhiwei-skills"
   }
 ]
