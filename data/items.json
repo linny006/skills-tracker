@@ -5,8 +5,71 @@
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-06-28T23:44:41Z",
+    "updated_at": "2026-06-28T23:45:22Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-28T23:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "mr-mohamad-mr/ai-skills",
+    "language": "TypeScript",
+    "name": "mr-mohamad-mr/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-06-28T23:45:05Z",
+    "url": "https://github.com/mr-mohamad-mr/ai-skills"
+  },
+  {
+    "description": "Delegate coding tasks to agents, collect artifacts, and verify results locally with standalone supervision skills for Cl",
+    "id": "drippy-passport968/agent-supervision-skills",
+    "language": "PowerShell",
+    "name": "drippy-passport968/agent-supervision-skills",
+    "stars": 1,
+    "updated_at": "2026-06-28T23:44:59Z",
+    "url": "https://github.com/drippy-passport968/agent-supervision-skills"
+  },
+  {
+    "description": "Exercise: Introduction to CodeQL",
+    "id": "Sai-K1117/skills-introduction-to-codeql",
+    "language": "Python",
+    "name": "Sai-K1117/skills-introduction-to-codeql",
+    "stars": 0,
+    "updated_at": "2026-06-28T23:44:57Z",
+    "url": "https://github.com/Sai-K1117/skills-introduction-to-codeql"
+  },
+  {
+    "description": "Skill discovery for Claude Code: index every installed skill (incl. plugin-bundled), BM25 search via an MCP tool, CLI, a",
+    "id": "TheQmaks/skillsearch",
+    "language": "JavaScript",
+    "name": "TheQmaks/skillsearch",
+    "stars": 0,
+    "updated_at": "2026-06-28T23:44:54Z",
+    "url": "https://github.com/TheQmaks/skillsearch"
+  },
+  {
+    "description": "Automate Salesforce RevOps tasks with Claude agent skills designed for pipeline hygiene, forecast reconciliation, and de",
+    "id": "ariyantoa291/revops-skills",
+    "language": "Python",
+    "name": "ariyantoa291/revops-skills",
+    "stars": 1,
+    "updated_at": "2026-06-28T23:44:46Z",
+    "url": "https://github.com/ariyantoa291/revops-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-06-28T23:44:45Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Deploy discrete, purpose-built AI skills for Claude and other SKILL.md-compatible agents to automate focused, recurrent ",
@@ -450,15 +513,6 @@
     "url": "https://github.com/khoman9874/research-skills-guide"
   },
   {
-    "description": "Exercise: Introduction to CodeQL",
-    "id": "Sai-K1117/skills-introduction-to-codeql",
-    "language": "Python",
-    "name": "Sai-K1117/skills-introduction-to-codeql",
-    "stars": 0,
-    "updated_at": "2026-06-28T23:38:09Z",
-    "url": "https://github.com/Sai-K1117/skills-introduction-to-codeql"
-  },
-  {
     "description": "Distill human behaviors, roles, and personality traits into reusable AI agent skills for your projects.",
     "id": "LatestPlayz/awesome-persona-skills",
     "language": "\u2014",
@@ -844,59 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-28T23:31:30Z",
     "url": "https://github.com/micson-bit/skills2-communicate-using-markdown"
-  },
-  {
-    "description": "Install 154+ Claude Code skills for SEO, code review, marketing, and AI agent tasks with one command",
-    "id": "eastindian-wallpepper214/claude-skills",
-    "language": "\u2014",
-    "name": "eastindian-wallpepper214/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-28T23:31:26Z",
-    "url": "https://github.com/eastindian-wallpepper214/claude-skills"
-  },
-  {
-    "description": "Agent skills for Claude Code",
-    "id": "RayChang/agent-skills",
-    "language": "TypeScript",
-    "name": "RayChang/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-28T23:32:40Z",
-    "url": "https://github.com/RayChang/agent-skills"
-  },
-  {
-    "description": "",
-    "id": "Aftershavepneumonectomy61/se7en-skills",
-    "language": "Python",
-    "name": "Aftershavepneumonectomy61/se7en-skills",
-    "stars": 0,
-    "updated_at": "2026-06-28T23:31:22Z",
-    "url": "https://github.com/Aftershavepneumonectomy61/se7en-skills"
-  },
-  {
-    "description": "Build AI-ready skills for Syncfusion .NET MAUI components with setup, usage, customization, and troubleshooting guides f",
-    "id": "Priceless-stump545/maui-ui-components-skills",
-    "language": "\u2014",
-    "name": "Priceless-stump545/maui-ui-components-skills",
-    "stars": 0,
-    "updated_at": "2026-06-28T23:31:19Z",
-    "url": "https://github.com/Priceless-stump545/maui-ui-components-skills"
-  },
-  {
-    "description": "\u5c01\u88c5 MiniMax \u8bed\u97f3\u3001\u56fe\u7247\u3001\u89c6\u9891\u548c\u97f3\u4e50\u80fd\u529b\u4e3a 4 \u4e2a\u6280\u80fd\uff0c\u65b9\u4fbf\u5feb\u901f\u63a5\u5165\u751f\u6210\u4e0e\u7f16\u8f91\u5de5\u4f5c\u6d41",
-    "id": "justl9169/minimax-skills",
-    "language": "Python",
-    "name": "justl9169/minimax-skills",
-    "stars": 0,
-    "updated_at": "2026-06-28T23:31:17Z",
-    "url": "https://github.com/justl9169/minimax-skills"
-  },
-  {
-    "description": "Define Solana program guarantees in .qedspec files and use QEDGen to validate specs and find bugs before mainnet deploym",
-    "id": "beardedwheatgrasswalkupapartment951/solana-skills",
-    "language": "\u2014",
-    "name": "beardedwheatgrasswalkupapartment951/solana-skills",
-    "stars": 0,
-    "updated_at": "2026-06-28T23:31:08Z",
-    "url": "https://github.com/beardedwheatgrasswalkupapartment951/solana-skills"
   }
 ]
