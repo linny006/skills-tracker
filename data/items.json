@@ -5,8 +5,26 @@
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-06-28T19:00:26Z",
+    "updated_at": "2026-06-28T19:00:57Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Collection of high-leverage \"Meta-Skills\" designed to upgrade AI Agents from simple chat bots to autonomous engineers",
+    "id": "MatrixFounder/Universal-skills",
+    "language": "Python",
+    "name": "MatrixFounder/Universal-skills",
+    "stars": 1,
+    "updated_at": "2026-06-28T19:00:47Z",
+    "url": "https://github.com/MatrixFounder/Universal-skills"
+  },
+  {
+    "description": "Claude Code skills for sales, marketing, and GTM \u2014 CRM, outbound, note-takers, enrichment, email marketing, influencer m",
+    "id": "sales-skills/sales",
+    "language": "Python",
+    "name": "sales-skills/sales",
+    "stars": 58,
+    "updated_at": "2026-06-28T19:00:44Z",
+    "url": "https://github.com/sales-skills/sales"
   },
   {
     "description": "My clone repository",
@@ -14,8 +32,44 @@
     "language": "\u2014",
     "name": "Essid-Mustapha/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-06-28T19:00:22Z",
+    "updated_at": "2026-06-28T19:00:37Z",
     "url": "https://github.com/Essid-Mustapha/skills-introduction-to-github"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-06-28T19:00:29Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-06-28T19:00:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "13 skills for infra engineers \u2014 MikroTik RouterOS \u00b7 Proxmox \u00b7 K3s \u00b7 WireGuard \u00b7 Cloudflare Tunnel \u00b7 Docker Swarm \u00b7 Grafa",
+    "id": "12MICKY/claude-skills",
+    "language": "Shell",
+    "name": "12MICKY/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-28T19:00:28Z",
+    "url": "https://github.com/12MICKY/claude-skills"
+  },
+  {
+    "description": "The repo for all system/public ornn skills",
+    "id": "ChronoAIProject/ornn-skills",
+    "language": "JavaScript",
+    "name": "ChronoAIProject/ornn-skills",
+    "stars": 0,
+    "updated_at": "2026-06-28T19:00:23Z",
+    "url": "https://github.com/ChronoAIProject/ornn-skills"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -133,15 +187,6 @@
     "stars": 230,
     "updated_at": "2026-06-28T18:58:45Z",
     "url": "https://github.com/uphiago/recon-skills"
-  },
-  {
-    "description": "13 skills for infra engineers \u2014 MikroTik RouterOS \u00b7 Proxmox \u00b7 K3s \u00b7 WireGuard \u00b7 Cloudflare Tunnel \u00b7 Docker Swarm \u00b7 Grafa",
-    "id": "12MICKY/claude-skills",
-    "language": "Shell",
-    "name": "12MICKY/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-28T18:58:20Z",
-    "url": "https://github.com/12MICKY/claude-skills"
   },
   {
     "description": "Exercise: Communicate using Markdown",
@@ -531,15 +576,6 @@
     "url": "https://github.com/dasgltd/llm-skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 10,
-    "updated_at": "2026-06-28T18:50:33Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "",
     "id": "HP-Patience/Skills",
     "language": "\u2014",
@@ -729,15 +765,6 @@
     "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-06-28T18:45:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
     "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
     "language": "Python",
@@ -828,15 +855,6 @@
     "url": "https://github.com/jieyilong/ecdsafail_skills"
   },
   {
-    "description": "Claude Code skills for sales, marketing, and GTM \u2014 CRM, outbound, note-takers, enrichment, email marketing, influencer m",
-    "id": "sales-skills/sales",
-    "language": "Python",
-    "name": "sales-skills/sales",
-    "stars": 58,
-    "updated_at": "2026-06-28T18:42:59Z",
-    "url": "https://github.com/sales-skills/sales"
-  },
-  {
     "description": "Review, debug, and implement audio software with this curated collection of Markdown skills designed for AI agents.",
     "id": "Gourdja/sonic-skills",
     "language": "Shell",
@@ -880,23 +898,5 @@
     "stars": 3,
     "updated_at": "2026-06-28T18:41:40Z",
     "url": "https://github.com/kashmirscien3399/skills"
-  },
-  {
-    "description": "",
-    "id": "ssaattyyamm/SkillSync",
-    "language": "JavaScript",
-    "name": "ssaattyyamm/SkillSync",
-    "stars": 0,
-    "updated_at": "2026-06-28T18:41:36Z",
-    "url": "https://github.com/ssaattyyamm/SkillSync"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-06-28T18:41:07Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
   }
 ]
