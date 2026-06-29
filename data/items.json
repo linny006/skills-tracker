@@ -1,5 +1,59 @@
 [
   {
+    "description": "Reusable Claude Code skills: deck-builder (polished .pptx decks), review-contrib (safe PR/fork review), autocli-password",
+    "id": "lbachelotcapitalb/leo-bachelot-ia-skills",
+    "language": "Python",
+    "name": "lbachelotcapitalb/leo-bachelot-ia-skills",
+    "stars": 0,
+    "updated_at": "2026-06-29T21:00:36Z",
+    "url": "https://github.com/lbachelotcapitalb/leo-bachelot-ia-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-06-29T21:00:32Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-06-29T21:00:30Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "",
+    "id": "asomer-1/rl-skills-library",
+    "language": "TypeScript",
+    "name": "asomer-1/rl-skills-library",
+    "stars": 0,
+    "updated_at": "2026-06-29T21:00:25Z",
+    "url": "https://github.com/asomer-1/rl-skills-library"
+  },
+  {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "simaoka/skills-github-pages",
+    "language": "\u2014",
+    "name": "simaoka/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-06-29T21:00:25Z",
+    "url": "https://github.com/simaoka/skills-github-pages"
+  },
+  {
+    "description": "The repo for all system/public ornn skills",
+    "id": "ChronoAIProject/ornn-skills",
+    "language": "JavaScript",
+    "name": "ChronoAIProject/ornn-skills",
+    "stars": 0,
+    "updated_at": "2026-06-29T21:00:24Z",
+    "url": "https://github.com/ChronoAIProject/ornn-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -59,7 +113,7 @@
     "language": "HTML",
     "name": "GeorgeQLe/agentic-skills",
     "stars": 1,
-    "updated_at": "2026-06-29T20:59:10Z",
+    "updated_at": "2026-06-29T21:00:39Z",
     "url": "https://github.com/GeorgeQLe/agentic-skills"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-06-29T20:58:11Z",
     "url": "https://github.com/dragonadam/nature-skills"
-  },
-  {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "simaoka/skills-github-pages",
-    "language": "\u2014",
-    "name": "simaoka/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-06-29T21:00:25Z",
-    "url": "https://github.com/simaoka/skills-github-pages"
   },
   {
     "description": "",
@@ -207,15 +252,6 @@
     "url": "https://github.com/sasanniroo/Claude_skills_zh-CN"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 10,
-    "updated_at": "2026-06-29T20:56:43Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "",
     "id": "Nazreen-05/skillsLink_AcademicProject",
     "language": "HTML",
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T20:55:24Z",
     "url": "https://github.com/dkhl65/skills-publish-docker-images"
-  },
-  {
-    "description": "",
-    "id": "asomer-1/rl-skills-library",
-    "language": "TypeScript",
-    "name": "asomer-1/rl-skills-library",
-    "stars": 0,
-    "updated_at": "2026-06-29T21:00:25Z",
-    "url": "https://github.com/asomer-1/rl-skills-library"
   },
   {
     "description": "I had a stack of team dynamics analysis, career analysis, and SDLC observations. Decided to actually get around to synth",
@@ -540,15 +567,6 @@
     "url": "https://github.com/duysqubix/skills"
   },
   {
-    "description": "Reusable Claude Code skills: deck-builder (polished .pptx decks), review-contrib (safe PR/fork review), autocli-password",
-    "id": "lbachelotcapitalb/leo-bachelot-ia-skills",
-    "language": "Python",
-    "name": "lbachelotcapitalb/leo-bachelot-ia-skills",
-    "stars": 0,
-    "updated_at": "2026-06-29T20:48:04Z",
-    "url": "https://github.com/lbachelotcapitalb/leo-bachelot-ia-skills"
-  },
-  {
     "description": "Exercise: Expand your team with GitHub Copilot cloud agent",
     "id": "Vyrous/skills-expand-your-team-with-copilot",
     "language": "JavaScript",
@@ -664,15 +682,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T20:45:33Z",
     "url": "https://github.com/israelsodanoa/development-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-06-29T20:45:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Auto-generated agent skills from trending data engineering repos, by ara.so",
@@ -889,14 +898,5 @@
     "stars": 1,
     "updated_at": "2026-06-29T20:39:20Z",
     "url": "https://github.com/heymishy/skills-repo"
-  },
-  {
-    "description": "Tinder for your Claude Code skills. Swipe through your skill collection and delete what's wasting context, in seconds. P",
-    "id": "khendzel/skills-janitor",
-    "language": "Shell",
-    "name": "khendzel/skills-janitor",
-    "stars": 107,
-    "updated_at": "2026-06-29T20:39:04Z",
-    "url": "https://github.com/khendzel/skills-janitor"
   }
 ]
