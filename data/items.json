@@ -5,8 +5,53 @@
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-07-04T11:14:41Z",
+    "updated_at": "2026-07-04T11:15:23Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "A growing collection of Agent Skills for Claude Code \u2014 first up: postmortem-analyst, agentic incident analysis over 243 ",
+    "id": "anmolg1997/agent-skills",
+    "language": "Python",
+    "name": "anmolg1997/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-04T11:15:22Z",
+    "url": "https://github.com/anmolg1997/agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-04T11:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "greluoqixi/agent-skills",
+    "language": "Python",
+    "name": "greluoqixi/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-07-04T11:15:05Z",
+    "url": "https://github.com/greluoqixi/agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-07-04T11:14:45Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "My clone repository",
+    "id": "AshmitPathania/skills-copilot-codespaces-vscode",
+    "language": "\u2014",
+    "name": "AshmitPathania/skills-copilot-codespaces-vscode",
+    "stars": 0,
+    "updated_at": "2026-07-04T11:14:42Z",
+    "url": "https://github.com/AshmitPathania/skills-copilot-codespaces-vscode"
   },
   {
     "description": "Compile natural language specs into local neural functions for text classification, extraction, and fuzzy matching tasks",
@@ -40,7 +85,7 @@
     "id": "HeckerBirb/DevOps-Agentic-Skills",
     "language": "\u2014",
     "name": "HeckerBirb/DevOps-Agentic-Skills",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-04T11:13:54Z",
     "url": "https://github.com/HeckerBirb/DevOps-Agentic-Skills"
   },
@@ -115,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-04T11:12:02Z",
     "url": "https://github.com/phuati/claude-skills-arsenal"
-  },
-  {
-    "description": "",
-    "id": "greluoqixi/agent-skills",
-    "language": "Python",
-    "name": "greluoqixi/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-07-04T11:11:52Z",
-    "url": "https://github.com/greluoqixi/agent-skills"
   },
   {
     "description": "Repo of agent skills ",
@@ -621,15 +657,6 @@
     "url": "https://github.com/Amrita-Maurya/SkillSync"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-04T11:00:50Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -646,15 +673,6 @@
     "stars": 0,
     "updated_at": "2026-07-04T11:00:34Z",
     "url": "https://github.com/arturosuamar-dot/skills-introduction-to-git"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-07-04T11:00:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
@@ -880,23 +898,5 @@
     "stars": 3,
     "updated_at": "2026-07-04T10:58:11Z",
     "url": "https://github.com/scagogogo/cpe-skills"
-  },
-  {
-    "description": "Distill human behaviors, roles, and personality traits into reusable AI agent skills for your projects.",
-    "id": "LatestPlayz/awesome-persona-skills",
-    "language": "\u2014",
-    "name": "LatestPlayz/awesome-persona-skills",
-    "stars": 3,
-    "updated_at": "2026-07-04T10:58:04Z",
-    "url": "https://github.com/LatestPlayz/awesome-persona-skills"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-07-04T10:57:59Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
   }
 ]
