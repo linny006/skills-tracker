@@ -1,11 +1,83 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-04T16:30:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "kyzooghost/skills",
+    "language": "Python",
+    "name": "kyzooghost/skills",
+    "stars": 0,
+    "updated_at": "2026-07-04T16:30:04Z",
+    "url": "https://github.com/kyzooghost/skills"
+  },
+  {
+    "description": "AI instruction files in SKILL.md format, indexed by Skills.sh and SkillsMP.",
+    "id": "tomevault-io/skills-registry",
+    "language": "\u2014",
+    "name": "tomevault-io/skills-registry",
+    "stars": 0,
+    "updated_at": "2026-07-04T16:30:03Z",
+    "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "",
+    "id": "trungvjm/skills",
+    "language": "Python",
+    "name": "trungvjm/skills",
+    "stars": 0,
+    "updated_at": "2026-07-04T16:30:00Z",
+    "url": "https://github.com/trungvjm/skills"
+  },
+  {
+    "description": "Support skills for agentic workspaces \u2014 environment configuration, secrets management, deployment readiness",
+    "id": "makeyourcrew/agentic-support-skills",
+    "language": "\u2014",
+    "name": "makeyourcrew/agentic-support-skills",
+    "stars": 0,
+    "updated_at": "2026-07-04T16:29:44Z",
+    "url": "https://github.com/makeyourcrew/agentic-support-skills"
+  },
+  {
+    "description": "Exercise: Introduction to CodeQL",
+    "id": "Garchompz/skills-introduction-to-codeql",
+    "language": "Python",
+    "name": "Garchompz/skills-introduction-to-codeql",
+    "stars": 0,
+    "updated_at": "2026-07-04T16:29:37Z",
+    "url": "https://github.com/Garchompz/skills-introduction-to-codeql"
+  },
+  {
+    "description": "Turn any AI coding assistant into a quant researcher for factor discovery, alpha testing, decay tracking, and backtests ",
+    "id": "Greenrestlessness223/alpha-skills",
+    "language": "\u2014",
+    "name": "Greenrestlessness223/alpha-skills",
+    "stars": 2,
+    "updated_at": "2026-07-04T16:29:29Z",
+    "url": "https://github.com/Greenrestlessness223/alpha-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-07-04T16:29:25Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Local dashboard for exploring Codex skills and plugins",
     "id": "muhneyyy666/skills-dashboard",
-    "language": "\u2014",
+    "language": "TypeScript",
     "name": "muhneyyy666/skills-dashboard",
     "stars": 0,
-    "updated_at": "2026-07-04T16:29:15Z",
+    "updated_at": "2026-07-04T16:29:22Z",
     "url": "https://github.com/muhneyyy666/skills-dashboard"
   },
   {
@@ -815,7 +887,7 @@
     "language": "JavaScript",
     "name": "kasita-sst/skills-workflow-artifacts",
     "stars": 0,
-    "updated_at": "2026-07-04T16:19:29Z",
+    "updated_at": "2026-07-04T16:30:17Z",
     "url": "https://github.com/kasita-sst/skills-workflow-artifacts"
   },
   {
@@ -826,77 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-04T16:19:29Z",
     "url": "https://github.com/0x41hd/python-skills-reinforcement"
-  },
-  {
-    "description": "Build UX and design skills for AI agents to improve research, heuristics, and design decisions in Claude Code, Cursor, a",
-    "id": "justinqwerty/design-skills",
-    "language": "HTML",
-    "name": "justinqwerty/design-skills",
-    "stars": 8,
-    "updated_at": "2026-07-04T16:19:27Z",
-    "url": "https://github.com/justinqwerty/design-skills"
-  },
-  {
-    "description": "Two custom agent skills for AnythingLLM to monitor and optimize Teradata databases.",
-    "id": "pesnik/anythingllm-teradata-skills",
-    "language": "Python",
-    "name": "pesnik/anythingllm-teradata-skills",
-    "stars": 0,
-    "updated_at": "2026-07-04T16:19:26Z",
-    "url": "https://github.com/pesnik/anythingllm-teradata-skills"
-  },
-  {
-    "description": "",
-    "id": "Irene2828/SocialSkillsApp",
-    "language": "TypeScript",
-    "name": "Irene2828/SocialSkillsApp",
-    "stars": 0,
-    "updated_at": "2026-07-04T16:19:18Z",
-    "url": "https://github.com/Irene2828/SocialSkillsApp"
-  },
-  {
-    "description": "Teach AI assistants to generate correct Unity and Jahro debugging code, with skills for commands, watchers, snapshots, l",
-    "id": "Logiiiii/unity-agent-skills",
-    "language": "\u2014",
-    "name": "Logiiiii/unity-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-07-04T16:19:17Z",
-    "url": "https://github.com/Logiiiii/unity-agent-skills"
-  },
-  {
-    "description": "My clone repository",
-    "id": "MamduhSaffin/skills-copilot-codespaces-vscode",
-    "language": "JavaScript",
-    "name": "MamduhSaffin/skills-copilot-codespaces-vscode",
-    "stars": 0,
-    "updated_at": "2026-07-04T16:19:12Z",
-    "url": "https://github.com/MamduhSaffin/skills-copilot-codespaces-vscode"
-  },
-  {
-    "description": "\u5b58\u653eskills",
-    "id": "Jieke788/skills",
-    "language": "\u2014",
-    "name": "Jieke788/skills",
-    "stars": 0,
-    "updated_at": "2026-07-04T16:19:09Z",
-    "url": "https://github.com/Jieke788/skills"
-  },
-  {
-    "description": "Power DingTalk automation with curated Wukong agent skills for office work, travel help, and professional document proce",
-    "id": "duffiewiccan103/dingtalk-wukong-skills",
-    "language": "Python",
-    "name": "duffiewiccan103/dingtalk-wukong-skills",
-    "stars": 1,
-    "updated_at": "2026-07-04T16:18:58Z",
-    "url": "https://github.com/duffiewiccan103/dingtalk-wukong-skills"
-  },
-  {
-    "description": "Check iOS and macOS projects before submission to catch App Store review issues and reduce rejection risk",
-    "id": "facultymemberunwieldiness454/app-store-preflight-skills",
-    "language": "\u2014",
-    "name": "facultymemberunwieldiness454/app-store-preflight-skills",
-    "stars": 0,
-    "updated_at": "2026-07-04T16:18:50Z",
-    "url": "https://github.com/facultymemberunwieldiness454/app-store-preflight-skills"
   }
 ]
