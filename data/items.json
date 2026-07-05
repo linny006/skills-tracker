@@ -1,21 +1,57 @@
 [
   {
     "description": "Exercise: Introduction to GitHub",
+    "id": "l-micovic/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "l-micovic/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-07-05T08:15:40Z",
+    "url": "https://github.com/l-micovic/skills-introduction-to-github"
+  },
+  {
+    "description": "\u4e00\u4e2a\u57fa\u4e8euv\u5e2e\u52a9\u4eba\u5feb\u901f\u6784\u5efapython\u73af\u5883\u7684skills",
+    "id": "dqyydq/python-env-skills",
+    "language": "Shell",
+    "name": "dqyydq/python-env-skills",
+    "stars": 0,
+    "updated_at": "2026-07-05T08:15:39Z",
+    "url": "https://github.com/dqyydq/python-env-skills"
+  },
+  {
+    "description": "\u4e00\u4e9b\u4e2a\u4eba\u5236\u4f5c\u6574\u7406\u7684AgentSkills\u6280\u80fd\u4ed3\u5e93\u5305\uff0c\u6700\u65b0gpt-image-2 skills\u73b0\u5728\u53ef\u7528\uff0cnanobananapro\u7684skills\u3001\u5fae\u4fe1\u6587\u7ae0\u641c\u7d22skills\u3001\u3002\u5fae\u4fe1\u516c\u4f17\u53f7\u5173\u6ce8\uff1a\u65e0\u5904\u4e0d\u5728\u7684\u6280\u672f",
+    "id": "wuchubuzai2018/expert-skills-hub",
+    "language": "JavaScript",
+    "name": "wuchubuzai2018/expert-skills-hub",
+    "stars": 26,
+    "updated_at": "2026-07-05T08:15:34Z",
+    "url": "https://github.com/wuchubuzai2018/expert-skills-hub"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-07-05T08:15:30Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-07-05T08:15:29Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
     "id": "Hugo27-ai/skills-introduction-to-github",
     "language": "\u2014",
     "name": "Hugo27-ai/skills-introduction-to-github",
     "stars": 0,
     "updated_at": "2026-07-05T08:15:21Z",
     "url": "https://github.com/Hugo27-ai/skills-introduction-to-github"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "l-micovic/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "l-micovic/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-05T08:15:17Z",
-    "url": "https://github.com/l-micovic/skills-introduction-to-github"
   },
   {
     "description": "Exercise: Build applications with GitHub Copilot agent mode",
@@ -558,15 +594,6 @@
     "url": "https://github.com/johnku2011/boilerplates-with-ai-skills"
   },
   {
-    "description": "\u4e00\u4e2a\u57fa\u4e8euv\u5e2e\u52a9\u4eba\u5feb\u901f\u6784\u5efapython\u73af\u5883\u7684skills",
-    "id": "dqyydq/python-env-skills",
-    "language": "\u2014",
-    "name": "dqyydq/python-env-skills",
-    "stars": 0,
-    "updated_at": "2026-07-05T08:06:44Z",
-    "url": "https://github.com/dqyydq/python-env-skills"
-  },
-  {
     "description": "Open, reviewed skills + MCP for AI coding agents \u2014 verified, quality-gated memory that gets better instead of drifting.",
     "id": "DreamArkInc/remembrance-skills",
     "language": "JavaScript",
@@ -871,32 +898,5 @@
     "stars": 5,
     "updated_at": "2026-07-05T08:02:23Z",
     "url": "https://github.com/Innei/trade-skills"
-  },
-  {
-    "description": "Team skill library",
-    "id": "YuanTian-SJTU/team-skills",
-    "language": "Python",
-    "name": "YuanTian-SJTU/team-skills",
-    "stars": 0,
-    "updated_at": "2026-07-05T08:02:17Z",
-    "url": "https://github.com/YuanTian-SJTU/team-skills"
-  },
-  {
-    "description": "SkillSnap Admin Panel is a production-ready Next.js 15 + TypeScript CRM dashboard featuring role-based access control, l",
-    "id": "SkillSnap-Learning/skillsnap-admin",
-    "language": "TypeScript",
-    "name": "SkillSnap-Learning/skillsnap-admin",
-    "stars": 0,
-    "updated_at": "2026-07-05T08:02:10Z",
-    "url": "https://github.com/SkillSnap-Learning/skillsnap-admin"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Master Three.js skills with curated files to enhance your 3D programming and interactive design capabilities.",
-    "id": "mixa354/threejs-skills",
-    "language": "\u2014",
-    "name": "mixa354/threejs-skills",
-    "stars": 3,
-    "updated_at": "2026-07-05T08:02:00Z",
-    "url": "https://github.com/mixa354/threejs-skills"
   }
 ]
