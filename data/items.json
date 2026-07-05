@@ -1,12 +1,75 @@
 [
   {
+    "description": "\u5948\u6708\u7684 Claude skill \u5de5\u5177\u7bb1:AI \u53ea\u505a\u5224\u65ad\u9898,\u63a7\u5236\u6743\u4ea4\u7ed9\u786e\u5b9a\u6027\u7ed3\u6784",
+    "id": "tlzmw001/naiyue-skills",
+    "language": "\u2014",
+    "name": "tlzmw001/naiyue-skills",
+    "stars": 0,
+    "updated_at": "2026-07-05T12:01:17Z",
+    "url": "https://github.com/tlzmw001/naiyue-skills"
+  },
+  {
     "description": "AI instruction files in SKILL.md format, indexed by Skills.sh and SkillsMP.",
     "id": "tomevault-io/skills-registry",
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-07-05T12:00:21Z",
+    "updated_at": "2026-07-05T12:01:17Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
+    "id": "phuati/claude-skills-arsenal",
+    "language": "HTML",
+    "name": "phuati/claude-skills-arsenal",
+    "stars": 1,
+    "updated_at": "2026-07-05T12:01:13Z",
+    "url": "https://github.com/phuati/claude-skills-arsenal"
+  },
+  {
+    "description": "Workflow-first Agent Skills for real software engineering tasks: debugging, review, architecture, testing, DevOps, secur",
+    "id": "NirGeron98/engineering-agent-skills",
+    "language": "\u2014",
+    "name": "NirGeron98/engineering-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-05T12:00:50Z",
+    "url": "https://github.com/NirGeron98/engineering-agent-skills"
+  },
+  {
+    "description": "A breaker panel for your Claude \u2014 arm Cowork skills like fuses; they fire once and trip off",
+    "id": "pardhaponugoti/skillswitch",
+    "language": "Swift",
+    "name": "pardhaponugoti/skillswitch",
+    "stars": 0,
+    "updated_at": "2026-07-05T12:00:38Z",
+    "url": "https://github.com/pardhaponugoti/skillswitch"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-07-05T12:00:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-07-05T12:00:27Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "hybridlabor-api/bdb-dev-optimized-antigravity-skills",
+    "language": "TypeScript",
+    "name": "hybridlabor-api/bdb-dev-optimized-antigravity-skills",
+    "stars": 0,
+    "updated_at": "2026-07-05T12:00:16Z",
+    "url": "https://github.com/hybridlabor-api/bdb-dev-optimized-antigravity-skills"
   },
   {
     "description": "",
@@ -158,7 +221,7 @@
     "language": "\u2014",
     "name": "rakesh-92/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-07-05T11:57:32Z",
+    "updated_at": "2026-07-05T12:01:17Z",
     "url": "https://github.com/rakesh-92/skills-introduction-to-github"
   },
   {
@@ -450,15 +513,6 @@
     "url": "https://github.com/ivuorinen/skills"
   },
   {
-    "description": "A breaker panel for your Claude \u2014 arm Cowork skills like fuses; they fire once and trip off",
-    "id": "pardhaponugoti/skillswitch",
-    "language": "Swift",
-    "name": "pardhaponugoti/skillswitch",
-    "stars": 0,
-    "updated_at": "2026-07-05T11:51:43Z",
-    "url": "https://github.com/pardhaponugoti/skillswitch"
-  },
-  {
     "description": "QNFO DeepChat skills \u2014 28 skills including cloudflare-deployer, qnfo-agent, publication-publisher. Redundant backup for ",
     "id": "rwnq8/qnfo-skills",
     "language": "JavaScript",
@@ -540,15 +594,6 @@
     "url": "https://github.com/namdev00000/Skills"
   },
   {
-    "description": "Workflow-first Agent Skills for real software engineering tasks: debugging, review, architecture, testing, DevOps, secur",
-    "id": "NirGeron98/engineering-agent-skills",
-    "language": "\u2014",
-    "name": "NirGeron98/engineering-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-05T11:50:09Z",
-    "url": "https://github.com/NirGeron98/engineering-agent-skills"
-  },
-  {
     "description": "\u5206\u6790arXiv\u5e73\u53f0\u7684\u5168\u91cf\u6570\u636e\uff0c\u8fdb\u884c\u63cf\u8ff0\u884c\u7edf\u8ba1\uff0c\u4e00\u773c\u638c\u63e1arXiv\u7684\u6574\u4f53\u60c5\u51b5",
     "id": "Gqiang-Liang/arXiv_full_descrip_skills",
     "language": "HTML",
@@ -604,15 +649,6 @@
   },
   {
     "description": "",
-    "id": "hybridlabor-api/bdb-dev-optimized-antigravity-skills",
-    "language": "C++",
-    "name": "hybridlabor-api/bdb-dev-optimized-antigravity-skills",
-    "stars": 0,
-    "updated_at": "2026-07-05T12:00:16Z",
-    "url": "https://github.com/hybridlabor-api/bdb-dev-optimized-antigravity-skills"
-  },
-  {
-    "description": "",
     "id": "talizen/skills",
     "language": "\u2014",
     "name": "talizen/skills",
@@ -655,24 +691,6 @@
     "stars": 2,
     "updated_at": "2026-07-05T11:46:46Z",
     "url": "https://github.com/credfeto/credfeto-ai-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 10,
-    "updated_at": "2026-07-05T11:45:32Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-07-05T11:45:26Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "My agent skills and workflows \u2014 rc = run commands, the stuff that loads at init",
@@ -842,7 +860,7 @@
     "language": "\u2014",
     "name": "basementuniverse/agent-skills",
     "stars": 0,
-    "updated_at": "2026-07-05T11:39:03Z",
+    "updated_at": "2026-07-05T12:00:55Z",
     "url": "https://github.com/basementuniverse/agent-skills"
   },
   {
@@ -880,23 +898,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T11:37:30Z",
     "url": "https://github.com/daaa1k/skills"
-  },
-  {
-    "description": "\u3053\u3053\u306b\u306fclaude code \u3067\u4f5c\u6210\u3057\u305fskills\u3092\u5165\u308c\u3066\u3044\u304d\u307e\u3059\u3002",
-    "id": "ryotaroh180105/claude-skills",
-    "language": "Python",
-    "name": "ryotaroh180105/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-07-05T11:50:08Z",
-    "url": "https://github.com/ryotaroh180105/claude-skills"
-  },
-  {
-    "description": "My everyday Agent Skills library for Claude Code, opencode & friends",
-    "id": "RohiRIK/skills",
-    "language": "TypeScript",
-    "name": "RohiRIK/skills",
-    "stars": 1,
-    "updated_at": "2026-07-05T11:36:41Z",
-    "url": "https://github.com/RohiRIK/skills"
   }
 ]
