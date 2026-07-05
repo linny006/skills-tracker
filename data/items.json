@@ -1,21 +1,66 @@
 [
   {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "auglarson-sys/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "auglarson-sys/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-05T23:44:18Z",
-    "url": "https://github.com/auglarson-sys/skills-introduction-to-github"
-  },
-  {
     "description": "AI instruction files in SKILL.md format, indexed by Skills.sh and SkillsMP.",
     "id": "tomevault-io/skills-registry",
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-07-05T23:44:21Z",
+    "updated_at": "2026-07-05T23:45:20Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-05T23:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Seed repository for reusable SKILL.md packs for Hermes Agent profiles.",
+    "id": "frankxai/awesome-hermes-agent-skills",
+    "language": "\u2014",
+    "name": "frankxai/awesome-hermes-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-07-05T23:44:48Z",
+    "url": "https://github.com/frankxai/awesome-hermes-agent-skills"
+  },
+  {
+    "description": "THE definitive curated resource for gamification-agent-skills | GenCreator 6-Pillar CoE \u2022 Starlight Intelligence \u2022 Arcan",
+    "id": "frankxai/awesome-gamification-agent-skills",
+    "language": "JavaScript",
+    "name": "frankxai/awesome-gamification-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-05T23:44:33Z",
+    "url": "https://github.com/frankxai/awesome-gamification-agent-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "auglarson-sys/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "auglarson-sys/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-07-05T23:44:30Z",
+    "url": "https://github.com/auglarson-sys/skills-introduction-to-github"
+  },
+  {
+    "description": "",
+    "id": "hellatan/claude-skills",
+    "language": "Shell",
+    "name": "hellatan/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-05T23:44:27Z",
+    "url": "https://github.com/hellatan/claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-07-05T23:44:24Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "THE definitive curated resource for design-agent-skills | GenCreator 6-Pillar CoE \u2022 Starlight Intelligence \u2022 Arcanea Cre",
@@ -333,15 +378,6 @@
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-05T23:31:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agent skills for building and navigating memory palaces \u2014 the skills layer for the Mind Intelligence System.",
     "id": "frankxai/mind-palace-agent-skills",
     "language": "Python",
@@ -385,15 +421,6 @@
     "stars": 10,
     "updated_at": "2026-07-05T23:30:28Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-07-05T23:30:25Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Claude Code skills collection",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-05T23:09:36Z",
     "url": "https://github.com/DBJARH/DBJ_CODING_SKILLS"
-  },
-  {
-    "description": "",
-    "id": "EndUser123/cc-skills-sdlc",
-    "language": "Python",
-    "name": "EndUser123/cc-skills-sdlc",
-    "stars": 0,
-    "updated_at": "2026-07-05T23:09:31Z",
-    "url": "https://github.com/EndUser123/cc-skills-sdlc"
-  },
-  {
-    "description": "",
-    "id": "Fandhe-AI/agent-reference-skills",
-    "language": "JavaScript",
-    "name": "Fandhe-AI/agent-reference-skills",
-    "stars": 1,
-    "updated_at": "2026-07-05T23:09:26Z",
-    "url": "https://github.com/Fandhe-AI/agent-reference-skills"
-  },
-  {
-    "description": "",
-    "id": "timsonner/agent-skills",
-    "language": "\u2014",
-    "name": "timsonner/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-05T23:08:27Z",
-    "url": "https://github.com/timsonner/agent-skills"
   }
 ]
