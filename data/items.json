@@ -5,8 +5,44 @@
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-07-05T22:44:40Z",
+    "updated_at": "2026-07-05T22:45:25Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Exercise: Agentic Workflows That Read the Room",
+    "id": "FatiBuuloloo/skills-agentic-workflows-that-read-the-room-EXERCISE",
+    "language": "Astro",
+    "name": "FatiBuuloloo/skills-agentic-workflows-that-read-the-room-EXERCISE",
+    "stars": 0,
+    "updated_at": "2026-07-05T22:45:19Z",
+    "url": "https://github.com/FatiBuuloloo/skills-agentic-workflows-that-read-the-room-EXERCISE"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-05T22:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "nordz0r/skills",
+    "language": "JavaScript",
+    "name": "nordz0r/skills",
+    "stars": 2,
+    "updated_at": "2026-07-05T22:44:53Z",
+    "url": "https://github.com/nordz0r/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-07-05T22:44:44Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "My Personal Skills",
@@ -27,7 +63,7 @@
     "url": "https://github.com/j-anttila/skills-introduction-to-codeql"
   },
   {
-    "description": "",
+    "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verifi",
     "id": "eli-labz/Cognitive-Core-Skills",
     "language": "Python",
     "name": "eli-labz/Cognitive-Core-Skills",
@@ -99,21 +135,12 @@
     "url": "https://github.com/allenlee0430/allenlee-lab-skills"
   },
   {
-    "description": "",
-    "id": "nordz0r/skills",
-    "language": "JavaScript",
-    "name": "nordz0r/skills",
-    "stars": 2,
-    "updated_at": "2026-07-05T22:42:18Z",
-    "url": "https://github.com/nordz0r/skills"
-  },
-  {
     "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
     "id": "nitinjain999/platform-skills",
     "language": "Shell",
     "name": "nitinjain999/platform-skills",
     "stars": 34,
-    "updated_at": "2026-07-05T22:42:07Z",
+    "updated_at": "2026-07-05T22:45:19Z",
     "url": "https://github.com/nitinjain999/platform-skills"
   },
   {
@@ -486,15 +513,6 @@
     "url": "https://github.com/lisxa5747/unreal-angelscript-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-07-05T22:30:26Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -502,15 +520,6 @@
     "stars": 10,
     "updated_at": "2026-07-05T22:30:26Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-05T22:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Automate literature reviews with research skills for fetching arXiv papers, extracting technical details, and tracking c",
@@ -889,14 +898,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T22:24:31Z",
     "url": "https://github.com/khoman9874/research-skills-guide"
-  },
-  {
-    "description": "Distill human behaviors, roles, and personality traits into reusable AI agent skills for your projects.",
-    "id": "LatestPlayz/awesome-persona-skills",
-    "language": "\u2014",
-    "name": "LatestPlayz/awesome-persona-skills",
-    "stars": 3,
-    "updated_at": "2026-07-05T22:24:29Z",
-    "url": "https://github.com/LatestPlayz/awesome-persona-skills"
   }
 ]
