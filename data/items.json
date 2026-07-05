@@ -5,8 +5,35 @@
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-07-05T21:45:21Z",
+    "updated_at": "2026-07-05T21:45:49Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "",
+    "id": "carlsz/ux-agent-skills-evals",
+    "language": "TypeScript",
+    "name": "carlsz/ux-agent-skills-evals",
+    "stars": 0,
+    "updated_at": "2026-07-05T21:45:36Z",
+    "url": "https://github.com/carlsz/ux-agent-skills-evals"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-07-05T21:45:26Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-07-05T21:45:25Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "\ud83d\ude80 Enhance AI assistants' capabilities with the AgentSkills plugin for the Trading 212 API, simplifying access to trading",
@@ -595,15 +622,6 @@
   },
   {
     "description": "",
-    "id": "carlsz/ux-agent-skills-evals",
-    "language": "TypeScript",
-    "name": "carlsz/ux-agent-skills-evals",
-    "stars": 0,
-    "updated_at": "2026-07-05T21:39:51Z",
-    "url": "https://github.com/carlsz/ux-agent-skills-evals"
-  },
-  {
-    "description": "",
     "id": "pppeterlin/pppeterlin-skills",
     "language": "\u2014",
     "name": "pppeterlin/pppeterlin-skills",
@@ -700,24 +718,6 @@
     "stars": 2,
     "updated_at": "2026-07-05T21:30:39Z",
     "url": "https://github.com/hackermanishackerman/claude-skills-vault"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-07-05T21:30:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 10,
-    "updated_at": "2026-07-05T21:30:27Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "\ud83d\ude80 Access and install over 50,000 skills for AI agents with one command using the versatile agent-skills-cli tool.",
