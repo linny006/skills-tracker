@@ -1,5 +1,68 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-06T18:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Exercise: Communicate using Markdown",
+    "id": "tanvi-codes-max/skills-communicate-using-markdown",
+    "language": "\u2014",
+    "name": "tanvi-codes-max/skills-communicate-using-markdown",
+    "stars": 0,
+    "updated_at": "2026-07-06T18:30:12Z",
+    "url": "https://github.com/tanvi-codes-max/skills-communicate-using-markdown"
+  },
+  {
+    "description": "AI instruction files in SKILL.md format, indexed by Skills.sh and SkillsMP.",
+    "id": "tomevault-io/skills-registry",
+    "language": "\u2014",
+    "name": "tomevault-io/skills-registry",
+    "stars": 0,
+    "updated_at": "2026-07-06T18:30:05Z",
+    "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Collection of helpful Codex Skills for software development",
+    "id": "Pradnyeshp/Codex-skills",
+    "language": "\u2014",
+    "name": "Pradnyeshp/Codex-skills",
+    "stars": 2,
+    "updated_at": "2026-07-06T18:29:48Z",
+    "url": "https://github.com/Pradnyeshp/Codex-skills"
+  },
+  {
+    "description": "Session management skills for Claude Code \u2014 persistent memory and continuity across AI-assisted workflows",
+    "id": "t0ddharris/claude-code-skills",
+    "language": "Python",
+    "name": "t0ddharris/claude-code-skills",
+    "stars": 2,
+    "updated_at": "2026-07-06T18:29:35Z",
+    "url": "https://github.com/t0ddharris/claude-code-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "aethan299/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "aethan299/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-07-06T18:29:32Z",
+    "url": "https://github.com/aethan299/skills-introduction-to-github"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-07-06T18:29:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "",
     "id": "edxeth/pi-better-skills",
     "language": "TypeScript",
@@ -16,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-07-06T18:29:17Z",
     "url": "https://github.com/akash-joshi/agent-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "aethan299/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "aethan299/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-06T18:29:14Z",
-    "url": "https://github.com/aethan299/skills-introduction-to-github"
   },
   {
     "description": "Internal skills for Despegar NPS analytics",
@@ -441,15 +495,6 @@
     "url": "https://github.com/Sanskar015/claude-skills-supercharged"
   },
   {
-    "description": "AI instruction files in SKILL.md format, indexed by Skills.sh and SkillsMP.",
-    "id": "tomevault-io/skills-registry",
-    "language": "\u2014",
-    "name": "tomevault-io/skills-registry",
-    "stars": 0,
-    "updated_at": "2026-07-06T18:22:15Z",
-    "url": "https://github.com/tomevault-io/skills-registry"
-  },
-  {
     "description": "Set of skills that work like a development /pipeline. From agentic development to agents as the developer team.",
     "id": "ambrovia/agent-skills-pipeline",
     "language": "TypeScript",
@@ -662,7 +707,7 @@
     "language": "TypeScript",
     "name": "reddb-io/red-skills",
     "stars": 0,
-    "updated_at": "2026-07-06T18:27:03Z",
+    "updated_at": "2026-07-06T18:30:21Z",
     "url": "https://github.com/reddb-io/red-skills"
   },
   {
@@ -810,15 +855,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-07-06T18:15:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Exercise: Introduction to Git",
     "id": "abdullaharshad-cpu/skills-introduction-to-git",
     "language": "Shell",
@@ -826,15 +862,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T18:15:26Z",
     "url": "https://github.com/abdullaharshad-cpu/skills-introduction-to-git"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-06T18:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "My clone repository",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T18:14:53Z",
     "url": "https://github.com/LiGoldragon/skills"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
-    "id": "428alexander9/claude-skills-marketplace",
-    "language": "Python",
-    "name": "428alexander9/claude-skills-marketplace",
-    "stars": 1,
-    "updated_at": "2026-07-06T18:14:36Z",
-    "url": "https://github.com/428alexander9/claude-skills-marketplace"
-  },
-  {
-    "description": "Skills - Introducton Skills",
-    "id": "lufrocea/tech-skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "lufrocea/tech-skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-06T18:23:27Z",
-    "url": "https://github.com/lufrocea/tech-skills-introduction-to-github"
-  },
-  {
-    "description": "",
-    "id": "srujannayak45/SkillSphere",
-    "language": "JavaScript",
-    "name": "srujannayak45/SkillSphere",
-    "stars": 0,
-    "updated_at": "2026-07-06T18:14:21Z",
-    "url": "https://github.com/srujannayak45/SkillSphere"
   }
 ]
