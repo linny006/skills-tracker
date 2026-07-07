@@ -1,12 +1,39 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-07T21:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI instruction files in SKILL.md format, indexed by Skills.sh and SkillsMP.",
     "id": "tomevault-io/skills-registry",
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-07-07T20:59:51Z",
+    "updated_at": "2026-07-07T21:00:20Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "",
+    "id": "shara-design/My-skills-lgj-shara",
+    "language": "Shell",
+    "name": "shara-design/My-skills-lgj-shara",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:00:02Z",
+    "url": "https://github.com/shara-design/My-skills-lgj-shara"
+  },
+  {
+    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
+    "id": "Hebrewlessonmobility409/papers_skills",
+    "language": "\u2014",
+    "name": "Hebrewlessonmobility409/papers_skills",
+    "stars": 1,
+    "updated_at": "2026-07-07T21:00:02Z",
+    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
   },
   {
     "description": "My clone repository",
@@ -14,8 +41,71 @@
     "language": "\u2014",
     "name": "itzXoscarx/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-07-07T20:59:43Z",
+    "updated_at": "2026-07-07T21:00:01Z",
     "url": "https://github.com/itzXoscarx/skills-introduction-to-github"
+  },
+  {
+    "description": "A collection of Claude Code / Agent skills",
+    "id": "shara-design/skills",
+    "language": "Shell",
+    "name": "shara-design/skills",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:00:00Z",
+    "url": "https://github.com/shara-design/skills"
+  },
+  {
+    "description": "",
+    "id": "Irene2828/SocialSkillsApp",
+    "language": "TypeScript",
+    "name": "Irene2828/SocialSkillsApp",
+    "stars": 0,
+    "updated_at": "2026-07-07T20:59:57Z",
+    "url": "https://github.com/Irene2828/SocialSkillsApp"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 8,
+    "updated_at": "2026-07-07T20:59:55Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "A sandbox for developing Hex skills",
+    "id": "rherrera89/hex-skills-sandbox",
+    "language": "Python",
+    "name": "rherrera89/hex-skills-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-07T20:59:55Z",
+    "url": "https://github.com/rherrera89/hex-skills-sandbox"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "Python",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 35,
+    "updated_at": "2026-07-07T20:59:55Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "30 ready-to-use Claude Code skills covering the full product development lifecycle \u2014 discovery, planning, quality, relea",
+    "id": "OmexIT/claude-skills-pack",
+    "language": "Python",
+    "name": "OmexIT/claude-skills-pack",
+    "stars": 13,
+    "updated_at": "2026-07-07T20:59:50Z",
+    "url": "https://github.com/OmexIT/claude-skills-pack"
+  },
+  {
+    "description": "Claude Code plugin marketplace: migrate Tableau / Power BI / Qlik to Sigma (converter + assessment per tool). Validated ",
+    "id": "twells89/sigma-migration-skills",
+    "language": "Ruby",
+    "name": "twells89/sigma-migration-skills",
+    "stars": 7,
+    "updated_at": "2026-07-07T20:59:49Z",
+    "url": "https://github.com/twells89/sigma-migration-skills"
   },
   {
     "description": "",
@@ -43,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-07-07T20:59:27Z",
     "url": "https://github.com/Overhand-cool515/loader-openclaw-skills"
-  },
-  {
-    "description": "30 ready-to-use Claude Code skills covering the full product development lifecycle \u2014 discovery, planning, quality, relea",
-    "id": "OmexIT/claude-skills-pack",
-    "language": "Python",
-    "name": "OmexIT/claude-skills-pack",
-    "stars": 13,
-    "updated_at": "2026-07-07T20:59:50Z",
-    "url": "https://github.com/OmexIT/claude-skills-pack"
   },
   {
     "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
@@ -196,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T20:57:25Z",
     "url": "https://github.com/grandcamel/Anvilogic-Assistant-Skills"
-  },
-  {
-    "description": "Claude Code plugin marketplace: migrate Tableau / Power BI / Qlik to Sigma (converter + assessment per tool). Validated ",
-    "id": "twells89/sigma-migration-skills",
-    "language": "Ruby",
-    "name": "twells89/sigma-migration-skills",
-    "stars": 7,
-    "updated_at": "2026-07-07T20:59:49Z",
-    "url": "https://github.com/twells89/sigma-migration-skills"
   },
   {
     "description": "",
@@ -826,77 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T20:49:28Z",
     "url": "https://github.com/j0sh3rs/ai-skills"
-  },
-  {
-    "description": "All my publicly shared AI agent skills",
-    "id": "joelagnel/joels-skills",
-    "language": "Python",
-    "name": "joelagnel/joels-skills",
-    "stars": 0,
-    "updated_at": "2026-07-07T20:49:14Z",
-    "url": "https://github.com/joelagnel/joels-skills"
-  },
-  {
-    "description": "Provide Go agent skills for cleaner, idiomatic code across Claude Code, Cursor, Copilot, and more with one install",
-    "id": "Gisellesleeveless396/go-agent-skills",
-    "language": "Shell",
-    "name": "Gisellesleeveless396/go-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-07T20:49:05Z",
-    "url": "https://github.com/Gisellesleeveless396/go-agent-skills"
-  },
-  {
-    "description": "I've developed these Skill, and decided, maybe they are worth sharing. ",
-    "id": "jryski/Public_AI_SKills",
-    "language": "\u2014",
-    "name": "jryski/Public_AI_SKills",
-    "stars": 0,
-    "updated_at": "2026-07-07T20:48:56Z",
-    "url": "https://github.com/jryski/Public_AI_SKills"
-  },
-  {
-    "description": "Organize reusable AI agent skills for Claude Code, Codex, and Cursor with focused workflows, scripts, and fast task sele",
-    "id": "biyearly-mesothelioma790/skills",
-    "language": "Python",
-    "name": "biyearly-mesothelioma790/skills",
-    "stars": 0,
-    "updated_at": "2026-07-07T20:48:55Z",
-    "url": "https://github.com/biyearly-mesothelioma790/skills"
-  },
-  {
-    "description": "\ud83c\udf33 A comprehensive collection of all skills available for AI agents and computer-use models \u2014 perception, reasoning, memo",
-    "id": "SamoTech/skills-tree",
-    "language": "Python",
-    "name": "SamoTech/skills-tree",
-    "stars": 2,
-    "updated_at": "2026-07-07T20:48:53Z",
-    "url": "https://github.com/SamoTech/skills-tree"
-  },
-  {
-    "description": "",
-    "id": "Ryan6-VRC/vrc-skills",
-    "language": "Python",
-    "name": "Ryan6-VRC/vrc-skills",
-    "stars": 0,
-    "updated_at": "2026-07-07T20:48:50Z",
-    "url": "https://github.com/Ryan6-VRC/vrc-skills"
-  },
-  {
-    "description": "",
-    "id": "Irene2828/SocialSkillsApp",
-    "language": "TypeScript",
-    "name": "Irene2828/SocialSkillsApp",
-    "stars": 0,
-    "updated_at": "2026-07-07T20:48:40Z",
-    "url": "https://github.com/Irene2828/SocialSkillsApp"
-  },
-  {
-    "description": "Streamline FPGA development with 8 Vivado/Vitis skills for HLS, RTL, synthesis, constraints, timing, and debug workflows",
-    "id": "adeleempurpled290/FPGA-Agent-skills",
-    "language": "ReScript",
-    "name": "adeleempurpled290/FPGA-Agent-skills",
-    "stars": 21,
-    "updated_at": "2026-07-07T20:48:39Z",
-    "url": "https://github.com/adeleempurpled290/FPGA-Agent-skills"
   }
 ]
