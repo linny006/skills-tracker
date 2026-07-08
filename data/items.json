@@ -1,5 +1,50 @@
 [
   {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "HexagonalSole1/skills-getting-started-with-github-copilot",
+    "language": "\u2014",
+    "name": "HexagonalSole1/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:00:37Z",
+    "url": "https://github.com/HexagonalSole1/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 11,
+    "updated_at": "2026-07-08T19:00:36Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-07-08T19:00:32Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "tech education",
+    "id": "patangesomnath52-sketch/student-skillset-tech-institute",
+    "language": "HTML",
+    "name": "patangesomnath52-sketch/student-skillset-tech-institute",
+    "stars": 1,
+    "updated_at": "2026-07-08T19:00:28Z",
+    "url": "https://github.com/patangesomnath52-sketch/student-skillset-tech-institute"
+  },
+  {
+    "description": "",
+    "id": "gaby23208-prog/skills-mods-minecraft-bedrock",
+    "language": "Python",
+    "name": "gaby23208-prog/skills-mods-minecraft-bedrock",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:00:28Z",
+    "url": "https://github.com/gaby23208-prog/skills-mods-minecraft-bedrock"
+  },
+  {
     "description": "My clone repository",
     "id": "bishopscientifica/skills-introduction-to-github",
     "language": "\u2014",
@@ -7,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-07-08T19:00:27Z",
     "url": "https://github.com/bishopscientifica/skills-introduction-to-github"
+  },
+  {
+    "description": "Provide a complete Traditional Chinese guide to building and testing Skills for Claude, based on Anthropic's official do",
+    "id": "Cathyoffthehook238/Guild-to-Building-Skills-for-Claude",
+    "language": "\u2014",
+    "name": "Cathyoffthehook238/Guild-to-Building-Skills-for-Claude",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:00:26Z",
+    "url": "https://github.com/Cathyoffthehook238/Guild-to-Building-Skills-for-Claude"
   },
   {
     "description": "Matt Pocock's agent skills, reworked on Google's Open Knowledge Format",
@@ -18,15 +72,6 @@
     "url": "https://github.com/evist0/okf-matt-skills"
   },
   {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "HexagonalSole1/skills-getting-started-with-github-copilot",
-    "language": "\u2014",
-    "name": "HexagonalSole1/skills-getting-started-with-github-copilot",
-    "stars": 0,
-    "updated_at": "2026-07-08T19:00:21Z",
-    "url": "https://github.com/HexagonalSole1/skills-getting-started-with-github-copilot"
-  },
-  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -34,6 +79,33 @@
     "stars": 9,
     "updated_at": "2026-07-08T19:00:14Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Enable full-cycle product development with AI-driven skills for ideation, specification writing, frontend design, and UX",
+    "id": "robotka1321/great-product-skills",
+    "language": "Shell",
+    "name": "robotka1321/great-product-skills",
+    "stars": 1,
+    "updated_at": "2026-07-08T19:00:12Z",
+    "url": "https://github.com/robotka1321/great-product-skills"
+  },
+  {
+    "description": "",
+    "id": "abracadabra-afk/razorblade-skills",
+    "language": "Python",
+    "name": "abracadabra-afk/razorblade-skills",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:00:12Z",
+    "url": "https://github.com/abracadabra-afk/razorblade-skills"
+  },
+  {
+    "description": "Governed skill foundry and Skills SDK for Codex/AI coding agents: author, validate, evaluate, and sync runtime projectio",
+    "id": "jscraik/Agent-Skills",
+    "language": "Python",
+    "name": "jscraik/Agent-Skills",
+    "stars": 8,
+    "updated_at": "2026-07-08T19:00:11Z",
+    "url": "https://github.com/jscraik/Agent-Skills"
   },
   {
     "description": "Hermes\u5e73\u53f0 skills \u6bcf\u65e5\u5907\u4efd",
@@ -113,7 +185,7 @@
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-07-08T19:00:26Z",
+    "updated_at": "2026-07-08T19:00:56Z",
     "url": "https://github.com/tomevault-io/skills-registry"
   },
   {
@@ -212,7 +284,7 @@
     "language": "Python",
     "name": "AgenticGovernace/QuantumHarmonyLLC---artemis-skills-anaconda",
     "stars": 0,
-    "updated_at": "2026-07-08T18:58:52Z",
+    "updated_at": "2026-07-08T19:00:32Z",
     "url": "https://github.com/AgenticGovernace/QuantumHarmonyLLC---artemis-skills-anaconda"
   },
   {
@@ -826,77 +898,5 @@
     "stars": 3,
     "updated_at": "2026-07-08T18:49:13Z",
     "url": "https://github.com/wawa1154/kagi-skills"
-  },
-  {
-    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
-    "id": "Rohan-16dev/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "language": "\u2014",
-    "name": "Rohan-16dev/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "stars": 0,
-    "updated_at": "2026-07-08T18:58:38Z",
-    "url": "https://github.com/Rohan-16dev/skills-scale-institutional-knowledge-using-copilot-spaces"
-  },
-  {
-    "description": "Provide AI-guided tools for low-level programming in C/C++, Rust, and Zig to improve compiler, debugger, profiler, and b",
-    "id": "protagonist-fy/low-level-dev-skills",
-    "language": "JavaScript",
-    "name": "protagonist-fy/low-level-dev-skills",
-    "stars": 2,
-    "updated_at": "2026-07-08T18:48:42Z",
-    "url": "https://github.com/protagonist-fy/low-level-dev-skills"
-  },
-  {
-    "description": "Claude Code skills for systems thinking: hand-drawn stock-flow / causal-loop diagram critique, system archetype identifi",
-    "id": "BayramAnnakov/systems-thinking-skills",
-    "language": "HTML",
-    "name": "BayramAnnakov/systems-thinking-skills",
-    "stars": 12,
-    "updated_at": "2026-07-08T18:48:33Z",
-    "url": "https://github.com/BayramAnnakov/systems-thinking-skills"
-  },
-  {
-    "description": "Provide 19 business operation skills for AI agents following the Agent Skills standard to analyze workflows and assess R",
-    "id": "Adri3l-R3nan/cognify-skills",
-    "language": "\u2014",
-    "name": "Adri3l-R3nan/cognify-skills",
-    "stars": 4,
-    "updated_at": "2026-07-08T18:48:29Z",
-    "url": "https://github.com/Adri3l-R3nan/cognify-skills"
-  },
-  {
-    "description": "My clone repository",
-    "id": "LAChicaRita1967/skills-connect-the-dots",
-    "language": "\u2014",
-    "name": "LAChicaRita1967/skills-connect-the-dots",
-    "stars": 0,
-    "updated_at": "2026-07-08T18:48:20Z",
-    "url": "https://github.com/LAChicaRita1967/skills-connect-the-dots"
-  },
-  {
-    "description": "",
-    "id": "Da1v1d/skills",
-    "language": "\u2014",
-    "name": "Da1v1d/skills",
-    "stars": 0,
-    "updated_at": "2026-07-08T18:48:14Z",
-    "url": "https://github.com/Da1v1d/skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "Aalli-Talpur/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "Aalli-Talpur/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-07-08T18:48:11Z",
-    "url": "https://github.com/Aalli-Talpur/skills-introduction-to-git"
-  },
-  {
-    "description": "Open-source agent skills for Claude Code, Claude Cowork, Codex, Cursor, and Gemini CLI. Connect AI agents to Google Anal",
-    "id": "usetemi/skills",
-    "language": "Python",
-    "name": "usetemi/skills",
-    "stars": 5,
-    "updated_at": "2026-07-08T18:48:07Z",
-    "url": "https://github.com/usetemi/skills"
   }
 ]
