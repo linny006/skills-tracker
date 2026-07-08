@@ -1,5 +1,68 @@
 [
   {
+    "description": "Exercise: Review pull requests",
+    "id": "midori-kuwahara-du/skills-review-pull-requests",
+    "language": "HTML",
+    "name": "midori-kuwahara-du/skills-review-pull-requests",
+    "stars": 0,
+    "updated_at": "2026-07-08T06:15:20Z",
+    "url": "https://github.com/midori-kuwahara-du/skills-review-pull-requests"
+  },
+  {
+    "description": "A pattern for personal knowledge bases where an LLM incrementally builds and maintains a structured, interlinked markdow",
+    "id": "DeepShareAI/JavisSkills",
+    "language": "JavaScript",
+    "name": "DeepShareAI/JavisSkills",
+    "stars": 1,
+    "updated_at": "2026-07-08T06:15:19Z",
+    "url": "https://github.com/DeepShareAI/JavisSkills"
+  },
+  {
+    "description": "AI instruction files in SKILL.md format, indexed by Skills.sh and SkillsMP.",
+    "id": "tomevault-io/skills-registry",
+    "language": "\u2014",
+    "name": "tomevault-io/skills-registry",
+    "stars": 0,
+    "updated_at": "2026-07-08T06:15:25Z",
+    "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-08T06:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A curated skills tracker for the content design community",
+    "id": "bertinoco/bco-skills",
+    "language": "\u2014",
+    "name": "bertinoco/bco-skills",
+    "stars": 0,
+    "updated_at": "2026-07-08T06:15:07Z",
+    "url": "https://github.com/bertinoco/bco-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 8,
+    "updated_at": "2026-07-08T06:15:00Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "\u8521\u6c0f\u798f\u5b81skills",
+    "id": "Zankusama/CSFN-skills",
+    "language": "HTML",
+    "name": "Zankusama/CSFN-skills",
+    "stars": 0,
+    "updated_at": "2026-07-08T06:14:59Z",
+    "url": "https://github.com/Zankusama/CSFN-skills"
+  },
+  {
     "description": "\u500b\u4eba\u7528AI\u30b9\u30ad\u30eb\u7f6e\u304d\u5834",
     "id": "ysrkw/skills",
     "language": "Shell",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T06:14:52Z",
     "url": "https://github.com/mclinhss/skills-communicate-using-markdown"
-  },
-  {
-    "description": "AI instruction files in SKILL.md format, indexed by Skills.sh and SkillsMP.",
-    "id": "tomevault-io/skills-registry",
-    "language": "\u2014",
-    "name": "tomevault-io/skills-registry",
-    "stars": 0,
-    "updated_at": "2026-07-08T06:14:57Z",
-    "url": "https://github.com/tomevault-io/skills-registry"
   },
   {
     "description": "",
@@ -844,59 +898,5 @@
     "stars": 55,
     "updated_at": "2026-07-08T06:04:17Z",
     "url": "https://github.com/andersonamaral2/Claude-Code-to-Deep-Agents-Skills-Converter"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "piyush056/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "piyush056/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-08T06:09:48Z",
-    "url": "https://github.com/piyush056/skills-introduction-to-github"
-  },
-  {
-    "description": "",
-    "id": "cssmith36/claude_skills",
-    "language": "Python",
-    "name": "cssmith36/claude_skills",
-    "stars": 0,
-    "updated_at": "2026-07-08T06:04:06Z",
-    "url": "https://github.com/cssmith36/claude_skills"
-  },
-  {
-    "description": "",
-    "id": "tang-coder-hub/ai-skills-market",
-    "language": "JavaScript",
-    "name": "tang-coder-hub/ai-skills-market",
-    "stars": 1,
-    "updated_at": "2026-07-08T06:04:03Z",
-    "url": "https://github.com/tang-coder-hub/ai-skills-market"
-  },
-  {
-    "description": "Exercise: Code with Codespaces",
-    "id": "Kin260707/skills-code-with-codespaces",
-    "language": "Shell",
-    "name": "Kin260707/skills-code-with-codespaces",
-    "stars": 0,
-    "updated_at": "2026-07-08T06:03:46Z",
-    "url": "https://github.com/Kin260707/skills-code-with-codespaces"
-  },
-  {
-    "description": "\u9762\u5411\u6cd5\u5f8b\u4eba\u7684 Skills \u96c6\u5408\u3002",
-    "id": "cat-xierluo/legal-skills",
-    "language": "Python",
-    "name": "cat-xierluo/legal-skills",
-    "stars": 450,
-    "updated_at": "2026-07-08T06:03:39Z",
-    "url": "https://github.com/cat-xierluo/legal-skills"
-  },
-  {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "ramonbalboa/skills-github-pages2",
-    "language": "\u2014",
-    "name": "ramonbalboa/skills-github-pages2",
-    "stars": 0,
-    "updated_at": "2026-07-08T06:03:12Z",
-    "url": "https://github.com/ramonbalboa/skills-github-pages2"
   }
 ]
