@@ -1,5 +1,113 @@
 [
   {
+    "description": "Public, machine-agnostic Claude Code skills: project-init, handoff, and drift-check",
+    "id": "ngreenwall/claude-skills",
+    "language": "\u2014",
+    "name": "ngreenwall/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-09T23:02:01Z",
+    "url": "https://github.com/ngreenwall/claude-skills"
+  },
+  {
+    "description": "Skills to help your coding agents use Together AI products.",
+    "id": "togethercomputer/skills",
+    "language": "Python",
+    "name": "togethercomputer/skills",
+    "stars": 31,
+    "updated_at": "2026-07-09T23:01:48Z",
+    "url": "https://github.com/togethercomputer/skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "carlosguedesneto/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "carlosguedesneto/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-07-09T23:01:42Z",
+    "url": "https://github.com/carlosguedesneto/skills-introduction-to-git"
+  },
+  {
+    "description": "",
+    "id": "LBrockmanK/worldbuilder-skills",
+    "language": "Python",
+    "name": "LBrockmanK/worldbuilder-skills",
+    "stars": 0,
+    "updated_at": "2026-07-09T23:01:41Z",
+    "url": "https://github.com/LBrockmanK/worldbuilder-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "frenche1-gene/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "frenche1-gene/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-07-09T23:01:37Z",
+    "url": "https://github.com/frenche1-gene/skills-introduction-to-github"
+  },
+  {
+    "description": "Agent skills for managing social media with Marky (npx skills add marky-team/marky-skills)",
+    "id": "Marky-Team/marky-skills",
+    "language": "Shell",
+    "name": "Marky-Team/marky-skills",
+    "stars": 0,
+    "updated_at": "2026-07-09T23:01:56Z",
+    "url": "https://github.com/Marky-Team/marky-skills"
+  },
+  {
+    "description": "",
+    "id": "Matheusvxz/hermes-skills",
+    "language": "Shell",
+    "name": "Matheusvxz/hermes-skills",
+    "stars": 0,
+    "updated_at": "2026-07-09T23:01:14Z",
+    "url": "https://github.com/Matheusvxz/hermes-skills"
+  },
+  {
+    "description": "Agent skills for TokenLab API integration, model picking, native endpoints, cost routing, and OpenAI-compatible migratio",
+    "id": "hedging8563/tokenlab-skills",
+    "language": "\u2014",
+    "name": "hedging8563/tokenlab-skills",
+    "stars": 1,
+    "updated_at": "2026-07-09T23:00:53Z",
+    "url": "https://github.com/hedging8563/tokenlab-skills"
+  },
+  {
+    "description": "",
+    "id": "naufelpatrick/raio-x-soft-skills-mvp",
+    "language": "JavaScript",
+    "name": "naufelpatrick/raio-x-soft-skills-mvp",
+    "stars": 0,
+    "updated_at": "2026-07-09T23:00:42Z",
+    "url": "https://github.com/naufelpatrick/raio-x-soft-skills-mvp"
+  },
+  {
+    "description": "The repo for all system/public ornn skills",
+    "id": "ChronoAIProject/nyx-skills",
+    "language": "JavaScript",
+    "name": "ChronoAIProject/nyx-skills",
+    "stars": 0,
+    "updated_at": "2026-07-09T23:00:40Z",
+    "url": "https://github.com/ChronoAIProject/nyx-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 12,
+    "updated_at": "2026-07-09T23:00:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 8,
+    "updated_at": "2026-07-09T23:00:27Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Introduction to Git",
     "id": "JoseB1342/skills-introduction-to-git",
     "language": "Shell",
@@ -207,24 +315,6 @@
     "url": "https://github.com/marcojb05/skills-getting-started-with-github-copilot"
   },
   {
-    "description": "",
-    "id": "LBrockmanK/worldbuilder-skills",
-    "language": "Python",
-    "name": "LBrockmanK/worldbuilder-skills",
-    "stars": 0,
-    "updated_at": "2026-07-09T22:56:39Z",
-    "url": "https://github.com/LBrockmanK/worldbuilder-skills"
-  },
-  {
-    "description": "Agent skills for managing social media with Marky (npx skills add marky-team/marky-skills)",
-    "id": "Marky-Team/marky-skills",
-    "language": "Shell",
-    "name": "Marky-Team/marky-skills",
-    "stars": 0,
-    "updated_at": "2026-07-09T22:56:21Z",
-    "url": "https://github.com/Marky-Team/marky-skills"
-  },
-  {
     "description": "Skills Doctor is a local-first CLI for auditing Agent Skills in project and user-level skill roots.",
     "id": "ametel01/skills-doctor",
     "language": "TypeScript",
@@ -304,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T22:53:36Z",
     "url": "https://github.com/codexrodrigues/praxis-codex-skills"
-  },
-  {
-    "description": "Public, machine-agnostic Claude Code skills: project-init, handoff, and drift-check",
-    "id": "ngreenwall/claude-skills",
-    "language": "\u2014",
-    "name": "ngreenwall/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-07-09T22:53:18Z",
-    "url": "https://github.com/ngreenwall/claude-skills"
   },
   {
     "description": "Exercise: Introduction to Git",
@@ -475,24 +556,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T22:46:12Z",
     "url": "https://github.com/LiGoldragon/skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 8,
-    "updated_at": "2026-07-09T22:45:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 12,
-    "updated_at": "2026-07-09T22:45:27Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Keeps an Obsidian vault tidy on its own \u2014 sorts, renames, tags, and enriches your notes automatically.",
@@ -835,68 +898,5 @@
     "stars": 2,
     "updated_at": "2026-07-09T22:31:55Z",
     "url": "https://github.com/ipruning/skills"
-  },
-  {
-    "description": "",
-    "id": "lkbell/claude-skills",
-    "language": "\u2014",
-    "name": "lkbell/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-07-09T22:31:52Z",
-    "url": "https://github.com/lkbell/claude-skills"
-  },
-  {
-    "description": "Agent skills for TokenLab API integration, model picking, native endpoints, cost routing, and OpenAI-compatible migratio",
-    "id": "hedging8563/tokenlab-skills",
-    "language": "\u2014",
-    "name": "hedging8563/tokenlab-skills",
-    "stars": 1,
-    "updated_at": "2026-07-09T22:31:43Z",
-    "url": "https://github.com/hedging8563/tokenlab-skills"
-  },
-  {
-    "description": "",
-    "id": "kaiser-data/marty-skills",
-    "language": "HTML",
-    "name": "kaiser-data/marty-skills",
-    "stars": 0,
-    "updated_at": "2026-07-09T22:31:36Z",
-    "url": "https://github.com/kaiser-data/marty-skills"
-  },
-  {
-    "description": "Agent skills oficiais do agent-graph-flow (agf) \u2014 ciclo PLAN/BUILD/HARDEN para qualquer agente de c\u00f3digo. https://graph-",
-    "id": "DiegoNogueiraDev/skills-graph",
-    "language": "\u2014",
-    "name": "DiegoNogueiraDev/skills-graph",
-    "stars": 3,
-    "updated_at": "2026-07-09T22:31:19Z",
-    "url": "https://github.com/DiegoNogueiraDev/skills-graph"
-  },
-  {
-    "description": "Cloud-based agent skills for creating AI avatar talking-head videos and short-form reels (skills.sh format)",
-    "id": "puntorigen/avatar-skills",
-    "language": "Python",
-    "name": "puntorigen/avatar-skills",
-    "stars": 0,
-    "updated_at": "2026-07-09T22:30:55Z",
-    "url": "https://github.com/puntorigen/avatar-skills"
-  },
-  {
-    "description": "Greg Barbosa's personal agent skills \u2014 installable via npx skills add gregbarbosa/skills",
-    "id": "gregbarbosa/skills",
-    "language": "\u2014",
-    "name": "gregbarbosa/skills",
-    "stars": 0,
-    "updated_at": "2026-07-09T22:30:35Z",
-    "url": "https://github.com/gregbarbosa/skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "DanielP11920/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "DanielP11920/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-07-09T22:30:05Z",
-    "url": "https://github.com/DanielP11920/skills-introduction-to-git"
   }
 ]
