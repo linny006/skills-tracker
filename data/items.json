@@ -1,12 +1,75 @@
 [
   {
+    "description": "Exercise: Introduction to Git",
+    "id": "AFDBoyd/skills-introduction-to-git",
+    "language": "\u2014",
+    "name": "AFDBoyd/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:30:21Z",
+    "url": "https://github.com/AFDBoyd/skills-introduction-to-git"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-09T20:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "My clone repository",
     "id": "emreari/skills-release-based-workflow",
     "language": "JavaScript",
     "name": "emreari/skills-release-based-workflow",
     "stars": 0,
-    "updated_at": "2026-07-09T20:29:38Z",
+    "updated_at": "2026-07-09T20:30:17Z",
     "url": "https://github.com/emreari/skills-release-based-workflow"
+  },
+  {
+    "description": "Small, practical agent skills for proof-heavy work where guessing is expensive.",
+    "id": "zztimur/skills-to-pay-the-bills",
+    "language": "Python",
+    "name": "zztimur/skills-to-pay-the-bills",
+    "stars": 1,
+    "updated_at": "2026-07-09T20:30:19Z",
+    "url": "https://github.com/zztimur/skills-to-pay-the-bills"
+  },
+  {
+    "description": "\u4e2d\u6587\u4e92\u8054\u7f51 Skills \u4e13\u5bb6\u63a8\u8350\u96f7\u8fbe\uff1a\u7cbe\u9009 Agent Skills\u3001\u5f00\u6e90\u5de5\u5177\u4e0e\u6bcf\u65e5\u590d\u6838\u5185\u5bb9\u3002",
+    "id": "Atange2023/skills-radar",
+    "language": "TypeScript",
+    "name": "Atange2023/skills-radar",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:29:56Z",
+    "url": "https://github.com/Atange2023/skills-radar"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 8,
+    "updated_at": "2026-07-09T20:29:50Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "danrom85/Pi-Skills-and-Extensions",
+    "language": "Objective-C",
+    "name": "danrom85/Pi-Skills-and-Extensions",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:29:45Z",
+    "url": "https://github.com/danrom85/Pi-Skills-and-Extensions"
+  },
+  {
+    "description": "A working library of Claude Code + GLM configs, SKILL.md files, and battle-tested prompt engineering for AI-delegated de",
+    "id": "LordArth/Claude-GLM-tools-and-skills",
+    "language": "\u2014",
+    "name": "LordArth/Claude-GLM-tools-and-skills",
+    "stars": 1,
+    "updated_at": "2026-07-09T20:29:36Z",
+    "url": "https://github.com/LordArth/Claude-GLM-tools-and-skills"
   },
   {
     "description": "\u8d5b\u535a\u5c0f\u718a\u732b Loki \u4e3a Cola AI Agent \u64cd\u4f5c\u7cfb\u7edf\u81ea\u5199\u7684 21 \u4e2a Skill \u5408\u96c6 \u2014 PPT\u3001\u793e\u4ea4\u56fe\u6587\u3001\u516c\u4f17\u53f7\u5199\u4f5c\u3001\u54c1\u724c\u8bbe\u8ba1\u3001\u64ad\u5ba2\u3001\u6d77\u62a5\u3001\u4eba\u751f\u590d\u76d8\u7b49",
@@ -207,15 +270,6 @@
     "url": "https://github.com/reddb-io/red-skills"
   },
   {
-    "description": "\u4e2d\u6587\u4e92\u8054\u7f51 Skills \u4e13\u5bb6\u63a8\u8350\u96f7\u8fbe\uff1a\u7cbe\u9009 Agent Skills\u3001\u5f00\u6e90\u5de5\u5177\u4e0e\u6bcf\u65e5\u590d\u6838\u5185\u5bb9\u3002",
-    "id": "Atange2023/skills-radar",
-    "language": "TypeScript",
-    "name": "Atange2023/skills-radar",
-    "stars": 0,
-    "updated_at": "2026-07-09T20:24:48Z",
-    "url": "https://github.com/Atange2023/skills-radar"
-  },
-  {
     "description": "Shared skills for AI agents (Claude Code, Codex, Gemini)",
     "id": "grahama1970/agent-skills",
     "language": "Python",
@@ -241,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T20:24:05Z",
     "url": "https://github.com/ckmah/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-09T20:23:51Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A community-maintained collection of agent skills for WordPress plugin and theme development.",
@@ -304,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T20:22:49Z",
     "url": "https://github.com/nhocconan/conan-agent-skills"
-  },
-  {
-    "description": "A working library of Claude Code + GLM configs, SKILL.md files, and battle-tested prompt engineering for AI-delegated de",
-    "id": "LordArth/Claude-GLM-tools-and-skills",
-    "language": "\u2014",
-    "name": "LordArth/Claude-GLM-tools-and-skills",
-    "stars": 1,
-    "updated_at": "2026-07-09T20:29:36Z",
-    "url": "https://github.com/LordArth/Claude-GLM-tools-and-skills"
   },
   {
     "description": "",
@@ -565,15 +601,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T20:16:30Z",
     "url": "https://github.com/dailyherold/skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 8,
-    "updated_at": "2026-07-09T20:15:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -871,32 +898,5 @@
     "stars": 1,
     "updated_at": "2026-07-09T20:08:34Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Exercise: Expand your team with GitHub Copilot cloud agent",
-    "id": "lucianogimenez-edsa/skills-expand-your-team-with-copilot",
-    "language": "JavaScript",
-    "name": "lucianogimenez-edsa/skills-expand-your-team-with-copilot",
-    "stars": 0,
-    "updated_at": "2026-07-09T20:08:17Z",
-    "url": "https://github.com/lucianogimenez-edsa/skills-expand-your-team-with-copilot"
-  },
-  {
-    "description": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0441\u0430\u0439\u0442 \u043e \u0440\u044b\u043d\u043a\u0435 IT \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043f\u043e \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c \u0434\u0430\u043d\u043d\u044b\u043c \u0441 HH.RU: \u0441\u043f\u0440\u043e\u0441 \u043d\u0430 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u043e\u0432, \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u0437\u0430\u0440\u043f\u043b\u0430\u0442\u043d\u044b\u0445 \u0432\u0438\u043b\u043e\u043a \u043f",
-    "id": "r-kh/HotSkills",
-    "language": "JavaScript",
-    "name": "r-kh/HotSkills",
-    "stars": 0,
-    "updated_at": "2026-07-09T20:08:16Z",
-    "url": "https://github.com/r-kh/HotSkills"
-  },
-  {
-    "description": "My CLAUDE Skills ",
-    "id": "leonardoaraujosantos/my_ai_skills",
-    "language": "Python",
-    "name": "leonardoaraujosantos/my_ai_skills",
-    "stars": 1,
-    "updated_at": "2026-07-09T20:08:03Z",
-    "url": "https://github.com/leonardoaraujosantos/my_ai_skills"
   }
 ]
