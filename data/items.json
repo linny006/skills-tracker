@@ -1,6 +1,78 @@
 [
   {
     "description": "",
+    "id": "ahussnain58k-droid/china-legal-ai-skills",
+    "language": "\u2014",
+    "name": "ahussnain58k-droid/china-legal-ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-10T04:30:21Z",
+    "url": "https://github.com/ahussnain58k-droid/china-legal-ai-skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "steveyandev/skills-deploy-to-azure",
+    "language": "JavaScript",
+    "name": "steveyandev/skills-deploy-to-azure",
+    "stars": 0,
+    "updated_at": "2026-07-10T04:30:14Z",
+    "url": "https://github.com/steveyandev/skills-deploy-to-azure"
+  },
+  {
+    "description": "ProbePilotAI official Agent skills registry",
+    "id": "kzzou/probepilotai-skills",
+    "language": "Python",
+    "name": "kzzou/probepilotai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-10T04:30:14Z",
+    "url": "https://github.com/kzzou/probepilotai-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-10T04:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u8de8 agent \u7684 skill \u7ba1\u7406\u5668 + skill \u63a8\u5e7f\u5de5\u5177\uff0c\u6b22\u8fcefork\u548cpr\u3002\u7ba1\u7406\u4f60\u6240\u6709 skill \u7684\u6536\u7eb3/\u66f4\u65b0/\u8fdb\u5316\uff1b\u60f3\u63a8\u5e7f\u5c31 ps create 1 \u521b\u81ea\u5e26\u5ba3\u4f20 HTML + PPT\u3002\u652f\u6301 Claude Code / Code",
+    "id": "huangrichao2020/pretty-skills",
+    "language": "HTML",
+    "name": "huangrichao2020/pretty-skills",
+    "stars": 5,
+    "updated_at": "2026-07-10T04:29:56Z",
+    "url": "https://github.com/huangrichao2020/pretty-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 9,
+    "updated_at": "2026-07-10T04:29:39Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "LLM skills I've found useful ",
+    "id": "andrewthetechie/andrew-skills",
+    "language": "Shell",
+    "name": "andrewthetechie/andrew-skills",
+    "stars": 0,
+    "updated_at": "2026-07-10T04:29:38Z",
+    "url": "https://github.com/andrewthetechie/andrew-skills"
+  },
+  {
+    "description": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
+    "id": "sudosubin/nix-skills",
+    "language": "TypeScript",
+    "name": "sudosubin/nix-skills",
+    "stars": 7,
+    "updated_at": "2026-07-10T04:29:36Z",
+    "url": "https://github.com/sudosubin/nix-skills"
+  },
+  {
+    "description": "",
     "id": "tkgathr2/skills-catalog",
     "language": "HTML",
     "name": "tkgathr2/skills-catalog",
@@ -196,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-07-10T04:26:54Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "ProbePilotAI official Agent skills registry",
-    "id": "kzzou/probepilotai-skills",
-    "language": "Python",
-    "name": "kzzou/probepilotai-skills",
-    "stars": 0,
-    "updated_at": "2026-07-10T04:26:52Z",
-    "url": "https://github.com/kzzou/probepilotai-skills"
   },
   {
     "description": "Shared skills and settings installer for Codex, Claude, and DeepSeek",
@@ -671,7 +734,7 @@
     "language": "Shell",
     "name": "bestdan/workflow-skills",
     "stars": 3,
-    "updated_at": "2026-07-10T04:24:48Z",
+    "updated_at": "2026-07-10T04:30:17Z",
     "url": "https://github.com/bestdan/workflow-skills"
   },
   {
@@ -745,24 +808,6 @@
     "stars": 13,
     "updated_at": "2026-07-10T04:15:31Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 9,
-    "updated_at": "2026-07-10T04:15:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-10T04:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u6280\u80fd\u5408\u96c6",
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T04:11:31Z",
     "url": "https://github.com/pooriaarab/skills"
-  },
-  {
-    "description": "",
-    "id": "yb333/skills",
-    "language": "Python",
-    "name": "yb333/skills",
-    "stars": 0,
-    "updated_at": "2026-07-10T04:11:17Z",
-    "url": "https://github.com/yb333/skills"
-  },
-  {
-    "description": "collection of skills and agents",
-    "id": "varlabz/skills",
-    "language": "\u2014",
-    "name": "varlabz/skills",
-    "stars": 0,
-    "updated_at": "2026-07-10T04:10:43Z",
-    "url": "https://github.com/varlabz/skills"
-  },
-  {
-    "description": "",
-    "id": "wibaek/personal-skills",
-    "language": "Shell",
-    "name": "wibaek/personal-skills",
-    "stars": 0,
-    "updated_at": "2026-07-10T04:10:32Z",
-    "url": "https://github.com/wibaek/personal-skills"
-  },
-  {
-    "description": "self custom skills",
-    "id": "solitarylang/solitarylang_fast_skills",
-    "language": "Python",
-    "name": "solitarylang/solitarylang_fast_skills",
-    "stars": 0,
-    "updated_at": "2026-07-10T04:10:19Z",
-    "url": "https://github.com/solitarylang/solitarylang_fast_skills"
-  },
-  {
-    "description": "",
-    "id": "motu-art/motu-skills",
-    "language": "Shell",
-    "name": "motu-art/motu-skills",
-    "stars": 3,
-    "updated_at": "2026-07-10T04:10:12Z",
-    "url": "https://github.com/motu-art/motu-skills"
   }
 ]
