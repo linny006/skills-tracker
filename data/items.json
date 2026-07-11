@@ -1,5 +1,104 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-11T20:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A menagerie of Agent Skills for AI coding agents",
+    "id": "palol/skills-zoo",
+    "language": "Nunjucks",
+    "name": "palol/skills-zoo",
+    "stars": 1,
+    "updated_at": "2026-07-11T20:14:49Z",
+    "url": "https://github.com/palol/skills-zoo"
+  },
+  {
+    "description": "LLM skills for AppMap",
+    "id": "getappmap/skills",
+    "language": "JavaScript",
+    "name": "getappmap/skills",
+    "stars": 0,
+    "updated_at": "2026-07-11T20:14:45Z",
+    "url": "https://github.com/getappmap/skills"
+  },
+  {
+    "description": "Exercise: Create and run a GitHub Actions Workflow",
+    "id": "NicVirtual/skills-hello-github-actions",
+    "language": "\u2014",
+    "name": "NicVirtual/skills-hello-github-actions",
+    "stars": 0,
+    "updated_at": "2026-07-11T20:14:33Z",
+    "url": "https://github.com/NicVirtual/skills-hello-github-actions"
+  },
+  {
+    "description": "SkillsBench evaluates how well skills work and how effective agents are at using them.",
+    "id": "benchflow-ai/skillsbench",
+    "language": "PDDL",
+    "name": "benchflow-ai/skillsbench",
+    "stars": 1480,
+    "updated_at": "2026-07-11T20:14:41Z",
+    "url": "https://github.com/benchflow-ai/skillsbench"
+  },
+  {
+    "description": "A collection of AI agent skills following the Agent Skills open format",
+    "id": "pproenca/dot-skills",
+    "language": "Shell",
+    "name": "pproenca/dot-skills",
+    "stars": 179,
+    "updated_at": "2026-07-11T20:14:05Z",
+    "url": "https://github.com/pproenca/dot-skills"
+  },
+  {
+    "description": "",
+    "id": "fufellen/LLM-skills",
+    "language": "PowerShell",
+    "name": "fufellen/LLM-skills",
+    "stars": 0,
+    "updated_at": "2026-07-11T20:14:03Z",
+    "url": "https://github.com/fufellen/LLM-skills"
+  },
+  {
+    "description": "Skills I use to execute long-running coding agents without breaking my back.",
+    "id": "miguelrios/unc-skills",
+    "language": "Python",
+    "name": "miguelrios/unc-skills",
+    "stars": 1,
+    "updated_at": "2026-07-11T20:13:54Z",
+    "url": "https://github.com/miguelrios/unc-skills"
+  },
+  {
+    "description": "Personal agent skills marketplace",
+    "id": "kouko/monkey-skills",
+    "language": "Python",
+    "name": "kouko/monkey-skills",
+    "stars": 5,
+    "updated_at": "2026-07-11T20:13:44Z",
+    "url": "https://github.com/kouko/monkey-skills"
+  },
+  {
+    "description": "",
+    "id": "mr-mohamad-mr/ai-skills",
+    "language": "TypeScript",
+    "name": "mr-mohamad-mr/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-11T20:13:32Z",
+    "url": "https://github.com/mr-mohamad-mr/ai-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 9,
+    "updated_at": "2026-07-11T20:13:21Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "AI skills used personally. Not really meant for general usage",
     "id": "nikolauska/skills",
     "language": "Jupyter Notebook",
@@ -7,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-07-11T20:13:10Z",
     "url": "https://github.com/nikolauska/skills"
+  },
+  {
+    "description": "Skills for AI",
+    "id": "miguel-armas-abt/skills",
+    "language": "\u2014",
+    "name": "miguel-armas-abt/skills",
+    "stars": 0,
+    "updated_at": "2026-07-11T20:12:58Z",
+    "url": "https://github.com/miguel-armas-abt/skills"
   },
   {
     "description": "Repo/Lab for my personal Claude Code configs and skills",
@@ -52,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-07-11T20:10:55Z",
     "url": "https://github.com/Yugpat1835/awesome-copilot-cowork-skills"
-  },
-  {
-    "description": "",
-    "id": "fufellen/LLM-skills",
-    "language": "PowerShell",
-    "name": "fufellen/LLM-skills",
-    "stars": 0,
-    "updated_at": "2026-07-11T20:10:46Z",
-    "url": "https://github.com/fufellen/LLM-skills"
   },
   {
     "description": "Go library + CLI + 6 Claude Code Skills for OSV (Open Source Vulnerability) Schema \u2014 parse, validate, filter, query vuln",
@@ -279,15 +378,6 @@
     "url": "https://github.com/lisxa5747/unreal-angelscript-skills"
   },
   {
-    "description": "A menagerie of Agent Skills for AI coding agents",
-    "id": "palol/skills-zoo",
-    "language": "Nunjucks",
-    "name": "palol/skills-zoo",
-    "stars": 1,
-    "updated_at": "2026-07-11T20:10:58Z",
-    "url": "https://github.com/palol/skills-zoo"
-  },
-  {
     "description": "",
     "id": "my-skills-app/Portfolio",
     "language": "HTML",
@@ -295,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T20:06:05Z",
     "url": "https://github.com/my-skills-app/Portfolio"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "matheusincyber/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "matheusincyber/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-11T20:06:00Z",
-    "url": "https://github.com/matheusincyber/skills-introduction-to-github"
   },
   {
     "description": "Automate literature reviews with research skills for fetching arXiv papers, extracting technical details, and tracking c",
@@ -358,15 +439,6 @@
     "stars": 2,
     "updated_at": "2026-07-11T20:05:14Z",
     "url": "https://github.com/Immoderate-humulin783/odoo-skills"
-  },
-  {
-    "description": "LLM skills for AppMap",
-    "id": "getappmap/skills",
-    "language": "JavaScript",
-    "name": "getappmap/skills",
-    "stars": 0,
-    "updated_at": "2026-07-11T20:05:10Z",
-    "url": "https://github.com/getappmap/skills"
   },
   {
     "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
@@ -585,15 +657,6 @@
     "url": "https://github.com/Valeneunemployable6106/awesome-persona-skills"
   },
   {
-    "description": "Exercise: Create and run a GitHub Actions Workflow",
-    "id": "NicVirtual/skills-hello-github-actions",
-    "language": "\u2014",
-    "name": "NicVirtual/skills-hello-github-actions",
-    "stars": 0,
-    "updated_at": "2026-07-11T20:10:41Z",
-    "url": "https://github.com/NicVirtual/skills-hello-github-actions"
-  },
-  {
     "description": "Automate the software development lifecycle for Claude Code with standardized workflows, project scaffolding, session ma",
     "id": "dressingcasewildcat6783/claude-code-skills",
     "language": "\u2014",
@@ -693,15 +756,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 9,
-    "updated_at": "2026-07-11T20:00:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Automate Reddit tasks using your actual browser and account with support for AI agents and the SKILL.md format.",
     "id": "beggarticksarthurtatum121/reddit-skills",
     "language": "Python",
@@ -736,15 +790,6 @@
     "stars": 3,
     "updated_at": "2026-07-11T20:00:16Z",
     "url": "https://github.com/LatestPlayz/awesome-persona-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-11T20:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Exercise: Build applications with GitHub Copilot agent mode",
@@ -853,50 +898,5 @@
     "stars": 3,
     "updated_at": "2026-07-11T19:57:09Z",
     "url": "https://github.com/sirius-cc-wu/sirius-skills"
-  },
-  {
-    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
-    "id": "Mary2241/seo-skills-agent-toolbox",
-    "language": "HTML",
-    "name": "Mary2241/seo-skills-agent-toolbox",
-    "stars": 1,
-    "updated_at": "2026-07-11T19:57:08Z",
-    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "Build federal acquisition deliverables with Claude Skills for SOWs, PWSs, IGCEs, OT project descriptions, and cost analy",
-    "id": "Aballa6975/federal-contracting-skills",
-    "language": "\u2014",
-    "name": "Aballa6975/federal-contracting-skills",
-    "stars": 2,
-    "updated_at": "2026-07-11T19:57:07Z",
-    "url": "https://github.com/Aballa6975/federal-contracting-skills"
-  },
-  {
-    "description": "Agent skills for PostLake \u2014 the social media API for AI agents. Install: npx skills add crumblelake/postlake-skills --al",
-    "id": "crumblelake/postlake-skills",
-    "language": "\u2014",
-    "name": "crumblelake/postlake-skills",
-    "stars": 0,
-    "updated_at": "2026-07-11T19:56:27Z",
-    "url": "https://github.com/crumblelake/postlake-skills"
-  },
-  {
-    "description": "Automate CRE analysis with AI skills for multifamily, industrial, and brokerage acquisitions, underwriting, due diligenc",
-    "id": "XAKLESK/cre-agent-skills",
-    "language": "\u2014",
-    "name": "XAKLESK/cre-agent-skills",
-    "stars": 3,
-    "updated_at": "2026-07-11T19:56:24Z",
-    "url": "https://github.com/XAKLESK/cre-agent-skills"
-  },
-  {
-    "description": "Improve AI agents with reusable skills for structured workflows, better problem solving, and more consistent results",
-    "id": "Emagi6395/skills",
-    "language": "\u2014",
-    "name": "Emagi6395/skills",
-    "stars": 2,
-    "updated_at": "2026-07-11T19:56:22Z",
-    "url": "https://github.com/Emagi6395/skills"
   }
 ]
