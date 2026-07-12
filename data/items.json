@@ -1,5 +1,32 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-12T21:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 10,
+    "updated_at": "2026-07-12T21:30:09Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Plugin marketplace for AI coding agents \u2014 skills and plugins by Jan Mesarc",
+    "id": "jame581/skillsmith",
+    "language": "\u2014",
+    "name": "jame581/skillsmith",
+    "stars": 0,
+    "updated_at": "2026-07-12T21:30:23Z",
+    "url": "https://github.com/jame581/skillsmith"
+  },
+  {
     "description": "Provide comprehensive backtesting skills for trading strategies across Indian, US, and crypto markets using VectorBT and",
     "id": "Lakshay57200/vectorbt-backtesting-skills",
     "language": "HTML",
@@ -7,6 +34,15 @@
     "stars": 0,
     "updated_at": "2026-07-12T21:30:00Z",
     "url": "https://github.com/Lakshay57200/vectorbt-backtesting-skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "harshparadk25/skills-copilot-codespaces-vscode",
+    "language": "\u2014",
+    "name": "harshparadk25/skills-copilot-codespaces-vscode",
+    "stars": 0,
+    "updated_at": "2026-07-12T21:29:59Z",
+    "url": "https://github.com/harshparadk25/skills-copilot-codespaces-vscode"
   },
   {
     "description": "",
@@ -801,24 +837,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 10,
-    "updated_at": "2026-07-12T21:15:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-12T21:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Kumo Cloud Org Skills",
     "id": "JoaquinMulet/kumo-skills",
     "language": "Python",
@@ -880,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-12T21:14:42Z",
     "url": "https://github.com/matansharon/Elcam-skills"
-  },
-  {
-    "description": "",
-    "id": "ezeqviel/skills",
-    "language": "\u2014",
-    "name": "ezeqviel/skills",
-    "stars": 0,
-    "updated_at": "2026-07-12T21:14:38Z",
-    "url": "https://github.com/ezeqviel/skills"
   }
 ]
