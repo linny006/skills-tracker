@@ -1,5 +1,212 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 11,
+    "updated_at": "2026-07-14T09:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u751f\u547d\u6d8c\u73b0\u6280\u80fd\u5e93",
+    "id": "smyx-sunjinhui/smyx-open-claw-skills",
+    "language": "Python",
+    "name": "smyx-sunjinhui/smyx-open-claw-skills",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:30:08Z",
+    "url": "https://github.com/smyx-sunjinhui/smyx-open-claw-skills"
+  },
+  {
+    "description": "\u6797\u6708\u534a\u5b50\u7684 AI \u5f00\u6e90\u6280\u80fd\u5e93\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d\u3002",
+    "id": "lqshow/linyuebanzi-skills",
+    "language": "HTML",
+    "name": "lqshow/linyuebanzi-skills",
+    "stars": 59,
+    "updated_at": "2026-07-14T09:30:03Z",
+    "url": "https://github.com/lqshow/linyuebanzi-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "jocelynlee595/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "jocelynlee595/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:29:47Z",
+    "url": "https://github.com/jocelynlee595/skills-introduction-to-github"
+  },
+  {
+    "description": "Minimal AI agent skills with clear workflows, flat YAML contracts, and structured artifacts.",
+    "id": "truongnat/simple-skills",
+    "language": "JavaScript",
+    "name": "truongnat/simple-skills",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:29:43Z",
+    "url": "https://github.com/truongnat/simple-skills"
+  },
+  {
+    "description": "ClearTax e-invoicing team Claude Code skills \u2014 IND+KSA on-call toolkit, country brain, RCA drafting",
+    "id": "VashisthaCT/einvoicing-claude-skills",
+    "language": "Python",
+    "name": "VashisthaCT/einvoicing-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:29:43Z",
+    "url": "https://github.com/VashisthaCT/einvoicing-claude-skills"
+  },
+  {
+    "description": "\u8bba\u6587\u8be6\u7ec6\u5206\u5757\u63a8\u5bfc\u3001\u7eb8\u8d28\u63a8\u5bfc\u624b\u7a3f\u56fe\u7247\u8f6cmarkdown\u2026\u2026",
+    "id": "Huangjiacong1314520/SKILLS",
+    "language": "Python",
+    "name": "Huangjiacong1314520/SKILLS",
+    "stars": 1,
+    "updated_at": "2026-07-14T09:29:42Z",
+    "url": "https://github.com/Huangjiacong1314520/SKILLS"
+  },
+  {
+    "description": "Skills for the modern Age. AI training course. ",
+    "id": "rahulnair100100-gif/SkillsUniversity.org",
+    "language": "HTML",
+    "name": "rahulnair100100-gif/SkillsUniversity.org",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:30:24Z",
+    "url": "https://github.com/rahulnair100100-gif/SkillsUniversity.org"
+  },
+  {
+    "description": "",
+    "id": "Mosan-TW/havppen-pm-skills",
+    "language": "Shell",
+    "name": "Mosan-TW/havppen-pm-skills",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:29:32Z",
+    "url": "https://github.com/Mosan-TW/havppen-pm-skills"
+  },
+  {
+    "description": "Exercise: Introduction to CodeQL",
+    "id": "SouhikM/skills-introduction-to-codeql",
+    "language": "Python",
+    "name": "SouhikM/skills-introduction-to-codeql",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:29:35Z",
+    "url": "https://github.com/SouhikM/skills-introduction-to-codeql"
+  },
+  {
+    "description": "",
+    "id": "aadityad12/claude-skills",
+    "language": "\u2014",
+    "name": "aadityad12/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:29:26Z",
+    "url": "https://github.com/aadityad12/claude-skills"
+  },
+  {
+    "description": "Agent skills for MoviePilot pull requests and plugin releases",
+    "id": "InfinityPacer/MoviePilot-Skills",
+    "language": "Python",
+    "name": "InfinityPacer/MoviePilot-Skills",
+    "stars": 2,
+    "updated_at": "2026-07-14T09:29:15Z",
+    "url": "https://github.com/InfinityPacer/MoviePilot-Skills"
+  },
+  {
+    "description": "",
+    "id": "tkgathr2/skills-catalog",
+    "language": "HTML",
+    "name": "tkgathr2/skills-catalog",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:29:11Z",
+    "url": "https://github.com/tkgathr2/skills-catalog"
+  },
+  {
+    "description": "AdsAgent tri-channel AI skills for Meta, Google Ads, and TikTok hosted MCP",
+    "id": "adsagents/adsagent-ai-skills",
+    "language": "Python",
+    "name": "adsagents/adsagent-ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:29:36Z",
+    "url": "https://github.com/adsagents/adsagent-ai-skills"
+  },
+  {
+    "description": "Babylon Toolkit Agent Skills",
+    "id": "babylontoolkit/skills",
+    "language": "JavaScript",
+    "name": "babylontoolkit/skills",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:29:05Z",
+    "url": "https://github.com/babylontoolkit/skills"
+  },
+  {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "lamas2204/skills-github-pages",
+    "language": "HTML",
+    "name": "lamas2204/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:29:01Z",
+    "url": "https://github.com/lamas2204/skills-github-pages"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "Aliciaa33/skills-intro",
+    "language": "Shell",
+    "name": "Aliciaa33/skills-intro",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:29:00Z",
+    "url": "https://github.com/Aliciaa33/skills-intro"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "musigao/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "musigao/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:28:47Z",
+    "url": "https://github.com/musigao/skills-introduction-to-github"
+  },
+  {
+    "description": "",
+    "id": "yu2scalar/scalardb-starter-skills",
+    "language": "\u2014",
+    "name": "yu2scalar/scalardb-starter-skills",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:28:43Z",
+    "url": "https://github.com/yu2scalar/scalardb-starter-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "nerolastem/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "nerolastem/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:30:25Z",
+    "url": "https://github.com/nerolastem/skills-introduction-to-github"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "AprilLUU/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "AprilLUU/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:28:35Z",
+    "url": "https://github.com/AprilLUU/skills-introduction-to-github"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-14T09:28:34Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "Wonktond/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "Wonktond/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:28:31Z",
+    "url": "https://github.com/Wonktond/skills-introduction-to-github"
+  },
+  {
     "description": "",
     "id": "ShahriarArabpour/Algoticlab-Skills",
     "language": "\u2014",
@@ -9,15 +216,6 @@
     "url": "https://github.com/ShahriarArabpour/Algoticlab-Skills"
   },
   {
-    "description": "Exercise: Introduction to Git",
-    "id": "Aliciaa33/skills-intro",
-    "language": "\u2014",
-    "name": "Aliciaa33/skills-intro",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:28:30Z",
-    "url": "https://github.com/Aliciaa33/skills-intro"
-  },
-  {
     "description": "Exercise: Get started using GitHub Copilot",
     "id": "Muddthee829/skills-getting-started-with-github-copilot",
     "language": "JavaScript",
@@ -25,33 +223,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T09:28:27Z",
     "url": "https://github.com/Muddthee829/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "Skills for the modern Age. AI training course. ",
-    "id": "rahulnair100100-gif/SkillsUniversity.org",
-    "language": "HTML",
-    "name": "rahulnair100100-gif/SkillsUniversity.org",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:28:25Z",
-    "url": "https://github.com/rahulnair100100-gif/SkillsUniversity.org"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "AprilLUU/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "AprilLUU/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:28:20Z",
-    "url": "https://github.com/AprilLUU/skills-introduction-to-github"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "Wonktond/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "Wonktond/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:28:18Z",
-    "url": "https://github.com/Wonktond/skills-introduction-to-github"
   },
   {
     "description": "Exercise: Introduction to Git",
@@ -351,15 +522,6 @@
     "url": "https://github.com/ww0052657-wq/skills-introduction-to-git"
   },
   {
-    "description": "\u8bba\u6587\u8be6\u7ec6\u5206\u5757\u63a8\u5bfc\u3001\u7eb8\u8d28\u63a8\u5bfc\u624b\u7a3f\u56fe\u7247\u8f6cmarkdown\u2026\u2026",
-    "id": "Huangjiacong1314520/SKILLS",
-    "language": "Python",
-    "name": "Huangjiacong1314520/SKILLS",
-    "stars": 1,
-    "updated_at": "2026-07-14T09:25:43Z",
-    "url": "https://github.com/Huangjiacong1314520/SKILLS"
-  },
-  {
     "description": "Exercise: Code with Codespaces",
     "id": "Garima1347/skills-code-with-codespaces",
     "language": "Python",
@@ -410,7 +572,7 @@
     "language": "\u2014",
     "name": "MarkABPK/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-07-14T09:25:16Z",
+    "updated_at": "2026-07-14T09:30:24Z",
     "url": "https://github.com/MarkABPK/skills-introduction-to-github"
   },
   {
@@ -484,15 +646,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T09:24:16Z",
     "url": "https://github.com/pfriedrich84/pi-skills"
-  },
-  {
-    "description": "Minimal AI agent skills with clear workflows, flat YAML contracts, and structured artifacts.",
-    "id": "truongnat/simple-skills",
-    "language": "JavaScript",
-    "name": "truongnat/simple-skills",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:24:06Z",
-    "url": "https://github.com/truongnat/simple-skills"
   },
   {
     "description": "",
@@ -599,7 +752,7 @@
     "language": "\u2014",
     "name": "SANDAO288/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-07-14T09:23:09Z",
+    "updated_at": "2026-07-14T09:29:47Z",
     "url": "https://github.com/SANDAO288/skills-introduction-to-github"
   },
   {
@@ -745,158 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-14T09:20:58Z",
     "url": "https://github.com/Gayathrianand12/skillswap"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "chang-zy/skills-czy",
-    "language": "Shell",
-    "name": "chang-zy/skills-czy",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:20:56Z",
-    "url": "https://github.com/chang-zy/skills-czy"
-  },
-  {
-    "description": "Exercise: introduction to repository management",
-    "id": "khushikumari2007-ux/skills-introduction-to-repository-management",
-    "language": "JavaScript",
-    "name": "khushikumari2007-ux/skills-introduction-to-repository-management",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:20:48Z",
-    "url": "https://github.com/khushikumari2007-ux/skills-introduction-to-repository-management"
-  },
-  {
-    "description": "Chinese social media skills for WeChat, Xiaohongshu, and Douyin content packages",
-    "id": "MisterBrookT/social-media-skills",
-    "language": "Shell",
-    "name": "MisterBrookT/social-media-skills",
-    "stars": 1,
-    "updated_at": "2026-07-14T09:20:47Z",
-    "url": "https://github.com/MisterBrookT/social-media-skills"
-  },
-  {
-    "description": "GitHub Skills: Introduction to Secret Scanning",
-    "id": "sangeethkumar308/skills-introduction-to-secret-scanning",
-    "language": "\u2014",
-    "name": "sangeethkumar308/skills-introduction-to-secret-scanning",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:20:44Z",
-    "url": "https://github.com/sangeethkumar308/skills-introduction-to-secret-scanning"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "Umi7899/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "Umi7899/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:25:00Z",
-    "url": "https://github.com/Umi7899/skills-introduction-to-github"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "alxcity5-png/skills-introduction-to-github",
-    "language": "Python",
-    "name": "alxcity5-png/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:20:34Z",
-    "url": "https://github.com/alxcity5-png/skills-introduction-to-github"
-  },
-  {
-    "description": "",
-    "id": "wangjinzhong87706022/water-resources-skills",
-    "language": "Python",
-    "name": "wangjinzhong87706022/water-resources-skills",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:20:27Z",
-    "url": "https://github.com/wangjinzhong87706022/water-resources-skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "sourXi/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "sourXi/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:20:24Z",
-    "url": "https://github.com/sourXi/skills-introduction-to-git"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "Laevata/skills-intro-2",
-    "language": "Shell",
-    "name": "Laevata/skills-intro-2",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:20:22Z",
-    "url": "https://github.com/Laevata/skills-intro-2"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "YiminYe/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "YiminYe/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:20:19Z",
-    "url": "https://github.com/YiminYe/skills-introduction-to-git"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "iampeterlol/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "iampeterlol/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:20:16Z",
-    "url": "https://github.com/iampeterlol/skills-introduction-to-git"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "lasa1015/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "lasa1015/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:20:14Z",
-    "url": "https://github.com/lasa1015/skills-introduction-to-git"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "monster-1710/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "monster-1710/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:20:13Z",
-    "url": "https://github.com/monster-1710/skills-introduction-to-git"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "MorganZ01/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "MorganZ01/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:20:13Z",
-    "url": "https://github.com/MorganZ01/skills-introduction-to-git"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "Leslielalala/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "Leslielalala/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:20:11Z",
-    "url": "https://github.com/Leslielalala/skills-introduction-to-github"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "gjavolce/skills-intro-2",
-    "language": "Shell",
-    "name": "gjavolce/skills-intro-2",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:20:11Z",
-    "url": "https://github.com/gjavolce/skills-intro-2"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "UncleMcDonald/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "UncleMcDonald/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:20:10Z",
-    "url": "https://github.com/UncleMcDonald/skills-introduction-to-git"
   }
 ]
