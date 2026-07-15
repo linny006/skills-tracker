@@ -1,5 +1,59 @@
 [
   {
+    "description": "Portable LazyingArt agent skills for AgInTiFlow, Codex, Claude, Gemini, Copilot, LazyEdit, AutoPublish, browser automati",
+    "id": "lachlanchen/LazySkills",
+    "language": "Python",
+    "name": "lachlanchen/LazySkills",
+    "stars": 1,
+    "updated_at": "2026-07-15T07:45:23Z",
+    "url": "https://github.com/lachlanchen/LazySkills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 12,
+    "updated_at": "2026-07-15T07:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI \u7f16\u7a0b\u6280\u80fd\u5408\u96c6\u2014\u2014\u8ba9 Claude Code \u542c\u61c2\u4e2d\u6587\u3001\u5e2e\u4f60\u5e72\u6d3b\u3002\u57fa\u4e8e mattpocock/skills \u6539\u7f16\u5e76\u8865\u5145\u4e86\u539f\u521b Git \u5de5\u5177\u3002",
+    "id": "toRolex/rolex-skills",
+    "language": "Shell",
+    "name": "toRolex/rolex-skills",
+    "stars": 0,
+    "updated_at": "2026-07-15T07:45:15Z",
+    "url": "https://github.com/toRolex/rolex-skills"
+  },
+  {
+    "description": "Auto-generated agent skills from trending data engineering repos, by ara.so",
+    "id": "Aradotso/data-skills",
+    "language": "\u2014",
+    "name": "Aradotso/data-skills",
+    "stars": 2,
+    "updated_at": "2026-07-15T07:44:48Z",
+    "url": "https://github.com/Aradotso/data-skills"
+  },
+  {
+    "description": "Custom skills and config for opencode CLI",
+    "id": "giuseppedavidde/opencode-skills",
+    "language": "Python",
+    "name": "giuseppedavidde/opencode-skills",
+    "stars": 0,
+    "updated_at": "2026-07-15T07:44:45Z",
+    "url": "https://github.com/giuseppedavidde/opencode-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-15T07:44:41Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Secure your Repository Supply Chain",
     "id": "blazkowif/skills-secure-repository-supply-chain",
     "language": "C#",
@@ -94,7 +148,7 @@
     "id": "rangsimanketkaew/scine-agent-skills",
     "language": "\u2014",
     "name": "rangsimanketkaew/scine-agent-skills",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-15T07:43:29Z",
     "url": "https://github.com/rangsimanketkaew/scine-agent-skills"
   },
@@ -441,15 +495,6 @@
     "url": "https://github.com/qiuranke99/codex-skills"
   },
   {
-    "description": "AI \u7f16\u7a0b\u6280\u80fd\u5408\u96c6\u2014\u2014\u8ba9 Claude Code \u542c\u61c2\u4e2d\u6587\u3001\u5e2e\u4f60\u5e72\u6d3b\u3002\u57fa\u4e8e mattpocock/skills \u6539\u7f16\u5e76\u8865\u5145\u4e86\u539f\u521b Git \u5de5\u5177\u3002",
-    "id": "toRolex/rolex-skills",
-    "language": "Shell",
-    "name": "toRolex/rolex-skills",
-    "stars": 0,
-    "updated_at": "2026-07-15T07:39:23Z",
-    "url": "https://github.com/toRolex/rolex-skills"
-  },
-  {
     "description": "Exercise: Create and run a GitHub Actions Workflow",
     "id": "jayesh-ingale/skills-hello-github-actions",
     "language": "\u2014",
@@ -487,12 +532,12 @@
   },
   {
     "description": "Standards and skills for agents working with REST APIs",
-    "id": "joshmcadams/my-skills",
+    "id": "joshmcadams/agent-skills",
     "language": "\u2014",
-    "name": "joshmcadams/my-skills",
+    "name": "joshmcadams/agent-skills",
     "stars": 0,
     "updated_at": "2026-07-15T07:38:39Z",
-    "url": "https://github.com/joshmcadams/my-skills"
+    "url": "https://github.com/joshmcadams/agent-skills"
   },
   {
     "description": "",
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T07:34:09Z",
     "url": "https://github.com/gexing521/StarWorkRoom-GameCreationSkills"
-  },
-  {
-    "description": "",
-    "id": "weberwang/flutter-skills",
-    "language": "JavaScript",
-    "name": "weberwang/flutter-skills",
-    "stars": 0,
-    "updated_at": "2026-07-15T07:34:06Z",
-    "url": "https://github.com/weberwang/flutter-skills"
-  },
-  {
-    "description": "Cue \u642d\u5b50\u72ec\u7acb Skill \u5e02\u573a \u2014 \u6bcf\u4e2a\u642d\u5b50\u4e00\u4e2a SKILL.md\uff0c\u53ef\u5355\u72ec\u5b89\u88c5\u5230 Claude Code / Codex CLI / Gemini CLI / Cursor",
-    "id": "57bchck6mg-pixel/cue-skills-marketplace",
-    "language": "\u2014",
-    "name": "57bchck6mg-pixel/cue-skills-marketplace",
-    "stars": 0,
-    "updated_at": "2026-07-15T07:34:06Z",
-    "url": "https://github.com/57bchck6mg-pixel/cue-skills-marketplace"
-  },
-  {
-    "description": "",
-    "id": "jayrevatiya398-star/Elevance-Skills-Google-Play-Store-Project",
-    "language": "Jupyter Notebook",
-    "name": "jayrevatiya398-star/Elevance-Skills-Google-Play-Store-Project",
-    "stars": 0,
-    "updated_at": "2026-07-15T07:34:04Z",
-    "url": "https://github.com/jayrevatiya398-star/Elevance-Skills-Google-Play-Store-Project"
-  },
-  {
-    "description": "Shared custom skills for Claude Code across all POLYPOINT projects. Skills are reusable reference guides that teach Clau",
-    "id": "POLYPOINT/skills",
-    "language": "Python",
-    "name": "POLYPOINT/skills",
-    "stars": 0,
-    "updated_at": "2026-07-15T07:34:03Z",
-    "url": "https://github.com/POLYPOINT/skills"
-  },
-  {
-    "description": "Agent skills by CyperX \u2014 write once, run everywhere",
-    "id": "cyperx84/agent-skills",
-    "language": "JavaScript",
-    "name": "cyperx84/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-15T07:33:57Z",
-    "url": "https://github.com/cyperx84/agent-skills"
   }
 ]
