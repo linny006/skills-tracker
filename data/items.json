@@ -1,5 +1,86 @@
 [
   {
+    "description": "",
+    "id": "ogikicollins/Extruct-GTM-SKILLS",
+    "language": "Python",
+    "name": "ogikicollins/Extruct-GTM-SKILLS",
+    "stars": 0,
+    "updated_at": "2026-07-16T20:31:37Z",
+    "url": "https://github.com/ogikicollins/Extruct-GTM-SKILLS"
+  },
+  {
+    "description": "",
+    "id": "heymishy/skills-repo",
+    "language": "JavaScript",
+    "name": "heymishy/skills-repo",
+    "stars": 1,
+    "updated_at": "2026-07-16T20:31:24Z",
+    "url": "https://github.com/heymishy/skills-repo"
+  },
+  {
+    "description": "Agentic Skills Collection for Base data",
+    "id": "AI-ModCon/BaseData_Skills",
+    "language": "Python",
+    "name": "AI-ModCon/BaseData_Skills",
+    "stars": 5,
+    "updated_at": "2026-07-16T20:31:23Z",
+    "url": "https://github.com/AI-ModCon/BaseData_Skills"
+  },
+  {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "mkullishdev/skills-getting-started-with-github-copilot",
+    "language": "Python",
+    "name": "mkullishdev/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-07-16T20:31:08Z",
+    "url": "https://github.com/mkullishdev/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "Self-driving plan-audit-fix loop: Claude plans, GPT-5.4 audits, peer deliberation, multi-pass parallel code audits",
+    "id": "Lbstrydom/claude-engineering-skills",
+    "language": "JavaScript",
+    "name": "Lbstrydom/claude-engineering-skills",
+    "stars": 0,
+    "updated_at": "2026-07-16T20:30:55Z",
+    "url": "https://github.com/Lbstrydom/claude-engineering-skills"
+  },
+  {
+    "description": "",
+    "id": "reddb-io/red-skills",
+    "language": "TypeScript",
+    "name": "reddb-io/red-skills",
+    "stars": 0,
+    "updated_at": "2026-07-16T20:31:43Z",
+    "url": "https://github.com/reddb-io/red-skills"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline skill usage with AI that auto-injects Claude Code Skills based on prompts, ensuring accurate context loadin",
+    "id": "Sanskar015/claude-skills-supercharged",
+    "language": "TypeScript",
+    "name": "Sanskar015/claude-skills-supercharged",
+    "stars": 3,
+    "updated_at": "2026-07-16T20:30:38Z",
+    "url": "https://github.com/Sanskar015/claude-skills-supercharged"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 13,
+    "updated_at": "2026-07-16T20:30:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-16T20:30:28Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -7,15 +88,6 @@
     "stars": 13,
     "updated_at": "2026-07-16T20:30:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "",
-    "id": "ogikicollins/Extruct-GTM-SKILLS",
-    "language": "Python",
-    "name": "ogikicollins/Extruct-GTM-SKILLS",
-    "stars": 0,
-    "updated_at": "2026-07-16T20:30:04Z",
-    "url": "https://github.com/ogikicollins/Extruct-GTM-SKILLS"
   },
   {
     "description": "",
@@ -41,7 +113,7 @@
     "language": "JavaScript",
     "name": "NASA-PDS/pds-agent-skills",
     "stars": 1,
-    "updated_at": "2026-07-16T20:29:12Z",
+    "updated_at": "2026-07-16T20:31:18Z",
     "url": "https://github.com/NASA-PDS/pds-agent-skills"
   },
   {
@@ -338,7 +410,7 @@
     "language": "\u2014",
     "name": "MagmaMoose/agent-skills",
     "stars": 0,
-    "updated_at": "2026-07-16T20:23:59Z",
+    "updated_at": "2026-07-16T20:30:47Z",
     "url": "https://github.com/MagmaMoose/agent-skills"
   },
   {
@@ -693,33 +765,6 @@
     "url": "https://github.com/LuisUrrutia/skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 13,
-    "updated_at": "2026-07-16T20:15:29Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-16T20:15:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Self-driving plan-audit-fix loop: Claude plans, GPT-5.4 audits, peer deliberation, multi-pass parallel code audits",
-    "id": "Lbstrydom/claude-engineering-skills",
-    "language": "JavaScript",
-    "name": "Lbstrydom/claude-engineering-skills",
-    "stars": 0,
-    "updated_at": "2026-07-16T20:15:21Z",
-    "url": "https://github.com/Lbstrydom/claude-engineering-skills"
-  },
-  {
     "description": "Skillscript \u2014 a small declarative language for authoring agent workflows. Runtime, compiler, and CLI.",
     "id": "sshwarts/skillscript",
     "language": "TypeScript",
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T20:11:50Z",
     "url": "https://github.com/polaralias/skills"
-  },
-  {
-    "description": "Arkangel AI Skills Library",
-    "id": "arkangelai/skills",
-    "language": "JavaScript",
-    "name": "arkangelai/skills",
-    "stars": 0,
-    "updated_at": "2026-07-16T20:11:27Z",
-    "url": "https://github.com/arkangelai/skills"
-  },
-  {
-    "description": "Skills that I use for Claude Code which I have reviewed for prompt injection content",
-    "id": "kristovatlas/claude-sec-skills",
-    "language": "Python",
-    "name": "kristovatlas/claude-sec-skills",
-    "stars": 0,
-    "updated_at": "2026-07-16T20:11:13Z",
-    "url": "https://github.com/kristovatlas/claude-sec-skills"
-  },
-  {
-    "description": "Formal Logic & Expertise. A living knowledge base featuring Lean 4 legal formalization and AI-agentic workflows.",
-    "id": "franklinbaldo/skills",
-    "language": "Lean",
-    "name": "franklinbaldo/skills",
-    "stars": 1,
-    "updated_at": "2026-07-16T20:22:44Z",
-    "url": "https://github.com/franklinbaldo/skills"
-  },
-  {
-    "description": "",
-    "id": "Matthewuwu/ClaudeSkills-di-Tia",
-    "language": "Python",
-    "name": "Matthewuwu/ClaudeSkills-di-Tia",
-    "stars": 0,
-    "updated_at": "2026-07-16T20:10:42Z",
-    "url": "https://github.com/Matthewuwu/ClaudeSkills-di-Tia"
-  },
-  {
-    "description": "Agent skills for real growth work.",
-    "id": "JorgeMenaDev/skills",
-    "language": "JavaScript",
-    "name": "JorgeMenaDev/skills",
-    "stars": 1,
-    "updated_at": "2026-07-16T20:09:37Z",
-    "url": "https://github.com/JorgeMenaDev/skills"
   }
 ]
