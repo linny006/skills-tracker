@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83c\uddeb\ud83c\uddf7 Agent-ready skills for French admin d\u00e9marches \u2014 sourced guides for visas, titre de s\u00e9jour, imp\u00f4ts, CAF, ANTS\u2026 Open kn",
+    "id": "PaperasseAI/demarches-skills",
+    "language": "\u2014",
+    "name": "PaperasseAI/demarches-skills",
+    "stars": 0,
+    "updated_at": "2026-07-17T22:15:13Z",
+    "url": "https://github.com/PaperasseAI/demarches-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 14,
+    "updated_at": "2026-07-17T22:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "kinkwanc22/codex-skills",
+    "language": "Python",
+    "name": "kinkwanc22/codex-skills",
+    "stars": 0,
+    "updated_at": "2026-07-17T22:15:05Z",
+    "url": "https://github.com/kinkwanc22/codex-skills"
+  },
+  {
+    "description": "Curated Claude Code skills marketplace from Devil Club \u2014 design, UX, accessibility, research",
+    "id": "DevilClubES/devil-claude-skills",
+    "language": "JavaScript",
+    "name": "DevilClubES/devil-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-17T22:14:03Z",
+    "url": "https://github.com/DevilClubES/devil-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-17T22:13:40Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Helix Skills - Skills system for CLI AI Agents",
     "id": "HelixDevelopment/helix_skills",
     "language": "Shell",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T22:10:39Z",
     "url": "https://github.com/whizzzkid/skills"
-  },
-  {
-    "description": "",
-    "id": "kinkwanc22/codex-skills",
-    "language": "Python",
-    "name": "kinkwanc22/codex-skills",
-    "stars": 0,
-    "updated_at": "2026-07-17T22:10:26Z",
-    "url": "https://github.com/kinkwanc22/codex-skills"
   },
   {
     "description": "skills plugin for opinionated go code",
@@ -396,15 +432,6 @@
     "url": "https://github.com/NVIDIA/skills"
   },
   {
-    "description": "\ud83c\uddeb\ud83c\uddf7 Agent-ready skills for French admin d\u00e9marches \u2014 sourced guides for visas, titre de s\u00e9jour, imp\u00f4ts, CAF, ANTS\u2026 Open kn",
-    "id": "PaperasseAI/demarches-skills",
-    "language": "\u2014",
-    "name": "PaperasseAI/demarches-skills",
-    "stars": 0,
-    "updated_at": "2026-07-17T22:02:29Z",
-    "url": "https://github.com/PaperasseAI/demarches-skills"
-  },
-  {
     "description": "Focused agent-team coordination skills for deliberation, arbitration, parallel proof, diagnosis, handoffs, integration, ",
     "id": "kaskilling/agent-coordination-skills",
     "language": "Python",
@@ -529,24 +556,6 @@
     "stars": 13,
     "updated_at": "2026-07-17T22:00:30Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-17T22:00:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 14,
-    "updated_at": "2026-07-17T22:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Official AMD catalog of AI agent skills. Empower your AI agents with AMD's optimized SW stack.",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T21:49:47Z",
     "url": "https://github.com/RHSTheSecond/skillsmith"
-  },
-  {
-    "description": "Skills for modern agents in Copilot Studio",
-    "id": "microsoft/cat-agent-skills",
-    "language": "Python",
-    "name": "microsoft/cat-agent-skills",
-    "stars": 11,
-    "updated_at": "2026-07-17T22:00:03Z",
-    "url": "https://github.com/microsoft/cat-agent-skills"
   }
 ]
