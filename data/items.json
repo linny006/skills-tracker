@@ -1,12 +1,30 @@
 [
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 13,
-    "updated_at": "2026-07-17T18:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 10,
+    "updated_at": "2026-07-17T18:46:34Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Agent skills dump repo",
+    "id": "nealhardesty/skills",
+    "language": "\u2014",
+    "name": "nealhardesty/skills",
+    "stars": 0,
+    "updated_at": "2026-07-17T18:46:12Z",
+    "url": "https://github.com/nealhardesty/skills"
+  },
+  {
+    "description": "Plug-and-play AI skills and prompts for Claude Code, Claude Desktop, Cursor, Antigravity, OpenAI Codex, Gemini CLI, and ",
+    "id": "Amey-Thakur/AI-SKILLS",
+    "language": "JavaScript",
+    "name": "Amey-Thakur/AI-SKILLS",
+    "stars": 1,
+    "updated_at": "2026-07-17T18:46:08Z",
+    "url": "https://github.com/Amey-Thakur/AI-SKILLS"
   },
   {
     "description": "",
@@ -14,8 +32,53 @@
     "language": "HTML",
     "name": "thomzilla33/aims-skills",
     "stars": 0,
-    "updated_at": "2026-07-17T18:45:04Z",
+    "updated_at": "2026-07-17T18:46:02Z",
     "url": "https://github.com/thomzilla33/aims-skills"
+  },
+  {
+    "description": "Personal Claude Code skills, symlinked into ~/.claude/skills",
+    "id": "ajkatom/skills",
+    "language": "Python",
+    "name": "ajkatom/skills",
+    "stars": 0,
+    "updated_at": "2026-07-17T18:46:00Z",
+    "url": "https://github.com/ajkatom/skills"
+  },
+  {
+    "description": "Sammlung von Claude-Code-Skills f\u00fcr die azedo-Systemadministration (FreeBSD, WordPress, Server- & Kundenverwaltung).",
+    "id": "mranner/azedo-skills",
+    "language": "Python",
+    "name": "mranner/azedo-skills",
+    "stars": 1,
+    "updated_at": "2026-07-17T18:45:41Z",
+    "url": "https://github.com/mranner/azedo-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 13,
+    "updated_at": "2026-07-17T18:45:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-17T18:45:28Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 13,
+    "updated_at": "2026-07-17T18:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": " a solid rundown of what a senior Next.js frontend developer should know for interviews",
@@ -162,15 +225,6 @@
     "url": "https://github.com/bffless/skills"
   },
   {
-    "description": "Sammlung von Claude-Code-Skills f\u00fcr die azedo-Systemadministration (FreeBSD, WordPress, Server- & Kundenverwaltung).",
-    "id": "mranner/azedo-skills",
-    "language": "Python",
-    "name": "mranner/azedo-skills",
-    "stars": 1,
-    "updated_at": "2026-07-17T18:41:56Z",
-    "url": "https://github.com/mranner/azedo-skills"
-  },
-  {
     "description": "",
     "id": "slaftercndt/slafter-skills",
     "language": "\u2014",
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "dylanhgit/skills-test-with-actions",
     "stars": 0,
-    "updated_at": "2026-07-17T18:43:19Z",
+    "updated_at": "2026-07-17T18:46:30Z",
     "url": "https://github.com/dylanhgit/skills-test-with-actions"
   },
   {
@@ -340,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T18:37:02Z",
     "url": "https://github.com/emulsazib/skills-introduction-to-github"
-  },
-  {
-    "description": "Plug-and-play AI skills and prompts for Claude Code, Claude Desktop, Cursor, Antigravity, OpenAI Codex, Gemini CLI, and ",
-    "id": "Amey-Thakur/AI-SKILLS",
-    "language": "JavaScript",
-    "name": "Amey-Thakur/AI-SKILLS",
-    "stars": 1,
-    "updated_at": "2026-07-17T18:36:59Z",
-    "url": "https://github.com/Amey-Thakur/AI-SKILLS"
   },
   {
     "description": "Personal Agent Skills for AI coding agents \u2014 install and update with gh skill",
@@ -520,24 +565,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T18:30:43Z",
     "url": "https://github.com/tolimcn7786/skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-17T18:30:38Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 13,
-    "updated_at": "2026-07-17T18:30:33Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Agent skills repository",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T18:23:30Z",
     "url": "https://github.com/chris-do-dev/skills"
-  },
-  {
-    "description": "Henrique Caiano's custom agent skills (Claude, Codex, herdr). Install with: npx skills@latest add hcaiano/skills",
-    "id": "hcaiano/skills",
-    "language": "JavaScript",
-    "name": "hcaiano/skills",
-    "stars": 2,
-    "updated_at": "2026-07-17T18:22:38Z",
-    "url": "https://github.com/hcaiano/skills"
-  },
-  {
-    "description": "",
-    "id": "jpolvora/workflow-skills",
-    "language": "Python",
-    "name": "jpolvora/workflow-skills",
-    "stars": 0,
-    "updated_at": "2026-07-17T18:21:56Z",
-    "url": "https://github.com/jpolvora/workflow-skills"
-  },
-  {
-    "description": "Build, run, and monitor AI/ML workflows from any agent. MCP server extension for Claude Code, Gemini CLI, Cursor, VS Cod",
-    "id": "jettyio/jettyio-skills",
-    "language": "TypeScript",
-    "name": "jettyio/jettyio-skills",
-    "stars": 3,
-    "updated_at": "2026-07-17T18:21:47Z",
-    "url": "https://github.com/jettyio/jettyio-skills"
   }
 ]
