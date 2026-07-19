@@ -1,5 +1,32 @@
 [
   {
+    "description": "The twelve skills Claude Code forgot to ship",
+    "id": "yasyf/cc-skills",
+    "language": "Python",
+    "name": "yasyf/cc-skills",
+    "stars": 2,
+    "updated_at": "2026-07-19T21:30:36Z",
+    "url": "https://github.com/yasyf/cc-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 13,
+    "updated_at": "2026-07-19T21:30:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-19T21:30:26Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -185,7 +212,7 @@
     "language": "\u2014",
     "name": "prathamdby/skills",
     "stars": 3,
-    "updated_at": "2026-07-19T21:22:45Z",
+    "updated_at": "2026-07-19T21:30:28Z",
     "url": "https://github.com/prathamdby/skills"
   },
   {
@@ -331,24 +358,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T21:15:35Z",
     "url": "https://github.com/karanpreetkaur/skills-expand-your-team-with-copilot"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 13,
-    "updated_at": "2026-07-19T21:15:34Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-19T21:15:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Optimized prompts you install once and invoke in any AI IDE. Each skill is an atom \u2014 small enough to stay focused, speci",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T20:45:09Z",
     "url": "https://github.com/lemiesz/elcid-skills"
-  },
-  {
-    "description": "Use Grok from Claude Code and Codex: review, reason, implement, verify through a hardened (or direct) sandboxed companio",
-    "id": "sfourdrinier/grok-skills",
-    "language": "Python",
-    "name": "sfourdrinier/grok-skills",
-    "stars": 5,
-    "updated_at": "2026-07-19T20:45:01Z",
-    "url": "https://github.com/sfourdrinier/grok-skills"
   }
 ]
