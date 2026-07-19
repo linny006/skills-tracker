@@ -1,5 +1,122 @@
 [
   {
+    "description": "A plugin of cross-agent skills for AI coding agents \u2014 GitHub Copilot, Claude, and Codex \u2014 installable with the skills CL",
+    "id": "jongio/skills",
+    "language": "JavaScript",
+    "name": "jongio/skills",
+    "stars": 1,
+    "updated_at": "2026-07-19T14:45:22Z",
+    "url": "https://github.com/jongio/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 15,
+    "updated_at": "2026-07-19T14:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent skills for AI SaaS tools reviewed on Stack Insider - orchestrating Lindy, Castmagic, Gamma, AiSDR, Snowfire, Recla",
+    "id": "McClawdDigital/stack-insider-skills",
+    "language": "\u2014",
+    "name": "McClawdDigital/stack-insider-skills",
+    "stars": 0,
+    "updated_at": "2026-07-19T14:45:02Z",
+    "url": "https://github.com/McClawdDigital/stack-insider-skills"
+  },
+  {
+    "description": "Public Claude Code skills for Personal Corp, product work, AI operations, and agent-assisted development",
+    "id": "serejaris/personal-corp-skills",
+    "language": "HTML",
+    "name": "serejaris/personal-corp-skills",
+    "stars": 207,
+    "updated_at": "2026-07-19T14:45:01Z",
+    "url": "https://github.com/serejaris/personal-corp-skills"
+  },
+  {
+    "description": "A Claude Code skill that writes consistent onboarding docs \u2014 README, wiki, contributing, security \u2014 for any repository, ",
+    "id": "tjdwls101010/skills-for-repo-wiki",
+    "language": "\u2014",
+    "name": "tjdwls101010/skills-for-repo-wiki",
+    "stars": 0,
+    "updated_at": "2026-07-19T14:44:57Z",
+    "url": "https://github.com/tjdwls101010/skills-for-repo-wiki"
+  },
+  {
+    "description": "22 \u7ae0\u8282 Claude Skills \u5168\u666f\u56fe + \u5b8c\u6574\u6e90\u7801",
+    "id": "Alexxiang2008/awesome-skills-map",
+    "language": "Python",
+    "name": "Alexxiang2008/awesome-skills-map",
+    "stars": 0,
+    "updated_at": "2026-07-19T14:44:50Z",
+    "url": "https://github.com/Alexxiang2008/awesome-skills-map"
+  },
+  {
+    "description": "",
+    "id": "PakyTech/ai-skills",
+    "language": "\u2014",
+    "name": "PakyTech/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-19T14:44:50Z",
+    "url": "https://github.com/PakyTech/ai-skills"
+  },
+  {
+    "description": "",
+    "id": "Ishmat-sh/skillsphere-ecosystem",
+    "language": "JavaScript",
+    "name": "Ishmat-sh/skillsphere-ecosystem",
+    "stars": 0,
+    "updated_at": "2026-07-19T14:44:41Z",
+    "url": "https://github.com/Ishmat-sh/skillsphere-ecosystem"
+  },
+  {
+    "description": "\u7ed9 AI Agent \u4e00\u4e2a \u53ef\u64cd\u4f5c\u9875\u9762 Omnibot \u901a\u8fc7\u672c\u5730 daemon\u3001CLI \u548c Chromium \u6269\u5c55\uff0c\u628a\u4f60\u5df2\u7ecf\u767b\u5f55\u3001\u5df2\u7ecf\u6253\u5f00\u7684\u771f\u5b9e\u6d4f\u89c8\u5668\u9875\u9762\u5b89\u5168\u5730\u4ea4\u7ed9 AI Agent \u8bfb\u53d6\u3001\u5206\u6790\u548c\u64cd\u4f5c\u3002",
+    "id": "DennisJcy/Omnibot-skills",
+    "language": "\u2014",
+    "name": "DennisJcy/Omnibot-skills",
+    "stars": 1,
+    "updated_at": "2026-07-19T14:44:39Z",
+    "url": "https://github.com/DennisJcy/Omnibot-skills"
+  },
+  {
+    "description": "",
+    "id": "moomer99/SkillSnap",
+    "language": "TypeScript",
+    "name": "moomer99/SkillSnap",
+    "stars": 0,
+    "updated_at": "2026-07-19T14:44:33Z",
+    "url": "https://github.com/moomer99/SkillSnap"
+  },
+  {
+    "description": "\u521b\u5efa\u4e00\u4e9b\u6211\u5e38\u7528\u7684skills\u5e93",
+    "id": "q030247/skills",
+    "language": "Python",
+    "name": "q030247/skills",
+    "stars": 0,
+    "updated_at": "2026-07-19T14:44:23Z",
+    "url": "https://github.com/q030247/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-19T14:44:19Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
+    "id": "pgrupa/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "language": "\u2014",
+    "name": "pgrupa/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "stars": 0,
+    "updated_at": "2026-07-19T14:44:30Z",
+    "url": "https://github.com/pgrupa/skills-scale-institutional-knowledge-using-copilot-spaces"
+  },
+  {
     "description": "Exercise: Introduction to GitHub",
     "id": "FArybak/skills-introduction-to-github-",
     "language": "\u2014",
@@ -106,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T14:41:17Z",
     "url": "https://github.com/sungurerdim/dev-skills"
-  },
-  {
-    "description": "Public Claude Code skills for Personal Corp, product work, AI operations, and agent-assisted development",
-    "id": "serejaris/personal-corp-skills",
-    "language": "HTML",
-    "name": "serejaris/personal-corp-skills",
-    "stars": 207,
-    "updated_at": "2026-07-19T14:41:02Z",
-    "url": "https://github.com/serejaris/personal-corp-skills"
   },
   {
     "description": "Agent skills",
@@ -313,24 +421,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T14:37:17Z",
     "url": "https://github.com/elabree/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "",
-    "id": "moomer99/SkillSnap",
-    "language": "TypeScript",
-    "name": "moomer99/SkillSnap",
-    "stars": 0,
-    "updated_at": "2026-07-19T14:37:07Z",
-    "url": "https://github.com/moomer99/SkillSnap"
-  },
-  {
-    "description": "\u7ed9 AI Agent \u4e00\u4e2a \u53ef\u64cd\u4f5c\u9875\u9762 Omnibot \u901a\u8fc7\u672c\u5730 daemon\u3001CLI \u548c Chromium \u6269\u5c55\uff0c\u628a\u4f60\u5df2\u7ecf\u767b\u5f55\u3001\u5df2\u7ecf\u6253\u5f00\u7684\u771f\u5b9e\u6d4f\u89c8\u5668\u9875\u9762\u5b89\u5168\u5730\u4ea4\u7ed9 AI Agent \u8bfb\u53d6\u3001\u5206\u6790\u548c\u64cd\u4f5c\u3002",
-    "id": "DennisJcy/Omnibot-skills",
-    "language": "\u2014",
-    "name": "DennisJcy/Omnibot-skills",
-    "stars": 1,
-    "updated_at": "2026-07-19T14:37:03Z",
-    "url": "https://github.com/DennisJcy/Omnibot-skills"
   },
   {
     "description": "\u521d\u4e2d\u8bed\u6587\u6559\u5e08 AI \u6559\u5b66\u6280\u80fd\u5f00\u6e90\u5408\u96c6\uff1a\u5907\u8bfe/\u5206\u5c42/\u4e2d\u8003\u5907\u8003/\u6587\u8a00\u6587\u00b7\u53e4\u8bd7\u8bcd/\u6559\u7814\u5199\u4f5c\u7b49 12 \u4e2a WorkBuddy \u6280\u80fd\u3002MIT\uff1bk12 \u5907\u8bfe\u6d3e\u751f\u81ea Anthropic\uff08Apache-2.0\uff09\u3002",
@@ -594,24 +684,6 @@
     "url": "https://github.com/Xinhui001/sst-mapper-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-19T14:30:25Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 15,
-    "updated_at": "2026-07-19T14:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "",
     "id": "Restoration/ddd-skills",
     "language": "Shell",
@@ -826,77 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T14:24:42Z",
     "url": "https://github.com/yasijay13/pm-claude-skills"
-  },
-  {
-    "description": "\u4e2a\u4eba\u5de5\u5177\u96c6\u5408",
-    "id": "JianJang2017/jianjang-skills",
-    "language": "HTML",
-    "name": "JianJang2017/jianjang-skills",
-    "stars": 1,
-    "updated_at": "2026-07-19T14:24:34Z",
-    "url": "https://github.com/JianJang2017/jianjang-skills"
-  },
-  {
-    "description": "Just simple claude code plugins for gritive",
-    "id": "gritive/skills",
-    "language": "Shell",
-    "name": "gritive/skills",
-    "stars": 0,
-    "updated_at": "2026-07-19T14:24:31Z",
-    "url": "https://github.com/gritive/skills"
-  },
-  {
-    "description": "Integrated Skills for Claude",
-    "id": "devd78/claude_skills",
-    "language": "\u2014",
-    "name": "devd78/claude_skills",
-    "stars": 0,
-    "updated_at": "2026-07-19T14:24:13Z",
-    "url": "https://github.com/devd78/claude_skills"
-  },
-  {
-    "description": "Archived. Canonical skills repository: https://github.com/wakqasahmed/skills",
-    "id": "wakqasahmed/agentic-commerce-skills",
-    "language": "Python",
-    "name": "wakqasahmed/agentic-commerce-skills",
-    "stars": 1,
-    "updated_at": "2026-07-19T14:23:59Z",
-    "url": "https://github.com/wakqasahmed/agentic-commerce-skills"
-  },
-  {
-    "description": "Official customer-facing Agent Skills for using Comvenio safely through the Comvenio CLI.",
-    "id": "Comvenio/comvenio-skills",
-    "language": "JavaScript",
-    "name": "Comvenio/comvenio-skills",
-    "stars": 0,
-    "updated_at": "2026-07-19T14:27:12Z",
-    "url": "https://github.com/Comvenio/comvenio-skills"
-  },
-  {
-    "description": "",
-    "id": "Teachnology-Global/Teachnology-Community-AI-Skills",
-    "language": "PowerShell",
-    "name": "Teachnology-Global/Teachnology-Community-AI-Skills",
-    "stars": 0,
-    "updated_at": "2026-07-19T14:23:15Z",
-    "url": "https://github.com/Teachnology-Global/Teachnology-Community-AI-Skills"
-  },
-  {
-    "description": "Governed workflow runtime for AI agents: scope complex requests, coordinate local Skills, verify delivery, and preserve ",
-    "id": "foryourhealth111-pixel/Vibe-Skills",
-    "language": "Python",
-    "name": "foryourhealth111-pixel/Vibe-Skills",
-    "stars": 2399,
-    "updated_at": "2026-07-19T14:23:11Z",
-    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
-  },
-  {
-    "description": "22 \u7ae0\u8282 Claude Skills \u5168\u666f\u56fe + \u5b8c\u6574\u6e90\u7801",
-    "id": "Alexxiang2008/awesome-skills-map",
-    "language": "Python",
-    "name": "Alexxiang2008/awesome-skills-map",
-    "stars": 0,
-    "updated_at": "2026-07-19T14:22:51Z",
-    "url": "https://github.com/Alexxiang2008/awesome-skills-map"
   }
 ]
