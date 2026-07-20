@@ -1,5 +1,95 @@
 [
   {
+    "description": "Exercise: Introduction to Git",
+    "id": "david-stephen-jago/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "david-stephen-jago/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-07-20T23:30:21Z",
+    "url": "https://github.com/david-stephen-jago/skills-introduction-to-git"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 16,
+    "updated_at": "2026-07-20T23:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Exercise: GitHub Copilot Code Review",
+    "id": "Alejandro-Garcia-Uceda/skills-copilot-code-review",
+    "language": "JavaScript",
+    "name": "Alejandro-Garcia-Uceda/skills-copilot-code-review",
+    "stars": 0,
+    "updated_at": "2026-07-20T23:30:06Z",
+    "url": "https://github.com/Alejandro-Garcia-Uceda/skills-copilot-code-review"
+  },
+  {
+    "description": "Portable PolicyEngine skills and Claude wrapper source",
+    "id": "PolicyEngine/policyengine-skills",
+    "language": "TypeScript",
+    "name": "PolicyEngine/policyengine-skills",
+    "stars": 0,
+    "updated_at": "2026-07-20T23:30:00Z",
+    "url": "https://github.com/PolicyEngine/policyengine-skills"
+  },
+  {
+    "description": "Structured API skills that turn Spuree into an agent-native cloud. Projects, folders, files, asset search, story graphs,",
+    "id": "CheehooLabs/SpureeSkills",
+    "language": "\u2014",
+    "name": "CheehooLabs/SpureeSkills",
+    "stars": 18,
+    "updated_at": "2026-07-20T23:29:23Z",
+    "url": "https://github.com/CheehooLabs/SpureeSkills"
+  },
+  {
+    "description": "my research skills",
+    "id": "xuxu-wei/research-skills",
+    "language": "Python",
+    "name": "xuxu-wei/research-skills",
+    "stars": 0,
+    "updated_at": "2026-07-20T23:29:22Z",
+    "url": "https://github.com/xuxu-wei/research-skills"
+  },
+  {
+    "description": "Coding Agent Skills",
+    "id": "mjohno/skills",
+    "language": "Python",
+    "name": "mjohno/skills",
+    "stars": 0,
+    "updated_at": "2026-07-20T23:29:03Z",
+    "url": "https://github.com/mjohno/skills"
+  },
+  {
+    "description": "Fleet skill federation \u2014 contributors/darkhero + contributors/scar3",
+    "id": "scss1199/ai_fleet_skills",
+    "language": "\u2014",
+    "name": "scss1199/ai_fleet_skills",
+    "stars": 0,
+    "updated_at": "2026-07-20T23:29:03Z",
+    "url": "https://github.com/scss1199/ai_fleet_skills"
+  },
+  {
+    "description": "",
+    "id": "andrewjackp/agent-skills-course",
+    "language": "JavaScript",
+    "name": "andrewjackp/agent-skills-course",
+    "stars": 0,
+    "updated_at": "2026-07-20T23:28:51Z",
+    "url": "https://github.com/andrewjackp/agent-skills-course"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 12,
+    "updated_at": "2026-07-20T23:28:23Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "",
     "id": "ZayanKhan-12/skills-introduction-to-secret-scanning",
     "language": "\u2014",
@@ -113,7 +203,7 @@
     "language": "\u2014",
     "name": "MMrSmith/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-07-20T23:28:16Z",
+    "updated_at": "2026-07-20T23:30:01Z",
     "url": "https://github.com/MMrSmith/skills-communicate-using-markdown"
   },
   {
@@ -241,6 +331,15 @@
     "stars": 0,
     "updated_at": "2026-07-20T23:20:39Z",
     "url": "https://github.com/toriverly/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "",
+    "id": "orimoaides/harness-skills",
+    "language": "\u2014",
+    "name": "orimoaides/harness-skills",
+    "stars": 0,
+    "updated_at": "2026-07-20T23:20:30Z",
+    "url": "https://github.com/orimoaides/harness-skills"
   },
   {
     "description": "",
@@ -374,7 +473,7 @@
     "language": "Python",
     "name": "linny006/awesome-agent-skills",
     "stars": 13,
-    "updated_at": "2026-07-20T23:15:28Z",
+    "updated_at": "2026-07-20T23:30:30Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
@@ -385,24 +484,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T23:15:27Z",
     "url": "https://github.com/mr-mohamad-mr/ai-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 12,
-    "updated_at": "2026-07-20T23:15:25Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 16,
-    "updated_at": "2026-07-20T23:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Skills I use to execute long-running coding agents without breaking my back.",
@@ -817,86 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T22:59:50Z",
     "url": "https://github.com/alexzaitsev/openclaw-skills"
-  },
-  {
-    "description": "downloading programs directly into LLM's brain",
-    "id": "malinskibeniamin/skills",
-    "language": "Shell",
-    "name": "malinskibeniamin/skills",
-    "stars": 3,
-    "updated_at": "2026-07-20T22:59:36Z",
-    "url": "https://github.com/malinskibeniamin/skills"
-  },
-  {
-    "description": "Claude Code Skills \u00dcbersicht \u2013 auto-generiert",
-    "id": "MarkusRGB/skills",
-    "language": "HTML",
-    "name": "MarkusRGB/skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T22:59:30Z",
-    "url": "https://github.com/MarkusRGB/skills"
-  },
-  {
-    "description": "Open, reviewed skills + MCP for AI coding agents \u2014 verified, quality-gated memory that gets better instead of drifting.",
-    "id": "DreamArkInc/remembrance-skills",
-    "language": "JavaScript",
-    "name": "DreamArkInc/remembrance-skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T22:59:25Z",
-    "url": "https://github.com/DreamArkInc/remembrance-skills"
-  },
-  {
-    "description": "Fleet skill federation \u2014 contributors/darkhero + contributors/scar3",
-    "id": "scss1199/ai_fleet_skills",
-    "language": "\u2014",
-    "name": "scss1199/ai_fleet_skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T22:59:03Z",
-    "url": "https://github.com/scss1199/ai_fleet_skills"
-  },
-  {
-    "description": "A marketplace of skills for Anthropic's agent surfaces \u2014 Claude Desktop (Chat, Cowork, Code) and the Claude Code CLI.",
-    "id": "rushkeldon/skills-anthropic",
-    "language": "Python",
-    "name": "rushkeldon/skills-anthropic",
-    "stars": 0,
-    "updated_at": "2026-07-20T22:59:02Z",
-    "url": "https://github.com/rushkeldon/skills-anthropic"
-  },
-  {
-    "description": "\ud83c\udf33 A comprehensive collection of all skills available for AI agents and computer-use models \u2014 perception, reasoning, memo",
-    "id": "SamoTech/skills-tree",
-    "language": "Python",
-    "name": "SamoTech/skills-tree",
-    "stars": 2,
-    "updated_at": "2026-07-20T22:58:55Z",
-    "url": "https://github.com/SamoTech/skills-tree"
-  },
-  {
-    "description": "",
-    "id": "Ingwarski/codex-skills",
-    "language": "\u2014",
-    "name": "Ingwarski/codex-skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T22:58:42Z",
-    "url": "https://github.com/Ingwarski/codex-skills"
-  },
-  {
-    "description": "A set of dogfooded skills used internally. Battle-tested and benchmarked.",
-    "id": "fellowship-dev/dogfooded-skills",
-    "language": "Python",
-    "name": "fellowship-dev/dogfooded-skills",
-    "stars": 3,
-    "updated_at": "2026-07-20T22:58:36Z",
-    "url": "https://github.com/fellowship-dev/dogfooded-skills"
-  },
-  {
-    "description": "Collection of MCP servers for Israeli data sources and APIs",
-    "id": "skills-il/mcps",
-    "language": "TypeScript",
-    "name": "skills-il/mcps",
-    "stars": 6,
-    "updated_at": "2026-07-20T23:04:02Z",
-    "url": "https://github.com/skills-il/mcps"
   }
 ]
