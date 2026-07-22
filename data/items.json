@@ -1,5 +1,95 @@
 [
   {
+    "description": "",
+    "id": "variableland/skills",
+    "language": "Shell",
+    "name": "variableland/skills",
+    "stars": 0,
+    "updated_at": "2026-07-22T23:15:24Z",
+    "url": "https://github.com/variableland/skills"
+  },
+  {
+    "description": "Exercise: Publish Docker Images",
+    "id": "GPalomino3838/skills-publish-docker-images",
+    "language": "JavaScript",
+    "name": "GPalomino3838/skills-publish-docker-images",
+    "stars": 0,
+    "updated_at": "2026-07-22T23:15:22Z",
+    "url": "https://github.com/GPalomino3838/skills-publish-docker-images"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T23:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Loxtep plugins and skills for Cursor, Claude, Kiro, Antigravity, and Codex \u2014 MCP config and Customer MCP",
+    "id": "LoxtepInc/loxtep-plugins-skills",
+    "language": "JavaScript",
+    "name": "LoxtepInc/loxtep-plugins-skills",
+    "stars": 1,
+    "updated_at": "2026-07-22T23:15:01Z",
+    "url": "https://github.com/LoxtepInc/loxtep-plugins-skills"
+  },
+  {
+    "description": "Exercise: Agent Orchestration: Build Your AI Dream Team",
+    "id": "ShilpV/skills-agent-orchestration-build-your-ai-dream-team",
+    "language": "Shell",
+    "name": "ShilpV/skills-agent-orchestration-build-your-ai-dream-team",
+    "stars": 0,
+    "updated_at": "2026-07-22T23:14:59Z",
+    "url": "https://github.com/ShilpV/skills-agent-orchestration-build-your-ai-dream-team"
+  },
+  {
+    "description": "Claude Code custom skills",
+    "id": "krisstrong/claude-skills",
+    "language": "Python",
+    "name": "krisstrong/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-22T23:14:39Z",
+    "url": "https://github.com/krisstrong/claude-skills"
+  },
+  {
+    "description": "Find agent skills by reading what they actually do.",
+    "id": "FixAdmin/skillsmp-search",
+    "language": "JavaScript",
+    "name": "FixAdmin/skillsmp-search",
+    "stars": 0,
+    "updated_at": "2026-07-22T23:14:38Z",
+    "url": "https://github.com/FixAdmin/skillsmp-search"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-22T23:14:14Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Este repositorio es para el estudio y analisis de repositorios, skills y paradigmas de programacion en software para may",
+    "id": "yeisonestiv109/estudio_skills_ia_claude",
+    "language": "Python",
+    "name": "yeisonestiv109/estudio_skills_ia_claude",
+    "stars": 0,
+    "updated_at": "2026-07-22T23:14:09Z",
+    "url": "https://github.com/yeisonestiv109/estudio_skills_ia_claude"
+  },
+  {
+    "description": "",
+    "id": "michielvandermeer/skills",
+    "language": "Shell",
+    "name": "michielvandermeer/skills",
+    "stars": 0,
+    "updated_at": "2026-07-22T23:14:08Z",
+    "url": "https://github.com/michielvandermeer/skills"
+  },
+  {
     "description": "Exercise: Agentic Workflows That Read the Room",
     "id": "bitbae/skills-agentic-workflows-that-read-the-room",
     "language": "Astro",
@@ -160,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T23:09:52Z",
     "url": "https://github.com/TianoRosa/Skills-"
-  },
-  {
-    "description": "Find agent skills by reading what they actually do.",
-    "id": "FixAdmin/skillsmp-search",
-    "language": "JavaScript",
-    "name": "FixAdmin/skillsmp-search",
-    "stars": 0,
-    "updated_at": "2026-07-22T23:09:43Z",
-    "url": "https://github.com/FixAdmin/skillsmp-search"
   },
   {
     "description": "10 Claude Code skills for disciplined front-end design work",
@@ -473,7 +554,7 @@
     "language": "Python",
     "name": "invnuno/agent-skills",
     "stars": 0,
-    "updated_at": "2026-07-22T23:01:52Z",
+    "updated_at": "2026-07-22T23:15:23Z",
     "url": "https://github.com/invnuno/agent-skills"
   },
   {
@@ -491,7 +572,7 @@
     "language": "Python",
     "name": "LunarisApp/agent-skills",
     "stars": 0,
-    "updated_at": "2026-07-22T23:01:43Z",
+    "updated_at": "2026-07-22T23:15:23Z",
     "url": "https://github.com/LunarisApp/agent-skills"
   },
   {
@@ -567,15 +648,6 @@
     "url": "https://github.com/kouko/monkey-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-22T23:00:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -601,15 +673,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T23:00:22Z",
     "url": "https://github.com/lyster99/skills-agent-orchestration-build-your-ai-dream-team"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T23:00:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "131 deterministic cloud & AI security skills \u2014 OCSF 1.8, MCP tools, HITL-gated remediation. AWS \u00b7 GCP \u00b7 Azure \u00b7 K8s \u00b7 Sa",
@@ -835,68 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T22:54:32Z",
     "url": "https://github.com/KevinFink/amp-skills"
-  },
-  {
-    "description": "",
-    "id": "borumbombum/skills",
-    "language": "\u2014",
-    "name": "borumbombum/skills",
-    "stars": 0,
-    "updated_at": "2026-07-22T22:54:25Z",
-    "url": "https://github.com/borumbombum/skills"
-  },
-  {
-    "description": "",
-    "id": "GTIJose/skills-introduction-to-github-actions",
-    "language": "\u2014",
-    "name": "GTIJose/skills-introduction-to-github-actions",
-    "stars": 0,
-    "updated_at": "2026-07-22T22:53:55Z",
-    "url": "https://github.com/GTIJose/skills-introduction-to-github-actions"
-  },
-  {
-    "description": "425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI pac",
-    "id": "jeremylongshore/claude-code-plugins-plus-skills",
-    "language": "Python",
-    "name": "jeremylongshore/claude-code-plugins-plus-skills",
-    "stars": 2547,
-    "updated_at": "2026-07-22T22:53:12Z",
-    "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
-  },
-  {
-    "description": "Claude skills for Israeli health services - pharmacy, healthcare, medical",
-    "id": "skills-il/health-services",
-    "language": "Python",
-    "name": "skills-il/health-services",
-    "stars": 3,
-    "updated_at": "2026-07-22T22:54:43Z",
-    "url": "https://github.com/skills-il/health-services"
-  },
-  {
-    "description": "Exercise: GitHub Copilot Code Review",
-    "id": "Mrnottoday/skills-copilot-code-review",
-    "language": "JavaScript",
-    "name": "Mrnottoday/skills-copilot-code-review",
-    "stars": 0,
-    "updated_at": "2026-07-22T22:52:27Z",
-    "url": "https://github.com/Mrnottoday/skills-copilot-code-review"
-  },
-  {
-    "description": "",
-    "id": "thoughtspot/thoughtspot-agent-skills",
-    "language": "Python",
-    "name": "thoughtspot/thoughtspot-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-07-22T23:02:04Z",
-    "url": "https://github.com/thoughtspot/thoughtspot-agent-skills"
-  },
-  {
-    "description": "Exercise: Code with Codespaces",
-    "id": "yailsan/skills-code-with-codespaces",
-    "language": "Shell",
-    "name": "yailsan/skills-code-with-codespaces",
-    "stars": 0,
-    "updated_at": "2026-07-22T22:51:10Z",
-    "url": "https://github.com/yailsan/skills-code-with-codespaces"
   }
 ]
