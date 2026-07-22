@@ -1,5 +1,77 @@
 [
   {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "isleyen83/skills-github-pages",
+    "language": "\u2014",
+    "name": "isleyen83/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-07-22T18:45:40Z",
+    "url": "https://github.com/isleyen83/skills-github-pages"
+  },
+  {
+    "description": "Personal Hermes skills",
+    "id": "arfar-x/hermes-skills",
+    "language": "Python",
+    "name": "arfar-x/hermes-skills",
+    "stars": 0,
+    "updated_at": "2026-07-22T18:45:35Z",
+    "url": "https://github.com/arfar-x/hermes-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 14,
+    "updated_at": "2026-07-22T18:45:32Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "",
+    "id": "tommimarkus/skills",
+    "language": "Python",
+    "name": "tommimarkus/skills",
+    "stars": 0,
+    "updated_at": "2026-07-22T18:45:29Z",
+    "url": "https://github.com/tommimarkus/skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "ah0R-59V0gEOWrFv/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "ah0R-59V0gEOWrFv/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-07-22T18:45:26Z",
+    "url": "https://github.com/ah0R-59V0gEOWrFv/skills-introduction-to-github"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T18:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "tonyloki/Antigravity-Pro-Skills-And-Workflows",
+    "language": "\u2014",
+    "name": "tonyloki/Antigravity-Pro-Skills-And-Workflows",
+    "stars": 0,
+    "updated_at": "2026-07-22T18:45:09Z",
+    "url": "https://github.com/tonyloki/Antigravity-Pro-Skills-And-Workflows"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-22T18:45:03Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "My personal collection of agent skills.",
     "id": "sgolovine/agent-skills",
     "language": "Python",
@@ -7,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-07-22T18:44:53Z",
     "url": "https://github.com/sgolovine/agent-skills"
+  },
+  {
+    "description": "AI skills and technical recruiting knowledge for modern HR and talent acquisition teams.",
+    "id": "tuanductran/hr-skills",
+    "language": "TypeScript",
+    "name": "tuanductran/hr-skills",
+    "stars": 31,
+    "updated_at": "2026-07-22T18:44:52Z",
+    "url": "https://github.com/tuanductran/hr-skills"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "UiPath/skills",
     "stars": 132,
-    "updated_at": "2026-07-22T18:43:10Z",
+    "updated_at": "2026-07-22T18:45:05Z",
     "url": "https://github.com/UiPath/skills"
   },
   {
@@ -122,7 +203,7 @@
     "language": "TypeScript",
     "name": "reddb-io/red-skills",
     "stars": 0,
-    "updated_at": "2026-07-22T18:43:08Z",
+    "updated_at": "2026-07-22T18:45:19Z",
     "url": "https://github.com/reddb-io/red-skills"
   },
   {
@@ -185,7 +266,7 @@
     "language": "\u2014",
     "name": "marianaguimaraes/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-07-22T18:43:45Z",
+    "updated_at": "2026-07-22T18:45:02Z",
     "url": "https://github.com/marianaguimaraes/skills-introduction-to-github"
   },
   {
@@ -369,15 +450,6 @@
     "url": "https://github.com/buffaly-ai/buffaly-skills"
   },
   {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "ah0R-59V0gEOWrFv/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "ah0R-59V0gEOWrFv/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-22T18:44:57Z",
-    "url": "https://github.com/ah0R-59V0gEOWrFv/skills-introduction-to-github"
-  },
-  {
     "description": "A full-stack MERN Skill Exchange Platform where students can teach, learn, connect, and exchange skills through a modern",
     "id": "anmolgour986/SkillSwap-MERN",
     "language": "JavaScript",
@@ -430,15 +502,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T18:37:07Z",
     "url": "https://github.com/iadams749/agent-skills"
-  },
-  {
-    "description": "AI skills and technical recruiting knowledge for modern HR and talent acquisition teams.",
-    "id": "tuanductran/hr-skills",
-    "language": "TypeScript",
-    "name": "tuanductran/hr-skills",
-    "stars": 31,
-    "updated_at": "2026-07-22T18:44:52Z",
-    "url": "https://github.com/tuanductran/hr-skills"
   },
   {
     "description": "Personal Claude Code skills collection",
@@ -693,24 +756,6 @@
     "url": "https://github.com/abhithshaji/frontend-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-22T18:30:38Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 14,
-    "updated_at": "2026-07-22T18:30:32Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Exercise: Get started using GitHub Copilot",
     "id": "lsanc15/skills-getting-started-with-github-copilot",
     "language": "JavaScript",
@@ -718,15 +763,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T18:30:15Z",
     "url": "https://github.com/lsanc15/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T18:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T18:27:14Z",
     "url": "https://github.com/emma-devhub/emma-skills"
-  },
-  {
-    "description": "",
-    "id": "3tallah/awesome-ai-agent-skills",
-    "language": "TypeScript",
-    "name": "3tallah/awesome-ai-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-22T18:26:59Z",
-    "url": "https://github.com/3tallah/awesome-ai-agent-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "jsuria26/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "jsuria26/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-22T18:26:55Z",
-    "url": "https://github.com/jsuria26/skills-introduction-to-github"
-  },
-  {
-    "description": "Free agent skills for Claude Code and SKILL.md agents. Add with: /plugin marketplace add justhandledlabs/skills. Eleven ",
-    "id": "justhandledlabs/skills",
-    "language": "Python",
-    "name": "justhandledlabs/skills",
-    "stars": 0,
-    "updated_at": "2026-07-22T18:26:30Z",
-    "url": "https://github.com/justhandledlabs/skills"
-  },
-  {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "abhishekbten-cloud/skills-github-pages",
-    "language": "\u2014",
-    "name": "abhishekbten-cloud/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-07-22T18:26:27Z",
-    "url": "https://github.com/abhishekbten-cloud/skills-github-pages"
   }
 ]
