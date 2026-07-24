@@ -1,12 +1,102 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-24T04:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "somesh123211/skillsphere-2",
+    "language": "Dart",
+    "name": "somesh123211/skillsphere-2",
+    "stars": 0,
+    "updated_at": "2026-07-24T04:00:08Z",
+    "url": "https://github.com/somesh123211/skillsphere-2"
+  },
+  {
+    "description": "\u6b66\u827a\u00b7\u6280\u80fd\u4ed3\u5e93 - Hermes Agent skills collection",
+    "id": "wyp1157/hermes-skills",
+    "language": "Python",
+    "name": "wyp1157/hermes-skills",
+    "stars": 0,
+    "updated_at": "2026-07-24T04:00:07Z",
+    "url": "https://github.com/wyp1157/hermes-skills"
+  },
+  {
+    "description": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
+    "id": "sudosubin/nix-skills",
+    "language": "TypeScript",
+    "name": "sudosubin/nix-skills",
+    "stars": 9,
+    "updated_at": "2026-07-24T03:59:58Z",
+    "url": "https://github.com/sudosubin/nix-skills"
+  },
+  {
+    "description": "",
+    "id": "tang-coder-hub/ai-skills-market",
+    "language": "JavaScript",
+    "name": "tang-coder-hub/ai-skills-market",
+    "stars": 1,
+    "updated_at": "2026-07-24T03:59:47Z",
+    "url": "https://github.com/tang-coder-hub/ai-skills-market"
+  },
+  {
+    "description": "",
+    "id": "SusieWang0720/agent-skills-traffic",
+    "language": "HTML",
+    "name": "SusieWang0720/agent-skills-traffic",
+    "stars": 0,
+    "updated_at": "2026-07-24T03:59:38Z",
+    "url": "https://github.com/SusieWang0720/agent-skills-traffic"
+  },
+  {
+    "description": "",
+    "id": "ramg-awasthi/nexon-skills",
+    "language": "Python",
+    "name": "ramg-awasthi/nexon-skills",
+    "stars": 0,
+    "updated_at": "2026-07-24T03:59:29Z",
+    "url": "https://github.com/ramg-awasthi/nexon-skills"
+  },
+  {
+    "description": "",
+    "id": "k2ker/hk-skills",
+    "language": "Python",
+    "name": "k2ker/hk-skills",
+    "stars": 0,
+    "updated_at": "2026-07-24T03:59:26Z",
+    "url": "https://github.com/k2ker/hk-skills"
+  },
+  {
+    "description": "My Claude Code skills collection",
+    "id": "dsonders/claude-skills",
+    "language": "JavaScript",
+    "name": "dsonders/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-24T03:59:22Z",
+    "url": "https://github.com/dsonders/claude-skills"
+  },
+  {
     "description": "My clone repository",
     "id": "Pawani109/skills-introduction-to-github",
     "language": "\u2014",
     "name": "Pawani109/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-07-24T03:59:01Z",
+    "updated_at": "2026-07-24T03:59:17Z",
     "url": "https://github.com/Pawani109/skills-introduction-to-github"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-24T03:59:06Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "A collection of skills for AI coding agents",
@@ -68,7 +158,7 @@
     "language": "\u2014",
     "name": "rodro33320/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-07-24T03:57:50Z",
+    "updated_at": "2026-07-24T03:59:09Z",
     "url": "https://github.com/rodro33320/skills-communicate-using-markdown"
   },
   {
@@ -268,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T03:57:26Z",
     "url": "https://github.com/reddb-io/red-skills"
-  },
-  {
-    "description": "",
-    "id": "tang-coder-hub/ai-skills-market",
-    "language": "JavaScript",
-    "name": "tang-coder-hub/ai-skills-market",
-    "stars": 1,
-    "updated_at": "2026-07-24T03:53:38Z",
-    "url": "https://github.com/tang-coder-hub/ai-skills-market"
   },
   {
     "description": "Claude Skills for Software Developer",
@@ -518,7 +599,7 @@
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
     "stars": 39258,
-    "updated_at": "2026-07-24T03:53:47Z",
+    "updated_at": "2026-07-24T04:00:17Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
@@ -666,24 +747,6 @@
     "url": "https://github.com/WenWuZhiDao/mattpocock-skills-zh"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-24T03:45:25Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-24T03:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A bundle of skills for my Claude Code agents",
     "id": "preference-kim/my-claude-skills",
     "language": "\u2014",
@@ -775,15 +838,6 @@
   },
   {
     "description": "",
-    "id": "somesh123211/skillsphere-2",
-    "language": "Dart",
-    "name": "somesh123211/skillsphere-2",
-    "stars": 0,
-    "updated_at": "2026-07-24T03:42:28Z",
-    "url": "https://github.com/somesh123211/skillsphere-2"
-  },
-  {
-    "description": "",
     "id": "kyzooghost/skills",
     "language": "Python",
     "name": "kyzooghost/skills",
@@ -844,59 +898,5 @@
     "stars": 4,
     "updated_at": "2026-07-24T03:40:12Z",
     "url": "https://github.com/valorisa/Claude-Skills"
-  },
-  {
-    "description": "",
-    "id": "devamplifica/legacy-skills-design-system-amplifica",
-    "language": "Shell",
-    "name": "devamplifica/legacy-skills-design-system-amplifica",
-    "stars": 0,
-    "updated_at": "2026-07-24T03:40:10Z",
-    "url": "https://github.com/devamplifica/legacy-skills-design-system-amplifica"
-  },
-  {
-    "description": "Exercise: Introduction to CodeQL",
-    "id": "s4085722/skills-introduction-to-codeql",
-    "language": "Python",
-    "name": "s4085722/skills-introduction-to-codeql",
-    "stars": 0,
-    "updated_at": "2026-07-24T03:40:09Z",
-    "url": "https://github.com/s4085722/skills-introduction-to-codeql"
-  },
-  {
-    "description": "",
-    "id": "tommycheung43/educational-skills",
-    "language": "Python",
-    "name": "tommycheung43/educational-skills",
-    "stars": 0,
-    "updated_at": "2026-07-24T03:39:50Z",
-    "url": "https://github.com/tommycheung43/educational-skills"
-  },
-  {
-    "description": "claude code skills for coding workflow",
-    "id": "michaelChe956/Cadence-skills",
-    "language": "Python",
-    "name": "michaelChe956/Cadence-skills",
-    "stars": 11,
-    "updated_at": "2026-07-24T03:39:43Z",
-    "url": "https://github.com/michaelChe956/Cadence-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "fabiopach7/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "fabiopach7/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-24T03:39:33Z",
-    "url": "https://github.com/fabiopach7/skills-introduction-to-github"
-  },
-  {
-    "description": "",
-    "id": "WSFcloud/nomicon-skills",
-    "language": "\u2014",
-    "name": "WSFcloud/nomicon-skills",
-    "stars": 0,
-    "updated_at": "2026-07-24T03:39:15Z",
-    "url": "https://github.com/WSFcloud/nomicon-skills"
   }
 ]
