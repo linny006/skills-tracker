@@ -1,5 +1,50 @@
 [
   {
+    "description": "Personal Codex skills repository",
+    "id": "rayongjiang-dev/my-skills",
+    "language": "\u2014",
+    "name": "rayongjiang-dev/my-skills",
+    "stars": 0,
+    "updated_at": "2026-07-25T14:15:16Z",
+    "url": "https://github.com/rayongjiang-dev/my-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-25T14:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Exercise: Secure your Repository Supply Chain",
+    "id": "iamjhnwll-ux/skills-secure-repository-supply-chain",
+    "language": "\u2014",
+    "name": "iamjhnwll-ux/skills-secure-repository-supply-chain",
+    "stars": 0,
+    "updated_at": "2026-07-25T14:15:12Z",
+    "url": "https://github.com/iamjhnwll-ux/skills-secure-repository-supply-chain"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "aaskira77-source/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "aaskira77-source/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-07-25T14:15:18Z",
+    "url": "https://github.com/aaskira77-source/skills-introduction-to-git"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-25T14:15:05Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Code with Codespaces",
     "id": "sajalmathur/skills-code-with-codespaces",
     "language": "Shell",
@@ -27,13 +72,13 @@
     "url": "https://github.com/mahmoodoma/Skills"
   },
   {
-    "description": "Exercise: Introduction to Git",
-    "id": "aaskira77-source/skills-introduction-to-git",
+    "description": "Agent skills for solo dev workflows",
+    "id": "lelborn/skills",
     "language": "Shell",
-    "name": "aaskira77-source/skills-introduction-to-git",
+    "name": "lelborn/skills",
     "stars": 0,
-    "updated_at": "2026-07-25T14:14:44Z",
-    "url": "https://github.com/aaskira77-source/skills-introduction-to-git"
+    "updated_at": "2026-07-25T14:14:42Z",
+    "url": "https://github.com/lelborn/skills"
   },
   {
     "description": "",
@@ -41,7 +86,7 @@
     "language": "HTML",
     "name": "bhaveshgrabo-star/skillspark",
     "stars": 0,
-    "updated_at": "2026-07-25T14:14:37Z",
+    "updated_at": "2026-07-25T14:15:17Z",
     "url": "https://github.com/bhaveshgrabo-star/skillspark"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-07-25T14:13:06Z",
     "url": "https://github.com/vyrus001/skillsissue.ai"
-  },
-  {
-    "description": "Agent skills for solo dev workflows",
-    "id": "lelborn/skills",
-    "language": "Shell",
-    "name": "lelborn/skills",
-    "stars": 0,
-    "updated_at": "2026-07-25T14:14:42Z",
-    "url": "https://github.com/lelborn/skills"
   },
   {
     "description": "AdsAgent tri-channel AI skills for Meta, Google Ads, and TikTok hosted MCP",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T14:01:01Z",
     "url": "https://github.com/iceberghbs/skills"
-  },
-  {
-    "description": "",
-    "id": "FelipeFuhr/ffreis-claude-skills",
-    "language": "Shell",
-    "name": "FelipeFuhr/ffreis-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-07-25T14:00:56Z",
-    "url": "https://github.com/FelipeFuhr/ffreis-claude-skills"
-  },
-  {
-    "description": "The repo for all system/public ornn skills",
-    "id": "ChronoAIProject/nyx-skills",
-    "language": "JavaScript",
-    "name": "ChronoAIProject/nyx-skills",
-    "stars": 0,
-    "updated_at": "2026-07-25T14:00:46Z",
-    "url": "https://github.com/ChronoAIProject/nyx-skills"
-  },
-  {
-    "description": "Agent skills for AI coding assistants. Small, composable, opinionated. Works with Claude Code, Cursor, Codex, and more.",
-    "id": "Gelly52/skills",
-    "language": "CSS",
-    "name": "Gelly52/skills",
-    "stars": 0,
-    "updated_at": "2026-07-25T14:00:42Z",
-    "url": "https://github.com/Gelly52/skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 14,
-    "updated_at": "2026-07-25T14:00:33Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   }
 ]
