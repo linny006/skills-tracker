@@ -1,5 +1,32 @@
 [
   {
+    "description": "",
+    "id": "Vibherpunk/ai-skills",
+    "language": "\u2014",
+    "name": "Vibherpunk/ai-skills",
+    "stars": 1,
+    "updated_at": "2026-07-25T16:15:24Z",
+    "url": "https://github.com/Vibherpunk/ai-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-25T16:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-25T16:15:13Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Communicate using Markdown",
     "id": "wilian-pereira/skills-communicate-using-markdown",
     "language": "\u2014",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "kevinveenbirkenbach/skills",
     "stars": 0,
-    "updated_at": "2026-07-25T16:14:33Z",
+    "updated_at": "2026-07-25T16:15:11Z",
     "url": "https://github.com/kevinveenbirkenbach/skills"
   },
   {
@@ -495,15 +522,6 @@
     "url": "https://github.com/tolimcn7786/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-25T16:05:39Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -765,15 +783,6 @@
     "url": "https://github.com/ChronoAIProject/nyx-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-25T16:00:33Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Shared skills for AI-assisted development with Claude Code and Cursor",
     "id": "quatico-solutions/agent-skills",
     "language": "TypeScript",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T15:57:01Z",
     "url": "https://github.com/Suru2411/skills-communicate-using-markdown"
-  },
-  {
-    "description": "Delegate coding tasks to agents, collect artifacts, and verify results locally with standalone supervision skills for Cl",
-    "id": "drippy-passport968/agent-supervision-skills",
-    "language": "PowerShell",
-    "name": "drippy-passport968/agent-supervision-skills",
-    "stars": 3,
-    "updated_at": "2026-07-25T15:56:40Z",
-    "url": "https://github.com/drippy-passport968/agent-supervision-skills"
   }
 ]
