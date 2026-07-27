@@ -1,11 +1,29 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-27T01:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-27T01:15:10Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Introduction to Git",
     "id": "user9239400223/skills-introduction-to-git",
-    "language": "\u2014",
+    "language": "Shell",
     "name": "user9239400223/skills-introduction-to-git",
     "stars": 0,
-    "updated_at": "2026-07-27T01:15:06Z",
+    "updated_at": "2026-07-27T01:15:09Z",
     "url": "https://github.com/user9239400223/skills-introduction-to-git"
   },
   {
@@ -522,15 +540,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-27T01:00:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Workflow skills for Claude Code: audit, fix-audit, diagnose, profile, orient, design, map",
     "id": "noahsabaj/claude-skills",
     "language": "Shell",
@@ -538,15 +547,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T01:00:25Z",
     "url": "https://github.com/noahsabaj/claude-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-27T01:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "collection of AI-driven automation skills and workflows for seamless Kubernetes cluster version upgrades.",
