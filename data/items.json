@@ -1,264 +1,48 @@
 [
   {
+    "description": "\u0645\u062c\u0645\u0648\u0639\u0647 Skill\u0647\u0627\u060c \u0627\u0633\u06a9\u0631\u06cc\u067e\u062a \u0646\u0635\u0628 Windows \u0648 macOS\u060c",
+    "id": "mahamirmh/risheh-claude-skills",
+    "language": "\u2014",
+    "name": "mahamirmh/risheh-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T11:00:26Z",
+    "url": "https://github.com/mahamirmh/risheh-claude-skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "bhanuprakashk90-tech/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "bhanuprakashk90-tech/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-07-27T11:00:25Z",
+    "url": "https://github.com/bhanuprakashk90-tech/skills-introduction-to-github"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 18,
-    "updated_at": "2026-07-27T10:45:16Z",
+    "updated_at": "2026-07-27T11:00:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
-    "description": "Exercise: Build applications with GitHub Copilot agent mode",
-    "id": "Ratna2126/skills-build-applications-w-copilot-agent-mode",
+    "description": "My clone repository",
+    "id": "adelekead/skills-introduction-to-github",
     "language": "\u2014",
-    "name": "Ratna2126/skills-build-applications-w-copilot-agent-mode",
+    "name": "adelekead/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-07-27T10:45:24Z",
-    "url": "https://github.com/Ratna2126/skills-build-applications-w-copilot-agent-mode"
+    "updated_at": "2026-07-27T11:00:11Z",
+    "url": "https://github.com/adelekead/skills-introduction-to-github"
   },
   {
-    "description": "",
-    "id": "kazu02210679/skills",
-    "language": "Python",
-    "name": "kazu02210679/skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:45:09Z",
-    "url": "https://github.com/kazu02210679/skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "tomasdmartins-max/skills-introduction-to-git",
+    "description": "My clone repository",
+    "id": "Tnamaid/skills-connect-the-dots",
     "language": "\u2014",
-    "name": "tomasdmartins-max/skills-introduction-to-git",
+    "name": "Tnamaid/skills-connect-the-dots",
     "stars": 0,
-    "updated_at": "2026-07-27T10:45:02Z",
-    "url": "https://github.com/tomasdmartins-max/skills-introduction-to-git"
-  },
-  {
-    "description": "Deliver skills that dynamically adjust to context by running scripts that tailor agent instructions based on real-time d",
-    "id": "nkwem3002/computed-skills",
-    "language": "\u2014",
-    "name": "nkwem3002/computed-skills",
-    "stars": 2,
-    "updated_at": "2026-07-27T10:44:58Z",
-    "url": "https://github.com/nkwem3002/computed-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "buildshipsail/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "buildshipsail/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:44:57Z",
-    "url": "https://github.com/buildshipsail/skills-introduction-to-github"
-  },
-  {
-    "description": "Reusable AI agent skills for specification-driven development",
-    "id": "anyoneanderson/agent-skills",
-    "language": "Shell",
-    "name": "anyoneanderson/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:44:54Z",
-    "url": "https://github.com/anyoneanderson/agent-skills"
-  },
-  {
-    "description": "Two Claude Code skills that run adversarial multi-agent critique \u2014 blind expert seats, refuter verification, precedence-",
-    "id": "msaza2/claude-debate-skills",
-    "language": "\u2014",
-    "name": "msaza2/claude-debate-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:44:32Z",
-    "url": "https://github.com/msaza2/claude-debate-skills"
-  },
-  {
-    "description": "General Lovstudio skills index and install mirror",
-    "id": "lovstudio/general-skills",
-    "language": "Python",
-    "name": "lovstudio/general-skills",
-    "stars": 2,
-    "updated_at": "2026-07-27T10:44:31Z",
-    "url": "https://github.com/lovstudio/general-skills"
-  },
-  {
-    "description": "",
-    "id": "detoix/skills",
-    "language": "Python",
-    "name": "detoix/skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:45:23Z",
-    "url": "https://github.com/detoix/skills"
-  },
-  {
-    "description": "Share and organize custom Claude AI skills with access to useful external skill libraries and resources for enhanced wor",
-    "id": "robuxref2005/my_claude_skills",
-    "language": "\u2014",
-    "name": "robuxref2005/my_claude_skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:44:20Z",
-    "url": "https://github.com/robuxref2005/my_claude_skills"
-  },
-  {
-    "description": "Provide open-source Claude Code skills to access HyperX wallet analytics, market data, and social feeds for enhanced tra",
-    "id": "pisonislo8737/HyperxOpenSkills",
-    "language": "\u2014",
-    "name": "pisonislo8737/HyperxOpenSkills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:44:16Z",
-    "url": "https://github.com/pisonislo8737/HyperxOpenSkills"
-  },
-  {
-    "description": "Provide accurate Jetpack Compose code by detecting common errors and improving Android UI practices with a modern agent ",
-    "id": "Pushpade7366/jetpack-compose-skills",
-    "language": "\u2014",
-    "name": "Pushpade7366/jetpack-compose-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:44:13Z",
-    "url": "https://github.com/Pushpade7366/jetpack-compose-skills"
-  },
-  {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "nicetrygee/skills-getting-started-with-github-copilot",
-    "language": "JavaScript",
-    "name": "nicetrygee/skills-getting-started-with-github-copilot",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:44:12Z",
-    "url": "https://github.com/nicetrygee/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "codex\u5e2e\u52a9\u82f1\u8bed\u8bcd\u6c47\u6eda\u52a8skill",
-    "id": "BorderRegion/vocab_forge_skills",
-    "language": "\u2014",
-    "name": "BorderRegion/vocab_forge_skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:44:11Z",
-    "url": "https://github.com/BorderRegion/vocab_forge_skills"
-  },
-  {
-    "description": "Exercise: Idea to App with GitHub Spark",
-    "id": "MohamedMagdySayed/skills-idea-to-app-with-spark",
-    "language": "\u2014",
-    "name": "MohamedMagdySayed/skills-idea-to-app-with-spark",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:44:00Z",
-    "url": "https://github.com/MohamedMagdySayed/skills-idea-to-app-with-spark"
-  },
-  {
-    "description": "AI agent skills for MTV/Forklift migrations on OpenShift and Kubernetes. Works with Claude Code and Cursor.",
-    "id": "kubev2v/mtv-skills",
-    "language": "Shell",
-    "name": "kubev2v/mtv-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:43:52Z",
-    "url": "https://github.com/kubev2v/mtv-skills"
-  },
-  {
-    "description": "Provide AI agents with modular skills to automate and manage Alibaba Cloud big data services using official APIs and SDK",
-    "id": "lucaducapuca/alibabacloud-bigdata-skills",
-    "language": "Python",
-    "name": "lucaducapuca/alibabacloud-bigdata-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:43:46Z",
-    "url": "https://github.com/lucaducapuca/alibabacloud-bigdata-skills"
-  },
-  {
-    "description": "Provide and maintain a community-driven collection of standardized Agent Skills for Claude AI using the SKILL.md format",
-    "id": "Marine-softdrink524/claude-skills",
-    "language": "\u2014",
-    "name": "Marine-softdrink524/claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-27T10:43:34Z",
-    "url": "https://github.com/Marine-softdrink524/claude-skills"
-  },
-  {
-    "description": "\u77e5\u8bc6\u5e93\u6280\u80fd\uff1a\u521d\u59cb\u5316\u3001\u6574\u7406\u3001\u63d0\u70bc\u3001\u7ffb\u8bd1\u3001\u8f6c\u6362\u4e0e\u4e66\u5e93",
-    "id": "soia-team/soia-open-pkm-vault-skills",
-    "language": "Python",
-    "name": "soia-team/soia-open-pkm-vault-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:43:33Z",
-    "url": "https://github.com/soia-team/soia-open-pkm-vault-skills"
-  },
-  {
-    "description": "Exercise: Write JavaScript Actions",
-    "id": "alex-ion/skills-write-javascript-actions",
-    "language": "JavaScript",
-    "name": "alex-ion/skills-write-javascript-actions",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:43:29Z",
-    "url": "https://github.com/alex-ion/skills-write-javascript-actions"
-  },
-  {
-    "description": "Provide 25 Excel operations using openpyxl without Excel, supporting full server or minimal command-line runs for flexib",
-    "id": "Likaxy/excel-agent-skills",
-    "language": "Python",
-    "name": "Likaxy/excel-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:43:22Z",
-    "url": "https://github.com/Likaxy/excel-agent-skills"
-  },
-  {
-    "description": "",
-    "id": "dosandk/SkillStack",
-    "language": "TypeScript",
-    "name": "dosandk/SkillStack",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:43:17Z",
-    "url": "https://github.com/dosandk/SkillStack"
-  },
-  {
-    "description": "Provide complementary OpenClaw search skills offering source-first and freshness-first retrieval for accurate documents ",
-    "id": "Blotchy-unbecomingness80/openclaw-dae-skills",
-    "language": "Python",
-    "name": "Blotchy-unbecomingness80/openclaw-dae-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:43:07Z",
-    "url": "https://github.com/Blotchy-unbecomingness80/openclaw-dae-skills"
-  },
-  {
-    "description": "Exercise: Secure your Repository Supply Chain",
-    "id": "bencauldwell1/skills-secure-repository-supply-chain",
-    "language": "C#",
-    "name": "bencauldwell1/skills-secure-repository-supply-chain",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:43:33Z",
-    "url": "https://github.com/bencauldwell1/skills-secure-repository-supply-chain"
-  },
-  {
-    "description": "SQL analysis of remote Data Engineer job postings: most in-demand, highest-paying, and optimal skills to learn",
-    "id": "arzan15zk-hub/data-engineer-skills-analysis",
-    "language": "\u2014",
-    "name": "arzan15zk-hub/data-engineer-skills-analysis",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:43:02Z",
-    "url": "https://github.com/arzan15zk-hub/data-engineer-skills-analysis"
-  },
-  {
-    "description": "Enable AI agents to automate document signing and contract workflows using reusable skills integrated with the eSign pla",
-    "id": "headlike-oradexon12/skills",
-    "language": "TypeScript",
-    "name": "headlike-oradexon12/skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:43:00Z",
-    "url": "https://github.com/headlike-oradexon12/skills"
-  },
-  {
-    "description": "SkillScan AI is an AI-powered full-stack interview preparation platform that analyses resumes, generates personalised te",
-    "id": "krimitchaudhary1718/SkillScan-Ai",
-    "language": "JavaScript",
-    "name": "krimitchaudhary1718/SkillScan-Ai",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:42:55Z",
-    "url": "https://github.com/krimitchaudhary1718/SkillScan-Ai"
-  },
-  {
-    "description": "",
-    "id": "ShahrukhFx31/skillshow-pr-review",
-    "language": "\u2014",
-    "name": "ShahrukhFx31/skillshow-pr-review",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:42:36Z",
-    "url": "https://github.com/ShahrukhFx31/skillshow-pr-review"
+    "updated_at": "2026-07-27T11:00:08Z",
+    "url": "https://github.com/Tnamaid/skills-connect-the-dots"
   },
   {
     "description": "Exercise: Publish Docker Images",
@@ -266,233 +50,89 @@
     "language": "JavaScript",
     "name": "mishkasta/skills-publish-docker-images",
     "stars": 0,
-    "updated_at": "2026-07-27T10:42:30Z",
+    "updated_at": "2026-07-27T11:00:04Z",
     "url": "https://github.com/mishkasta/skills-publish-docker-images"
   },
   {
-    "description": "",
-    "id": "blueskyranger/skills",
+    "description": "Exercise: Introduction to GitHub",
+    "id": "UmarFaruqueIslam/skills-introduction-to-github",
     "language": "\u2014",
-    "name": "blueskyranger/skills",
+    "name": "UmarFaruqueIslam/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-07-27T10:42:25Z",
-    "url": "https://github.com/blueskyranger/skills"
+    "updated_at": "2026-07-27T11:00:03Z",
+    "url": "https://github.com/UmarFaruqueIslam/skills-introduction-to-github"
   },
   {
-    "description": "Provide a complete Traditional Chinese guide to building and testing Skills for Claude, based on Anthropic's official do",
-    "id": "Cathyoffthehook238/Guild-to-Building-Skills-for-Claude",
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "frehnejc/skills-getting-started-with-github-copilot",
     "language": "\u2014",
-    "name": "Cathyoffthehook238/Guild-to-Building-Skills-for-Claude",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:42:22Z",
-    "url": "https://github.com/Cathyoffthehook238/Guild-to-Building-Skills-for-Claude"
-  },
-  {
-    "description": "Provide adaptive Claude Code skills that guide system design, coding, and task management through principle-based decisi",
-    "id": "AbdulRehman0745/Nature-use-skills",
-    "language": "Shell",
-    "name": "AbdulRehman0745/Nature-use-skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:42:19Z",
-    "url": "https://github.com/AbdulRehman0745/Nature-use-skills"
-  },
-  {
-    "description": "Exercise: Secure your Repository Supply Chain",
-    "id": "almost06/skills-secure-repository-supply-chain",
-    "language": "C#",
-    "name": "almost06/skills-secure-repository-supply-chain",
+    "name": "frehnejc/skills-getting-started-with-github-copilot",
     "stars": 0,
-    "updated_at": "2026-07-27T10:42:47Z",
-    "url": "https://github.com/almost06/skills-secure-repository-supply-chain"
-  },
-  {
-    "description": "Enable full-cycle product development with AI-driven skills for ideation, specification writing, frontend design, and UX",
-    "id": "robotka1321/great-product-skills",
-    "language": "Shell",
-    "name": "robotka1321/great-product-skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:42:10Z",
-    "url": "https://github.com/robotka1321/great-product-skills"
-  },
-  {
-    "description": "Exercise: Secure your Repository Supply Chain",
-    "id": "miabhi524-bit/skills-secure-repository-supply-chain",
-    "language": "C#",
-    "name": "miabhi524-bit/skills-secure-repository-supply-chain",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:42:03Z",
-    "url": "https://github.com/miabhi524-bit/skills-secure-repository-supply-chain"
-  },
-  {
-    "description": "Manage and generate API specs from requirements and stories using a structured, reusable skills-based approach focused o",
-    "id": "unperturbed-longislandsound997/skills",
-    "language": "\u2014",
-    "name": "unperturbed-longislandsound997/skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:42:01Z",
-    "url": "https://github.com/unperturbed-longislandsound997/skills"
-  },
-  {
-    "description": "Provide a collection of OpenClaw skills for advanced data analysis and research methods to enhance multi-dimensional pro",
-    "id": "barlasa7657/claw-skills",
-    "language": "\u2014",
-    "name": "barlasa7657/claw-skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:41:49Z",
-    "url": "https://github.com/barlasa7657/claw-skills"
+    "updated_at": "2026-07-27T10:59:58Z",
+    "url": "https://github.com/frehnejc/skills-getting-started-with-github-copilot"
   },
   {
     "description": "",
-    "id": "Gentleelephant/kse-test-skills",
-    "language": "Python",
-    "name": "Gentleelephant/kse-test-skills",
+    "id": "Incanus3/skillsets",
+    "language": "JavaScript",
+    "name": "Incanus3/skillsets",
     "stars": 0,
-    "updated_at": "2026-07-27T10:41:46Z",
-    "url": "https://github.com/Gentleelephant/kse-test-skills"
+    "updated_at": "2026-07-27T10:59:58Z",
+    "url": "https://github.com/Incanus3/skillsets"
   },
   {
-    "description": "Streamline software delivery by applying reusable skills to move features from requirements to tested implementation con",
-    "id": "marcellotibial471/development-skills",
+    "description": "Turn any AI coding assistant into a quant researcher for factor discovery, alpha testing, decay tracking, and backtests ",
+    "id": "Greenrestlessness223/alpha-skills",
     "language": "\u2014",
-    "name": "marcellotibial471/development-skills",
+    "name": "Greenrestlessness223/alpha-skills",
     "stars": 2,
-    "updated_at": "2026-07-27T10:41:46Z",
-    "url": "https://github.com/marcellotibial471/development-skills"
+    "updated_at": "2026-07-27T10:59:40Z",
+    "url": "https://github.com/Greenrestlessness223/alpha-skills"
   },
   {
-    "description": "Convert HackerOne bug reports into anonymized AI-generated skill files for streamlined vulnerability analysis and learni",
-    "id": "strict-oldenburg913/bugSkills",
+    "description": "Exercise: Secure your Repository Supply Chain",
+    "id": "bencauldwell1/skills-secure-repository-supply-chain",
+    "language": "C#",
+    "name": "bencauldwell1/skills-secure-repository-supply-chain",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:59:38Z",
+    "url": "https://github.com/bencauldwell1/skills-secure-repository-supply-chain"
+  },
+  {
+    "description": "",
+    "id": "openubmc/skills-marketplace",
     "language": "Python",
-    "name": "strict-oldenburg913/bugSkills",
-    "stars": 3,
-    "updated_at": "2026-07-27T10:41:43Z",
-    "url": "https://github.com/strict-oldenburg913/bugSkills"
-  },
-  {
-    "description": "Provide reusable AI skills to review products, enforce product rules, and improve consistency in coding assistant workfl",
-    "id": "amosshadowy76/ai-product-skills",
-    "language": "Shell",
-    "name": "amosshadowy76/ai-product-skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:41:42Z",
-    "url": "https://github.com/amosshadowy76/ai-product-skills"
-  },
-  {
-    "description": "Provide OpenClaw skills to streamline trade show selection, pre-show planning, on-site execution, and post-show follow-u",
-    "id": "rubyt5673/trade-show-skills",
-    "language": "\u2014",
-    "name": "rubyt5673/trade-show-skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:41:40Z",
-    "url": "https://github.com/rubyt5673/trade-show-skills"
-  },
-  {
-    "description": "@lelouvincx customs agent skills",
-    "id": "lelouvincx/agent-skills",
-    "language": "TypeScript",
-    "name": "lelouvincx/agent-skills",
+    "name": "openubmc/skills-marketplace",
     "stars": 0,
-    "updated_at": "2026-07-27T10:41:38Z",
-    "url": "https://github.com/lelouvincx/agent-skills"
+    "updated_at": "2026-07-27T10:59:27Z",
+    "url": "https://github.com/openubmc/skills-marketplace"
   },
   {
-    "description": "ASO & app-market research skills for AI agents \u2014 Claude Code, Cursor, and any MCP client. Install: npx skills add getapp",
-    "id": "getappniche/aso-skills",
-    "language": "Shell",
-    "name": "getappniche/aso-skills",
+    "description": "Generate AI-powered presentation slides from topics, titles, or articles with Cappt API integration",
+    "id": "rashidi3098/skills",
+    "language": "Go",
+    "name": "rashidi3098/skills",
     "stars": 0,
-    "updated_at": "2026-07-27T10:41:35Z",
-    "url": "https://github.com/getappniche/aso-skills"
+    "updated_at": "2026-07-27T10:59:24Z",
+    "url": "https://github.com/rashidi3098/skills"
   },
   {
-    "description": "Analyze Sui Move smart contracts with a parallelized tool that checks 143 attack vectors and applies DeFi security best ",
-    "id": "mateoandries27-lang/move-auditor-skills",
+    "description": "my llm skills",
+    "id": "gohyuhan/llm-skills",
     "language": "\u2014",
-    "name": "mateoandries27-lang/move-auditor-skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:41:29Z",
-    "url": "https://github.com/mateoandries27-lang/move-auditor-skills"
-  },
-  {
-    "description": "Build and deploy agentic finance applications on the Alva platform. Access 250+ financial data sources, run cloud-side a",
-    "id": "alva-ai/skills",
-    "language": "CSS",
-    "name": "alva-ai/skills",
-    "stars": 34,
-    "updated_at": "2026-07-27T10:41:27Z",
-    "url": "https://github.com/alva-ai/skills"
-  },
-  {
-    "description": "Qwayk safe skills for live API work with AI agents",
-    "id": "Qwayk/safe-agent-skills",
-    "language": "Python",
-    "name": "Qwayk/safe-agent-skills",
+    "name": "gohyuhan/llm-skills",
     "stars": 0,
-    "updated_at": "2026-07-27T10:41:24Z",
-    "url": "https://github.com/Qwayk/safe-agent-skills"
+    "updated_at": "2026-07-27T10:59:18Z",
+    "url": "https://github.com/gohyuhan/llm-skills"
   },
   {
-    "description": "Agent skill R2G. Initial version for leveraging OpenRoad.",
-    "id": "ShenShan123/r2g-skills",
-    "language": "Python",
-    "name": "ShenShan123/r2g-skills",
-    "stars": 41,
-    "updated_at": "2026-07-27T10:41:21Z",
-    "url": "https://github.com/ShenShan123/r2g-skills"
-  },
-  {
-    "description": "Provide a comprehensive set of production-ready OpenClaw skills covering 100+ use cases with simple installation and zer",
-    "id": "Marcel98717/openclaw-power-skills",
+    "description": "Open-source Agent Skills for SEO, Content, and GEO (Generative Engine Optimization) \u2014 100 markdown skill files across 9 ",
+    "id": "dahiyaakshay/marketing-skills",
     "language": "\u2014",
-    "name": "Marcel98717/openclaw-power-skills",
+    "name": "dahiyaakshay/marketing-skills",
     "stars": 0,
-    "updated_at": "2026-07-27T10:41:06Z",
-    "url": "https://github.com/Marcel98717/openclaw-power-skills"
-  },
-  {
-    "description": "Agent Skills for rook-built tools. Install with: npx skills add rook-builds/skills",
-    "id": "rook-builds/skills",
-    "language": "\u2014",
-    "name": "rook-builds/skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:41:06Z",
-    "url": "https://github.com/rook-builds/skills"
-  },
-  {
-    "description": "Manage DNS records and automate VPS operations with tools supporting multiple cloud providers and streamlined server mai",
-    "id": "ammar2211332-jpg/my-claude-skills",
-    "language": "\u2014",
-    "name": "ammar2211332-jpg/my-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:41:05Z",
-    "url": "https://github.com/ammar2211332-jpg/my-claude-skills"
-  },
-  {
-    "description": "A full-stack e-learning and certification platform built with Next.js, Django, and PostgreSQL.",
-    "id": "nalainmuhammad/oasis-skills-portal",
-    "language": "TypeScript",
-    "name": "nalainmuhammad/oasis-skills-portal",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:40:57Z",
-    "url": "https://github.com/nalainmuhammad/oasis-skills-portal"
-  },
-  {
-    "description": "Enhance LLM agents with practical skills for neurodivergent support, focus, and communication to improve AI coding assis",
-    "id": "Blaynelargish66/knx-skills",
-    "language": "\u2014",
-    "name": "Blaynelargish66/knx-skills",
-    "stars": 3,
-    "updated_at": "2026-07-27T10:40:57Z",
-    "url": "https://github.com/Blaynelargish66/knx-skills"
-  },
-  {
-    "description": "Provide structured markdown guides to teach AI assistants how to complete complex React Native engineering tasks efficie",
-    "id": "Marshanda14816/agent-skills",
-    "language": "\u2014",
-    "name": "Marshanda14816/agent-skills",
-    "stars": 2,
-    "updated_at": "2026-07-27T10:40:33Z",
-    "url": "https://github.com/Marshanda14816/agent-skills"
+    "updated_at": "2026-07-27T11:00:18Z",
+    "url": "https://github.com/dahiyaakshay/marketing-skills"
   },
   {
     "description": "",
@@ -500,206 +140,8 @@
     "language": "Python",
     "name": "katalyst-education/agents-skills",
     "stars": 0,
-    "updated_at": "2026-07-27T10:40:32Z",
+    "updated_at": "2026-07-27T10:59:11Z",
     "url": "https://github.com/katalyst-education/agents-skills"
-  },
-  {
-    "description": "Claude Code skills for the pico-framework ecosystem",
-    "id": "dperezcabrera/pico-skills",
-    "language": "Shell",
-    "name": "dperezcabrera/pico-skills",
-    "stars": 3,
-    "updated_at": "2026-07-27T10:40:25Z",
-    "url": "https://github.com/dperezcabrera/pico-skills"
-  },
-  {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "gawalivrushali11/skills-getting-started-with-github-copilot",
-    "language": "JavaScript",
-    "name": "gawalivrushali11/skills-getting-started-with-github-copilot",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:39:58Z",
-    "url": "https://github.com/gawalivrushali11/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "ai3os/skills-getting-started-with-github-copilot",
-    "language": "JavaScript",
-    "name": "ai3os/skills-getting-started-with-github-copilot",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:39:53Z",
-    "url": "https://github.com/ai3os/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "Enable AI agents to control Windows tasks using PowerShell skills for Outlook, Edge, desktop automation, and structured ",
-    "id": "felipemsilva/PowerSkills",
-    "language": "PowerShell",
-    "name": "felipemsilva/PowerSkills",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:39:50Z",
-    "url": "https://github.com/felipemsilva/PowerSkills"
-  },
-  {
-    "description": "t2000's open source skills for Agentic finance development.",
-    "id": "mission69b/t2000-skills",
-    "language": "TypeScript",
-    "name": "mission69b/t2000-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:39:48Z",
-    "url": "https://github.com/mission69b/t2000-skills"
-  },
-  {
-    "description": "Exercise: Code with Codespaces",
-    "id": "minhpham6/skills-code-with-codespaces",
-    "language": "Shell",
-    "name": "minhpham6/skills-code-with-codespaces",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:39:39Z",
-    "url": "https://github.com/minhpham6/skills-code-with-codespaces"
-  },
-  {
-    "description": "agent Skills \u5907\u4efd\u4ed3\u5e93",
-    "id": "L-yifan/skills",
-    "language": "JavaScript",
-    "name": "L-yifan/skills",
-    "stars": 4,
-    "updated_at": "2026-07-27T10:39:35Z",
-    "url": "https://github.com/L-yifan/skills"
-  },
-  {
-    "description": "",
-    "id": "lakiedward/team-tracker-skills",
-    "language": "JavaScript",
-    "name": "lakiedward/team-tracker-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:39:32Z",
-    "url": "https://github.com/lakiedward/team-tracker-skills"
-  },
-  {
-    "description": "Convert website capabilities into reusable, API-first AI skills with automated authentication and seamless integration f",
-    "id": "biblosaggins/voriya-skills",
-    "language": "Python",
-    "name": "biblosaggins/voriya-skills",
-    "stars": 2,
-    "updated_at": "2026-07-27T10:39:23Z",
-    "url": "https://github.com/biblosaggins/voriya-skills"
-  },
-  {
-    "description": "Exercise: Create and run a GitHub Actions Workflow",
-    "id": "devqblock/skills-hello-github-actions",
-    "language": "\u2014",
-    "name": "devqblock/skills-hello-github-actions",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:43:34Z",
-    "url": "https://github.com/devqblock/skills-hello-github-actions"
-  },
-  {
-    "description": "AI agent skills for documentation analysis \u2014 works with Claude Code, Cursor, Codex, and Copilot",
-    "id": "Docsbook-io/docs-skills",
-    "language": "JavaScript",
-    "name": "Docsbook-io/docs-skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:39:18Z",
-    "url": "https://github.com/Docsbook-io/docs-skills"
-  },
-  {
-    "description": "",
-    "id": "a-v-ershov/dev-skills",
-    "language": "Shell",
-    "name": "a-v-ershov/dev-skills",
-    "stars": 3,
-    "updated_at": "2026-07-27T10:39:17Z",
-    "url": "https://github.com/a-v-ershov/dev-skills"
-  },
-  {
-    "description": "Develop a framework that simplifies building interactive web interfaces using reusable components and modular design pri",
-    "id": "SURFLIN2030/swing-skills",
-    "language": "\u2014",
-    "name": "SURFLIN2030/swing-skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:39:07Z",
-    "url": "https://github.com/SURFLIN2030/swing-skills"
-  },
-  {
-    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. ",
-    "id": "K-Dense-AI/scientific-agent-skills",
-    "language": "Python",
-    "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 31885,
-    "updated_at": "2026-07-27T10:39:04Z",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
-  },
-  {
-    "description": "",
-    "id": "dnesdan/Skills",
-    "language": "Python",
-    "name": "dnesdan/Skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:39:02Z",
-    "url": "https://github.com/dnesdan/Skills"
-  },
-  {
-    "description": "\u4e2a\u4eba Agent Skills \u4ed3\u5e93\uff08npx skills add dhslegen/skills\uff09",
-    "id": "dhslegen/skills",
-    "language": "Shell",
-    "name": "dhslegen/skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:38:42Z",
-    "url": "https://github.com/dhslegen/skills"
-  },
-  {
-    "description": "Provide high-quality, ready-to-use skills for AI agents that trigger automatically based on context without manual input",
-    "id": "Kartikpanel2008/best-skills",
-    "language": "Python",
-    "name": "Kartikpanel2008/best-skills",
-    "stars": 2,
-    "updated_at": "2026-07-27T10:38:41Z",
-    "url": "https://github.com/Kartikpanel2008/best-skills"
-  },
-  {
-    "description": "Provide AI agents with tools to interact with Luffa's platform, enabling automated workflows for service, management, an",
-    "id": "ahmed5bdelaal/luffa-agent-skills",
-    "language": "PHP",
-    "name": "ahmed5bdelaal/luffa-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:38:22Z",
-    "url": "https://github.com/ahmed5bdelaal/luffa-agent-skills"
-  },
-  {
-    "description": "Provide and manage open-source AI agent skills for automatic task recognition and execution via a structured repository.",
-    "id": "Ezmeyer/Skills4U",
-    "language": "HTML",
-    "name": "Ezmeyer/Skills4U",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:38:10Z",
-    "url": "https://github.com/Ezmeyer/Skills4U"
-  },
-  {
-    "description": "Exercise: Review pull requests",
-    "id": "Tnamaid/skills-review-pull-requests",
-    "language": "HTML",
-    "name": "Tnamaid/skills-review-pull-requests",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:38:08Z",
-    "url": "https://github.com/Tnamaid/skills-review-pull-requests"
-  },
-  {
-    "description": "Provide structured, AI-native code review rules and examples to improve code quality and support both human and automate",
-    "id": "Khwaja-Khunshan/beforemerge-skills",
-    "language": "JavaScript",
-    "name": "Khwaja-Khunshan/beforemerge-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:38:04Z",
-    "url": "https://github.com/Khwaja-Khunshan/beforemerge-skills"
-  },
-  {
-    "description": "400+ free AI skills and 9 agents for media professionals \u2014 journalists, producers, podcasters, YouTubers. Quality-tested",
-    "id": "ur-grue/autopunk-media-skills",
-    "language": "Python",
-    "name": "ur-grue/autopunk-media-skills",
-    "stars": 16,
-    "updated_at": "2026-07-27T10:38:03Z",
-    "url": "https://github.com/ur-grue/autopunk-media-skills"
   },
   {
     "description": "SOIA \u6280\u80fd\u751f\u6001\u95e8\u6237\uff1a\u89c4\u8303\u771f\u6e90\u3001\u6280\u80fd\u76ee\u5f55\u4e0e\u8de8\u4ed3\u8def\u7531\u6e05\u5355",
@@ -707,196 +149,754 @@
     "language": "Python",
     "name": "soia-team/soia-open-skills",
     "stars": 1,
-    "updated_at": "2026-07-27T10:38:01Z",
+    "updated_at": "2026-07-27T10:59:09Z",
     "url": "https://github.com/soia-team/soia-open-skills"
   },
   {
-    "description": "My own skill",
-    "id": "zorowk/skills",
-    "language": "Emacs Lisp",
-    "name": "zorowk/skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:37:55Z",
-    "url": "https://github.com/zorowk/skills"
-  },
-  {
-    "description": "",
-    "id": "tedd0120/llm_skills",
+    "description": "Exercise: Introduction to CodeQL",
+    "id": "anandkalburgi/skills-introduction-to-codeql",
     "language": "Python",
-    "name": "tedd0120/llm_skills",
+    "name": "anandkalburgi/skills-introduction-to-codeql",
     "stars": 0,
-    "updated_at": "2026-07-27T10:37:47Z",
-    "url": "https://github.com/tedd0120/llm_skills"
+    "updated_at": "2026-07-27T10:59:08Z",
+    "url": "https://github.com/anandkalburgi/skills-introduction-to-codeql"
   },
   {
-    "description": "My clone repository",
-    "id": "akosarev/skills-hello-github-actions",
-    "language": "\u2014",
-    "name": "akosarev/skills-hello-github-actions",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:37:36Z",
-    "url": "https://github.com/akosarev/skills-hello-github-actions"
-  },
-  {
-    "description": "Provide reusable workflows for Unreal Engine 5.6/5.7 to simplify Blueprint, C++, UI, PCG, replication, debugging, and pe",
-    "id": "teixasalone/UnrealEngine5-Skills",
+    "description": "Evidence-first Codex skills for auditing, shrinking, and optimizing Z80 and ZX Spectrum projects.",
+    "id": "IgnacioMonge/z80-skills",
     "language": "Python",
-    "name": "teixasalone/UnrealEngine5-Skills",
-    "stars": 16,
-    "updated_at": "2026-07-27T10:37:26Z",
-    "url": "https://github.com/teixasalone/UnrealEngine5-Skills"
-  },
-  {
-    "description": "\u73af\u5883\u6280\u80fd\uff1aAI CLI \u4e0e\u8fd0\u884c\u65f6\u5b89\u88c5\u3001\u7f51\u7edc\u8bca\u65ad\u3001\u7cfb\u7edf\u7ef4\u62a4",
-    "id": "soia-team/soia-open-env-skills",
-    "language": "Python",
-    "name": "soia-team/soia-open-env-skills",
+    "name": "IgnacioMonge/z80-skills",
     "stars": 0,
-    "updated_at": "2026-07-27T10:37:16Z",
-    "url": "https://github.com/soia-team/soia-open-env-skills"
+    "updated_at": "2026-07-27T10:59:07Z",
+    "url": "https://github.com/IgnacioMonge/z80-skills"
   },
   {
-    "description": "Provide AI agent skills for the Symfony UX frontend stack using the Agent Skills open standard for seamless integration ",
-    "id": "BKR-57/symfony-ux-skills",
-    "language": "\u2014",
-    "name": "BKR-57/symfony-ux-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:37:12Z",
-    "url": "https://github.com/BKR-57/symfony-ux-skills"
-  },
-  {
-    "description": "AI agent skills for Israeli tax, invoicing, VAT, and financial systems",
-    "id": "skills-il/tax-and-finance",
-    "language": "Python",
-    "name": "skills-il/tax-and-finance",
-    "stars": 27,
-    "updated_at": "2026-07-27T10:37:09Z",
-    "url": "https://github.com/skills-il/tax-and-finance"
-  },
-  {
-    "description": "",
-    "id": "Buxiulei/nbdpsy-skills",
-    "language": "Python",
-    "name": "Buxiulei/nbdpsy-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:37:04Z",
-    "url": "https://github.com/Buxiulei/nbdpsy-skills"
-  },
-  {
-    "description": "Provide 43 AI agent skills to automate Japanese business tasks across e-commerce, finance, marketing, and operations wit",
-    "id": "traygerbig/clawhub-skills",
+    "description": "SkillScan AI is an AI-powered full-stack interview preparation platform that analyses resumes, generates personalised te",
+    "id": "krimitchaudhary1718/SkillScan-Ai",
     "language": "JavaScript",
-    "name": "traygerbig/clawhub-skills",
+    "name": "krimitchaudhary1718/SkillScan-Ai",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:59:06Z",
+    "url": "https://github.com/krimitchaudhary1718/SkillScan-Ai"
+  },
+  {
+    "description": "Boost Claude Code with 20 power-user skills for session management, multi-agent work, testing, and better estimates",
+    "id": "rabiinfrangible920/claude-power-skills",
+    "language": "\u2014",
+    "name": "rabiinfrangible920/claude-power-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:58:59Z",
+    "url": "https://github.com/rabiinfrangible920/claude-power-skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "Pratheek-Poojary23/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "Pratheek-Poojary23/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:58:44Z",
+    "url": "https://github.com/Pratheek-Poojary23/skills-introduction-to-git"
+  },
+  {
+    "description": "KServe Skills",
+    "id": "KServe-FMS/skills",
+    "language": "Python",
+    "name": "KServe-FMS/skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:58:23Z",
+    "url": "https://github.com/KServe-FMS/skills"
+  },
+  {
+    "description": "",
+    "id": "itzevanse-stack/SkillsLibry",
+    "language": "HTML",
+    "name": "itzevanse-stack/SkillsLibry",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:58:19Z",
+    "url": "https://github.com/itzevanse-stack/SkillsLibry"
+  },
+  {
+    "description": "Package portable CC coding-agent skills for Claude Code, Codex, and OpenClaw with reusable prompts, helper scripts, and ",
+    "id": "kentunderage549/cc-harness-skills",
+    "language": "Python",
+    "name": "kentunderage549/cc-harness-skills",
     "stars": 1,
-    "updated_at": "2026-07-27T10:36:55Z",
-    "url": "https://github.com/traygerbig/clawhub-skills"
+    "updated_at": "2026-07-27T10:58:14Z",
+    "url": "https://github.com/kentunderage549/cc-harness-skills"
   },
   {
-    "description": "The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skill",
-    "id": "lgcorzo/antigravity-awesome-skills",
-    "language": "Python",
-    "name": "lgcorzo/antigravity-awesome-skills",
-    "stars": 2,
-    "updated_at": "2026-07-27T10:36:50Z",
-    "url": "https://github.com/lgcorzo/antigravity-awesome-skills"
-  },
-  {
-    "description": "Sales Skills for Claude Code: Score Leads \u2014 Gather the data needed to tier leads or cold contacts (mixed prospect IDs, e",
-    "id": "haroExplorium/sales-skills-for-claude-code-score-leads",
+    "description": "Build federal acquisition deliverables with Claude Skills for SOWs, PWSs, IGCEs, OT project descriptions, and cost analy",
+    "id": "Aballa6975/federal-contracting-skills",
     "language": "\u2014",
-    "name": "haroExplorium/sales-skills-for-claude-code-score-leads",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:36:49Z",
-    "url": "https://github.com/haroExplorium/sales-skills-for-claude-code-score-leads"
-  },
-  {
-    "description": "Discover and integrate a curated, weekly-updated set of 339+ advanced AI skills to enhance OpenClaw-powered personal ass",
-    "id": "Pr-E/openclaw-master-skills",
-    "language": "Python",
-    "name": "Pr-E/openclaw-master-skills",
+    "name": "Aballa6975/federal-contracting-skills",
     "stars": 2,
-    "updated_at": "2026-07-27T10:36:49Z",
-    "url": "https://github.com/Pr-E/openclaw-master-skills"
+    "updated_at": "2026-07-27T10:58:14Z",
+    "url": "https://github.com/Aballa6975/federal-contracting-skills"
   },
   {
-    "description": "Pack de skills pour la formation d'agents IA (plugin marketplace Claude Code)",
-    "id": "Sofiane5900/skills-formation-agents",
-    "language": "\u2014",
-    "name": "Sofiane5900/skills-formation-agents",
+    "description": "",
+    "id": "LiGoldragon/skills",
+    "language": "Rust",
+    "name": "LiGoldragon/skills",
     "stars": 0,
-    "updated_at": "2026-07-27T10:36:45Z",
-    "url": "https://github.com/Sofiane5900/skills-formation-agents"
+    "updated_at": "2026-07-27T10:58:08Z",
+    "url": "https://github.com/LiGoldragon/skills"
+  },
+  {
+    "description": "Exercise: Secure your Repository Supply Chain",
+    "id": "miabhi524-bit/skills-secure-repository-supply-chain",
+    "language": "C#",
+    "name": "miabhi524-bit/skills-secure-repository-supply-chain",
+    "stars": 0,
+    "updated_at": "2026-07-27T11:00:12Z",
+    "url": "https://github.com/miabhi524-bit/skills-secure-repository-supply-chain"
+  },
+  {
+    "description": "",
+    "id": "mgajewskik/skills",
+    "language": "Python",
+    "name": "mgajewskik/skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:57:50Z",
+    "url": "https://github.com/mgajewskik/skills"
+  },
+  {
+    "description": "",
+    "id": "cokkyturnip/pi-agent-skills",
+    "language": "Python",
+    "name": "cokkyturnip/pi-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:57:29Z",
+    "url": "https://github.com/cokkyturnip/pi-agent-skills"
+  },
+  {
+    "description": "Improve AI agents with reusable skills for structured workflows, better problem solving, and more consistent results",
+    "id": "Emagi6395/skills",
+    "language": "\u2014",
+    "name": "Emagi6395/skills",
+    "stars": 1,
+    "updated_at": "2026-07-27T10:57:22Z",
+    "url": "https://github.com/Emagi6395/skills"
+  },
+  {
+    "description": "Automate CRE analysis with AI skills for multifamily, industrial, and brokerage acquisitions, underwriting, due diligenc",
+    "id": "XAKLESK/cre-agent-skills",
+    "language": "\u2014",
+    "name": "XAKLESK/cre-agent-skills",
+    "stars": 3,
+    "updated_at": "2026-07-27T10:57:17Z",
+    "url": "https://github.com/XAKLESK/cre-agent-skills"
+  },
+  {
+    "description": "Tested markdown rules, constraints, and guidelines for steering AI coding agents (Claude Code, Codex)",
+    "id": "MasihMoafi/skills",
+    "language": "\u2014",
+    "name": "MasihMoafi/skills",
+    "stars": 3,
+    "updated_at": "2026-07-27T10:57:16Z",
+    "url": "https://github.com/MasihMoafi/skills"
+  },
+  {
+    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
+    "id": "reasonless-throne486/sast-skills",
+    "language": "\u2014",
+    "name": "reasonless-throne486/sast-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:57:07Z",
+    "url": "https://github.com/reasonless-throne486/sast-skills"
+  },
+  {
+    "description": "Organize AI agent skills, scripts, and references in scalable folders for fast reuse across engineering, research, writi",
+    "id": "marysatasselshaped667/skills-collection-1",
+    "language": "Python",
+    "name": "marysatasselshaped667/skills-collection-1",
+    "stars": 1,
+    "updated_at": "2026-07-27T10:56:59Z",
+    "url": "https://github.com/marysatasselshaped667/skills-collection-1"
+  },
+  {
+    "description": "Domain-neutral AI thinking skills with intent routing, Dolores review, evals, benchmarks, and self-evolution loops.",
+    "id": "huajiexiewenfeng/thinking-skills",
+    "language": "JavaScript",
+    "name": "huajiexiewenfeng/thinking-skills",
+    "stars": 2,
+    "updated_at": "2026-07-27T10:56:56Z",
+    "url": "https://github.com/huajiexiewenfeng/thinking-skills"
+  },
+  {
+    "description": "The OKF toolkit for Claude Code \u2014 author, maintain, validate & visualize Open Knowledge Format bundles. Claude Code plug",
+    "id": "scaccogatto/okf-skills",
+    "language": "Python",
+    "name": "scaccogatto/okf-skills",
+    "stars": 93,
+    "updated_at": "2026-07-27T10:56:55Z",
+    "url": "https://github.com/scaccogatto/okf-skills"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-07-27T10:56:55Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Organize 658 AI agent skills with instructions, scripts, references, and assets in a scalable folder structure",
+    "id": "Enfranchised-headlock480/skills-collection-2",
+    "language": "\u2014",
+    "name": "Enfranchised-headlock480/skills-collection-2",
+    "stars": 1,
+    "updated_at": "2026-07-27T10:56:53Z",
+    "url": "https://github.com/Enfranchised-headlock480/skills-collection-2"
+  },
+  {
+    "description": "Antigravity expert skill for product development.",
+    "id": "alperencinar/antigravity-expert-skills",
+    "language": "Python",
+    "name": "alperencinar/antigravity-expert-skills",
+    "stars": 1,
+    "updated_at": "2026-07-27T10:56:52Z",
+    "url": "https://github.com/alperencinar/antigravity-expert-skills"
+  },
+  {
+    "description": "Organize AI agent skills and sync them by project to the right CLI with zero-copy symlinks.",
+    "id": "Blairastragalar633/SkillStar",
+    "language": "\u2014",
+    "name": "Blairastragalar633/SkillStar",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:56:48Z",
+    "url": "https://github.com/Blairastragalar633/SkillStar"
+  },
+  {
+    "description": "Analyze code with AppSec skills for SAST, threat modeling, PR review, and serialization audits using evidence-first secu",
+    "id": "Bettinamindless552/appsec-skills",
+    "language": "JavaScript",
+    "name": "Bettinamindless552/appsec-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:56:27Z",
+    "url": "https://github.com/Bettinamindless552/appsec-skills"
+  },
+  {
+    "description": "Exercise: Create and run a GitHub Actions Workflow",
+    "id": "143csraj/skills-hello-github-actions",
+    "language": "\u2014",
+    "name": "143csraj/skills-hello-github-actions",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:56:22Z",
+    "url": "https://github.com/143csraj/skills-hello-github-actions"
   },
   {
     "description": "Exercise: Introduction to GitHub",
-    "id": "Wong-cyber28/skills-introduction-to-github",
+    "id": "sangrob/skills-introduction-to-github",
     "language": "\u2014",
-    "name": "Wong-cyber28/skills-introduction-to-github",
+    "name": "sangrob/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-07-27T10:42:49Z",
-    "url": "https://github.com/Wong-cyber28/skills-introduction-to-github"
+    "updated_at": "2026-07-27T10:56:21Z",
+    "url": "https://github.com/sangrob/skills-introduction-to-github"
   },
   {
-    "description": "Sales Skills for Claude Code: Personalize Email \u2014 Assemble a personalization signal pack for one prospect so a downstrea",
-    "id": "haroExplorium/sales-skills-for-claude-code-personalize-email",
+    "description": "Build Claude skills for B2B demand gen, RevOps, and marketing leaders to improve HubSpot, ABM, pipeline, and sales align",
+    "id": "modest-curator478/claude-skills",
     "language": "\u2014",
-    "name": "haroExplorium/sales-skills-for-claude-code-personalize-email",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:36:42Z",
-    "url": "https://github.com/haroExplorium/sales-skills-for-claude-code-personalize-email"
+    "name": "modest-curator478/claude-skills",
+    "stars": 2,
+    "updated_at": "2026-07-27T10:56:18Z",
+    "url": "https://github.com/modest-curator478/claude-skills"
   },
   {
-    "description": "Sales Skills for Claude Code: Meeting Prep \u2014 Prepare for an upcoming sales meeting with a target account. Identify the c",
-    "id": "haroExplorium/sales-skills-for-claude-code-meeting-prep",
+    "description": "",
+    "id": "axiom-studio/skills",
+    "language": "Go",
+    "name": "axiom-studio/skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:56:07Z",
+    "url": "https://github.com/axiom-studio/skills"
+  },
+  {
+    "description": "",
+    "id": "keima/agent-skills",
     "language": "\u2014",
-    "name": "haroExplorium/sales-skills-for-claude-code-meeting-prep",
+    "name": "keima/agent-skills",
     "stars": 0,
-    "updated_at": "2026-07-27T10:36:35Z",
-    "url": "https://github.com/haroExplorium/sales-skills-for-claude-code-meeting-prep"
+    "updated_at": "2026-07-27T10:56:03Z",
+    "url": "https://github.com/keima/agent-skills"
   },
   {
-    "description": "Codex and AiCoding skills, plugin packaging, and Git governance workflows for agent-native embedded development.",
-    "id": "JiaxI2/Codex-Skills",
-    "language": "Python",
-    "name": "JiaxI2/Codex-Skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:36:35Z",
-    "url": "https://github.com/JiaxI2/Codex-Skills"
-  },
-  {
-    "description": "Sales Skills for Claude Code: Market Sizing \u2014 Size the total addressable market (TAM) for an Ideal Customer Profile (ICP",
-    "id": "haroExplorium/sales-skills-for-claude-code-market-sizing",
+    "description": "AI agent steering skills",
+    "id": "typebricks/skills",
     "language": "\u2014",
-    "name": "haroExplorium/sales-skills-for-claude-code-market-sizing",
+    "name": "typebricks/skills",
     "stars": 0,
-    "updated_at": "2026-07-27T10:36:27Z",
-    "url": "https://github.com/haroExplorium/sales-skills-for-claude-code-market-sizing"
+    "updated_at": "2026-07-27T10:55:53Z",
+    "url": "https://github.com/typebricks/skills"
   },
   {
-    "description": "Automatically discover, route, and load the best local Agent Skills for each task.",
-    "id": "hongyulyu714-prog/skill-for-skills",
+    "description": "Build Unity shader skills for mobile GPUs and WebGL with AI-ready guides for writing, reviewing, and optimizing shaders",
+    "id": "blindfold-lordstable148/unity-shader-agent-skills",
+    "language": "\u2014",
+    "name": "blindfold-lordstable148/unity-shader-agent-skills",
+    "stars": 6,
+    "updated_at": "2026-07-27T10:55:51Z",
+    "url": "https://github.com/blindfold-lordstable148/unity-shader-agent-skills"
+  },
+  {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "thekidrondagreat/skills-getting-started-with-github-copilot",
     "language": "JavaScript",
-    "name": "hongyulyu714-prog/skill-for-skills",
+    "name": "thekidrondagreat/skills-getting-started-with-github-copilot",
     "stars": 0,
-    "updated_at": "2026-07-27T10:36:27Z",
-    "url": "https://github.com/hongyulyu714-prog/skill-for-skills"
+    "updated_at": "2026-07-27T10:55:42Z",
+    "url": "https://github.com/thekidrondagreat/skills-getting-started-with-github-copilot"
   },
   {
-    "description": "Provide accurate AI-driven support for Solana development using sol-parser-sdk and sol-trade-sdk skills focused on DEX, ",
-    "id": "kaiphrox/AI-Skills",
+    "description": "Explore 72 AI-powered skills across 6 departments for AlterLab FC training, learning, and workflow support",
+    "id": "prone-dc302/AlterLab-FC-Skills",
+    "language": "JavaScript",
+    "name": "prone-dc302/AlterLab-FC-Skills",
+    "stars": 1,
+    "updated_at": "2026-07-27T10:55:16Z",
+    "url": "https://github.com/prone-dc302/AlterLab-FC-Skills"
+  },
+  {
+    "description": "Provide Go agent skills for cleaner, idiomatic code across Claude Code, Cursor, Copilot, and more with one install",
+    "id": "Gisellesleeveless396/go-agent-skills",
     "language": "Shell",
-    "name": "kaiphrox/AI-Skills",
-    "stars": 3,
-    "updated_at": "2026-07-27T10:36:26Z",
-    "url": "https://github.com/kaiphrox/AI-Skills"
+    "name": "Gisellesleeveless396/go-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-07-27T10:55:12Z",
+    "url": "https://github.com/Gisellesleeveless396/go-agent-skills"
   },
   {
-    "description": "Sales Skills for Claude Code: Lookalike Accounts \u2014 Find companies that resemble a seed account by reconstructing its fir",
-    "id": "haroExplorium/sales-skills-for-claude-code-lookalike-accounts",
-    "language": "\u2014",
-    "name": "haroExplorium/sales-skills-for-claude-code-lookalike-accounts",
+    "description": "Skills for Revenueholic's AI work",
+    "id": "Mahesh-Revenueholic/internal-skills",
+    "language": "Python",
+    "name": "Mahesh-Revenueholic/internal-skills",
     "stars": 0,
-    "updated_at": "2026-07-27T10:36:21Z",
-    "url": "https://github.com/haroExplorium/sales-skills-for-claude-code-lookalike-accounts"
+    "updated_at": "2026-07-27T10:55:09Z",
+    "url": "https://github.com/Mahesh-Revenueholic/internal-skills"
+  },
+  {
+    "description": "The official Agent Skills for ClickHouse and ClickHouse Cloud",
+    "id": "ClickHouse/agent-skills",
+    "language": "TypeScript",
+    "name": "ClickHouse/agent-skills",
+    "stars": 497,
+    "updated_at": "2026-07-27T10:55:08Z",
+    "url": "https://github.com/ClickHouse/agent-skills"
+  },
+  {
+    "description": "Organize reusable AI agent skills for Claude Code, Codex, and Cursor with focused workflows, scripts, and fast task sele",
+    "id": "biyearly-mesothelioma790/skills",
+    "language": "Python",
+    "name": "biyearly-mesothelioma790/skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:55:01Z",
+    "url": "https://github.com/biyearly-mesothelioma790/skills"
+  },
+  {
+    "description": "Streamline FPGA development with 8 Vivado/Vitis skills for HLS, RTL, synthesis, constraints, timing, and debug workflows",
+    "id": "adeleempurpled290/FPGA-Agent-skills",
+    "language": "ReScript",
+    "name": "adeleempurpled290/FPGA-Agent-skills",
+    "stars": 25,
+    "updated_at": "2026-07-27T10:54:44Z",
+    "url": "https://github.com/adeleempurpled290/FPGA-Agent-skills"
+  },
+  {
+    "description": "Browse 178+ Claude Code slash commands across 16 categories to speed up coding, testing, docs, and workflow tasks.",
+    "id": "valenciajinxed265/claude-skills-hub",
+    "language": "Python",
+    "name": "valenciajinxed265/claude-skills-hub",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:54:42Z",
+    "url": "https://github.com/valenciajinxed265/claude-skills-hub"
+  },
+  {
+    "description": "Build AI agent skills for paid media, direct-response copy, funnel design, and ad testing that improve conversion and sc",
+    "id": "Noninflammatory-tunny848/advertising-skills",
+    "language": "\u2014",
+    "name": "Noninflammatory-tunny848/advertising-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:54:36Z",
+    "url": "https://github.com/Noninflammatory-tunny848/advertising-skills"
+  },
+  {
+    "description": "\u5f00\u6e90\u4e86Codex Skills\u7b49\u96c6\u5408\uff0c\u5927\u90e8\u5206\u662f\u81ea\u5df1\u5b9e\u9645\u9700\u8981\u641e\u5f97\uff0c\u9700\u8981\u7684\u81ea\u53d6\u3002\u6b22\u8fcestar",
+    "id": "wlzh/skills",
+    "language": "Python",
+    "name": "wlzh/skills",
+    "stars": 594,
+    "updated_at": "2026-07-27T10:54:32Z",
+    "url": "https://github.com/wlzh/skills"
+  },
+  {
+    "description": "Build and deploy your AI Studio app locally with Node.js, Gemini API, and a simple setup workflow",
+    "id": "Lexicostatistic-scenarist364/skills",
+    "language": "TypeScript",
+    "name": "Lexicostatistic-scenarist364/skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:54:23Z",
+    "url": "https://github.com/Lexicostatistic-scenarist364/skills"
+  },
+  {
+    "description": "Exercise: Create and run a GitHub Actions Workflow",
+    "id": "devqblock/skills-hello-github-actions",
+    "language": "\u2014",
+    "name": "devqblock/skills-hello-github-actions",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:54:17Z",
+    "url": "https://github.com/devqblock/skills-hello-github-actions"
+  },
+  {
+    "description": "Install 154+ Claude Code skills for SEO, code review, marketing, and AI agent tasks with one command",
+    "id": "eastindian-wallpepper214/claude-skills",
+    "language": "\u2014",
+    "name": "eastindian-wallpepper214/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-07-27T10:54:14Z",
+    "url": "https://github.com/eastindian-wallpepper214/claude-skills"
+  },
+  {
+    "description": "Build Claude Code skills for computational design, parametric modeling, simulation, BIM scripting, and fabrication in AE",
+    "id": "marcinfinitesimal533/Claude-skills-for-Computational-Designers",
+    "language": "Python",
+    "name": "marcinfinitesimal533/Claude-skills-for-Computational-Designers",
+    "stars": 2,
+    "updated_at": "2026-07-27T10:54:10Z",
+    "url": "https://github.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers"
+  },
+  {
+    "description": "",
+    "id": "vedbit-tech/skills",
+    "language": "\u2014",
+    "name": "vedbit-tech/skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:54:09Z",
+    "url": "https://github.com/vedbit-tech/skills"
+  },
+  {
+    "description": "\u5c01\u88c5 MiniMax \u8bed\u97f3\u3001\u56fe\u7247\u3001\u89c6\u9891\u548c\u97f3\u4e50\u80fd\u529b\u4e3a 4 \u4e2a\u6280\u80fd\uff0c\u65b9\u4fbf\u5feb\u901f\u63a5\u5165\u751f\u6210\u4e0e\u7f16\u8f91\u5de5\u4f5c\u6d41",
+    "id": "justl9169/minimax-skills",
+    "language": "Python",
+    "name": "justl9169/minimax-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:54:03Z",
+    "url": "https://github.com/justl9169/minimax-skills"
+  },
+  {
+    "description": "Curated catalog of Agent Skills for the Inference Gateway ecosystem",
+    "id": "inference-gateway/skills",
+    "language": "JavaScript",
+    "name": "inference-gateway/skills",
+    "stars": 1,
+    "updated_at": "2026-07-27T10:54:01Z",
+    "url": "https://github.com/inference-gateway/skills"
+  },
+  {
+    "description": "Sales Skills for Codex: Score Leads \u2014 Gather the data needed to tier leads or cold contacts (mixed prospect IDs, emails,",
+    "id": "haroExplorium/sales-skills-for-codex-score-leads",
+    "language": "\u2014",
+    "name": "haroExplorium/sales-skills-for-codex-score-leads",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:54:00Z",
+    "url": "https://github.com/haroExplorium/sales-skills-for-codex-score-leads"
+  },
+  {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "JTCode-Dev/skills-getting-started-with-github-copilot",
+    "language": "Python",
+    "name": "JTCode-Dev/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-07-27T11:00:18Z",
+    "url": "https://github.com/JTCode-Dev/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "",
+    "id": "Aftershavepneumonectomy61/se7en-skills",
+    "language": "Python",
+    "name": "Aftershavepneumonectomy61/se7en-skills",
+    "stars": 1,
+    "updated_at": "2026-07-27T10:53:57Z",
+    "url": "https://github.com/Aftershavepneumonectomy61/se7en-skills"
+  },
+  {
+    "description": "Exercise: Communicate using Markdown",
+    "id": "digibdweb/skills-communicate-using-markdown",
+    "language": "\u2014",
+    "name": "digibdweb/skills-communicate-using-markdown",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:54:48Z",
+    "url": "https://github.com/digibdweb/skills-communicate-using-markdown"
+  },
+  {
+    "description": "Claude skills for MD stimulation",
+    "id": "X0bang/claude-MD-skills",
+    "language": "Python",
+    "name": "X0bang/claude-MD-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:53:54Z",
+    "url": "https://github.com/X0bang/claude-MD-skills"
+  },
+  {
+    "description": "Build AI-ready skills for Syncfusion .NET MAUI components with setup, usage, customization, and troubleshooting guides f",
+    "id": "Priceless-stump545/maui-ui-components-skills",
+    "language": "\u2014",
+    "name": "Priceless-stump545/maui-ui-components-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:53:53Z",
+    "url": "https://github.com/Priceless-stump545/maui-ui-components-skills"
+  },
+  {
+    "description": "Sales Skills for Codex: Personalize Email \u2014 Assemble a personalization signal pack for one prospect so a downstream LLM ",
+    "id": "haroExplorium/sales-skills-for-codex-personalize-email",
+    "language": "\u2014",
+    "name": "haroExplorium/sales-skills-for-codex-personalize-email",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:53:52Z",
+    "url": "https://github.com/haroExplorium/sales-skills-for-codex-personalize-email"
+  },
+  {
+    "description": "Sales Skills for Codex: Meeting Prep \u2014 Prepare for an upcoming sales meeting with a target account. Identify the company",
+    "id": "haroExplorium/sales-skills-for-codex-meeting-prep",
+    "language": "\u2014",
+    "name": "haroExplorium/sales-skills-for-codex-meeting-prep",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:53:45Z",
+    "url": "https://github.com/haroExplorium/sales-skills-for-codex-meeting-prep"
+  },
+  {
+    "description": "Define Solana program guarantees in .qedspec files and use QEDGen to validate specs and find bugs before mainnet deploym",
+    "id": "beardedwheatgrasswalkupapartment951/solana-skills",
+    "language": "\u2014",
+    "name": "beardedwheatgrasswalkupapartment951/solana-skills",
+    "stars": 1,
+    "updated_at": "2026-07-27T10:53:42Z",
+    "url": "https://github.com/beardedwheatgrasswalkupapartment951/solana-skills"
+  },
+  {
+    "description": "Exercise: Build applications with GitHub Copilot agent mode",
+    "id": "Gabriel89Accenture/skills-build-applications-w-copilot-agent-mode",
+    "language": "Shell",
+    "name": "Gabriel89Accenture/skills-build-applications-w-copilot-agent-mode",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:53:39Z",
+    "url": "https://github.com/Gabriel89Accenture/skills-build-applications-w-copilot-agent-mode"
+  },
+  {
+    "description": "Sales Skills for Codex: Market Sizing \u2014 Size the total addressable market (TAM) for an Ideal Customer Profile (ICP) agai",
+    "id": "haroExplorium/sales-skills-for-codex-market-sizing",
+    "language": "\u2014",
+    "name": "haroExplorium/sales-skills-for-codex-market-sizing",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:53:37Z",
+    "url": "https://github.com/haroExplorium/sales-skills-for-codex-market-sizing"
+  },
+  {
+    "description": "Claude Code workflow skills \u2014 GitHub issue/PR/release automation and Fable-driven planning. Install via npx or as a Clau",
+    "id": "richkuo/rk-skills",
+    "language": "JavaScript",
+    "name": "richkuo/rk-skills",
+    "stars": 41,
+    "updated_at": "2026-07-27T10:53:31Z",
+    "url": "https://github.com/richkuo/rk-skills"
+  },
+  {
+    "description": "Sales Skills for Codex: Lookalike Accounts \u2014 Find companies that resemble a seed account by reconstructing its firmograp",
+    "id": "haroExplorium/sales-skills-for-codex-lookalike-accounts",
+    "language": "\u2014",
+    "name": "haroExplorium/sales-skills-for-codex-lookalike-accounts",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:53:30Z",
+    "url": "https://github.com/haroExplorium/sales-skills-for-codex-lookalike-accounts"
+  },
+  {
+    "description": "Build a longevity skill system for OpenClaw with risk scores, reminder schedules, nutrition tracking, and weekly/monthly",
+    "id": "zenialeaky136/live-to-100-skills",
+    "language": "Python",
+    "name": "zenialeaky136/live-to-100-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:53:28Z",
+    "url": "https://github.com/zenialeaky136/live-to-100-skills"
+  },
+  {
+    "description": "Sales Skills for Codex: List Builder \u2014 Build a targeted list of prospects or businesses from a natural-language brief us",
+    "id": "haroExplorium/sales-skills-for-codex-list-builder",
+    "language": "\u2014",
+    "name": "haroExplorium/sales-skills-for-codex-list-builder",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:53:23Z",
+    "url": "https://github.com/haroExplorium/sales-skills-for-codex-list-builder"
+  },
+  {
+    "description": "",
+    "id": "ahmedssaltamimi-netizen/UI-UX-PRO-MAX-SKILLS",
+    "language": "Python",
+    "name": "ahmedssaltamimi-netizen/UI-UX-PRO-MAX-SKILLS",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:53:21Z",
+    "url": "https://github.com/ahmedssaltamimi-netizen/UI-UX-PRO-MAX-SKILLS"
+  },
+  {
+    "description": "My clone repository",
+    "id": "almost06/skills-connect-the-dots",
+    "language": "\u2014",
+    "name": "almost06/skills-connect-the-dots",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:53:24Z",
+    "url": "https://github.com/almost06/skills-connect-the-dots"
+  },
+  {
+    "description": "Sales Skills for Codex: Enrich Contact \u2014 Look up a single person's full professional profile in Explorium. Provide an em",
+    "id": "haroExplorium/sales-skills-for-codex-enrich-contact",
+    "language": "\u2014",
+    "name": "haroExplorium/sales-skills-for-codex-enrich-contact",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:53:15Z",
+    "url": "https://github.com/haroExplorium/sales-skills-for-codex-enrich-contact"
+  },
+  {
+    "description": "rooquiz-skills",
+    "id": "rooquiz/rooquiz-skills",
+    "language": "\u2014",
+    "name": "rooquiz/rooquiz-skills",
+    "stars": 2,
+    "updated_at": "2026-07-27T10:53:14Z",
+    "url": "https://github.com/rooquiz/rooquiz-skills"
+  },
+  {
+    "description": "Sales Skills for Codex: Enrich Company \u2014 Pull a single company's full profile in Explorium. Accepts a domain, company na",
+    "id": "haroExplorium/sales-skills-for-codex-enrich-company",
+    "language": "\u2014",
+    "name": "haroExplorium/sales-skills-for-codex-enrich-company",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:53:08Z",
+    "url": "https://github.com/haroExplorium/sales-skills-for-codex-enrich-company"
+  },
+  {
+    "description": "Sales Skills for Codex: Decision Makers Map \u2014 Map the decision-makers and buying committee at a target account. Identifi",
+    "id": "haroExplorium/sales-skills-for-codex-decision-makers-map",
+    "language": "\u2014",
+    "name": "haroExplorium/sales-skills-for-codex-decision-makers-map",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:53:00Z",
+    "url": "https://github.com/haroExplorium/sales-skills-for-codex-decision-makers-map"
+  },
+  {
+    "description": "Skills for AI Agents",
+    "id": "dvygolov/skills",
+    "language": "\u2014",
+    "name": "dvygolov/skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:53:00Z",
+    "url": "https://github.com/dvygolov/skills"
+  },
+  {
+    "description": "Sales Skills for Codex: Competitor Research \u2014 Build a fact-led competitive intelligence brief on one or more rival compa",
+    "id": "haroExplorium/sales-skills-for-codex-competitor-research",
+    "language": "\u2014",
+    "name": "haroExplorium/sales-skills-for-codex-competitor-research",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:52:53Z",
+    "url": "https://github.com/haroExplorium/sales-skills-for-codex-competitor-research"
+  },
+  {
+    "description": "Fluency Agents and Skills \u2014 a working Claude Code + Codex starter kit of agents and skills from the Dragonfly Thinking A",
+    "id": "dragonfly-thinking/fluency-agents-and-skills",
+    "language": "Shell",
+    "name": "dragonfly-thinking/fluency-agents-and-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:52:50Z",
+    "url": "https://github.com/dragonfly-thinking/fluency-agents-and-skills"
+  },
+  {
+    "description": "Sales Skills for Codex: Clean Data \u2014 Triage, standardize, and validate a CSV, Excel, or JSON list of companies or contac",
+    "id": "haroExplorium/sales-skills-for-codex-clean-data",
+    "language": "\u2014",
+    "name": "haroExplorium/sales-skills-for-codex-clean-data",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:52:46Z",
+    "url": "https://github.com/haroExplorium/sales-skills-for-codex-clean-data"
+  },
+  {
+    "description": "Transform classic books into AI agent skills for practical, source-based decision making",
+    "id": "Waterinsoluble-orderplatyctenea746/book2skills",
+    "language": "Python",
+    "name": "Waterinsoluble-orderplatyctenea746/book2skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:52:44Z",
+    "url": "https://github.com/Waterinsoluble-orderplatyctenea746/book2skills"
+  },
+  {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "AbhishekGHatti/skills-getting-started-with-github-copilot",
+    "language": "JavaScript",
+    "name": "AbhishekGHatti/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:52:42Z",
+    "url": "https://github.com/AbhishekGHatti/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "Sales Skills for Codex: Account Research \u2014 Produce a high-signal intelligence brief on a target company using Explorium ",
+    "id": "haroExplorium/sales-skills-for-codex-account-research",
+    "language": "\u2014",
+    "name": "haroExplorium/sales-skills-for-codex-account-research",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:52:39Z",
+    "url": "https://github.com/haroExplorium/sales-skills-for-codex-account-research"
+  },
+  {
+    "description": "Sales Skills for Codex: Account Fit Rank \u2014 Rank a list of accounts (mixed Explorium business IDs, company names, or doma",
+    "id": "haroExplorium/sales-skills-for-codex-account-fit-rank",
+    "language": "\u2014",
+    "name": "haroExplorium/sales-skills-for-codex-account-fit-rank",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:52:31Z",
+    "url": "https://github.com/haroExplorium/sales-skills-for-codex-account-fit-rank"
+  },
+  {
+    "description": "Exercise: AI SDLC Skills - Graphify Clothing Store",
+    "id": "IreneRoseJ/skills-ai-sdlc-graphify-clothing-store1",
+    "language": "HTML",
+    "name": "IreneRoseJ/skills-ai-sdlc-graphify-clothing-store1",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:52:30Z",
+    "url": "https://github.com/IreneRoseJ/skills-ai-sdlc-graphify-clothing-store1"
+  },
+  {
+    "description": "Stream Malaysian accounting workflows for Claude Code: OCR bank statements, build accrual financials, working papers, an",
+    "id": "mecheri-prog/skills",
+    "language": "Python",
+    "name": "mecheri-prog/skills",
+    "stars": 2,
+    "updated_at": "2026-07-27T10:52:30Z",
+    "url": "https://github.com/mecheri-prog/skills"
+  },
+  {
+    "description": "An academic knowledge base for Remote Work & Digital Skills. Integrating AI for productivity, digital branding, and free",
+    "id": "sarahabumandil/DSAI-4201-__-Remote-Work-Digital-Skills-",
+    "language": "\u2014",
+    "name": "sarahabumandil/DSAI-4201-__-Remote-Work-Digital-Skills-",
+    "stars": 1,
+    "updated_at": "2026-07-27T10:52:27Z",
+    "url": "https://github.com/sarahabumandil/DSAI-4201-__-Remote-Work-Digital-Skills-"
+  },
+  {
+    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
+    "id": "riddhi134/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "language": "\u2014",
+    "name": "riddhi134/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:52:26Z",
+    "url": "https://github.com/riddhi134/skills-scale-institutional-knowledge-using-copilot-spaces"
+  },
+  {
+    "description": "Sales Skills for Codex: Account Contact Shortlist \u2014 Build a ranked shortlist of contacts at a target company for prospec",
+    "id": "haroExplorium/sales-skills-for-codex-account-contact-shortlist",
+    "language": "\u2014",
+    "name": "haroExplorium/sales-skills-for-codex-account-contact-shortlist",
+    "stars": 0,
+    "updated_at": "2026-07-27T10:52:24Z",
+    "url": "https://github.com/haroExplorium/sales-skills-for-codex-account-contact-shortlist"
   }
 ]
