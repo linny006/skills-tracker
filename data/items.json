@@ -1,12 +1,57 @@
 [
   {
+    "description": "Protect your code with automated testing",
+    "id": "alidotcom2000/skills-test-with-actions",
+    "language": "\u2014",
+    "name": "alidotcom2000/skills-test-with-actions",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:15:20Z",
+    "url": "https://github.com/alidotcom2000/skills-test-with-actions"
+  },
+  {
+    "description": "Exercise: introduction to repository management",
+    "id": "djc1arke/skills-introduction-to-repository-management",
+    "language": "\u2014",
+    "name": "djc1arke/skills-introduction-to-repository-management",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:15:17Z",
+    "url": "https://github.com/djc1arke/skills-introduction-to-repository-management"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-29T19:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
     "id": "RafaPdvn/skills-scale-institutional-knowledge-using-copilot-spaces",
     "language": "\u2014",
     "name": "RafaPdvn/skills-scale-institutional-knowledge-using-copilot-spaces",
     "stars": 0,
-    "updated_at": "2026-07-29T19:14:55Z",
+    "updated_at": "2026-07-29T19:15:14Z",
     "url": "https://github.com/RafaPdvn/skills-scale-institutional-knowledge-using-copilot-spaces"
+  },
+  {
+    "description": "Design Skills Center \u2014 \u53bbAI\u5316\u7db2\u9801\u98a8\u683c\u5716\u66f8\u9928\uff1a\u5b8c\u6574 Demo \u7bc4\u4f8b\u7ad9 + AI \u53ef\u7528\u7684 SKILL \u98a8\u683c\u898f\u683c\u66f8",
+    "id": "wenxiangxiao/design-skills-center",
+    "language": "HTML",
+    "name": "wenxiangxiao/design-skills-center",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:15:12Z",
+    "url": "https://github.com/wenxiangxiao/design-skills-center"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-29T19:15:00Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
@@ -14,8 +59,17 @@
     "language": "\u2014",
     "name": "gibbonsd/skills-scale-institutional-knowledge-using-copilot-spaces",
     "stars": 0,
-    "updated_at": "2026-07-29T19:14:35Z",
+    "updated_at": "2026-07-29T19:14:57Z",
     "url": "https://github.com/gibbonsd/skills-scale-institutional-knowledge-using-copilot-spaces"
+  },
+  {
+    "description": "Agent Skills by Bas Milius, installable with npx skills. Vue 3 component anatomy, feature decomposition and Flux UI.",
+    "id": "basmilius/skills",
+    "language": "TypeScript",
+    "name": "basmilius/skills",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:14:34Z",
+    "url": "https://github.com/basmilius/skills"
   },
   {
     "description": "Skills and MCP tools for the Shingou news-sentiment API \u2014 plug Shingou into Claude or any AI agent",
@@ -50,7 +104,7 @@
     "language": "Go",
     "name": "jjfantini/humblSKILLS",
     "stars": 0,
-    "updated_at": "2026-07-29T19:14:51Z",
+    "updated_at": "2026-07-29T19:15:20Z",
     "url": "https://github.com/jjfantini/humblSKILLS"
   },
   {
@@ -284,7 +338,7 @@
     "language": "\u2014",
     "name": "Inspova/skills",
     "stars": 0,
-    "updated_at": "2026-07-29T19:14:35Z",
+    "updated_at": "2026-07-29T19:15:14Z",
     "url": "https://github.com/Inspova/skills"
   },
   {
@@ -320,7 +374,7 @@
     "language": "TypeScript",
     "name": "syvixor/skills-icons",
     "stars": 252,
-    "updated_at": "2026-07-29T19:09:15Z",
+    "updated_at": "2026-07-29T19:15:16Z",
     "url": "https://github.com/syvixor/skills-icons"
   },
   {
@@ -720,15 +774,6 @@
     "url": "https://github.com/ChronoAIProject/nyx-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-29T19:00:43Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -745,15 +790,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T19:00:28Z",
     "url": "https://github.com/noxmon/skills-introduction-to-git"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-29T19:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Externally-shippable agent skills for Kutana \u2014 connect to meetings, share local dev servers as live artifacts, etc. Plug",
@@ -862,41 +898,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T18:57:51Z",
     "url": "https://github.com/marcoalfa30/claude-skills-vibe-toolkit"
-  },
-  {
-    "description": "My clone repository",
-    "id": "varunsuresh1/skills-review-pull-requests-290726",
-    "language": "HTML",
-    "name": "varunsuresh1/skills-review-pull-requests-290726",
-    "stars": 0,
-    "updated_at": "2026-07-29T18:57:36Z",
-    "url": "https://github.com/varunsuresh1/skills-review-pull-requests-290726"
-  },
-  {
-    "description": "",
-    "id": "lucascardososilva-sudo/skills-teste-docker",
-    "language": "Python",
-    "name": "lucascardososilva-sudo/skills-teste-docker",
-    "stars": 0,
-    "updated_at": "2026-07-29T18:57:34Z",
-    "url": "https://github.com/lucascardososilva-sudo/skills-teste-docker"
-  },
-  {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "VISUALCAMPO/skills-github-pagesDC20260729",
-    "language": "\u2014",
-    "name": "VISUALCAMPO/skills-github-pagesDC20260729",
-    "stars": 0,
-    "updated_at": "2026-07-29T18:57:08Z",
-    "url": "https://github.com/VISUALCAMPO/skills-github-pagesDC20260729"
-  },
-  {
-    "description": "Portable Markdown skills for coding agents",
-    "id": "adstastic/agent-skills",
-    "language": "JavaScript",
-    "name": "adstastic/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T18:56:48Z",
-    "url": "https://github.com/adstastic/agent-skills"
   }
 ]
