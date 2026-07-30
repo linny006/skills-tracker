@@ -1,5 +1,50 @@
 [
   {
+    "description": "",
+    "id": "gashijph/skills-review-pull-requests",
+    "language": "\u2014",
+    "name": "gashijph/skills-review-pull-requests",
+    "stars": 0,
+    "updated_at": "2026-07-30T06:15:14Z",
+    "url": "https://github.com/gashijph/skills-review-pull-requests"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-30T06:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Exercise: Communicate using Markdown",
+    "id": "JAhtuam/skills-communicate-using-markdown",
+    "language": "\u2014",
+    "name": "JAhtuam/skills-communicate-using-markdown",
+    "stars": 0,
+    "updated_at": "2026-07-30T06:15:10Z",
+    "url": "https://github.com/JAhtuam/skills-communicate-using-markdown"
+  },
+  {
+    "description": "",
+    "id": "quanglewin/dotnet-typescript-unit-test-skills",
+    "language": "Python",
+    "name": "quanglewin/dotnet-typescript-unit-test-skills",
+    "stars": 0,
+    "updated_at": "2026-07-30T06:15:05Z",
+    "url": "https://github.com/quanglewin/dotnet-typescript-unit-test-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-30T06:14:43Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Ragpiq engineering skills for AI coding agents \u2014 pre-PR audit, brand voice, and Ragpiq-specific workflows",
     "id": "Ragpiq-Dev/ragpiq-skills",
     "language": "\u2014",
@@ -9,6 +54,15 @@
     "url": "https://github.com/Ragpiq-Dev/ragpiq-skills"
   },
   {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-07-30T06:14:15Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
     "description": "Fleet skill federation \u2014 contributors/darkhero + contributors/scar3",
     "id": "scss1199/ai_fleet_skills",
     "language": "\u2014",
@@ -16,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-07-30T06:14:11Z",
     "url": "https://github.com/scss1199/ai_fleet_skills"
+  },
+  {
+    "description": "",
+    "id": "blenderman-de/skills",
+    "language": "PowerShell",
+    "name": "blenderman-de/skills",
+    "stars": 0,
+    "updated_at": "2026-07-30T06:14:09Z",
+    "url": "https://github.com/blenderman-de/skills"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -34,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-07-30T06:13:53Z",
     "url": "https://github.com/Arvind-Limited/cowork-skills-marketplace-onboard"
+  },
+  {
+    "description": "",
+    "id": "ZhaoYis/My-Skills",
+    "language": "TypeScript",
+    "name": "ZhaoYis/My-Skills",
+    "stars": 2,
+    "updated_at": "2026-07-30T06:13:52Z",
+    "url": "https://github.com/ZhaoYis/My-Skills"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T06:12:04Z",
     "url": "https://github.com/qiuqiu19950918-hue/project-memory-skills"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-07-30T06:14:15Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
   },
   {
     "description": "My clone repository",
@@ -752,7 +815,7 @@
     "language": "\u2014",
     "name": "Jack-H-RF/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-07-30T06:02:49Z",
+    "updated_at": "2026-07-30T06:15:16Z",
     "url": "https://github.com/Jack-H-RF/skills-communicate-using-markdown"
   },
   {
@@ -819,15 +882,6 @@
     "url": "https://github.com/sales-skills/sales"
   },
   {
-    "description": "",
-    "id": "quanglewin/dotnet-typescript-unit-test-skills",
-    "language": "Python",
-    "name": "quanglewin/dotnet-typescript-unit-test-skills",
-    "stars": 0,
-    "updated_at": "2026-07-30T06:02:08Z",
-    "url": "https://github.com/quanglewin/dotnet-typescript-unit-test-skills"
-  },
-  {
     "description": "Skills running in the Scripting app",
     "id": "ScriptingApp/skills",
     "language": "TypeScript",
@@ -844,59 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T06:01:54Z",
     "url": "https://github.com/18321963/skills-introduction-to-github"
-  },
-  {
-    "description": "Convert Claude Code skills to Deep Agents format (English & Portuguese)",
-    "id": "andersonamaral2/Claude-Code-to-Deep-Agents-Skills-Converter",
-    "language": "Shell",
-    "name": "andersonamaral2/Claude-Code-to-Deep-Agents-Skills-Converter",
-    "stars": 56,
-    "updated_at": "2026-07-30T06:01:52Z",
-    "url": "https://github.com/andersonamaral2/Claude-Code-to-Deep-Agents-Skills-Converter"
-  },
-  {
-    "description": "",
-    "id": "nludd25/agentic-awesome-skills",
-    "language": "Python",
-    "name": "nludd25/agentic-awesome-skills",
-    "stars": 0,
-    "updated_at": "2026-07-30T06:01:38Z",
-    "url": "https://github.com/nludd25/agentic-awesome-skills"
-  },
-  {
-    "description": "This is my personal skill set.",
-    "id": "hacxy/skills",
-    "language": "JavaScript",
-    "name": "hacxy/skills",
-    "stars": 1,
-    "updated_at": "2026-07-30T06:01:30Z",
-    "url": "https://github.com/hacxy/skills"
-  },
-  {
-    "description": "Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readin",
-    "id": "SeanJ1ang/design-judge-skills",
-    "language": "Python",
-    "name": "SeanJ1ang/design-judge-skills",
-    "stars": 574,
-    "updated_at": "2026-07-30T06:01:14Z",
-    "url": "https://github.com/SeanJ1ang/design-judge-skills"
-  },
-  {
-    "description": "",
-    "id": "Yunshiro/yunn-skills",
-    "language": "\u2014",
-    "name": "Yunshiro/yunn-skills",
-    "stars": 0,
-    "updated_at": "2026-07-30T06:01:10Z",
-    "url": "https://github.com/Yunshiro/yunn-skills"
-  },
-  {
-    "description": "macOS app to manage your agent skills",
-    "id": "MC-and-his-Agents/SkillsManager",
-    "language": "Swift",
-    "name": "MC-and-his-Agents/SkillsManager",
-    "stars": 0,
-    "updated_at": "2026-07-30T06:01:05Z",
-    "url": "https://github.com/MC-and-his-Agents/SkillsManager"
   }
 ]
