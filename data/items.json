@@ -1,5 +1,68 @@
 [
   {
+    "description": "Ready-to-use AI agent skills for e-commerce intelligence. Product research, keyword optimization, competitor analysis, p",
+    "id": "nexscope-ai/nexscope-ecommerce-skills",
+    "language": "Python",
+    "name": "nexscope-ai/nexscope-ecommerce-skills",
+    "stars": 33,
+    "updated_at": "2026-07-31T07:31:18Z",
+    "url": "https://github.com/nexscope-ai/nexscope-ecommerce-skills"
+  },
+  {
+    "description": "",
+    "id": "Che-Zhu/sealos-skills-doc",
+    "language": "MDX",
+    "name": "Che-Zhu/sealos-skills-doc",
+    "stars": 0,
+    "updated_at": "2026-07-31T07:31:16Z",
+    "url": "https://github.com/Che-Zhu/sealos-skills-doc"
+  },
+  {
+    "description": "Independently installable Agent Skills for NostDB. Apache-2.0.",
+    "id": "nostdb/skills",
+    "language": "Shell",
+    "name": "nostdb/skills",
+    "stars": 0,
+    "updated_at": "2026-07-31T07:31:15Z",
+    "url": "https://github.com/nostdb/skills"
+  },
+  {
+    "description": "Agent skills for Claude Code \u2014 and a maintained port of the fablely project-continuity family to OpenAI Codex.",
+    "id": "storyut/storyut-skills",
+    "language": "HTML",
+    "name": "storyut/storyut-skills",
+    "stars": 0,
+    "updated_at": "2026-07-31T07:30:47Z",
+    "url": "https://github.com/storyut/storyut-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 14,
+    "updated_at": "2026-07-31T07:30:41Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Exercise: Work with Workflow Artifacts",
+    "id": "rimaoga/skills-workflow-artifacts",
+    "language": "JavaScript",
+    "name": "rimaoga/skills-workflow-artifacts",
+    "stars": 0,
+    "updated_at": "2026-07-31T07:30:40Z",
+    "url": "https://github.com/rimaoga/skills-workflow-artifacts"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-31T07:30:35Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "",
     "id": "alexzhu0/skillscout",
     "language": "Python",
@@ -9,13 +72,13 @@
     "url": "https://github.com/alexzhu0/skillscout"
   },
   {
-    "description": "Exercise: Work with Workflow Artifacts",
-    "id": "rimaoga/skills-workflow-artifacts",
-    "language": "\u2014",
-    "name": "rimaoga/skills-workflow-artifacts",
+    "description": "\uc790\ub3d9\ud654 \uc2a4\ud0ac",
+    "id": "hy0909/skills",
+    "language": "Python",
+    "name": "hy0909/skills",
     "stars": 0,
-    "updated_at": "2026-07-31T07:30:19Z",
-    "url": "https://github.com/rimaoga/skills-workflow-artifacts"
+    "updated_at": "2026-07-31T07:30:18Z",
+    "url": "https://github.com/hy0909/skills"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -27,13 +90,22 @@
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
-    "description": "Agent skills for Claude Code \u2014 and a maintained port of the fablely project-continuity family to OpenAI Codex.",
-    "id": "storyut/storyut-skills",
-    "language": "PowerShell",
-    "name": "storyut/storyut-skills",
+    "description": "My copy of the skills course on changing commit history",
+    "id": "im-umamaheswarb-infomagnus-sandbox/skills-change-commit-history",
+    "language": "\u2014",
+    "name": "im-umamaheswarb-infomagnus-sandbox/skills-change-commit-history",
     "stars": 0,
-    "updated_at": "2026-07-31T07:30:12Z",
-    "url": "https://github.com/storyut/storyut-skills"
+    "updated_at": "2026-07-31T07:29:46Z",
+    "url": "https://github.com/im-umamaheswarb-infomagnus-sandbox/skills-change-commit-history"
+  },
+  {
+    "description": "Auto-generated agent skills from trending security & appsec repos, by ara.so",
+    "id": "Aradotso/security-skills",
+    "language": "\u2014",
+    "name": "Aradotso/security-skills",
+    "stars": 8,
+    "updated_at": "2026-07-31T07:29:42Z",
+    "url": "https://github.com/Aradotso/security-skills"
   },
   {
     "description": "Discover, verify, and manage Agent Skills across desktop, CLI, and Hub workflows.",
@@ -41,7 +113,7 @@
     "language": "Dart",
     "name": "skillsgo/skillsgo",
     "stars": 1,
-    "updated_at": "2026-07-31T07:29:42Z",
+    "updated_at": "2026-07-31T07:31:30Z",
     "url": "https://github.com/skillsgo/skillsgo"
   },
   {
@@ -212,7 +284,7 @@
     "language": "JavaScript",
     "name": "Oscaner/skills",
     "stars": 1,
-    "updated_at": "2026-07-31T07:26:43Z",
+    "updated_at": "2026-07-31T07:31:16Z",
     "url": "https://github.com/Oscaner/skills"
   },
   {
@@ -324,15 +396,6 @@
     "url": "https://github.com/ruiying1541/design-skills"
   },
   {
-    "description": "\uc790\ub3d9\ud654 \uc2a4\ud0ac",
-    "id": "hy0909/skills",
-    "language": "Python",
-    "name": "hy0909/skills",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:30:18Z",
-    "url": "https://github.com/hy0909/skills"
-  },
-  {
     "description": "AI Skills",
     "id": "credfeto/credfeto-ai-skills",
     "language": "Shell",
@@ -347,7 +410,7 @@
     "language": "\u2014",
     "name": "dev1556/skills-introduction-to-github-1",
     "stars": 0,
-    "updated_at": "2026-07-31T07:27:10Z",
+    "updated_at": "2026-07-31T07:30:52Z",
     "url": "https://github.com/dev1556/skills-introduction-to-github-1"
   },
   {
@@ -412,15 +475,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T07:23:18Z",
     "url": "https://github.com/dev1556/skills-introduction-to-github"
-  },
-  {
-    "description": "Ready-to-use AI agent skills for e-commerce intelligence. Product research, keyword optimization, competitor analysis, p",
-    "id": "nexscope-ai/nexscope-ecommerce-skills",
-    "language": "Python",
-    "name": "nexscope-ai/nexscope-ecommerce-skills",
-    "stars": 33,
-    "updated_at": "2026-07-31T07:23:10Z",
-    "url": "https://github.com/nexscope-ai/nexscope-ecommerce-skills"
   },
   {
     "description": "macOS dynamic-island desktop app that records your screen, uses AI vision to turn any SOP into an editable, repeatable s",
@@ -774,24 +828,6 @@
     "url": "https://github.com/Flubb-z/skills-getting-started-with-github-copilot"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 14,
-    "updated_at": "2026-07-31T07:15:33Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-31T07:15:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "\u7ba1\u7406\u6211\u7684 skills\uff0c\u5305\u542b\u6211\u81ea\u5df1\u5199\u7684\u4e5f\u4ece\u8fd9\u91cc\u7ba1\u7406\uff0c\u4e3a\u7684\u662f\u65b9\u4fbf\u5207\u6362\u3002\u81ea\u5df1\u5199\u7684\u5728\u53e6\u4e00\u4e2a\u4ed3\u5e93\uff1ahttps://github.com/abrahamgreyson/skills",
     "id": "abrahamgreyson/skills-manager",
     "language": "TypeScript",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T07:14:29Z",
     "url": "https://github.com/Timmyy3000/skills"
-  },
-  {
-    "description": "",
-    "id": "lyingparachute/skills",
-    "language": "JavaScript",
-    "name": "lyingparachute/skills",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:14:28Z",
-    "url": "https://github.com/lyingparachute/skills"
-  },
-  {
-    "description": "Lovstudio dev skills \u2014 Meta + Dev Tools sub-index of lovstudio/skills.",
-    "id": "lovstudio/dev-skills",
-    "language": "Python",
-    "name": "lovstudio/dev-skills",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:14:25Z",
-    "url": "https://github.com/lovstudio/dev-skills"
-  },
-  {
-    "description": "",
-    "id": "ystsbry/my-ai-skills",
-    "language": "HTML",
-    "name": "ystsbry/my-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:14:15Z",
-    "url": "https://github.com/ystsbry/my-ai-skills"
-  },
-  {
-    "description": "joeytoday\u81ea\u7528skills\u3002",
-    "id": "joeytoday/open1v-skills",
-    "language": "HTML",
-    "name": "joeytoday/open1v-skills",
-    "stars": 1,
-    "updated_at": "2026-07-31T07:14:12Z",
-    "url": "https://github.com/joeytoday/open1v-skills"
   }
 ]
