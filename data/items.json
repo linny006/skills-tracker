@@ -1,5 +1,32 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T12:15:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "tiennt220805/performance-testing-skills",
+    "language": "Shell",
+    "name": "tiennt220805/performance-testing-skills",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:14:49Z",
+    "url": "https://github.com/tiennt220805/performance-testing-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-31T12:14:35Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Claude Code skills for sales, marketing, and GTM \u2014 CRM, outbound, note-takers, enrichment, email marketing, influencer m",
     "id": "sales-skills/sales",
     "language": "Python",
@@ -11,11 +38,20 @@
   {
     "description": "Exercise: Introduction to CodeQL",
     "id": "elrafael/skills-introduction-to-codeql",
-    "language": "\u2014",
+    "language": "Python",
     "name": "elrafael/skills-introduction-to-codeql",
     "stars": 0,
     "updated_at": "2026-07-31T12:14:09Z",
     "url": "https://github.com/elrafael/skills-introduction-to-codeql"
+  },
+  {
+    "description": "Skills for modern agents in Copilot Studio",
+    "id": "microsoft/cat-agent-skills",
+    "language": "Python",
+    "name": "microsoft/cat-agent-skills",
+    "stars": 41,
+    "updated_at": "2026-07-31T12:13:59Z",
+    "url": "https://github.com/microsoft/cat-agent-skills"
   },
   {
     "description": "",
@@ -34,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-07-31T12:13:51Z",
     "url": "https://github.com/jpolvora/workflow-skills"
+  },
+  {
+    "description": "",
+    "id": "fathimasaleem2004/SkillSwap_Client",
+    "language": "JavaScript",
+    "name": "fathimasaleem2004/SkillSwap_Client",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:13:46Z",
+    "url": "https://github.com/fathimasaleem2004/SkillSwap_Client"
   },
   {
     "description": "My clone repository",
@@ -72,6 +117,15 @@
     "url": "https://github.com/Aradotso/marketing-skills"
   },
   {
+    "description": "Skills for documentation",
+    "id": "pattu-fynd/gofynd-skills",
+    "language": "Python",
+    "name": "pattu-fynd/gofynd-skills",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:13:03Z",
+    "url": "https://github.com/pattu-fynd/gofynd-skills"
+  },
+  {
     "description": "Organization-wide catalog of Agent Skills (agentskills.io open standard), installable into any compatible agent.",
     "id": "forschungsgruppe-digital-health/agent-skills",
     "language": "Python",
@@ -90,15 +144,6 @@
     "url": "https://github.com/fanzy531/corch-skills"
   },
   {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "ayumi1745-arch/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "ayumi1745-arch/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-31T12:12:14Z",
-    "url": "https://github.com/ayumi1745-arch/skills-introduction-to-github"
-  },
-  {
     "description": "Skills do MeuOS \u2014 distribuidas via plugin marketplace para alunos (Claude Code). Fonte da verdade das skills.",
     "id": "ferjrbh/meuos-skills",
     "language": "\u2014",
@@ -113,7 +158,7 @@
     "language": "\u2014",
     "name": "sarveshtalele/agentic-skills-marketplace",
     "stars": 0,
-    "updated_at": "2026-07-31T12:11:25Z",
+    "updated_at": "2026-07-31T12:15:12Z",
     "url": "https://github.com/sarveshtalele/agentic-skills-marketplace"
   },
   {
@@ -212,7 +257,7 @@
     "language": "\u2014",
     "name": "mike442144/skills",
     "stars": 0,
-    "updated_at": "2026-07-31T12:09:35Z",
+    "updated_at": "2026-07-31T12:15:22Z",
     "url": "https://github.com/mike442144/skills"
   },
   {
@@ -617,7 +662,7 @@
     "language": "Jupyter Notebook",
     "name": "martscho1/basic_python_coding_skills",
     "stars": 0,
-    "updated_at": "2026-07-31T12:03:33Z",
+    "updated_at": "2026-07-31T12:14:46Z",
     "url": "https://github.com/martscho1/basic_python_coding_skills"
   },
   {
@@ -738,15 +783,6 @@
     "url": "https://github.com/andreeab05/skills-scale-institutional-knowledge-using-copilot-spaces"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T12:01:29Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "",
     "id": "felagos/skills",
     "language": "Python",
@@ -792,15 +828,6 @@
     "url": "https://github.com/KDVassen/skills-introduction-to-github"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-31T12:00:41Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Exercise: Introduction to Git",
     "id": "dugunila/skills-introduction-to-git",
     "language": "Shell",
@@ -824,7 +851,7 @@
     "language": "Python",
     "name": "usetheoai/theo-skills",
     "stars": 0,
-    "updated_at": "2026-07-31T12:10:51Z",
+    "updated_at": "2026-07-31T12:14:40Z",
     "url": "https://github.com/usetheoai/theo-skills"
   },
   {
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T11:57:34Z",
     "url": "https://github.com/petralabx/skills"
-  },
-  {
-    "description": "Collection of high-leverage \"Meta-Skills\" designed to upgrade AI Agents from simple chat bots to autonomous engineers",
-    "id": "MatrixFounder/Universal-skills",
-    "language": "Python",
-    "name": "MatrixFounder/Universal-skills",
-    "stars": 1,
-    "updated_at": "2026-07-31T11:56:12Z",
-    "url": "https://github.com/MatrixFounder/Universal-skills"
-  },
-  {
-    "description": "",
-    "id": "13fingerfx/Leantime-skillset",
-    "language": "Python",
-    "name": "13fingerfx/Leantime-skillset",
-    "stars": 0,
-    "updated_at": "2026-07-31T11:55:54Z",
-    "url": "https://github.com/13fingerfx/Leantime-skillset"
-  },
-  {
-    "description": "",
-    "id": "ArmourPiercer1/research-skills",
-    "language": "Python",
-    "name": "ArmourPiercer1/research-skills",
-    "stars": 0,
-    "updated_at": "2026-07-31T11:55:52Z",
-    "url": "https://github.com/ArmourPiercer1/research-skills"
   }
 ]
