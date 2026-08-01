@@ -1,5 +1,50 @@
 [
   {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "justinshroyer47/skills-github-pages",
+    "language": "\u2014",
+    "name": "justinshroyer47/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-08-01T04:30:50Z",
+    "url": "https://github.com/justinshroyer47/skills-github-pages"
+  },
+  {
+    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
+    "id": "simota/agent-skills",
+    "language": "HTML",
+    "name": "simota/agent-skills",
+    "stars": 65,
+    "updated_at": "2026-08-01T04:30:33Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "VimalJohnMV/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "VimalJohnMV/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-08-01T04:30:32Z",
+    "url": "https://github.com/VimalJohnMV/skills-introduction-to-github"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 14,
+    "updated_at": "2026-08-01T04:30:30Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-08-01T04:30:27Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -7,6 +52,15 @@
     "stars": 19,
     "updated_at": "2026-08-01T04:30:21Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Custom Claude Code skills",
+    "id": "axatbhardwaj/claude-skills",
+    "language": "Python",
+    "name": "axatbhardwaj/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-01T04:30:19Z",
+    "url": "https://github.com/axatbhardwaj/claude-skills"
   },
   {
     "description": "Exercise: Introduction to Git",
@@ -18,6 +72,15 @@
     "url": "https://github.com/KronosCodeur/skills-introduction-to-git"
   },
   {
+    "description": "AgentStation agent skills for Claude Code, Codex, and compatible agents",
+    "id": "agentstation/skills",
+    "language": "Python",
+    "name": "agentstation/skills",
+    "stars": 0,
+    "updated_at": "2026-08-01T04:30:12Z",
+    "url": "https://github.com/agentstation/skills"
+  },
+  {
     "description": "\"App created for students to help among them\"",
     "id": "komalapriyan/Skillsync",
     "language": "TypeScript",
@@ -25,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-08-01T04:30:01Z",
     "url": "https://github.com/komalapriyan/Skillsync"
+  },
+  {
+    "description": "Periodically refreshed mirror of agents, skills, prompts and instruction files from public repositories.",
+    "id": "gabrielmoreira/agent-skills-mirror",
+    "language": "Python",
+    "name": "gabrielmoreira/agent-skills-mirror",
+    "stars": 14,
+    "updated_at": "2026-08-01T04:29:51Z",
+    "url": "https://github.com/gabrielmoreira/agent-skills-mirror"
   },
   {
     "description": "agent skills for engineering workflows",
@@ -63,15 +135,6 @@
     "url": "https://github.com/chinrw/agent-skills"
   },
   {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "justinshroyer47/skills-github-pages",
-    "language": "\u2014",
-    "name": "justinshroyer47/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-08-01T04:28:52Z",
-    "url": "https://github.com/justinshroyer47/skills-github-pages"
-  },
-  {
     "description": "t2000's open source skills for Agentic finance development.",
     "id": "mission69b/t2000-skills",
     "language": "TypeScript",
@@ -86,7 +149,7 @@
     "language": "\u2014",
     "name": "kanetik/claude-skills",
     "stars": 0,
-    "updated_at": "2026-08-01T04:28:27Z",
+    "updated_at": "2026-08-01T04:30:33Z",
     "url": "https://github.com/kanetik/claude-skills"
   },
   {
@@ -167,7 +230,7 @@
     "language": "HTML",
     "name": "lijigang/ljg-skills",
     "stars": 6698,
-    "updated_at": "2026-08-01T04:26:14Z",
+    "updated_at": "2026-08-01T04:31:35Z",
     "url": "https://github.com/lijigang/ljg-skills"
   },
   {
@@ -351,15 +414,6 @@
     "url": "https://github.com/buhaiqing/qcloud-skills"
   },
   {
-    "description": "AgentStation agent skills for Claude Code, Codex, and compatible agents",
-    "id": "agentstation/skills",
-    "language": "Python",
-    "name": "agentstation/skills",
-    "stars": 0,
-    "updated_at": "2026-08-01T04:30:12Z",
-    "url": "https://github.com/agentstation/skills"
-  },
-  {
     "description": "\ud83c\udf33 A comprehensive collection of all skills available for AI agents and computer-use models \u2014 perception, reasoning, memo",
     "id": "SamoTech/skills-tree",
     "language": "Python",
@@ -493,24 +547,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T04:15:40Z",
     "url": "https://github.com/takehirosaito/agent-skills-jp"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 14,
-    "updated_at": "2026-08-01T04:15:38Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-08-01T04:15:33Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T04:02:11Z",
     "url": "https://github.com/ozephyr-ctrl/skills"
-  },
-  {
-    "description": "Exercise: GitHub Copilot Code Review",
-    "id": "NataliiaDerkach/skills-copilot-code-review",
-    "language": "JavaScript",
-    "name": "NataliiaDerkach/skills-copilot-code-review",
-    "stars": 0,
-    "updated_at": "2026-08-01T04:02:06Z",
-    "url": "https://github.com/NataliiaDerkach/skills-copilot-code-review"
-  },
-  {
-    "description": "",
-    "id": "retfa/mol-skills-dashboard-v3",
-    "language": "JavaScript",
-    "name": "retfa/mol-skills-dashboard-v3",
-    "stars": 0,
-    "updated_at": "2026-08-01T04:01:53Z",
-    "url": "https://github.com/retfa/mol-skills-dashboard-v3"
-  },
-  {
-    "description": "",
-    "id": "TimingGOOO/codex-skills",
-    "language": "\u2014",
-    "name": "TimingGOOO/codex-skills",
-    "stars": 0,
-    "updated_at": "2026-08-01T04:01:45Z",
-    "url": "https://github.com/TimingGOOO/codex-skills"
-  },
-  {
-    "description": "Daily Apple platform development skills \u2014 Swift, SwiftUI, iOS, macOS, Xcode, and the Apple ecosystem",
-    "id": "pawankmrai/apple-dev-skills",
-    "language": "Shell",
-    "name": "pawankmrai/apple-dev-skills",
-    "stars": 0,
-    "updated_at": "2026-08-01T04:02:03Z",
-    "url": "https://github.com/pawankmrai/apple-dev-skills"
   }
 ]
