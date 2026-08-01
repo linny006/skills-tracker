@@ -1,5 +1,50 @@
 [
   {
+    "description": "My copy of the skills course on changing commit history",
+    "id": "karlarenatadev/skills-change-commit-history",
+    "language": "\u2014",
+    "name": "karlarenatadev/skills-change-commit-history",
+    "stars": 0,
+    "updated_at": "2026-08-01T21:31:51Z",
+    "url": "https://github.com/karlarenatadev/skills-change-commit-history"
+  },
+  {
+    "description": "Shared agent skills, distributed as a Claude Code marketplace plugin",
+    "id": "Roubtec/agent-skills",
+    "language": "JavaScript",
+    "name": "Roubtec/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-01T21:31:11Z",
+    "url": "https://github.com/Roubtec/agent-skills"
+  },
+  {
+    "description": "SkillSwap is a peer-to-peer platform where creators and developers trade skills directly without monetary paywalls.",
+    "id": "MRxSHAYAN/SkillSwap",
+    "language": "JavaScript",
+    "name": "MRxSHAYAN/SkillSwap",
+    "stars": 0,
+    "updated_at": "2026-08-01T21:31:07Z",
+    "url": "https://github.com/MRxSHAYAN/SkillSwap"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-08-01T21:30:33Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 14,
+    "updated_at": "2026-08-01T21:30:32Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "DBJ METHOD Skills \u2014 direct mapping to AI Readiness",
     "id": "DBJARH/dbj_skills",
     "language": "HTML",
@@ -189,15 +234,6 @@
     "url": "https://github.com/thelinuxhobbyist/skillsphase"
   },
   {
-    "description": "SkillSwap is a peer-to-peer platform where creators and developers trade skills directly without monetary paywalls.",
-    "id": "MRxSHAYAN/SkillSwap",
-    "language": "JavaScript",
-    "name": "MRxSHAYAN/SkillSwap",
-    "stars": 0,
-    "updated_at": "2026-08-01T21:27:12Z",
-    "url": "https://github.com/MRxSHAYAN/SkillSwap"
-  },
-  {
     "description": "Engineering discipline as agent architecture \u2014 a course studying Matt Pocock's agent-skills repo and the software-engine",
     "id": "rodrigorjsf/skills-engineering-best-practices",
     "language": "HTML",
@@ -232,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T21:26:38Z",
     "url": "https://github.com/buffaly-ai/buffaly-skills"
-  },
-  {
-    "description": "My copy of the skills course on changing commit history",
-    "id": "karlarenatadev/skills-change-commit-history",
-    "language": "\u2014",
-    "name": "karlarenatadev/skills-change-commit-history",
-    "stars": 0,
-    "updated_at": "2026-08-01T21:25:41Z",
-    "url": "https://github.com/karlarenatadev/skills-change-commit-history"
   },
   {
     "description": "Exercise: Write JavaScript Actions",
@@ -520,24 +547,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T21:15:43Z",
     "url": "https://github.com/dPeluChe/skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 14,
-    "updated_at": "2026-08-01T21:15:32Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-08-01T21:15:30Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Source-first agent skill research by AIW.",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T21:01:10Z",
     "url": "https://github.com/forwardimpact/outpost-skills"
-  },
-  {
-    "description": "Agent skills for maintaining the Jidoka instruction architecture \u2014 built-in quality for agent instructions, stop the lin",
-    "id": "forwardimpact/jidoka-skills",
-    "language": "JavaScript",
-    "name": "forwardimpact/jidoka-skills",
-    "stars": 0,
-    "updated_at": "2026-08-01T21:01:09Z",
-    "url": "https://github.com/forwardimpact/jidoka-skills"
   }
 ]
