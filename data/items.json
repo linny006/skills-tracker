@@ -1,5 +1,86 @@
 [
   {
+    "description": "Empire Product Factory \u2014 Skills & Workflows for Claude Code",
+    "id": "ncreighton/empire-skills",
+    "language": "Python",
+    "name": "ncreighton/empire-skills",
+    "stars": 0,
+    "updated_at": "2026-08-01T23:36:12Z",
+    "url": "https://github.com/ncreighton/empire-skills"
+  },
+  {
+    "description": "Skills for LLMs lacking training data on the new Kain Programming Language",
+    "id": "ephemara/Kain-Skills",
+    "language": "\u2014",
+    "name": "ephemara/Kain-Skills",
+    "stars": 0,
+    "updated_at": "2026-08-01T23:35:44Z",
+    "url": "https://github.com/ephemara/Kain-Skills"
+  },
+  {
+    "description": "A set of dogfooded skills used internally. Battle-tested and benchmarked.",
+    "id": "fellowship-dev/dogfooded-skills",
+    "language": "Python",
+    "name": "fellowship-dev/dogfooded-skills",
+    "stars": 3,
+    "updated_at": "2026-08-01T23:34:05Z",
+    "url": "https://github.com/fellowship-dev/dogfooded-skills"
+  },
+  {
+    "description": "",
+    "id": "GloBoiVic/vike-skills",
+    "language": "\u2014",
+    "name": "GloBoiVic/vike-skills",
+    "stars": 1,
+    "updated_at": "2026-08-01T23:32:30Z",
+    "url": "https://github.com/GloBoiVic/vike-skills"
+  },
+  {
+    "description": "My reusable AI skills and workflows",
+    "id": "gimhyuna0221-art/ai-skills-vault",
+    "language": "\u2014",
+    "name": "gimhyuna0221-art/ai-skills-vault",
+    "stars": 0,
+    "updated_at": "2026-08-01T23:31:51Z",
+    "url": "https://github.com/gimhyuna0221-art/ai-skills-vault"
+  },
+  {
+    "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
+    "id": "phuati/claude-skills-arsenal",
+    "language": "HTML",
+    "name": "phuati/claude-skills-arsenal",
+    "stars": 1,
+    "updated_at": "2026-08-01T23:31:08Z",
+    "url": "https://github.com/phuati/claude-skills-arsenal"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-08-01T23:30:30Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 14,
+    "updated_at": "2026-08-01T23:30:30Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (25 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 0,
+    "updated_at": "2026-08-01T23:30:26Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -77,17 +158,8 @@
     "language": "TypeScript",
     "name": "reddb-io/red-skills",
     "stars": 0,
-    "updated_at": "2026-08-01T23:28:40Z",
+    "updated_at": "2026-08-01T23:35:40Z",
     "url": "https://github.com/reddb-io/red-skills"
-  },
-  {
-    "description": "My reusable AI skills and workflows",
-    "id": "gimhyuna0221-art/ai-skills-vault",
-    "language": "\u2014",
-    "name": "gimhyuna0221-art/ai-skills-vault",
-    "stars": 0,
-    "updated_at": "2026-08-01T23:26:41Z",
-    "url": "https://github.com/gimhyuna0221-art/ai-skills-vault"
   },
   {
     "description": "",
@@ -270,15 +342,6 @@
     "url": "https://github.com/openmodelingfoundation/skills"
   },
   {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (25 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 0,
-    "updated_at": "2026-08-01T23:30:26Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
-  },
-  {
     "description": "",
     "id": "martintechlabs/agent-skills",
     "language": "Shell",
@@ -369,15 +432,6 @@
     "url": "https://github.com/HappypsychoX/Skills-Marketplace"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-08-01T23:15:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Soccer skills tracker application development repository.",
     "id": "blueneekone/soccer_skills_tracker",
     "language": "JavaScript",
@@ -385,15 +439,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T23:15:31Z",
     "url": "https://github.com/blueneekone/soccer_skills_tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 14,
-    "updated_at": "2026-08-01T23:15:30Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "",
@@ -538,15 +583,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T23:08:09Z",
     "url": "https://github.com/Ebeed-cs/Mastering-critical-SKILLS-in-Data-Structures-using-CPP"
-  },
-  {
-    "description": "Empire Product Factory \u2014 Skills & Workflows for Claude Code",
-    "id": "ncreighton/empire-skills",
-    "language": "Python",
-    "name": "ncreighton/empire-skills",
-    "stars": 0,
-    "updated_at": "2026-08-01T23:07:20Z",
-    "url": "https://github.com/ncreighton/empire-skills"
   },
   {
     "description": "QNFO DeepChat skills \u2014 28 skills including cloudflare-deployer, qnfo-agent, publication-publisher. Redundant backup for ",
@@ -797,7 +833,7 @@
     "language": "Python",
     "name": "rogvid/skills",
     "stars": 0,
-    "updated_at": "2026-08-01T22:53:39Z",
+    "updated_at": "2026-08-01T23:31:20Z",
     "url": "https://github.com/rogvid/skills"
   },
   {
@@ -862,41 +898,5 @@
     "stars": 15,
     "updated_at": "2026-08-01T22:51:57Z",
     "url": "https://github.com/OmniSocials/omnisocials-agent-skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "XyLipid/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "XyLipid/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-08-01T22:51:55Z",
-    "url": "https://github.com/XyLipid/skills-introduction-to-git"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 multi-agent orchestration and code-quality workflows",
-    "id": "api-haus/zori_skills",
-    "language": "Shell",
-    "name": "api-haus/zori_skills",
-    "stars": 0,
-    "updated_at": "2026-08-01T22:51:08Z",
-    "url": "https://github.com/api-haus/zori_skills"
-  },
-  {
-    "description": "",
-    "id": "DhamarPutra/AgentSkills",
-    "language": "Python",
-    "name": "DhamarPutra/AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-08-01T22:50:43Z",
-    "url": "https://github.com/DhamarPutra/AgentSkills"
-  },
-  {
-    "description": "Claude Code Skills\u3001Agent Skills \u548c OpenClaw Skills \u7684\u7edf\u4e00\u96c6\u5408\u4ed3\u5e93",
-    "id": "kintzhao/anySkills",
-    "language": "\u2014",
-    "name": "kintzhao/anySkills",
-    "stars": 3,
-    "updated_at": "2026-08-01T22:49:40Z",
-    "url": "https://github.com/kintzhao/anySkills"
   }
 ]
