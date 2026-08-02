@@ -1,5 +1,140 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-02T07:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Local-only Microsoft 365 capability assessment engine \u2014 survey to HTML/PDF/Word artefacts.",
+    "id": "KnowledgeStudio/m365-skills",
+    "language": "Python",
+    "name": "KnowledgeStudio/m365-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:14:54Z",
+    "url": "https://github.com/KnowledgeStudio/m365-skills"
+  },
+  {
+    "description": "Skils for CLAUDE",
+    "id": "VladislavSournine/vladyslav-skills",
+    "language": "Shell",
+    "name": "VladislavSournine/vladyslav-skills",
+    "stars": 2,
+    "updated_at": "2026-08-02T07:14:47Z",
+    "url": "https://github.com/VladislavSournine/vladyslav-skills"
+  },
+  {
+    "description": "",
+    "id": "Jenniferwonder/ai-project-learning-skills",
+    "language": "\u2014",
+    "name": "Jenniferwonder/ai-project-learning-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:14:43Z",
+    "url": "https://github.com/Jenniferwonder/ai-project-learning-skills"
+  },
+  {
+    "description": "Personal agent skills distributed via APM",
+    "id": "nananaman/skills",
+    "language": "Python",
+    "name": "nananaman/skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:14:41Z",
+    "url": "https://github.com/nananaman/skills"
+  },
+  {
+    "description": "AI Skills",
+    "id": "credfeto/credfeto-ai-skills",
+    "language": "Shell",
+    "name": "credfeto/credfeto-ai-skills",
+    "stars": 2,
+    "updated_at": "2026-08-02T07:14:28Z",
+    "url": "https://github.com/credfeto/credfeto-ai-skills"
+  },
+  {
+    "description": "The Largest Curated Agent Skills Collection - 300+ production-ready skills for AI agents",
+    "id": "haiyanseek/haiyan-agent-skills",
+    "language": "Python",
+    "name": "haiyanseek/haiyan-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:14:26Z",
+    "url": "https://github.com/haiyanseek/haiyan-agent-skills"
+  },
+  {
+    "description": "Claude Code skills collection",
+    "id": "fitz123/claude-skills",
+    "language": "Shell",
+    "name": "fitz123/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-08-02T07:14:20Z",
+    "url": "https://github.com/fitz123/claude-skills"
+  },
+  {
+    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
+    "id": "tomo56u3-rgb/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "language": "\u2014",
+    "name": "tomo56u3-rgb/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:14:19Z",
+    "url": "https://github.com/tomo56u3-rgb/skills-scale-institutional-knowledge-using-copilot-spaces"
+  },
+  {
+    "description": "",
+    "id": "Avi-Rana-1718/skills",
+    "language": "\u2014",
+    "name": "Avi-Rana-1718/skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:14:09Z",
+    "url": "https://github.com/Avi-Rana-1718/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-08-02T07:14:09Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "prak9/skills",
+    "language": "Python",
+    "name": "prak9/skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:14:08Z",
+    "url": "https://github.com/prak9/skills"
+  },
+  {
+    "description": "TRAE Work & WorkBuddy \u81ea\u5b9a\u4e49\u6280\u80fdSkill\u4ed3\u5e93",
+    "id": "chenjun1983/agent-skills",
+    "language": "\u2014",
+    "name": "chenjun1983/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:14:07Z",
+    "url": "https://github.com/chenjun1983/agent-skills"
+  },
+  {
+    "description": "",
+    "id": "nocobase/skills",
+    "language": "TypeScript",
+    "name": "nocobase/skills",
+    "stars": 45,
+    "updated_at": "2026-08-02T07:13:58Z",
+    "url": "https://github.com/nocobase/skills"
+  },
+  {
+    "description": "Automate your social media with Handled Agent Skills: guided Facebook onboarding, posting rhythm, approvals, and Social ",
+    "id": "lniass/social-skills",
+    "language": "Python",
+    "name": "lniass/social-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:13:57Z",
+    "url": "https://github.com/lniass/social-skills"
+  },
+  {
     "description": "Agent skills for the Progress Observability platform. Canonical source for skill content; packaging and the e2e harness ",
     "id": "observability-oss/observability-skills",
     "language": "Python",
@@ -68,7 +203,7 @@
     "language": "Nix",
     "name": "Kyure-A/agent-skills-nix",
     "stars": 203,
-    "updated_at": "2026-08-02T07:12:49Z",
+    "updated_at": "2026-08-02T07:15:04Z",
     "url": "https://github.com/Kyure-A/agent-skills-nix"
   },
   {
@@ -450,15 +585,6 @@
     "url": "https://github.com/WILLOSCAR/research-units-pipeline-skills"
   },
   {
-    "description": "The Largest Curated Agent Skills Collection - 300+ production-ready skills for AI agents",
-    "id": "haiyanseek/haiyan-agent-skills",
-    "language": "Python",
-    "name": "haiyanseek/haiyan-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T07:04:05Z",
-    "url": "https://github.com/haiyanseek/haiyan-agent-skills"
-  },
-  {
     "description": "Agent Skills \u7ba1\u7406\u4ed3\u5e93 \u2014 \u7edf\u4e00\u7ba1\u7406\u3001\u7248\u672c\u63a7\u5236\u3001\u5206\u53d1 agent \u4f7f\u7528\u7684\u6280\u80fd",
     "id": "arykai031/agent-skills",
     "language": "Python",
@@ -558,15 +684,6 @@
     "url": "https://github.com/ShortArrow/skills"
   },
   {
-    "description": "",
-    "id": "nocobase/skills",
-    "language": "TypeScript",
-    "name": "nocobase/skills",
-    "stars": 45,
-    "updated_at": "2026-08-02T07:13:58Z",
-    "url": "https://github.com/nocobase/skills"
-  },
-  {
     "description": "final skill sync website",
     "id": "Shivanshcuj04/SkillSync-Final-web",
     "language": "JavaScript",
@@ -583,15 +700,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T07:00:58Z",
     "url": "https://github.com/AhmedMerza/claude-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-08-02T07:00:38Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
@@ -619,15 +727,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T07:00:21Z",
     "url": "https://github.com/husw725/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-02T07:00:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Smart Contract Audits and Triage Skills ",
@@ -799,104 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T06:54:37Z",
     "url": "https://github.com/Vink567/Vink-skills"
-  },
-  {
-    "description": "Exercise: Introduction to CodeQL",
-    "id": "eimyatnoe2898/skills-introduction-to-codeql",
-    "language": "Python",
-    "name": "eimyatnoe2898/skills-introduction-to-codeql",
-    "stars": 0,
-    "updated_at": "2026-08-02T06:54:09Z",
-    "url": "https://github.com/eimyatnoe2898/skills-introduction-to-codeql"
-  },
-  {
-    "description": "Yan's agent skills collection \u2014 Google Trends SEO workflows, AI news, autopilot, and more. For Claude Code / Codex / Cur",
-    "id": "yan-labs/yan-skills",
-    "language": "JavaScript",
-    "name": "yan-labs/yan-skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T06:54:06Z",
-    "url": "https://github.com/yan-labs/yan-skills"
-  },
-  {
-    "description": "Exercise: Communicate using Markdown",
-    "id": "haferlchristian435-png/skills-communicate-using-markdown",
-    "language": "\u2014",
-    "name": "haferlchristian435-png/skills-communicate-using-markdown",
-    "stars": 0,
-    "updated_at": "2026-08-02T06:54:04Z",
-    "url": "https://github.com/haferlchristian435-png/skills-communicate-using-markdown"
-  },
-  {
-    "description": "Multi-phase Claude Code skills framework: brainstorm, requirements, architecture, issue-slicing, and TDD, plus session a",
-    "id": "eranw2000/multi-phase-skills-framework",
-    "language": "Python",
-    "name": "eranw2000/multi-phase-skills-framework",
-    "stars": 3,
-    "updated_at": "2026-08-02T06:54:32Z",
-    "url": "https://github.com/eranw2000/multi-phase-skills-framework"
-  },
-  {
-    "description": "",
-    "id": "prak9/skills",
-    "language": "Python",
-    "name": "prak9/skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T06:53:37Z",
-    "url": "https://github.com/prak9/skills"
-  },
-  {
-    "description": "Offline, local-only context migration skills across 9 coding-agent sources \u00d7 9 destination hosts (registry-derived 81 ce",
-    "id": "ImL1s/resume-skills",
-    "language": "Python",
-    "name": "ImL1s/resume-skills",
-    "stars": 37,
-    "updated_at": "2026-08-02T06:52:51Z",
-    "url": "https://github.com/ImL1s/resume-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "Sksanju2006/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "Sksanju2006/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-02T07:10:08Z",
-    "url": "https://github.com/Sksanju2006/skills-introduction-to-github"
-  },
-  {
-    "description": "Personal AI operating system: 420+ versioned skills, agents, and safety gates deployed across Claude Code, Codex, and de",
-    "id": "Kariimc/my-skills",
-    "language": "JavaScript",
-    "name": "Kariimc/my-skills",
-    "stars": 1,
-    "updated_at": "2026-08-02T06:52:03Z",
-    "url": "https://github.com/Kariimc/my-skills"
-  },
-  {
-    "description": "Claude Code plugin marketplace",
-    "id": "mathbullet/skills",
-    "language": "CSS",
-    "name": "mathbullet/skills",
-    "stars": 46,
-    "updated_at": "2026-08-02T06:51:42Z",
-    "url": "https://github.com/mathbullet/skills"
-  },
-  {
-    "description": "",
-    "id": "ineztia/user-skills",
-    "language": "Batchfile",
-    "name": "ineztia/user-skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T06:51:35Z",
-    "url": "https://github.com/ineztia/user-skills"
-  },
-  {
-    "description": "Portable Codex session handoff and retrospective skills",
-    "id": "Kumadori0195/codex-session-skills",
-    "language": "\u2014",
-    "name": "Kumadori0195/codex-session-skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T06:51:14Z",
-    "url": "https://github.com/Kumadori0195/codex-session-skills"
   }
 ]
