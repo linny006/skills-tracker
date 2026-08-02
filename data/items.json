@@ -1,5 +1,113 @@
 [
   {
+    "description": "Exercise: Introduction to Git",
+    "id": "robertoccsantana/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "robertoccsantana/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-02T15:32:54Z",
+    "url": "https://github.com/robertoccsantana/skills-introduction-to-git"
+  },
+  {
+    "description": "yofine's agent skills",
+    "id": "yofine/skills",
+    "language": "HTML",
+    "name": "yofine/skills",
+    "stars": 149,
+    "updated_at": "2026-08-02T15:32:51Z",
+    "url": "https://github.com/yofine/skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "nada-nayef/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "nada-nayef/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-02T15:32:48Z",
+    "url": "https://github.com/nada-nayef/skills-introduction-to-git"
+  },
+  {
+    "description": "Cursor Agent Skills maker",
+    "id": "poyoyon-ceee/skills-maker",
+    "language": "Python",
+    "name": "poyoyon-ceee/skills-maker",
+    "stars": 0,
+    "updated_at": "2026-08-02T15:32:47Z",
+    "url": "https://github.com/poyoyon-ceee/skills-maker"
+  },
+  {
+    "description": "Reusable agent skills with deterministic review and publishing gates",
+    "id": "uinaf/skills",
+    "language": "Python",
+    "name": "uinaf/skills",
+    "stars": 4,
+    "updated_at": "2026-08-02T15:32:45Z",
+    "url": "https://github.com/uinaf/skills"
+  },
+  {
+    "description": "",
+    "id": "Ricardo-kui/claude-skills",
+    "language": "Python",
+    "name": "Ricardo-kui/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T15:32:18Z",
+    "url": "https://github.com/Ricardo-kui/claude-skills"
+  },
+  {
+    "description": "",
+    "id": "antonnunez06work/obsidian-skills",
+    "language": "Python",
+    "name": "antonnunez06work/obsidian-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T15:31:57Z",
+    "url": "https://github.com/antonnunez06work/obsidian-skills"
+  },
+  {
+    "description": "skills \u2014 for coding agents that should know better",
+    "id": "KodingDev/skills",
+    "language": "Shell",
+    "name": "KodingDev/skills",
+    "stars": 1,
+    "updated_at": "2026-08-02T15:31:56Z",
+    "url": "https://github.com/KodingDev/skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "Aryan0401/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "Aryan0401/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-08-02T15:31:08Z",
+    "url": "https://github.com/Aryan0401/skills-introduction-to-github"
+  },
+  {
+    "description": "",
+    "id": "yongshq/skills",
+    "language": "\u2014",
+    "name": "yongshq/skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T15:31:03Z",
+    "url": "https://github.com/yongshq/skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 15,
+    "updated_at": "2026-08-02T15:30:35Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-08-02T15:30:34Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "ProbePilotAI official Agent skills registry",
     "id": "kzzou/probepilotai-skills",
     "language": "Python",
@@ -124,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T15:28:11Z",
     "url": "https://github.com/jesse-merhi/skills"
-  },
-  {
-    "description": "Reusable agent skills with deterministic review and publishing gates",
-    "id": "uinaf/skills",
-    "language": "Python",
-    "name": "uinaf/skills",
-    "stars": 4,
-    "updated_at": "2026-08-02T15:27:53Z",
-    "url": "https://github.com/uinaf/skills"
   },
   {
     "description": "Personal skills and workflows for Codex and GPT agents, turning repeatable judgment into reusable agent context.",
@@ -549,15 +648,6 @@
     "url": "https://github.com/TheAkbarifard/skills-introduction-to-git"
   },
   {
-    "description": "My clone repository",
-    "id": "masirka1/skills-copilot-codespaces-vscode",
-    "language": "\u2014",
-    "name": "masirka1/skills-copilot-codespaces-vscode",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:20:59Z",
-    "url": "https://github.com/masirka1/skills-copilot-codespaces-vscode"
-  },
-  {
     "description": "Exercise: Introduction to GitHub",
     "id": "Xrenkapos/skills-introduction-to-github2",
     "language": "\u2014",
@@ -808,95 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T15:15:45Z",
     "url": "https://github.com/CatCorner22/Claude_Skills_2"
-  },
-  {
-    "description": "",
-    "id": "lhgarciadev/data-engineering-skills",
-    "language": "\u2014",
-    "name": "lhgarciadev/data-engineering-skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:15:43Z",
-    "url": "https://github.com/lhgarciadev/data-engineering-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 15,
-    "updated_at": "2026-08-02T15:15:34Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-08-02T15:15:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "furrab/skills-getting-started-with-github-copilot",
-    "language": "JavaScript",
-    "name": "furrab/skills-getting-started-with-github-copilot",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:26:49Z",
-    "url": "https://github.com/furrab/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "",
-    "id": "BlueCatDayo/ctf-agent-skills",
-    "language": "\u2014",
-    "name": "BlueCatDayo/ctf-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:14:45Z",
-    "url": "https://github.com/BlueCatDayo/ctf-agent-skills"
-  },
-  {
-    "description": "SkillSwap Arena is an AI-powered peer learning and skill exchange platform that connects learners and mentors through sk",
-    "id": "joshi-chinmay-016/SkillSwap",
-    "language": "Python",
-    "name": "joshi-chinmay-016/SkillSwap",
-    "stars": 1,
-    "updated_at": "2026-08-02T15:14:27Z",
-    "url": "https://github.com/joshi-chinmay-016/SkillSwap"
-  },
-  {
-    "description": "SkillSwap is a peer-to-peer platform where creators and developers trade skills directly without monetary paywalls.",
-    "id": "MRxSHAYAN/SkillSwap",
-    "language": "JavaScript",
-    "name": "MRxSHAYAN/SkillSwap",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:14:00Z",
-    "url": "https://github.com/MRxSHAYAN/SkillSwap"
-  },
-  {
-    "description": "General-purpose Claude Code workflow skills: co-review and plan-with-docs",
-    "id": "bestdan/workflow-skills",
-    "language": "Shell",
-    "name": "bestdan/workflow-skills",
-    "stars": 3,
-    "updated_at": "2026-08-02T15:13:39Z",
-    "url": "https://github.com/bestdan/workflow-skills"
-  },
-  {
-    "description": "",
-    "id": "rupika-metta06/SkillSwap",
-    "language": "HTML",
-    "name": "rupika-metta06/SkillSwap",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:12:48Z",
-    "url": "https://github.com/rupika-metta06/SkillSwap"
-  },
-  {
-    "description": "",
-    "id": "dimdimah/project-ai-skills-skill",
-    "language": "JavaScript",
-    "name": "dimdimah/project-ai-skills-skill",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:12:08Z",
-    "url": "https://github.com/dimdimah/project-ai-skills-skill"
   }
 ]
