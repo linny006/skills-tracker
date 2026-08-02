@@ -1,5 +1,104 @@
 [
   {
+    "description": "\u4e00\u4e2a\u9ad8\u6027\u80fd\u7684\u76f4\u64ad\u5f55\u5236\u5f39\u5e55\u70e7\u5f55\u5de5\u5177\uff0c\u652f\u6301 Douyin XML \u548c \u53e3\u888b48 LRC \u4e24\u79cd\u5f39\u5e55\u683c\u5f0f\uff0c\u81ea\u52a8\u8f6c\u6362\u4e3a ASS \u5b57\u5e55\u70e7\u5f55\u8fdb\u89c6\u9891\u3002",
+    "id": "30466/burn-danmaku-skills",
+    "language": "\u2014",
+    "name": "30466/burn-danmaku-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:32:58Z",
+    "url": "https://github.com/30466/burn-danmaku-skills"
+  },
+  {
+    "description": "817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3F",
+    "id": "mukul975/Anthropic-Cybersecurity-Skills",
+    "language": "Python",
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "stars": 27146,
+    "updated_at": "2026-08-02T16:32:38Z",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "description": "",
+    "id": "Inspova/skills",
+    "language": "\u2014",
+    "name": "Inspova/skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:31:54Z",
+    "url": "https://github.com/Inspova/skills"
+  },
+  {
+    "description": "",
+    "id": "waka-ken/claude-skills",
+    "language": "JavaScript",
+    "name": "waka-ken/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:31:29Z",
+    "url": "https://github.com/waka-ken/claude-skills"
+  },
+  {
+    "description": "WorkBuddy \u81ea\u5b9a\u4e49\u6280\u80fd\u4ed3\u5e93 \u2014\u2014 \u5b58\u653e\u6211\u81ea\u5df1\u521b\u5efa/\u6539\u9020\u7684\u6280\u80fd\uff08\u5982\u62c6\u4e66\u64ad\u5ba2 book-to-podcast\u3001ima \u77e5\u8bc6\u5e93\u5165\u5e93\u7b49\uff09",
+    "id": "zhy092/custom-skills",
+    "language": "Python",
+    "name": "zhy092/custom-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:31:23Z",
+    "url": "https://github.com/zhy092/custom-skills"
+  },
+  {
+    "description": "",
+    "id": "goropikari/skills",
+    "language": "Python",
+    "name": "goropikari/skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:30:53Z",
+    "url": "https://github.com/goropikari/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-08-02T16:30:35Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 15,
+    "updated_at": "2026-08-02T16:30:34Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "",
+    "id": "ejarmand/skills",
+    "language": "Shell",
+    "name": "ejarmand/skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:30:29Z",
+    "url": "https://github.com/ejarmand/skills"
+  },
+  {
+    "description": "Locally authored agent skills, installable with npx skills. Runtime-agnostic (~/.agents/skills).",
+    "id": "Nortus222/agent-skills",
+    "language": "HTML",
+    "name": "Nortus222/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:30:25Z",
+    "url": "https://github.com/Nortus222/agent-skills"
+  },
+  {
+    "description": "",
+    "id": "BhavsarPoonam1409/elevance-skills-fullstack-webdevelopment",
+    "language": "HTML",
+    "name": "BhavsarPoonam1409/elevance-skills-fullstack-webdevelopment",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:30:23Z",
+    "url": "https://github.com/BhavsarPoonam1409/elevance-skills-fullstack-webdevelopment"
+  },
+  {
     "description": "",
     "id": "sonsu-lee/skills",
     "language": "Python",
@@ -45,15 +144,6 @@
     "url": "https://github.com/mr-mohamad-mr/ai-skills"
   },
   {
-    "description": "Locally authored agent skills, installable with npx skills. Runtime-agnostic (~/.agents/skills).",
-    "id": "Nortus222/agent-skills",
-    "language": "HTML",
-    "name": "Nortus222/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:30:25Z",
-    "url": "https://github.com/Nortus222/agent-skills"
-  },
-  {
     "description": "\u500b\u4ebaAgent Skills",
     "id": "zknow/skills",
     "language": "JavaScript",
@@ -79,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T16:29:03Z",
     "url": "https://github.com/scss1199/ai_fleet_skills"
-  },
-  {
-    "description": "",
-    "id": "Inspova/skills",
-    "language": "\u2014",
-    "name": "Inspova/skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:29:02Z",
-    "url": "https://github.com/Inspova/skills"
   },
   {
     "description": "",
@@ -221,7 +302,7 @@
     "language": "Python",
     "name": "sickn33/agentic-awesome-skills",
     "stars": 44299,
-    "updated_at": "2026-08-02T16:29:28Z",
+    "updated_at": "2026-08-02T16:31:20Z",
     "url": "https://github.com/sickn33/agentic-awesome-skills"
   },
   {
@@ -403,15 +484,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T16:22:07Z",
     "url": "https://github.com/polarislt0710/claude-skills-hugo"
-  },
-  {
-    "description": "",
-    "id": "ejarmand/skills",
-    "language": "Shell",
-    "name": "ejarmand/skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:30:29Z",
-    "url": "https://github.com/ejarmand/skills"
   },
   {
     "description": "Exercise: Introduction to CodeQL",
@@ -720,24 +792,6 @@
     "url": "https://github.com/Lbstrydom/claude-engineering-skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 15,
-    "updated_at": "2026-08-02T16:15:37Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-08-02T16:15:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Real world Skills for Agentic Engineers. These are the skills i'm actually using.",
     "id": "bpappin/skills",
     "language": "Shell",
@@ -844,59 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T16:12:57Z",
     "url": "https://github.com/bartcapote/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "Cross-harness agent skills for lightweight Open Knowledge Format documentation",
-    "id": "artemVeduta/okf-agent-skills",
-    "language": "HTML",
-    "name": "artemVeduta/okf-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:12:38Z",
-    "url": "https://github.com/artemVeduta/okf-agent-skills"
-  },
-  {
-    "description": "",
-    "id": "palamooradithyagoud/SkillsCatalyst",
-    "language": "TypeScript",
-    "name": "palamooradithyagoud/SkillsCatalyst",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:12:34Z",
-    "url": "https://github.com/palamooradithyagoud/SkillsCatalyst"
-  },
-  {
-    "description": "",
-    "id": "ctxswitch/skills",
-    "language": "Makefile",
-    "name": "ctxswitch/skills",
-    "stars": 1,
-    "updated_at": "2026-08-02T16:12:11Z",
-    "url": "https://github.com/ctxswitch/skills"
-  },
-  {
-    "description": "Agent skills for Email Bump \u2014 teach your coding agent to send email, manage audiences, run campaigns, and stay deliverab",
-    "id": "danest/emailbump-skills",
-    "language": "\u2014",
-    "name": "danest/emailbump-skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:12:08Z",
-    "url": "https://github.com/danest/emailbump-skills"
-  },
-  {
-    "description": "Claude Code skill for rigorous academic paper writing, revision, and submission. Field-agnostic with per-paper journal o",
-    "id": "WenyuChiou/academic-writing-skills",
-    "language": "Python",
-    "name": "WenyuChiou/academic-writing-skills",
-    "stars": 10,
-    "updated_at": "2026-08-02T16:12:00Z",
-    "url": "https://github.com/WenyuChiou/academic-writing-skills"
-  },
-  {
-    "description": "Useful LLM skills",
-    "id": "terebentina/skills",
-    "language": "Shell",
-    "name": "terebentina/skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:12:00Z",
-    "url": "https://github.com/terebentina/skills"
   }
 ]
