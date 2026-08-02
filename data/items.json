@@ -1,5 +1,95 @@
 [
   {
+    "description": "Collected agent skills, and symlinking CLI utility.",
+    "id": "pnewsam/skills",
+    "language": "Go",
+    "name": "pnewsam/skills",
+    "stars": 1,
+    "updated_at": "2026-08-02T21:31:23Z",
+    "url": "https://github.com/pnewsam/skills"
+  },
+  {
+    "description": "Cursor agent skills suite: build router, architecture, frontend eng/design, product acceptance",
+    "id": "fstubner/agent-skills",
+    "language": "JavaScript",
+    "name": "fstubner/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:31:16Z",
+    "url": "https://github.com/fstubner/agent-skills"
+  },
+  {
+    "description": "",
+    "id": "beer-sakthai/hermes-agent-skills-sakjules",
+    "language": "Python",
+    "name": "beer-sakthai/hermes-agent-skills-sakjules",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:31:12Z",
+    "url": "https://github.com/beer-sakthai/hermes-agent-skills-sakjules"
+  },
+  {
+    "description": "Curated collection of AI agent skills for Hermes and other agent frameworks",
+    "id": "magnus919/agent-skills",
+    "language": "Python",
+    "name": "magnus919/agent-skills",
+    "stars": 26,
+    "updated_at": "2026-08-02T21:31:38Z",
+    "url": "https://github.com/magnus919/agent-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 15,
+    "updated_at": "2026-08-02T21:30:38Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "",
+    "id": "JonathanPorta/ai-skills",
+    "language": "Python",
+    "name": "JonathanPorta/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:30:36Z",
+    "url": "https://github.com/JonathanPorta/ai-skills"
+  },
+  {
+    "description": "",
+    "id": "DeepDiver1975/claude-rpg-skills",
+    "language": "Python",
+    "name": "DeepDiver1975/claude-rpg-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:31:55Z",
+    "url": "https://github.com/DeepDiver1975/claude-rpg-skills"
+  },
+  {
+    "description": "",
+    "id": "beer-sakthai/hermes-agent-skills-saksit",
+    "language": "Python",
+    "name": "beer-sakthai/hermes-agent-skills-saksit",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:30:31Z",
+    "url": "https://github.com/beer-sakthai/hermes-agent-skills-saksit"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-08-02T21:30:29Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Claude Code skills for external P4A policy authors \u2014 MCP usage, building a submittable policy repo, and verifying submis",
+    "id": "P4A-Policies-for-Agents/p4a-skills",
+    "language": "\u2014",
+    "name": "P4A-Policies-for-Agents/p4a-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:30:28Z",
+    "url": "https://github.com/P4A-Policies-for-Agents/p4a-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -18,21 +108,12 @@
     "url": "https://github.com/smyx-sunjinhui/smyx-open-claw-skills"
   },
   {
-    "description": "",
-    "id": "beer-sakthai/hermes-agent-skills-saksit",
-    "language": "\u2014",
-    "name": "beer-sakthai/hermes-agent-skills-saksit",
-    "stars": 0,
-    "updated_at": "2026-08-02T21:30:05Z",
-    "url": "https://github.com/beer-sakthai/hermes-agent-skills-saksit"
-  },
-  {
     "description": "Exercise: Secure your Repository Supply Chain",
     "id": "HtinLinNaing/skills-secure-repository-supply-chain",
     "language": "C#",
     "name": "HtinLinNaing/skills-secure-repository-supply-chain",
     "stars": 0,
-    "updated_at": "2026-08-02T21:30:05Z",
+    "updated_at": "2026-08-02T21:32:04Z",
     "url": "https://github.com/HtinLinNaing/skills-secure-repository-supply-chain"
   },
   {
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T21:29:26Z",
     "url": "https://github.com/WangBaoHe333/claude-code-skills-hub"
-  },
-  {
-    "description": "Curated collection of AI agent skills for Hermes and other agent frameworks",
-    "id": "magnus919/agent-skills",
-    "language": "Python",
-    "name": "magnus919/agent-skills",
-    "stars": 26,
-    "updated_at": "2026-08-02T21:29:41Z",
-    "url": "https://github.com/magnus919/agent-skills"
   },
   {
     "description": "",
@@ -167,7 +239,7 @@
     "language": "\u2014",
     "name": "arglbrce/skills-connect-the-dots",
     "stars": 0,
-    "updated_at": "2026-08-02T21:28:09Z",
+    "updated_at": "2026-08-02T21:31:29Z",
     "url": "https://github.com/arglbrce/skills-connect-the-dots"
   },
   {
@@ -297,21 +369,12 @@
     "url": "https://github.com/standiai/standi-skills"
   },
   {
-    "description": "Claude Code skills for external P4A policy authors \u2014 MCP usage, building a submittable policy repo, and verifying submis",
-    "id": "P4A-Policies-for-Agents/p4a-skills",
-    "language": "\u2014",
-    "name": "P4A-Policies-for-Agents/p4a-skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T21:22:09Z",
-    "url": "https://github.com/P4A-Policies-for-Agents/p4a-skills"
-  },
-  {
     "description": "",
     "id": "rwn34/rwn-multi-cli-skills",
     "language": "Shell",
     "name": "rwn34/rwn-multi-cli-skills",
     "stars": 0,
-    "updated_at": "2026-08-02T21:28:13Z",
+    "updated_at": "2026-08-02T21:31:26Z",
     "url": "https://github.com/rwn34/rwn-multi-cli-skills"
   },
   {
@@ -459,15 +522,6 @@
     "url": "https://github.com/judesamp/rails-modernization-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-08-02T21:15:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "",
     "id": "paulingram/claude-skills",
     "language": "Python",
@@ -475,15 +529,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T21:15:30Z",
     "url": "https://github.com/paulingram/claude-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 15,
-    "updated_at": "2026-08-02T21:15:29Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -684,15 +729,6 @@
     "url": "https://github.com/skflowne/ai-skills"
   },
   {
-    "description": "",
-    "id": "DeepDiver1975/claude-rpg-skills",
-    "language": "Python",
-    "name": "DeepDiver1975/claude-rpg-skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T21:07:54Z",
-    "url": "https://github.com/DeepDiver1975/claude-rpg-skills"
-  },
-  {
     "description": "My clone repository",
     "id": "dxvanshhh/skills-copilot-codespaces-vscode",
     "language": "\u2014",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T21:00:34Z",
     "url": "https://github.com/dennexequiel/skills"
-  },
-  {
-    "description": "Skills I use to execute long-running coding agents without breaking my back.",
-    "id": "Parcha-ai/parcha-skills",
-    "language": "Python",
-    "name": "Parcha-ai/parcha-skills",
-    "stars": 15,
-    "updated_at": "2026-08-02T21:00:50Z",
-    "url": "https://github.com/Parcha-ai/parcha-skills"
-  },
-  {
-    "description": "Curated Seedance 2.5 prompt library with source-backed video cases, reusable production workflows, playable previews, an",
-    "id": "imagineVid/Awesome-seedance-2-5-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-seedance-2-5-prompts-and-skills",
-    "stars": 2,
-    "updated_at": "2026-08-02T21:00:14Z",
-    "url": "https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills"
-  },
-  {
-    "description": "Post-GWAS analysis skills for AI coding agents: MR, colocalization, TWAS, and more",
-    "id": "zoebischuribe-cloud/postgwas-skills",
-    "language": "\u2014",
-    "name": "zoebischuribe-cloud/postgwas-skills",
-    "stars": 3,
-    "updated_at": "2026-08-02T20:59:31Z",
-    "url": "https://github.com/zoebischuribe-cloud/postgwas-skills"
-  },
-  {
-    "description": "A collection of agents skills",
-    "id": "AbhishekSharma-17/skills-graph",
-    "language": "Python",
-    "name": "AbhishekSharma-17/skills-graph",
-    "stars": 1,
-    "updated_at": "2026-08-02T20:58:55Z",
-    "url": "https://github.com/AbhishekSharma-17/skills-graph"
   }
 ]
