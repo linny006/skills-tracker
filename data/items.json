@@ -1,5 +1,32 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-03T04:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Personal AI agent skills, starting with image-deck.",
+    "id": "tseng71/skills",
+    "language": "Python",
+    "name": "tseng71/skills",
+    "stars": 2,
+    "updated_at": "2026-08-03T04:45:09Z",
+    "url": "https://github.com/tseng71/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-08-03T04:44:50Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Auto-generated agent skills from trending OpenAI Codex repos, by ara.so",
     "id": "Aradotso/codex-skills",
     "language": "\u2014",
@@ -19,6 +46,15 @@
   },
   {
     "description": "",
+    "id": "mr-mohamad-mr/ai-skills",
+    "language": "TypeScript",
+    "name": "mr-mohamad-mr/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-08-03T04:44:24Z",
+    "url": "https://github.com/mr-mohamad-mr/ai-skills"
+  },
+  {
+    "description": "",
     "id": "Shulbhi18/skills-test-with-actions",
     "language": "Python",
     "name": "Shulbhi18/skills-test-with-actions",
@@ -34,6 +70,15 @@
     "stars": 2578,
     "updated_at": "2026-08-03T04:44:21Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
+  },
+  {
+    "description": "\u6536\u96c6\u5404\u7c7b\u6295\u8d44skills\uff0c\u8f85\u52a9\u6295\u8d44\u51b3\u7b56",
+    "id": "FrenkieLeo/TradeSkills",
+    "language": "Shell",
+    "name": "FrenkieLeo/TradeSkills",
+    "stars": 0,
+    "updated_at": "2026-08-03T04:44:10Z",
+    "url": "https://github.com/FrenkieLeo/TradeSkills"
   },
   {
     "description": "My clone repository",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "REVREBEL/skills-rebuild",
     "stars": 0,
-    "updated_at": "2026-08-03T04:43:17Z",
+    "updated_at": "2026-08-03T04:44:48Z",
     "url": "https://github.com/REVREBEL/skills-rebuild"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "kouko/monkey-skills",
     "stars": 5,
-    "updated_at": "2026-08-03T04:39:19Z",
+    "updated_at": "2026-08-03T04:45:11Z",
     "url": "https://github.com/kouko/monkey-skills"
   },
   {
@@ -304,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T04:36:08Z",
     "url": "https://github.com/Alfred-Lau/skills"
-  },
-  {
-    "description": "\u6536\u96c6\u5404\u7c7b\u6295\u8d44skills\uff0c\u8f85\u52a9\u6295\u8d44\u51b3\u7b56",
-    "id": "FrenkieLeo/TradeSkills",
-    "language": "Shell",
-    "name": "FrenkieLeo/TradeSkills",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:44:10Z",
-    "url": "https://github.com/FrenkieLeo/TradeSkills"
   },
   {
     "description": "A collection of Agent Skills",
@@ -495,24 +531,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-08-03T04:30:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-03T04:30:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "All skills required to start a project",
     "id": "zeroes-ones/Skills",
     "language": "Shell",
@@ -599,7 +617,7 @@
     "language": "TypeScript",
     "name": "reddb-io/red-skills",
     "stars": 0,
-    "updated_at": "2026-08-03T04:44:45Z",
+    "updated_at": "2026-08-03T04:45:21Z",
     "url": "https://github.com/reddb-io/red-skills"
   },
   {
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T04:17:30Z",
     "url": "https://github.com/mangodizet/ai-express-skills"
-  },
-  {
-    "description": "",
-    "id": "taylorelley/skills",
-    "language": "JavaScript",
-    "name": "taylorelley/skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:17:29Z",
-    "url": "https://github.com/taylorelley/skills"
-  },
-  {
-    "description": "Claude skills I've created",
-    "id": "dschach/claude-skills",
-    "language": "JavaScript",
-    "name": "dschach/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:17:50Z",
-    "url": "https://github.com/dschach/claude-skills"
   }
 ]
