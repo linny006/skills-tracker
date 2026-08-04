@@ -1,12 +1,75 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-04T16:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "invisibleaxme/skills-review-pull-requests",
+    "language": "HTML",
+    "name": "invisibleaxme/skills-review-pull-requests",
+    "stars": 0,
+    "updated_at": "2026-08-04T16:45:09Z",
+    "url": "https://github.com/invisibleaxme/skills-review-pull-requests"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-08-04T16:44:24Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "Neelu1112/skills-release-based-workflow",
+    "language": "JavaScript",
+    "name": "Neelu1112/skills-release-based-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-04T16:44:20Z",
+    "url": "https://github.com/Neelu1112/skills-release-based-workflow"
+  },
+  {
+    "description": "\u8bd5\u754cTryWorld \u5168\u90e8 Skills \u5408\u96c6\uff1a\u7eb8\u4e0a\u7b97\u6cd5\u89c6\u9891\u3001\u53e3\u64ad\u5de5\u4f5c\u6d41\u3001AIHOT \u9009\u9898\u3001\u6a2a\u7eb5\u5206\u6790\u3001\u516c\u4f17\u53f7\u5199\u4f5c",
+    "id": "TryWorld2026/tryworld-skills",
+    "language": "Python",
+    "name": "TryWorld2026/tryworld-skills",
+    "stars": 0,
+    "updated_at": "2026-08-04T16:44:18Z",
+    "url": "https://github.com/TryWorld2026/tryworld-skills"
+  },
+  {
+    "description": "A portable, agent-friendly skill library served as an MCP server. Drop it into any project and AI agents across Codex, C",
+    "id": "coastdigitalgroup/coastai-skills",
+    "language": "HTML",
+    "name": "coastdigitalgroup/coastai-skills",
+    "stars": 2,
+    "updated_at": "2026-08-04T16:44:16Z",
+    "url": "https://github.com/coastdigitalgroup/coastai-skills"
+  },
+  {
     "description": "my-ai-prompt-and-skills",
     "id": "cemalevli38/my-ai-prompt-and-skills",
     "language": "\u2014",
     "name": "cemalevli38/my-ai-prompt-and-skills",
     "stars": 0,
-    "updated_at": "2026-08-04T16:44:07Z",
+    "updated_at": "2026-08-04T16:45:33Z",
     "url": "https://github.com/cemalevli38/my-ai-prompt-and-skills"
+  },
+  {
+    "description": "",
+    "id": "Bubblefish888/skills",
+    "language": "JavaScript",
+    "name": "Bubblefish888/skills",
+    "stars": 0,
+    "updated_at": "2026-08-04T16:44:07Z",
+    "url": "https://github.com/Bubblefish888/skills"
   },
   {
     "description": "",
@@ -28,21 +91,30 @@
   },
   {
     "description": "",
+    "id": "Neko-Tsuki/3DGS-skills-launcher",
+    "language": "Python",
+    "name": "Neko-Tsuki/3DGS-skills-launcher",
+    "stars": 0,
+    "updated_at": "2026-08-04T16:43:27Z",
+    "url": "https://github.com/Neko-Tsuki/3DGS-skills-launcher"
+  },
+  {
+    "description": "",
+    "id": "smartbizlab/skillsdiagnostic",
+    "language": "HTML",
+    "name": "smartbizlab/skillsdiagnostic",
+    "stars": 0,
+    "updated_at": "2026-08-04T16:43:06Z",
+    "url": "https://github.com/smartbizlab/skillsdiagnostic"
+  },
+  {
+    "description": "",
     "id": "RentschlerTobias/Skills",
     "language": "HTML",
     "name": "RentschlerTobias/Skills",
     "stars": 0,
     "updated_at": "2026-08-04T16:42:54Z",
     "url": "https://github.com/RentschlerTobias/Skills"
-  },
-  {
-    "description": "",
-    "id": "Bubblefish888/skills",
-    "language": "JavaScript",
-    "name": "Bubblefish888/skills",
-    "stars": 0,
-    "updated_at": "2026-08-04T16:44:07Z",
-    "url": "https://github.com/Bubblefish888/skills"
   },
   {
     "description": "Frontend for SkillSprint, an AI-powered learning platform for personalized skill roadmaps, progress tracking, communitie",
@@ -90,6 +162,15 @@
     "url": "https://github.com/firebase/agent-skills"
   },
   {
+    "description": "",
+    "id": "giantmonkey/agent-skills",
+    "language": "JavaScript",
+    "name": "giantmonkey/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-08-04T16:42:07Z",
+    "url": "https://github.com/giantmonkey/agent-skills"
+  },
+  {
     "description": "Exercise: Agentic Workflows That Read the Room",
     "id": "45H15H/skills-agentic-workflows-that-read-the-room",
     "language": "Astro",
@@ -97,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T16:42:00Z",
     "url": "https://github.com/45H15H/skills-agentic-workflows-that-read-the-room"
-  },
-  {
-    "description": "\u8bd5\u754cTryWorld \u5168\u90e8 Skills \u5408\u96c6\uff1a\u7eb8\u4e0a\u7b97\u6cd5\u89c6\u9891\u3001\u53e3\u64ad\u5de5\u4f5c\u6d41\u3001AIHOT \u9009\u9898\u3001\u6a2a\u7eb5\u5206\u6790\u3001\u516c\u4f17\u53f7\u5199\u4f5c",
-    "id": "TryWorld2026/tryworld-skills",
-    "language": "Python",
-    "name": "TryWorld2026/tryworld-skills",
-    "stars": 0,
-    "updated_at": "2026-08-04T16:44:18Z",
-    "url": "https://github.com/TryWorld2026/tryworld-skills"
   },
   {
     "description": "Skills platform validation working instance \u2014 2nd team",
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "liuli195/my-agent-skills",
     "stars": 0,
-    "updated_at": "2026-08-04T16:41:38Z",
+    "updated_at": "2026-08-04T16:45:28Z",
     "url": "https://github.com/liuli195/my-agent-skills"
   },
   {
@@ -180,15 +252,6 @@
     "url": "https://github.com/mohitrawat-ai/skills"
   },
   {
-    "description": "",
-    "id": "Neelu1112/skills-release-based-workflow",
-    "language": "JavaScript",
-    "name": "Neelu1112/skills-release-based-workflow",
-    "stars": 0,
-    "updated_at": "2026-08-04T16:43:55Z",
-    "url": "https://github.com/Neelu1112/skills-release-based-workflow"
-  },
-  {
     "description": "MCP server, A2A card and Algorand registry decoders for Ripar agents",
     "id": "nickthelegend/ripar-skills",
     "language": "TypeScript",
@@ -205,15 +268,6 @@
     "stars": 5,
     "updated_at": "2026-08-04T16:40:22Z",
     "url": "https://github.com/grahama1970/agent-skills"
-  },
-  {
-    "description": "",
-    "id": "Neko-Tsuki/3DGS-skills-launcher",
-    "language": "Python",
-    "name": "Neko-Tsuki/3DGS-skills-launcher",
-    "stars": 0,
-    "updated_at": "2026-08-04T16:43:27Z",
-    "url": "https://github.com/Neko-Tsuki/3DGS-skills-launcher"
   },
   {
     "description": "A record label in a box.",
@@ -266,7 +320,7 @@
     "language": "HTML",
     "name": "ElliotZhang-cd/custom-skills",
     "stars": 0,
-    "updated_at": "2026-08-04T16:39:46Z",
+    "updated_at": "2026-08-04T16:44:47Z",
     "url": "https://github.com/ElliotZhang-cd/custom-skills"
   },
   {
@@ -331,15 +385,6 @@
     "stars": 23,
     "updated_at": "2026-08-04T16:39:07Z",
     "url": "https://github.com/datarobot-oss/datarobot-agent-skills"
-  },
-  {
-    "description": "A portable, agent-friendly skill library served as an MCP server. Drop it into any project and AI agents across Codex, C",
-    "id": "coastdigitalgroup/coastai-skills",
-    "language": "HTML",
-    "name": "coastdigitalgroup/coastai-skills",
-    "stars": 2,
-    "updated_at": "2026-08-04T16:44:16Z",
-    "url": "https://github.com/coastdigitalgroup/coastai-skills"
   },
   {
     "description": "",
@@ -412,15 +457,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T16:38:15Z",
     "url": "https://github.com/Anjan-Kumar-Sahoo/SkillSync"
-  },
-  {
-    "description": "Exercise: Introduction to CodeQL",
-    "id": "Nightstalker81/skills-introduction-to-codeql",
-    "language": "Python",
-    "name": "Nightstalker81/skills-introduction-to-codeql",
-    "stars": 0,
-    "updated_at": "2026-08-04T16:38:15Z",
-    "url": "https://github.com/Nightstalker81/skills-introduction-to-codeql"
   },
   {
     "description": "Improve your AI coding tool's design output with modular, self-contained skills for Claude Code, Cursor, and Windsurf.",
@@ -601,15 +637,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T16:34:33Z",
     "url": "https://github.com/twinzom/deep-agents-public-agent-skills"
-  },
-  {
-    "description": "",
-    "id": "LTB-Austin/ltb-skills",
-    "language": "\u2014",
-    "name": "LTB-Austin/ltb-skills",
-    "stars": 0,
-    "updated_at": "2026-08-04T16:34:30Z",
-    "url": "https://github.com/LTB-Austin/ltb-skills"
   },
   {
     "description": "",
@@ -864,15 +891,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-08-04T16:30:34Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Exercise: Get started using GitHub Copilot",
     "id": "mbsaharan/skills-getting-started-with-github-copilot",
     "language": "Python",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T16:30:27Z",
     "url": "https://github.com/mbsaharan/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "",
-    "id": "theagentbank/skills",
-    "language": "JavaScript",
-    "name": "theagentbank/skills",
-    "stars": 0,
-    "updated_at": "2026-08-04T16:30:25Z",
-    "url": "https://github.com/theagentbank/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-08-04T16:30:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   }
 ]
