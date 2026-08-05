@@ -1,5 +1,50 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-05T11:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "narunnaga83/skills-communicate-using-markdown",
+    "language": "\u2014",
+    "name": "narunnaga83/skills-communicate-using-markdown",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:45:15Z",
+    "url": "https://github.com/narunnaga83/skills-communicate-using-markdown"
+  },
+  {
+    "description": "",
+    "id": "alannkl/skills",
+    "language": "\u2014",
+    "name": "alannkl/skills",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:45:11Z",
+    "url": "https://github.com/alannkl/skills"
+  },
+  {
+    "description": "A Claude Code harness \u2014 subagent review personas, permission hooks that deny the irreversible floor, and a generic skill",
+    "id": "tedeuxx/tadeumendonca-skills",
+    "language": "Shell",
+    "name": "tedeuxx/tadeumendonca-skills",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:45:06Z",
+    "url": "https://github.com/tedeuxx/tadeumendonca-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-08-05T11:45:02Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Collection of useful skills when working with LiaScript",
     "id": "LiaScript/skills",
     "language": "\u2014",
@@ -9,13 +54,13 @@
     "url": "https://github.com/LiaScript/skills"
   },
   {
-    "description": "A Claude Code harness \u2014 subagent review personas, permission hooks that deny the irreversible floor, and a generic skill",
-    "id": "tedeuxx/tadeumendonca-skills",
-    "language": "Shell",
-    "name": "tedeuxx/tadeumendonca-skills",
+    "description": "",
+    "id": "FailproofAI/skills",
+    "language": "JavaScript",
+    "name": "FailproofAI/skills",
     "stars": 0,
-    "updated_at": "2026-08-05T11:44:47Z",
-    "url": "https://github.com/tedeuxx/tadeumendonca-skills"
+    "updated_at": "2026-08-05T11:44:48Z",
+    "url": "https://github.com/FailproofAI/skills"
   },
   {
     "description": "",
@@ -536,7 +581,7 @@
     "language": "Python",
     "name": "stbenjam/skills",
     "stars": 1,
-    "updated_at": "2026-08-05T11:44:43Z",
+    "updated_at": "2026-08-05T11:45:25Z",
     "url": "https://github.com/stbenjam/skills"
   },
   {
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T11:32:49Z",
     "url": "https://github.com/desbma/agent-skills"
-  },
-  {
-    "description": "",
-    "id": "whatwasthatbro12/SkillSplore",
-    "language": "TypeScript",
-    "name": "whatwasthatbro12/SkillSplore",
-    "stars": 0,
-    "updated_at": "2026-08-05T11:32:06Z",
-    "url": "https://github.com/whatwasthatbro12/SkillSplore"
-  },
-  {
-    "description": "",
-    "id": "safaaeltom/React-SkillsLab",
-    "language": "JavaScript",
-    "name": "safaaeltom/React-SkillsLab",
-    "stars": 0,
-    "updated_at": "2026-08-05T11:31:32Z",
-    "url": "https://github.com/safaaeltom/React-SkillsLab"
-  },
-  {
-    "description": "",
-    "id": "kamanzidjazili20og/Mordern_skills",
-    "language": "HTML",
-    "name": "kamanzidjazili20og/Mordern_skills",
-    "stars": 0,
-    "updated_at": "2026-08-05T11:31:25Z",
-    "url": "https://github.com/kamanzidjazili20og/Mordern_skills"
-  },
-  {
-    "description": "iEvo \u2014 self-evolving plugin for Claude Code. Capture lessons, patch local agents and skills, replay logs on upstream upd",
-    "id": "ievo-ai/skills",
-    "language": "JavaScript",
-    "name": "ievo-ai/skills",
-    "stars": 0,
-    "updated_at": "2026-08-05T11:31:16Z",
-    "url": "https://github.com/ievo-ai/skills"
-  },
-  {
-    "description": "Claude Code plugins for Shopify merchants by Ecommerce Academy",
-    "id": "ecomacademyau/ecomacademy-skills",
-    "language": "Liquid",
-    "name": "ecomacademyau/ecomacademy-skills",
-    "stars": 0,
-    "updated_at": "2026-08-05T11:31:15Z",
-    "url": "https://github.com/ecomacademyau/ecomacademy-skills"
   }
 ]
