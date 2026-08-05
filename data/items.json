@@ -1,5 +1,41 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-05T09:45:26Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u9762\u5411\u6cd5\u5f8b\u4eba\u7684 Skills \u96c6\u5408\u3002",
+    "id": "cat-xierluo/legal-skills",
+    "language": "Python",
+    "name": "cat-xierluo/legal-skills",
+    "stars": 545,
+    "updated_at": "2026-08-05T09:45:16Z",
+    "url": "https://github.com/cat-xierluo/legal-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-08-05T09:45:11Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Bhartiya Skills Website",
+    "id": "skillsbhartiya/BHARTIYA-SKILLS",
+    "language": "TypeScript",
+    "name": "skillsbhartiya/BHARTIYA-SKILLS",
+    "stars": 0,
+    "updated_at": "2026-08-05T09:45:04Z",
+    "url": "https://github.com/skillsbhartiya/BHARTIYA-SKILLS"
+  },
+  {
     "description": "Exercise: Introduction to Git",
     "id": "BxAnnePokela/skills-introduction-to-git",
     "language": "\u2014",
@@ -95,7 +131,7 @@
     "language": "\u2014",
     "name": "zhezz931931/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-08-05T09:43:30Z",
+    "updated_at": "2026-08-05T09:45:12Z",
     "url": "https://github.com/zhezz931931/skills-introduction-to-github"
   },
   {
@@ -187,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-08-05T09:41:56Z",
     "url": "https://github.com/thanhhuy44/filixer-skills"
+  },
+  {
+    "description": "Created by Rork",
+    "id": "alirashid19-ops/skillswap-community",
+    "language": "TypeScript",
+    "name": "alirashid19-ops/skillswap-community",
+    "stars": 0,
+    "updated_at": "2026-08-05T09:41:38Z",
+    "url": "https://github.com/alirashid19-ops/skillswap-community"
   },
   {
     "description": "Exercise: Build applications with GitHub Copilot agent mode",
@@ -439,24 +484,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T09:44:37Z",
     "url": "https://github.com/QNFO/qnfo-skills"
-  },
-  {
-    "description": "Created by Rork",
-    "id": "alirashid19-ops/skillswap-community",
-    "language": "TypeScript",
-    "name": "alirashid19-ops/skillswap-community",
-    "stars": 0,
-    "updated_at": "2026-08-05T09:41:38Z",
-    "url": "https://github.com/alirashid19-ops/skillswap-community"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "ErikTurciosFC/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "ErikTurciosFC/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-05T09:37:36Z",
-    "url": "https://github.com/ErikTurciosFC/skills-introduction-to-github"
   },
   {
     "description": "Exercise: Introduction to Git",
@@ -774,15 +801,6 @@
     "url": "https://github.com/microsoft/power-platform-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-08-05T09:30:40Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "",
     "id": "AlMamunTalukder/craft-skills-client",
     "language": "HTML",
@@ -817,15 +835,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T09:30:26Z",
     "url": "https://github.com/vmanjumanigandan-cpu/skills-introduction-to-github_1"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-08-05T09:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T09:29:10Z",
     "url": "https://github.com/JZL-666/skills-learning"
-  },
-  {
-    "description": "",
-    "id": "unisong114/skills-code-with-codespaces",
-    "language": "Python",
-    "name": "unisong114/skills-code-with-codespaces",
-    "stars": 0,
-    "updated_at": "2026-08-05T09:28:49Z",
-    "url": "https://github.com/unisong114/skills-code-with-codespaces"
   }
 ]
