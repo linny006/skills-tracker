@@ -1,5 +1,32 @@
 [
   {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "akmfga/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "akmfga/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-08-07T22:00:43Z",
+    "url": "https://github.com/akmfga/skills-introduction-to-github"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 13,
+    "updated_at": "2026-08-07T22:00:35Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 18,
+    "updated_at": "2026-08-07T22:00:34Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -342,15 +369,6 @@
     "url": "https://github.com/mertsenguner/skills-getting-started-with-github-copilot"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 18,
-    "updated_at": "2026-08-07T21:49:28Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "",
     "id": "rumbleroii/Personal-Skills",
     "language": "\u2014",
@@ -421,15 +439,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T21:45:38Z",
     "url": "https://github.com/Kelli9/ai-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 13,
-    "updated_at": "2026-08-07T21:45:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T21:35:14Z",
     "url": "https://github.com/FedericoMizzau/skills-study"
-  },
-  {
-    "description": "",
-    "id": "rAsAfrica1/rise-africa-skills",
-    "language": "HTML",
-    "name": "rAsAfrica1/rise-africa-skills",
-    "stars": 0,
-    "updated_at": "2026-08-07T21:35:08Z",
-    "url": "https://github.com/rAsAfrica1/rise-africa-skills"
   }
 ]
