@@ -1,12 +1,30 @@
 [
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
+    "id": "arilivigni/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "language": "\u2014",
+    "name": "arilivigni/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "stars": 0,
+    "updated_at": "2026-08-07T00:30:43Z",
+    "url": "https://github.com/arilivigni/skills-scale-institutional-knowledge-using-copilot-spaces"
+  },
+  {
+    "description": "Exercise: Expand your team with GitHub Copilot cloud agent",
+    "id": "Precious-Uche-Ajuru/skills-expand-your-team-with-copilot",
+    "language": "JavaScript",
+    "name": "Precious-Uche-Ajuru/skills-expand-your-team-with-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-07T00:30:42Z",
+    "url": "https://github.com/Precious-Uche-Ajuru/skills-expand-your-team-with-copilot"
+  },
+  {
+    "description": "",
+    "id": "liuyu362/SKILLS",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-07T00:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "liuyu362/SKILLS",
+    "stars": 0,
+    "updated_at": "2026-08-07T00:30:36Z",
+    "url": "https://github.com/liuyu362/SKILLS"
   },
   {
     "description": "",
@@ -14,8 +32,35 @@
     "language": "TypeScript",
     "name": "mr-mohamad-mr/ai-skills",
     "stars": 0,
-    "updated_at": "2026-08-07T00:30:11Z",
+    "updated_at": "2026-08-07T00:30:32Z",
     "url": "https://github.com/mr-mohamad-mr/ai-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 13,
+    "updated_at": "2026-08-07T00:30:30Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 18,
+    "updated_at": "2026-08-07T00:30:30Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-07T00:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
@@ -302,7 +347,7 @@
     "language": "\u2014",
     "name": "yanyu03/agent-skills-daily-report",
     "stars": 1,
-    "updated_at": "2026-08-07T00:29:47Z",
+    "updated_at": "2026-08-07T00:30:36Z",
     "url": "https://github.com/yanyu03/agent-skills-daily-report"
   },
   {
@@ -513,15 +558,6 @@
     "url": "https://github.com/AlMamunTalukder/craft-skills-client"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 13,
-    "updated_at": "2026-08-07T00:15:40Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "About Skills for Real Engineers. Straight from my experience.",
     "id": "Oscaner/skills",
     "language": "Shell",
@@ -529,15 +565,6 @@
     "stars": 41,
     "updated_at": "2026-08-07T00:22:39Z",
     "url": "https://github.com/Oscaner/skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 18,
-    "updated_at": "2026-08-07T00:15:30Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "\ud83d\udcaa Enhance your Claude Code superpowers with a community-driven library of skills and utility scripts for seamless skill ",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T00:05:55Z",
     "url": "https://github.com/juanxo90/edge_gallery_skills"
-  },
-  {
-    "description": "",
-    "id": "Starchild-ai-agent/community-skills",
-    "language": "Python",
-    "name": "Starchild-ai-agent/community-skills",
-    "stars": 1,
-    "updated_at": "2026-08-07T00:05:43Z",
-    "url": "https://github.com/Starchild-ai-agent/community-skills"
-  },
-  {
-    "description": "",
-    "id": "jasonharmongit/skills",
-    "language": "\u2014",
-    "name": "jasonharmongit/skills",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:04:23Z",
-    "url": "https://github.com/jasonharmongit/skills"
-  },
-  {
-    "description": "Fleet skill federation \u2014 contributors/darkhero + contributors/scar3",
-    "id": "scss1199/ai_fleet_skills",
-    "language": "Python",
-    "name": "scss1199/ai_fleet_skills",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:04:10Z",
-    "url": "https://github.com/scss1199/ai_fleet_skills"
   }
 ]
