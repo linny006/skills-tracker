@@ -1,5 +1,32 @@
 [
   {
+    "description": "Library of 36 machine-checked agent skills for ML and AI consulting: 24 hard-gate skills plus 12 expert-tier references",
+    "id": "seraphinerenard/skills",
+    "language": "\u2014",
+    "name": "seraphinerenard/skills",
+    "stars": 0,
+    "updated_at": "2026-08-07T16:30:23Z",
+    "url": "https://github.com/seraphinerenard/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-07T16:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 13,
+    "updated_at": "2026-08-07T16:30:16Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Personal skills",
     "id": "aoshimash/skills",
     "language": "\u2014",
@@ -16,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-08-07T16:30:04Z",
     "url": "https://github.com/StaffOps/staffops-skills"
+  },
+  {
+    "description": "Soccer skills tracker application development repository.",
+    "id": "blueneekone/soccer_skills_tracker",
+    "language": "JavaScript",
+    "name": "blueneekone/soccer_skills_tracker",
+    "stars": 1,
+    "updated_at": "2026-08-07T16:29:40Z",
+    "url": "https://github.com/blueneekone/soccer_skills_tracker"
   },
   {
     "description": "Skills for styles, redesing, impove webs and webapps",
@@ -54,6 +90,15 @@
     "url": "https://github.com/Artxiom/skills"
   },
   {
+    "description": "DeepFlowHunter security agent skills: vulnerability definitions + whitebox/blackbox plugins by vuln type (Critical/High ",
+    "id": "SummerSec/DeepSonar-Skills",
+    "language": "Shell",
+    "name": "SummerSec/DeepSonar-Skills",
+    "stars": 0,
+    "updated_at": "2026-08-07T16:29:01Z",
+    "url": "https://github.com/SummerSec/DeepSonar-Skills"
+  },
+  {
     "description": "Public skills and assets for students",
     "id": "carlmsu1/seidman-fpa-skills",
     "language": "\u2014",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T16:28:18Z",
     "url": "https://github.com/martonpaulo/skills"
-  },
-  {
-    "description": "Soccer skills tracker application development repository.",
-    "id": "blueneekone/soccer_skills_tracker",
-    "language": "JavaScript",
-    "name": "blueneekone/soccer_skills_tracker",
-    "stars": 1,
-    "updated_at": "2026-08-07T16:29:40Z",
-    "url": "https://github.com/blueneekone/soccer_skills_tracker"
   },
   {
     "description": "Collection of reusable skills for Gemini CLI",
@@ -801,24 +837,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 13,
-    "updated_at": "2026-08-07T16:15:33Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-07T16:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "",
     "id": "marianaoliveira-web/projeto-skills-web",
     "language": "\u2014",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T16:13:34Z",
     "url": "https://github.com/rahulkarthikgali/skills-getting-started-with-github-copilot_rahul"
-  },
-  {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "parthabaidya/skills-getting-started-with-github-copilot-pbaidya",
-    "language": "JavaScript",
-    "name": "parthabaidya/skills-getting-started-with-github-copilot-pbaidya",
-    "stars": 0,
-    "updated_at": "2026-08-07T16:13:28Z",
-    "url": "https://github.com/parthabaidya/skills-getting-started-with-github-copilot-pbaidya"
-  },
-  {
-    "description": "A Repo that has my personalize skills. I am a huge fan of matt pocock so trying to learn from him",
-    "id": "vishalc412/Skills",
-    "language": "\u2014",
-    "name": "vishalc412/Skills",
-    "stars": 0,
-    "updated_at": "2026-08-07T16:13:24Z",
-    "url": "https://github.com/vishalc412/Skills"
   }
 ]
