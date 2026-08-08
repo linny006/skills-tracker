@@ -1,5 +1,59 @@
 [
   {
+    "description": "",
+    "id": "Cbiscorff/cc-fundamentals-05-skills",
+    "language": "JavaScript",
+    "name": "Cbiscorff/cc-fundamentals-05-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:15:18Z",
+    "url": "https://github.com/Cbiscorff/cc-fundamentals-05-skills"
+  },
+  {
+    "description": "",
+    "id": "oxinion/finance-skills",
+    "language": "HTML",
+    "name": "oxinion/finance-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:15:17Z",
+    "url": "https://github.com/oxinion/finance-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 23,
+    "updated_at": "2026-08-08T23:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent skills group for project execution",
+    "id": "fredcai6/constellation-skills",
+    "language": "Python",
+    "name": "fredcai6/constellation-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:15:11Z",
+    "url": "https://github.com/fredcai6/constellation-skills"
+  },
+  {
+    "description": "A personal collection of self-developed Skills for reusable engineering automation, productivity, and workflows.",
+    "id": "houyuxi012/houyuxi-skills",
+    "language": "Python",
+    "name": "houyuxi012/houyuxi-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:15:08Z",
+    "url": "https://github.com/houyuxi012/houyuxi-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 14,
+    "updated_at": "2026-08-08T23:14:55Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Agents skills for Minifetch web page extraction & SEO toolkit",
     "id": "Niche-Networks/minifetch-skills",
     "language": "\u2014",
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T23:14:20Z",
     "url": "https://github.com/jpipe-mcscert/jpipe-skills"
-  },
-  {
-    "description": "Agent skills group for project execution",
-    "id": "fredcai6/constellation-skills",
-    "language": "Python",
-    "name": "fredcai6/constellation-skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T23:13:57Z",
-    "url": "https://github.com/fredcai6/constellation-skills"
   },
   {
     "description": "",
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "iopsystems/skills-mcp",
     "stars": 1,
-    "updated_at": "2026-08-08T23:10:28Z",
+    "updated_at": "2026-08-08T23:15:21Z",
     "url": "https://github.com/iopsystems/skills-mcp"
   },
   {
@@ -270,15 +315,6 @@
     "url": "https://github.com/Roubtec/agent-skills"
   },
   {
-    "description": "A personal collection of self-developed Skills for reusable engineering automation, productivity, and workflows.",
-    "id": "houyuxi012/houyuxi-skills",
-    "language": "Python",
-    "name": "houyuxi012/houyuxi-skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T23:04:20Z",
-    "url": "https://github.com/houyuxi012/houyuxi-skills"
-  },
-  {
     "description": "Public canon skills distribution repo",
     "id": "sunitghub/canon-skills",
     "language": "Shell",
@@ -396,15 +432,6 @@
     "url": "https://github.com/scss1199/ai_fleet_skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 14,
-    "updated_at": "2026-08-08T23:00:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -412,15 +439,6 @@
     "stars": 19,
     "updated_at": "2026-08-08T23:00:28Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 23,
-    "updated_at": "2026-08-08T23:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u7389\u82ac\u6280\u80fd\u4ed3\u5e93",
@@ -626,7 +644,7 @@
     "language": "\u2014",
     "name": "julianleonc33/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-08-08T23:03:34Z",
+    "updated_at": "2026-08-08T23:14:55Z",
     "url": "https://github.com/julianleonc33/skills-introduction-to-github"
   },
   {
@@ -725,7 +743,7 @@
     "language": "TypeScript",
     "name": "KadlecekTomas/SkillStorm",
     "stars": 0,
-    "updated_at": "2026-08-08T23:13:54Z",
+    "updated_at": "2026-08-08T23:15:17Z",
     "url": "https://github.com/KadlecekTomas/SkillStorm"
   },
   {
@@ -811,15 +829,6 @@
   },
   {
     "description": "",
-    "id": "Cbiscorff/cc-fundamentals-05-skills",
-    "language": "\u2014",
-    "name": "Cbiscorff/cc-fundamentals-05-skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T22:43:08Z",
-    "url": "https://github.com/Cbiscorff/cc-fundamentals-05-skills"
-  },
-  {
-    "description": "",
     "id": "agentpodlabs/skills",
     "language": "\u2014",
     "name": "agentpodlabs/skills",
@@ -889,14 +898,5 @@
     "stars": 1,
     "updated_at": "2026-08-08T22:36:57Z",
     "url": "https://github.com/hstokes185/agent-skills"
-  },
-  {
-    "description": "",
-    "id": "LogNinja-00/skills",
-    "language": "\u2014",
-    "name": "LogNinja-00/skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T22:36:50Z",
-    "url": "https://github.com/LogNinja-00/skills"
   }
 ]
