@@ -1,5 +1,32 @@
 [
   {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 18,
+    "updated_at": "2026-08-08T15:15:32Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 13,
+    "updated_at": "2026-08-08T15:15:27Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "A community-driven collection of reusable engineering skills for NeqSim and agentic engineering workflows.",
+    "id": "equinor/neqsim-community-skills",
+    "language": "Python",
+    "name": "equinor/neqsim-community-skills",
+    "stars": 2,
+    "updated_at": "2026-08-08T15:15:15Z",
+    "url": "https://github.com/equinor/neqsim-community-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -7,6 +34,15 @@
     "stars": 22,
     "updated_at": "2026-08-08T15:15:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Exercise: Communicate using Markdown",
+    "id": "testsys-hvenugopal/skills-communicate-using-markdown",
+    "language": "\u2014",
+    "name": "testsys-hvenugopal/skills-communicate-using-markdown",
+    "stars": 0,
+    "updated_at": "2026-08-08T15:15:13Z",
+    "url": "https://github.com/testsys-hvenugopal/skills-communicate-using-markdown"
   },
   {
     "description": "ai skills",
@@ -32,7 +68,7 @@
     "language": "JavaScript",
     "name": "sivarajlearn005/skills-release-based-workflow",
     "stars": 0,
-    "updated_at": "2026-08-08T15:14:58Z",
+    "updated_at": "2026-08-08T15:15:33Z",
     "url": "https://github.com/sivarajlearn005/skills-release-based-workflow"
   },
   {
@@ -41,7 +77,7 @@
     "language": "JavaScript",
     "name": "ibm-skills-network/author-workbench-knowledgebase",
     "stars": 0,
-    "updated_at": "2026-08-08T15:14:51Z",
+    "updated_at": "2026-08-08T15:15:34Z",
     "url": "https://github.com/ibm-skills-network/author-workbench-knowledgebase"
   },
   {
@@ -86,7 +122,7 @@
     "language": "Shell",
     "name": "hyooeewee/skills",
     "stars": 0,
-    "updated_at": "2026-08-08T15:14:14Z",
+    "updated_at": "2026-08-08T15:15:36Z",
     "url": "https://github.com/hyooeewee/skills"
   },
   {
@@ -468,15 +504,6 @@
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
-    "description": "Exercise: Communicate using Markdown",
-    "id": "testsys-hvenugopal/skills-communicate-using-markdown",
-    "language": "\u2014",
-    "name": "testsys-hvenugopal/skills-communicate-using-markdown",
-    "stars": 0,
-    "updated_at": "2026-08-08T15:15:13Z",
-    "url": "https://github.com/testsys-hvenugopal/skills-communicate-using-markdown"
-  },
-  {
     "description": "",
     "id": "kmdv181/skills",
     "language": "Shell",
@@ -720,24 +747,6 @@
     "url": "https://github.com/zenithjuno/codex-skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 18,
-    "updated_at": "2026-08-08T15:00:29Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 13,
-    "updated_at": "2026-08-08T15:00:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "\ud83c\udf33 A comprehensive collection of all skills available for AI agents and computer-use models \u2014 perception, reasoning, memo",
     "id": "SamoTech/skills-tree",
     "language": "Python",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T14:55:47Z",
     "url": "https://github.com/PaoPaoPunyasataporn/computer-skills-main"
-  },
-  {
-    "description": "Custom Claude Code skills",
-    "id": "ckt520728/claude-skills",
-    "language": "JavaScript",
-    "name": "ckt520728/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T14:55:45Z",
-    "url": "https://github.com/ckt520728/claude-skills"
   }
 ]
