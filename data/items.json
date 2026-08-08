@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u4e94\u8fd0\u516d\u6c14 AI Agent \u6280\u80fd\u5305 \u2014 \u4e2d\u533b\u8fd0\u6c14\u5b66\u8bf4\u63a8\u7b97\u5f15\u64ce\u3002\u5e72\u652f\u63a8\u7b97 + \u516d\u6c14\u6b65\u79fb + RAG\u4e94\u5c42\u77e5\u8bc6\u5e93(104\u952e) + ReAct\u63a8\u7406\u5de5\u4f5c\u6d41 + \u81ea\u8fdb\u5316\u5f15\u64ce\u3002\u652f\u6301 Claude Code/Codex CLI/Cursor/Cline/O",
+    "id": "dhicoc/wuyun-liuqi-skills",
+    "language": "Python",
+    "name": "dhicoc/wuyun-liuqi-skills",
+    "stars": 37,
+    "updated_at": "2026-08-08T14:46:04Z",
+    "url": "https://github.com/dhicoc/wuyun-liuqi-skills"
+  },
+  {
+    "description": "",
+    "id": "Harsh21022003/skillswap",
+    "language": "\u2014",
+    "name": "Harsh21022003/skillswap",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:46:03Z",
+    "url": "https://github.com/Harsh21022003/skillswap"
+  },
+  {
+    "description": "My favorite skills, that's all. \ud83d\ude01",
+    "id": "mattwalker101/favorite-skills",
+    "language": "\u2014",
+    "name": "mattwalker101/favorite-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:45:46Z",
+    "url": "https://github.com/mattwalker101/favorite-skills"
+  },
+  {
+    "description": "",
+    "id": "fangkun119/claude-skills",
+    "language": "Python",
+    "name": "fangkun119/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:45:43Z",
+    "url": "https://github.com/fangkun119/claude-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 18,
+    "updated_at": "2026-08-08T14:45:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 13,
+    "updated_at": "2026-08-08T14:45:27Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T14:44:38Z",
     "url": "https://github.com/iamfiro/skills-music"
-  },
-  {
-    "description": "My favorite skills, that's all. \ud83d\ude01",
-    "id": "mattwalker101/favorite-skills",
-    "language": "\u2014",
-    "name": "mattwalker101/favorite-skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T14:44:30Z",
-    "url": "https://github.com/mattwalker101/favorite-skills"
   },
   {
     "description": "Designer Skills Collection: agentic skills, commands, and plugins for design \u2014 from research to systems, UI, interaction",
@@ -491,7 +536,7 @@
     "language": "\u2014",
     "name": "TsiuKaV/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-08-08T14:36:15Z",
+    "updated_at": "2026-08-08T14:45:38Z",
     "url": "https://github.com/TsiuKaV/skills-communicate-using-markdown"
   },
   {
@@ -594,15 +639,6 @@
     "url": "https://github.com/gaofeng21cn/opl-skills"
   },
   {
-    "description": "\u4e94\u8fd0\u516d\u6c14 AI Agent \u6280\u80fd\u5305 \u2014 \u4e2d\u533b\u8fd0\u6c14\u5b66\u8bf4\u63a8\u7b97\u5f15\u64ce\u3002\u5e72\u652f\u63a8\u7b97 + \u516d\u6c14\u6b65\u79fb + RAG\u4e94\u5c42\u77e5\u8bc6\u5e93(104\u952e) + ReAct\u63a8\u7406\u5de5\u4f5c\u6d41 + \u81ea\u8fdb\u5316\u5f15\u64ce\u3002\u652f\u6301 Claude Code/Codex CLI/Cursor/Cline/O",
-    "id": "dhicoc/wuyun-liuqi-skills",
-    "language": "Python",
-    "name": "dhicoc/wuyun-liuqi-skills",
-    "stars": 37,
-    "updated_at": "2026-08-08T14:41:32Z",
-    "url": "https://github.com/dhicoc/wuyun-liuqi-skills"
-  },
-  {
     "description": "",
     "id": "zenithjuno/codex-skills",
     "language": "Python",
@@ -675,15 +711,6 @@
     "url": "https://github.com/secondsky/sap-skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 18,
-    "updated_at": "2026-08-08T14:30:37Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "A personal, evidence-driven agent workflow for developing, validating, and optimizing GPU kernels.",
     "id": "slowlyC/agent-kernel-skills",
     "language": "Python",
@@ -691,15 +718,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T14:30:32Z",
     "url": "https://github.com/slowlyC/agent-kernel-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 13,
-    "updated_at": "2026-08-08T14:30:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "A personal collection of Claude Code skills for serious engineering work \u2014 from PR review to architectural auditing. Bui",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T14:25:27Z",
     "url": "https://github.com/miozhou89/simple-skills"
-  },
-  {
-    "description": "OPL ScholarSkills Codex skill pack and scholarly capability modules",
-    "id": "gaofeng21cn/mas-scholar-skills",
-    "language": "Python",
-    "name": "gaofeng21cn/mas-scholar-skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T14:25:14Z",
-    "url": "https://github.com/gaofeng21cn/mas-scholar-skills"
-  },
-  {
-    "description": "",
-    "id": "yusufaw/skills",
-    "language": "Python",
-    "name": "yusufaw/skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T14:25:11Z",
-    "url": "https://github.com/yusufaw/skills"
   }
 ]
