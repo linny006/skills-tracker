@@ -1,12 +1,21 @@
 [
   {
-    "description": "",
-    "id": "sivarajlearn005/skills-publish-packages",
-    "language": "JavaScript",
-    "name": "sivarajlearn005/skills-publish-packages",
-    "stars": 0,
-    "updated_at": "2026-08-08T16:15:22Z",
-    "url": "https://github.com/sivarajlearn005/skills-publish-packages"
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 13,
+    "updated_at": "2026-08-08T16:15:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 18,
+    "updated_at": "2026-08-08T16:15:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Exercise: Introduction to Git",
@@ -16,6 +25,15 @@
     "stars": 0,
     "updated_at": "2026-08-08T16:15:28Z",
     "url": "https://github.com/nethraloganathan/skills-introduction-to-git"
+  },
+  {
+    "description": "",
+    "id": "sivarajlearn005/skills-publish-packages",
+    "language": "JavaScript",
+    "name": "sivarajlearn005/skills-publish-packages",
+    "stars": 0,
+    "updated_at": "2026-08-08T16:15:22Z",
+    "url": "https://github.com/sivarajlearn005/skills-publish-packages"
   },
   {
     "description": "",
@@ -37,11 +55,20 @@
   },
   {
     "description": "",
+    "id": "kazu02210679/skills",
+    "language": "Python",
+    "name": "kazu02210679/skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T16:15:12Z",
+    "url": "https://github.com/kazu02210679/skills"
+  },
+  {
+    "description": "",
     "id": "rafsan-huseynov/skills-introduction-to-github",
     "language": "\u2014",
     "name": "rafsan-huseynov/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-08-08T16:15:08Z",
+    "updated_at": "2026-08-08T16:15:41Z",
     "url": "https://github.com/rafsan-huseynov/skills-introduction-to-github"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "IhorDid/skills-introduction-to-codeql",
     "stars": 0,
-    "updated_at": "2026-08-08T16:09:14Z",
+    "updated_at": "2026-08-08T16:15:32Z",
     "url": "https://github.com/IhorDid/skills-introduction-to-codeql"
   },
   {
@@ -576,15 +603,6 @@
     "url": "https://github.com/jonniesweb/skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 18,
-    "updated_at": "2026-08-08T16:03:32Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "",
     "id": "bwicarus/obsidian-claudecode-skills",
     "language": "Python",
@@ -727,15 +745,6 @@
     "stars": 1993,
     "updated_at": "2026-08-08T16:02:37Z",
     "url": "https://github.com/Owl-Listener/designer-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 13,
-    "updated_at": "2026-08-08T16:00:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T15:56:34Z",
     "url": "https://github.com/alexey-pankratyev/infra-ai-skills"
-  },
-  {
-    "description": "Codex skill template for OPC and monitoring platform delivery workflows",
-    "id": "BiuBiuHu/opc-skills",
-    "language": "Shell",
-    "name": "BiuBiuHu/opc-skills",
-    "stars": 9,
-    "updated_at": "2026-08-08T15:56:06Z",
-    "url": "https://github.com/BiuBiuHu/opc-skills"
   }
 ]
