@@ -1,5 +1,59 @@
 [
   {
+    "description": "",
+    "id": "mitchgrogg/skills",
+    "language": "\u2014",
+    "name": "mitchgrogg/skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T22:45:54Z",
+    "url": "https://github.com/mitchgrogg/skills"
+  },
+  {
+    "description": "developing Claude Skills for good",
+    "id": "martamakes/skills",
+    "language": "HTML",
+    "name": "martamakes/skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T22:45:38Z",
+    "url": "https://github.com/martamakes/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 14,
+    "updated_at": "2026-08-08T22:45:29Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-08-08T22:45:28Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "AI Agents skills list by Heaven for Software Devs",
+    "id": "haseeb-heaven/heaven-skills",
+    "language": "\u2014",
+    "name": "haseeb-heaven/heaven-skills",
+    "stars": 1,
+    "updated_at": "2026-08-08T22:45:25Z",
+    "url": "https://github.com/haseeb-heaven/heaven-skills"
+  },
+  {
+    "description": "",
+    "id": "Gamaroff/agent-skills",
+    "language": "JavaScript",
+    "name": "Gamaroff/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T22:45:30Z",
+    "url": "https://github.com/Gamaroff/agent-skills"
+  },
+  {
     "description": "Claude Code skills for building on trapstreet.run: scaffolding solutions and tasks",
     "id": "trapstreet/trapstreet-skills",
     "language": "Python",
@@ -34,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T22:44:29Z",
     "url": "https://github.com/DanielAlfonsoCely/skills-code-with-codespaces-v2"
-  },
-  {
-    "description": "",
-    "id": "Gamaroff/agent-skills",
-    "language": "JavaScript",
-    "name": "Gamaroff/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T22:45:24Z",
-    "url": "https://github.com/Gamaroff/agent-skills"
-  },
-  {
-    "description": "AI Agents skills list by Heaven for Software Devs",
-    "id": "haseeb-heaven/heaven-skills",
-    "language": "\u2014",
-    "name": "haseeb-heaven/heaven-skills",
-    "stars": 1,
-    "updated_at": "2026-08-08T22:45:25Z",
-    "url": "https://github.com/haseeb-heaven/heaven-skills"
   },
   {
     "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
@@ -430,24 +466,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T22:30:49Z",
     "url": "https://github.com/massirr/skills-deploy-to-azure-1"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 14,
-    "updated_at": "2026-08-08T22:30:30Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 19,
-    "updated_at": "2026-08-08T22:30:30Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T22:10:44Z",
     "url": "https://github.com/pumalxlml/skills-introduction-to-git"
-  },
-  {
-    "description": "A curated, security-vetted repository of production-grade skills and automated deployment tooling for Claude Code, Claud",
-    "id": "Sharquille/agent-skills-repository",
-    "language": "Python",
-    "name": "Sharquille/agent-skills-repository",
-    "stars": 0,
-    "updated_at": "2026-08-08T22:10:40Z",
-    "url": "https://github.com/Sharquille/agent-skills-repository"
-  },
-  {
-    "description": "",
-    "id": "dgroch/skills",
-    "language": "HTML",
-    "name": "dgroch/skills",
-    "stars": 1,
-    "updated_at": "2026-08-08T22:12:03Z",
-    "url": "https://github.com/dgroch/skills"
   }
 ]
