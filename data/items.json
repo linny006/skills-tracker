@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agent skills group for project execution",
+    "id": "fredcai6/constellation-skills",
+    "language": "Python",
+    "name": "fredcai6/constellation-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:45:21Z",
+    "url": "https://github.com/fredcai6/constellation-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 23,
+    "updated_at": "2026-08-08T23:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 14,
+    "updated_at": "2026-08-08T23:44:40Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Introduction to GitHub",
     "id": "Ibu101/skills-introduction-to-github",
     "language": "\u2014",
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T23:43:39Z",
     "url": "https://github.com/Peteskiis/skills"
-  },
-  {
-    "description": "Agent skills group for project execution",
-    "id": "fredcai6/constellation-skills",
-    "language": "Python",
-    "name": "fredcai6/constellation-skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T23:43:39Z",
-    "url": "https://github.com/fredcai6/constellation-skills"
   },
   {
     "description": "Polskie bazy wiedzy (od naukowych po dane statystyczne, prawne, meteorologiczne, normy oraz kulturowe) w postaci praktyc",
@@ -95,7 +113,7 @@
     "language": "JavaScript",
     "name": "aishsynk/SkillSync",
     "stars": 0,
-    "updated_at": "2026-08-08T23:41:30Z",
+    "updated_at": "2026-08-08T23:44:49Z",
     "url": "https://github.com/aishsynk/SkillSync"
   },
   {
@@ -360,15 +378,6 @@
     "url": "https://github.com/Cor-Incorporated/claude-code-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 23,
-    "updated_at": "2026-08-08T23:31:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A self-hosted AI agent in Rust, sandboxed, with voice, memory, and many tools.",
     "id": "agentics-skills/chelix",
     "language": "Rust",
@@ -394,15 +403,6 @@
     "stars": 19,
     "updated_at": "2026-08-08T23:30:58Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 14,
-    "updated_at": "2026-08-08T23:30:30Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -860,7 +860,7 @@
     "language": "JavaScript",
     "name": "I1EA/skills-introduction-to-repository-management",
     "stars": 0,
-    "updated_at": "2026-08-08T23:06:15Z",
+    "updated_at": "2026-08-08T23:45:18Z",
     "url": "https://github.com/I1EA/skills-introduction-to-repository-management"
   },
   {
