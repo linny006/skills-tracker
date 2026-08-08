@@ -1,12 +1,21 @@
 [
   {
-    "description": "Codex skills for Blender modeling, white-model rendering, and Seedance video workflows",
-    "id": "opcspace/blender-seedance-skills",
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
     "language": "Python",
-    "name": "opcspace/blender-seedance-skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T19:58:51Z",
-    "url": "https://github.com/opcspace/blender-seedance-skills"
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-08T20:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 13,
+    "updated_at": "2026-08-08T19:59:01Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Exercise: GitHub Copilot Code Review",
@@ -14,8 +23,26 @@
     "language": "JavaScript",
     "name": "MaksimViter/skills-copilot-code-review",
     "stars": 0,
-    "updated_at": "2026-08-08T19:58:34Z",
+    "updated_at": "2026-08-08T19:59:00Z",
     "url": "https://github.com/MaksimViter/skills-copilot-code-review"
+  },
+  {
+    "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
+    "id": "phuati/claude-skills-arsenal",
+    "language": "HTML",
+    "name": "phuati/claude-skills-arsenal",
+    "stars": 1,
+    "updated_at": "2026-08-08T19:58:57Z",
+    "url": "https://github.com/phuati/claude-skills-arsenal"
+  },
+  {
+    "description": "Codex skills for Blender modeling, white-model rendering, and Seedance video workflows",
+    "id": "opcspace/blender-seedance-skills",
+    "language": "Python",
+    "name": "opcspace/blender-seedance-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T19:58:51Z",
+    "url": "https://github.com/opcspace/blender-seedance-skills"
   },
   {
     "description": "A small, curated library of original Claude Code skills for disciplined agent workflows.",
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "reddb-io/red-skills",
     "stars": 18,
-    "updated_at": "2026-08-08T19:58:29Z",
+    "updated_at": "2026-08-08T19:59:47Z",
     "url": "https://github.com/reddb-io/red-skills"
   },
   {
@@ -392,7 +419,7 @@
     "language": "Astro",
     "name": "arilivigni/skills-agentic-workflows-that-read-the-room",
     "stars": 0,
-    "updated_at": "2026-08-08T19:50:45Z",
+    "updated_at": "2026-08-08T19:59:22Z",
     "url": "https://github.com/arilivigni/skills-agentic-workflows-that-read-the-room"
   },
   {
@@ -464,7 +491,7 @@
     "language": "JavaScript",
     "name": "Fandhe-AI/agent-cli-skills",
     "stars": 1,
-    "updated_at": "2026-08-08T19:53:44Z",
+    "updated_at": "2026-08-08T19:59:07Z",
     "url": "https://github.com/Fandhe-AI/agent-cli-skills"
   },
   {
@@ -648,15 +675,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 13,
-    "updated_at": "2026-08-08T19:45:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "\u7b80\u6d01\u6709\u6548\u7684 agent skills\u3002 \u6a21\u578b\u8d8a\u5f3a\uff0cskill\u63d0\u793a\u8bcd\u8981\u8d8a\u7b80\u6d01\uff0c\u907f\u514d\u5bf9\u6a21\u578b\u9020\u6210\u5e72\u6270\uff0c\u9650\u5236\u5f3a\u6a21\u578b\u7684\u63a8\u7406\u6548\u679c\u3002 \u672c\u4ed3\u5e93\u6536\u96c6+\u539f\u521b\u5bf9\u5de5\u7a0b\u5e08\u6709\u7528\u7684\u4e2d\u6587\u7248 agent skills\uff0c\u5e76\u968f\u7740\u6a21\u578b\u80fd\u529b\u7684\u589e\u5f3a\u6301\u7eed\u7cbe\u7b80\u548c\u4f18\u5316\u3002",
     "id": "miozhou89/simple-skills",
     "language": "Python",
@@ -682,15 +700,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T19:45:14Z",
     "url": "https://github.com/nerd-programming/skills-github-pages"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-08T19:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T19:40:55Z",
     "url": "https://github.com/Dhanraj84/SkillSynq"
-  },
-  {
-    "description": "Fleet skill federation \u2014 contributors/darkhero + contributors/scar3",
-    "id": "scss1199/ai_fleet_skills",
-    "language": "Python",
-    "name": "scss1199/ai_fleet_skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T19:39:07Z",
-    "url": "https://github.com/scss1199/ai_fleet_skills"
   }
 ]
