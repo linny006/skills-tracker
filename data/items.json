@@ -1,5 +1,59 @@
 [
   {
+    "description": "Authored Agent Skills for Claude Code and Codex, plus the @vegastack/skills installer",
+    "id": "vegastack/vegastack-skills",
+    "language": "JavaScript",
+    "name": "vegastack/vegastack-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T10:17:43Z",
+    "url": "https://github.com/vegastack/vegastack-skills"
+  },
+  {
+    "description": "Agent skills group for project execution",
+    "id": "fredcai6/constellation-skills",
+    "language": "Python",
+    "name": "fredcai6/constellation-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T10:16:49Z",
+    "url": "https://github.com/fredcai6/constellation-skills"
+  },
+  {
+    "description": "A collection of Agent Skills for pi coding agent",
+    "id": "Limour-dev/pi-skills",
+    "language": "TypeScript",
+    "name": "Limour-dev/pi-skills",
+    "stars": 1,
+    "updated_at": "2026-08-08T10:16:00Z",
+    "url": "https://github.com/Limour-dev/pi-skills"
+  },
+  {
+    "description": "",
+    "id": "ZHANGJIGNYA/research-to-slide-skills",
+    "language": "\u2014",
+    "name": "ZHANGJIGNYA/research-to-slide-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T10:15:36Z",
+    "url": "https://github.com/ZHANGJIGNYA/research-to-slide-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 13,
+    "updated_at": "2026-08-08T10:15:33Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 18,
+    "updated_at": "2026-08-08T10:15:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "",
     "id": "SleepTimeGRT/skills",
     "language": "Python",
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T10:14:03Z",
     "url": "https://github.com/steedjson/my-skills"
-  },
-  {
-    "description": "Agent skills group for project execution",
-    "id": "fredcai6/constellation-skills",
-    "language": "Python",
-    "name": "fredcai6/constellation-skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:13:14Z",
-    "url": "https://github.com/fredcai6/constellation-skills"
   },
   {
     "description": "",
@@ -243,7 +288,7 @@
     "url": "https://github.com/jjfroehlich/agent-skills-for-academic-research"
   },
   {
-    "description": "Claude skill based on Paul Graham's Write Like You Talk (2015) and Write Simply (2021).",
+    "description": "A collection of my personal customed Claude Code skills",
     "id": "remipjp/Skillset",
     "language": "\u2014",
     "name": "remipjp/Skillset",
@@ -626,7 +671,7 @@
     "language": "Python",
     "name": "timharris707/skills",
     "stars": 0,
-    "updated_at": "2026-08-08T10:13:10Z",
+    "updated_at": "2026-08-08T10:16:56Z",
     "url": "https://github.com/timharris707/skills"
   },
   {
@@ -673,24 +718,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T10:00:59Z",
     "url": "https://github.com/seikaikyo/dash-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 13,
-    "updated_at": "2026-08-08T10:00:35Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 18,
-    "updated_at": "2026-08-08T10:00:35Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "\u81ea\u7814 Skill \u5f00\u6e90\u9879\u76ee",
@@ -871,32 +898,5 @@
     "stars": 14,
     "updated_at": "2026-08-08T09:58:15Z",
     "url": "https://github.com/philipbankier/awesome-agent-skills"
-  },
-  {
-    "description": "",
-    "id": "tim30301717/skills-hub-cathay",
-    "language": "Python",
-    "name": "tim30301717/skills-hub-cathay",
-    "stars": 0,
-    "updated_at": "2026-08-08T09:58:02Z",
-    "url": "https://github.com/tim30301717/skills-hub-cathay"
-  },
-  {
-    "description": "Curated library of 2,600+ agent skills consolidated from 48 sources, organized into 34+ categories",
-    "id": "christophacham/agent-skills-library",
-    "language": "Python",
-    "name": "christophacham/agent-skills-library",
-    "stars": 77,
-    "updated_at": "2026-08-08T09:57:53Z",
-    "url": "https://github.com/christophacham/agent-skills-library"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "Madhav2024035134/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "Madhav2024035134/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-08-08T09:57:45Z",
-    "url": "https://github.com/Madhav2024035134/skills-introduction-to-git"
   }
 ]
