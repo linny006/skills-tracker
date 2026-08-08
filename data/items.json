@@ -1,5 +1,77 @@
 [
   {
+    "description": "",
+    "id": "arif-zekibi/ai-skills",
+    "language": "\u2014",
+    "name": "arif-zekibi/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T21:16:21Z",
+    "url": "https://github.com/arif-zekibi/ai-skills"
+  },
+  {
+    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
+    "id": "arilivigni/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "language": "\u2014",
+    "name": "arilivigni/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "stars": 0,
+    "updated_at": "2026-08-08T21:15:58Z",
+    "url": "https://github.com/arilivigni/skills-scale-institutional-knowledge-using-copilot-spaces"
+  },
+  {
+    "description": "The Forge \u2014 an archipelago of agent skills. Ondrej \u00d7 Pocock canons fused with IDC's evidence discipline. No authority wi",
+    "id": "Navigata1/idc-skills-forge",
+    "language": "Shell",
+    "name": "Navigata1/idc-skills-forge",
+    "stars": 0,
+    "updated_at": "2026-08-08T21:15:49Z",
+    "url": "https://github.com/Navigata1/idc-skills-forge"
+  },
+  {
+    "description": "The IDC skills archipelago \u2014 33 evidence-gated agent skills. No authority without evidence; nothing crosses a gate on cl",
+    "id": "Island-Dev-Crew/idc-skills",
+    "language": "Shell",
+    "name": "Island-Dev-Crew/idc-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T21:15:48Z",
+    "url": "https://github.com/Island-Dev-Crew/idc-skills"
+  },
+  {
+    "description": "Shared Codex skills.",
+    "id": "kunal-sinha-coding/skills",
+    "language": "\u2014",
+    "name": "kunal-sinha-coding/skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T21:15:42Z",
+    "url": "https://github.com/kunal-sinha-coding/skills"
+  },
+  {
+    "description": "Agent Skills that teach Claude to build Rails 8.1 apps \u2014 vanilla-first stack, pure RSpec, Hotwire (Turbo/Stimulus/Native",
+    "id": "fmanimashaun/claude-skills",
+    "language": "Python",
+    "name": "fmanimashaun/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T21:15:42Z",
+    "url": "https://github.com/fmanimashaun/claude-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-08-08T21:15:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 14,
+    "updated_at": "2026-08-08T21:15:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Introduction to CodeQL",
     "id": "pricaardo/skills-introduction-to-codeql",
     "language": "Python",
@@ -162,15 +234,6 @@
     "url": "https://github.com/w15147m/skills-icons"
   },
   {
-    "description": "Shared Codex skills.",
-    "id": "kunal-sinha-coding/skills",
-    "language": "\u2014",
-    "name": "kunal-sinha-coding/skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T21:11:53Z",
-    "url": "https://github.com/kunal-sinha-coding/skills"
-  },
-  {
     "description": "Bespoke interactive web activities for OLS departments. Live: https://dgaj-g.github.io/ols-digital-skills/",
     "id": "dgaj-g/ols-digital-skills",
     "language": "JavaScript",
@@ -284,7 +347,7 @@
     "language": "\u2014",
     "name": "saurabh733/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-08-08T21:07:42Z",
+    "updated_at": "2026-08-08T21:16:21Z",
     "url": "https://github.com/saurabh733/skills-communicate-using-markdown"
   },
   {
@@ -457,24 +520,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T21:01:21Z",
     "url": "https://github.com/ChronoAIProject/nyx-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 18,
-    "updated_at": "2026-08-08T21:00:31Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 14,
-    "updated_at": "2026-08-08T21:00:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -655,15 +700,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T20:57:01Z",
     "url": "https://github.com/greendrop/agent-skills"
-  },
-  {
-    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
-    "id": "arilivigni/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "language": "\u2014",
-    "name": "arilivigni/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "stars": 0,
-    "updated_at": "2026-08-08T21:06:03Z",
-    "url": "https://github.com/arilivigni/skills-scale-institutional-knowledge-using-copilot-spaces"
   },
   {
     "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T20:49:46Z",
     "url": "https://github.com/uxlfoundation/skills"
-  },
-  {
-    "description": "\u0645\u0647\u0627\u0631\u0627\u062a \u0644\u063a\u0648\u064a\u0629",
-    "id": "sofianypp/abozikry-skills",
-    "language": "HTML",
-    "name": "sofianypp/abozikry-skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T20:49:19Z",
-    "url": "https://github.com/sofianypp/abozikry-skills"
-  },
-  {
-    "description": "My personal agent skills",
-    "id": "davd-gzl/skills",
-    "language": "\u2014",
-    "name": "davd-gzl/skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T20:48:34Z",
-    "url": "https://github.com/davd-gzl/skills"
-  },
-  {
-    "description": "",
-    "id": "dkubb/skills",
-    "language": "Rust",
-    "name": "dkubb/skills",
-    "stars": 6,
-    "updated_at": "2026-08-08T20:48:20Z",
-    "url": "https://github.com/dkubb/skills"
-  },
-  {
-    "description": "",
-    "id": "buffaly-ai/buffaly-skills",
-    "language": "JavaScript",
-    "name": "buffaly-ai/buffaly-skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T20:47:34Z",
-    "url": "https://github.com/buffaly-ai/buffaly-skills"
   }
 ]
