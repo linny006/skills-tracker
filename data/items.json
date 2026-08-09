@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83c\udfac Transform ideas into professional Seedance 2.0 video storyboard prompts with ease using this Claude Code Skill.",
+    "id": "skekdkkddk/elementsix-skills",
+    "language": "\u2014",
+    "name": "skekdkkddk/elementsix-skills",
+    "stars": 2,
+    "updated_at": "2026-08-09T20:15:56Z",
+    "url": "https://github.com/skekdkkddk/elementsix-skills"
+  },
+  {
+    "description": "Slash commands for Claude Code, organised by what they're for",
+    "id": "dudujuju828/claude-skills",
+    "language": "\u2014",
+    "name": "dudujuju828/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-09T20:15:48Z",
+    "url": "https://github.com/dudujuju828/claude-skills"
+  },
+  {
+    "description": "",
+    "id": "brockman06/vercel-github-actions-deploy-skills",
+    "language": "\u2014",
+    "name": "brockman06/vercel-github-actions-deploy-skills",
+    "stars": 0,
+    "updated_at": "2026-08-09T20:15:34Z",
+    "url": "https://github.com/brockman06/vercel-github-actions-deploy-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-08-09T20:15:32Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 14,
+    "updated_at": "2026-08-09T20:15:30Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Skills for Claude COde",
+    "id": "vladeasytag/claude-code-skills",
+    "language": "Python",
+    "name": "vladeasytag/claude-code-skills",
+    "stars": 0,
+    "updated_at": "2026-08-09T20:15:25Z",
+    "url": "https://github.com/vladeasytag/claude-code-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -590,26 +644,8 @@
     "language": "TypeScript",
     "name": "smith-horn/skillsmith",
     "stars": 75,
-    "updated_at": "2026-08-09T20:00:33Z",
+    "updated_at": "2026-08-09T20:15:36Z",
     "url": "https://github.com/smith-horn/skillsmith"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 14,
-    "updated_at": "2026-08-09T20:00:30Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 19,
-    "updated_at": "2026-08-09T20:00:30Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "\ud83d\udcaa Enhance your Claude Code superpowers with a community-driven library of skills and utility scripts for seamless skill ",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-09T19:52:41Z",
     "url": "https://github.com/niveousdragon/claude-skills-neuro"
-  },
-  {
-    "description": "",
-    "id": "qhuydtvt/aha-skills",
-    "language": "Python",
-    "name": "qhuydtvt/aha-skills",
-    "stars": 0,
-    "updated_at": "2026-08-09T19:52:00Z",
-    "url": "https://github.com/qhuydtvt/aha-skills"
-  },
-  {
-    "description": "",
-    "id": "iwe-org/skills-eval-harness",
-    "language": "\u2014",
-    "name": "iwe-org/skills-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-08-09T19:51:08Z",
-    "url": "https://github.com/iwe-org/skills-eval-harness"
-  },
-  {
-    "description": "Yakuza 0 \u2013 Unlock all skills, customize saves, and enhance gameplay with this comprehensive desktop tool.",
-    "id": "barnacle11-wapitis/Yakuza-0-Unlock-All-Skills",
-    "language": "\u2014",
-    "name": "barnacle11-wapitis/Yakuza-0-Unlock-All-Skills",
-    "stars": 0,
-    "updated_at": "2026-08-09T19:51:05Z",
-    "url": "https://github.com/barnacle11-wapitis/Yakuza-0-Unlock-All-Skills"
-  },
-  {
-    "description": "A CLI tool that will help extract data from Google Ads",
-    "id": "ashamshad/ecommerce-skills",
-    "language": "JavaScript",
-    "name": "ashamshad/ecommerce-skills",
-    "stars": 0,
-    "updated_at": "2026-08-09T19:50:59Z",
-    "url": "https://github.com/ashamshad/ecommerce-skills"
   }
 ]
