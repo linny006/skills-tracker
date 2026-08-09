@@ -1,5 +1,50 @@
 [
   {
+    "description": "Exercise: Expand your team with GitHub Copilot cloud agent",
+    "id": "Davidoam/skills-expand-your-team-with-copilot",
+    "language": "\u2014",
+    "name": "Davidoam/skills-expand-your-team-with-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-09T11:17:08Z",
+    "url": "https://github.com/Davidoam/skills-expand-your-team-with-copilot"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "HyderYash/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "HyderYash/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-09T11:16:57Z",
+    "url": "https://github.com/HyderYash/skills-introduction-to-git"
+  },
+  {
+    "description": "\u532f\u96c6\u65e5\u5e38\u5de5\u4f5c\u7d93\u9a57\u800c\u7522\u751f\u51fa\u4f86\u7684\u6280\u80fd",
+    "id": "cdcd72/skills",
+    "language": "HTML",
+    "name": "cdcd72/skills",
+    "stars": 0,
+    "updated_at": "2026-08-09T11:16:38Z",
+    "url": "https://github.com/cdcd72/skills"
+  },
+  {
+    "description": "1282 production-ready AI agent skills with self-evolving meta-skills \u2014 783 cybersecurity, SEO, trading, marketing, autom",
+    "id": "oyi77/1ai-skills",
+    "language": "Python",
+    "name": "oyi77/1ai-skills",
+    "stars": 8,
+    "updated_at": "2026-08-09T11:15:42Z",
+    "url": "https://github.com/oyi77/1ai-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 14,
+    "updated_at": "2026-08-09T11:15:36Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -7,6 +52,15 @@
     "stars": 19,
     "updated_at": "2026-08-09T11:15:30Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Shared, manifest-driven skills & settings installer for Codex, Claude, DeepSeek, GitHub Copilot, OpenCode, Antigravity, ",
+    "id": "hoanganhduc/ai-agents-skills",
+    "language": "Python",
+    "name": "hoanganhduc/ai-agents-skills",
+    "stars": 2,
+    "updated_at": "2026-08-09T11:15:27Z",
+    "url": "https://github.com/hoanganhduc/ai-agents-skills"
   },
   {
     "description": "Ten Claude Code skills for rigorous statistical analysis (regression, ANOVA, factor analysis, survival, time-series, mul",
@@ -576,15 +630,6 @@
     "url": "https://github.com/bestdeejay-design/agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 14,
-    "updated_at": "2026-08-09T11:00:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Claude Code plugin marketplace: the bitranox skill collection (25 skills) plus a self-improve Stop hook. Skills invoke a",
     "id": "bitranox/bitranox-skills",
     "language": "Python",
@@ -853,50 +898,5 @@
     "stars": 3,
     "updated_at": "2026-08-09T10:55:09Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Explicit engineering skills for Python and Flask refactoring, debugging, development, and testing.",
-    "id": "September11111111111/engineering-agent-skills",
-    "language": "Python",
-    "name": "September11111111111/engineering-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-09T10:54:54Z",
-    "url": "https://github.com/September11111111111/engineering-agent-skills"
-  },
-  {
-    "description": "ProbePilotAI official Agent skills registry",
-    "id": "kzzou/probepilotai-skills",
-    "language": "Python",
-    "name": "kzzou/probepilotai-skills",
-    "stars": 0,
-    "updated_at": "2026-08-09T10:54:46Z",
-    "url": "https://github.com/kzzou/probepilotai-skills"
-  },
-  {
-    "description": "",
-    "id": "diri-rmutp/future-skills-form",
-    "language": "HTML",
-    "name": "diri-rmutp/future-skills-form",
-    "stars": 0,
-    "updated_at": "2026-08-09T10:54:26Z",
-    "url": "https://github.com/diri-rmutp/future-skills-form"
-  },
-  {
-    "description": "Composable agent skills for deliberate planning, review, and implementation.",
-    "id": "wufei-png/skills",
-    "language": "\u2014",
-    "name": "wufei-png/skills",
-    "stars": 0,
-    "updated_at": "2026-08-09T10:54:21Z",
-    "url": "https://github.com/wufei-png/skills"
-  },
-  {
-    "description": "",
-    "id": "mr-mohamad-mr/ai-skills",
-    "language": "TypeScript",
-    "name": "mr-mohamad-mr/ai-skills",
-    "stars": 0,
-    "updated_at": "2026-08-09T10:54:17Z",
-    "url": "https://github.com/mr-mohamad-mr/ai-skills"
   }
 ]
