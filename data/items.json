@@ -1,5 +1,32 @@
 [
   {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-08-09T22:15:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 14,
+    "updated_at": "2026-08-09T22:15:28Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Provide deep, multi-angle analysis of tech company earnings with institutional-grade reports, valuation models, and bias",
+    "id": "StefanPcHack/Day1Global-Skills",
+    "language": "\u2014",
+    "name": "StefanPcHack/Day1Global-Skills",
+    "stars": 0,
+    "updated_at": "2026-08-09T22:15:22Z",
+    "url": "https://github.com/StefanPcHack/Day1Global-Skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -16,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-08-09T22:15:05Z",
     "url": "https://github.com/rAsAfrica1/rise-africa-skills"
+  },
+  {
+    "description": "Reusable agent skills for Claude Code, and any markdown-capable AI agent",
+    "id": "aamarin/wf-skills",
+    "language": "Shell",
+    "name": "aamarin/wf-skills",
+    "stars": 0,
+    "updated_at": "2026-08-09T22:15:03Z",
+    "url": "https://github.com/aamarin/wf-skills"
   },
   {
     "description": "Provide comprehensive backtesting skills for trading strategies across Indian, US, and crypto markets using VectorBT and",
@@ -612,24 +648,6 @@
     "url": "https://github.com/gritive/skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 19,
-    "updated_at": "2026-08-09T22:00:38Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 14,
-    "updated_at": "2026-08-09T22:00:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "\ud83c\udf33 A comprehensive collection of all skills available for AI agents and computer-use models \u2014 perception, reasoning, memo",
     "id": "SamoTech/skills-tree",
     "language": "Python",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-09T21:51:29Z",
     "url": "https://github.com/HenryQW/skills"
-  },
-  {
-    "description": "",
-    "id": "gasserane/personal-skills",
-    "language": "Python",
-    "name": "gasserane/personal-skills",
-    "stars": 1,
-    "updated_at": "2026-08-09T21:51:23Z",
-    "url": "https://github.com/gasserane/personal-skills"
-  },
-  {
-    "description": "",
-    "id": "bdladipo1/-setup-matt-pocock-skills",
-    "language": "\u2014",
-    "name": "bdladipo1/-setup-matt-pocock-skills",
-    "stars": 0,
-    "updated_at": "2026-08-09T21:51:20Z",
-    "url": "https://github.com/bdladipo1/-setup-matt-pocock-skills"
   }
 ]
