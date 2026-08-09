@@ -1,5 +1,41 @@
 [
   {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-08-09T17:00:38Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Live browser demo for skillsmith: paste a Claude Agent SKILL.md, get instant lint + security-scan results. https://skill",
+    "id": "Larslllllll/skillsmith-web",
+    "language": "Python",
+    "name": "Larslllllll/skillsmith-web",
+    "stars": 0,
+    "updated_at": "2026-08-09T17:00:31Z",
+    "url": "https://github.com/Larslllllll/skillsmith-web"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 14,
+    "updated_at": "2026-08-09T17:00:30Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "A discipline-agnostic Agent Skills suite for literature review, research design, data analysis, thesis writing, journal ",
+    "id": "BettyXu2001/awesome-academic-writing-skills",
+    "language": "\u2014",
+    "name": "BettyXu2001/awesome-academic-writing-skills",
+    "stars": 0,
+    "updated_at": "2026-08-09T17:00:29Z",
+    "url": "https://github.com/BettyXu2001/awesome-academic-writing-skills"
+  },
+  {
     "description": "Open-source collection of agent skills (Claude Code / Codex format). First up: PDF to evidence-backed Markdown with visu",
     "id": "Yuleno/skills",
     "language": "Python",
@@ -16,6 +52,15 @@
     "stars": 23,
     "updated_at": "2026-08-09T17:00:14Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "ps26891/skills-github-pages",
+    "language": "\u2014",
+    "name": "ps26891/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-08-09T17:00:13Z",
+    "url": "https://github.com/ps26891/skills-github-pages"
   },
   {
     "description": "Review, debug, and implement audio software with this curated collection of Markdown skills designed for AI agents.",
@@ -55,12 +100,12 @@
   },
   {
     "description": "My collection of skills in the hope to stop the slop.",
-    "id": "Chelyocarpus/skills",
+    "id": "Chelyocarpus/Skills",
     "language": "\u2014",
-    "name": "Chelyocarpus/skills",
+    "name": "Chelyocarpus/Skills",
     "stars": 0,
     "updated_at": "2026-08-09T16:59:59Z",
-    "url": "https://github.com/Chelyocarpus/skills"
+    "url": "https://github.com/Chelyocarpus/Skills"
   },
   {
     "description": "My clone repository",
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T16:58:47Z",
     "url": "https://github.com/roniesthetic654/my-claude-skills"
-  },
-  {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "ps26891/skills-github-pages",
-    "language": "\u2014",
-    "name": "ps26891/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-08-09T17:00:13Z",
-    "url": "https://github.com/ps26891/skills-github-pages"
   },
   {
     "description": "A coordinated product team as 27 Agent Skills \u2014 19 role perspectives, an 8-skill delivery pipeline, and a routing brain ",
@@ -862,41 +898,5 @@
     "stars": 3,
     "updated_at": "2026-08-09T16:49:36Z",
     "url": "https://github.com/Blaynelargish66/knx-skills"
-  },
-  {
-    "description": "Agent skills from mama-sh. Currently: trend-acceleration-radar \u2014 find trends in the acceleration phase and pick the mone",
-    "id": "mama-sh/skills",
-    "language": "Python",
-    "name": "mama-sh/skills",
-    "stars": 0,
-    "updated_at": "2026-08-09T16:49:25Z",
-    "url": "https://github.com/mama-sh/skills"
-  },
-  {
-    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
-    "id": "EstopaceMA/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "language": "\u2014",
-    "name": "EstopaceMA/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "stars": 0,
-    "updated_at": "2026-08-09T16:49:21Z",
-    "url": "https://github.com/EstopaceMA/skills-scale-institutional-knowledge-using-copilot-spaces"
-  },
-  {
-    "description": "Develop a framework that simplifies building interactive web interfaces using reusable components and modular design pri",
-    "id": "SURFLIN2030/swing-skills",
-    "language": "\u2014",
-    "name": "SURFLIN2030/swing-skills",
-    "stars": 1,
-    "updated_at": "2026-08-09T16:49:09Z",
-    "url": "https://github.com/SURFLIN2030/swing-skills"
-  },
-  {
-    "description": "",
-    "id": "wfklawfirm/aijur-skills",
-    "language": "TypeScript",
-    "name": "wfklawfirm/aijur-skills",
-    "stars": 0,
-    "updated_at": "2026-08-09T16:49:09Z",
-    "url": "https://github.com/wfklawfirm/aijur-skills"
   }
 ]
