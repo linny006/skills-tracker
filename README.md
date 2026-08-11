@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-11 14:30 UTC
+> ⏰ Last updated: 2026-08-11 14:40 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,106 +42,106 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Sridharan315/skillsprockcet](https://github.com/Sridharan315/skillsprockcet) | 0 | — | 2026-08-11 | to improve employment skills |
-| 2 | [osteele/agent-skills](https://github.com/osteele/agent-skills) | 0 | Python | 2026-08-11 | Portable agent skills for file-based research notebooks |
-| 3 | [Diego-Peres/skills-github-pages](https://github.com/Diego-Peres/skills-github-pages) | 0 | — | 2026-08-11 |  |
-| 4 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 25 | Python | 2026-08-11 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 5 | [pcnandes/skills-getting-started-with-github-copilot](https://github.com/pcnandes/skills-getting-started-with-github-copilot) | 0 | — | 2026-08-11 | Exercício: Primeiros Passos com GitHub Copilot |
-| 6 | [niicsz/skills-introduction-to-git](https://github.com/niicsz/skills-introduction-to-git) | 0 | — | 2026-08-11 | Exercise: Introduction to Git |
-| 7 | [eliemarbueno/skills-introduction-to-git](https://github.com/eliemarbueno/skills-introduction-to-git) | 0 | — | 2026-08-11 | Exercise: Introduction to Git |
-| 8 | [oliverb-io1902e8/agent-skills-collection](https://github.com/oliverb-io1902e8/agent-skills-collection) | 134 | Python | 2026-08-11 | Curated collection of modular agent skills for LLM-based agents |
-| 9 | [YuMuuu/my-agent-skills](https://github.com/YuMuuu/my-agent-skills) | 0 | — | 2026-08-11 |  |
-| 10 | [ZMS-Labs/epistemic-skills](https://github.com/ZMS-Labs/epistemic-skills) | 0 | Python | 2026-08-11 | Epistemic-discipline skills for agentic coding (Claude Code, Codex, Cursor, Gemini, or any harness) — formal rigor, blin |
-| 11 | [stark-ai-de/agent-skills](https://github.com/stark-ai-de/agent-skills) | 4 | JavaScript | 2026-08-11 | Public Agent Skills for Codex operations, Cursor operations, Claude operations, repo maintenance, skill maintenance, pro |
-| 12 | [ardiannurcahya/ogm-mcp-skills](https://github.com/ardiannurcahya/ogm-mcp-skills) | 3 | Python | 2026-08-11 | MCP Server and AI Agent Skills for OpenGraphMemory |
-| 13 | [everquint/frontend-skills](https://github.com/everquint/frontend-skills) | 0 | JavaScript | 2026-08-11 | One canonical frontend engineering standard, as installable agent skills. Detect facts, enforce standards. |
-| 14 | [mcvandevoorde/skills-introduction-to-github](https://github.com/mcvandevoorde/skills-introduction-to-github) | 0 | — | 2026-08-11 | Exercise: Introduction to GitHub |
-| 15 | [richaray/skills-agent-platform](https://github.com/richaray/skills-agent-platform) | 0 | Python | 2026-08-11 |  |
-| 16 | [Vladick-Pick/production-system-skills](https://github.com/Vladick-Pick/production-system-skills) | 0 | Python | 2026-08-11 | Четыре русскоязычных скилла и канонический шаблон для моделирования и сопровождения производственных систем |
-| 17 | [bmohan111/claude-skills](https://github.com/bmohan111/claude-skills) | 0 | Python | 2026-08-11 |  |
-| 18 | [FinnOD-06/skills-github-pages](https://github.com/FinnOD-06/skills-github-pages) | 0 | — | 2026-08-11 | Exercise: Create a site or blog from your GitHub repositories with GitHub Pages |
-| 19 | [ApparelHub-AI/apparelhub-skills](https://github.com/ApparelHub-AI/apparelhub-skills) | 0 | Python | 2026-08-11 | AI agent skills for apparelhub |
-| 20 | [leuceT/skills-introduction-to-git](https://github.com/leuceT/skills-introduction-to-git) | 0 | — | 2026-08-11 | Exercise: Introduction to Git |
-| 21 | [luciiqui/skills-code-with-codespaces](https://github.com/luciiqui/skills-code-with-codespaces) | 0 | Python | 2026-08-11 | Exercise: Code with Codespaces |
-| 22 | [faifaida/duoduo-skills](https://github.com/faifaida/duoduo-skills) | 0 | JavaScript | 2026-08-11 |  |
-| 23 | [treinamentos-serpro/skills-getting-started-with-github-copilot-eufrasio](https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-eufrasio) | 0 | JavaScript | 2026-08-11 | Exercício: Primeiros Passos com GitHub Copilot |
-| 24 | [smith-horn/skillsmith](https://github.com/smith-horn/skillsmith) | 75 | TypeScript | 2026-08-11 | Lifecycle Management for Agent Skills |
-| 25 | [veris-ai/veris-skills](https://github.com/veris-ai/veris-skills) | 3 | — | 2026-08-11 | Skills for agent simulation andboxes, by Veris |
-| 26 | [Lukas-Souza/skills-introduction-to-git](https://github.com/Lukas-Souza/skills-introduction-to-git) | 0 | Shell | 2026-08-11 | Exercise: Introduction to Git |
-| 27 | [TVBS-AI/tvbs-skills](https://github.com/TVBS-AI/tvbs-skills) | 0 | — | 2026-08-11 | TVBS AI Team's open-source Claude Code agent skills — reusable, installable via Claude Code Plugin Marketplace. |
-| 28 | [zxyycom/skills](https://github.com/zxyycom/skills) | 0 | JavaScript | 2026-08-11 |  |
-| 29 | [sirlenemaia-afk/skills-introduction-to-git](https://github.com/sirlenemaia-afk/skills-introduction-to-git) | 0 | Shell | 2026-08-11 | Exercise: Introduction to Git |
-| 30 | [msouza87/skills-introduction-to-git](https://github.com/msouza87/skills-introduction-to-git) | 0 | Shell | 2026-08-11 | Exercise: Introduction to Git |
-| 31 | [GabrielMeloMasi/skills-introduction-to-git](https://github.com/GabrielMeloMasi/skills-introduction-to-git) | 0 | Shell | 2026-08-11 | Exercise: Introduction to Git |
-| 32 | [waltercoan/skills-introduction-to-git](https://github.com/waltercoan/skills-introduction-to-git) | 0 | Shell | 2026-08-11 | Exercise: Introduction to Git |
-| 33 | [ArthurCNM/skills-introduction-to-git](https://github.com/ArthurCNM/skills-introduction-to-git) | 0 | Shell | 2026-08-11 | Exercise: Introduction to Git |
-| 34 | [kauesf/skills-introduction-to-git](https://github.com/kauesf/skills-introduction-to-git) | 0 | Shell | 2026-08-11 | Exercise: Introduction to Git |
-| 35 | [haoyu-qi/qhy-skills](https://github.com/haoyu-qi/qhy-skills) | 2 | HTML | 2026-08-11 | 个人技能仓库 |
-| 36 | [gopalkrishnamohapatro-commits/Interest-Artificial-Intelligence-Skills-Python-Pandas-Machine-Learning-Career-Goal-Data-Scientist](https://github.com/gopalkrishnamohapatro-commits/Interest-Artificial-Intelligence-Skills-Python-Pandas-Machine-Learning-Career-Goal-Data-Scientist) | 0 | — | 2026-08-11 |  |
-| 37 | [openclaw-cn-dev/yuxin-skills](https://github.com/openclaw-cn-dev/yuxin-skills) | 0 | Python | 2026-08-11 | 玉芬技能仓库 |
-| 38 | [Conatus0727/Skills](https://github.com/Conatus0727/Skills) | 0 | PowerShell | 2026-08-11 | 面向 Codex 的中文工作流技能集合：受众优先输出、中文语病诊断、自然化改写与工作请求精炼。 |
-| 39 | [blovenee-sudo/Skillset](https://github.com/blovenee-sudo/Skillset) | 0 | HTML | 2026-08-11 | 기획, 설계를 위한 Skillset 모음 및 활용 프로그램 |
-| 40 | [leuceT/skills-communicate-using-markdown](https://github.com/leuceT/skills-communicate-using-markdown) | 0 | — | 2026-08-11 | Exercise: Communicate using Markdown |
-| 41 | [Cor-Incorporated/claude-code-skills](https://github.com/Cor-Incorporated/claude-code-skills) | 4 | Shell | 2026-08-11 | Production-ready Claude Code configuration: 27 skills, 37 hooks, 5 rules. Includes Anthropic best practices, gstack inte |
-| 42 | [pavelstudeny/skills](https://github.com/pavelstudeny/skills) | 0 | Shell | 2026-08-11 | agentic skills |
-| 43 | [OliverBurchardt-de/Kanzlei-AI-Skills](https://github.com/OliverBurchardt-de/Kanzlei-AI-Skills) | 0 | Python | 2026-08-11 | Dieses Repo enthält alle Skills in den jeweils gültigen Fassungen, die wir für die Kanzlei entwickelt haben. |
-| 44 | [teo-goulois/skills](https://github.com/teo-goulois/skills) | 0 | — | 2026-08-11 | Project-local agent skills generated from Téo Goulois's code handbook |
-| 45 | [shivaniii20/SkillShield-AI](https://github.com/shivaniii20/SkillShield-AI) | 0 | Python | 2026-08-11 | Resume analyzer project and Course recommendation |
-| 46 | [VaishnavIUpadyaya/SkillSync](https://github.com/VaishnavIUpadyaya/SkillSync) | 0 | JavaScript | 2026-08-11 | A Skill-Based Student Collaboration and Intelligent Project Matching Platform |
-| 47 | [mdjahid11978-design/skills](https://github.com/mdjahid11978-design/skills) | 0 | — | 2026-08-11 | GitHub Skills: Introduction to Secret Scanning |
-| 48 | [mslearner-new/skills-github-pages](https://github.com/mslearner-new/skills-github-pages) | 0 | — | 2026-08-11 |  |
-| 49 | [treinamentos-serpro/skills-getting-started-with-github-copilot-andre-gianini-new](https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-andre-gianini-new) | 0 | JavaScript | 2026-08-11 | Exercício: Primeiros Passos com GitHub Copilot |
-| 50 | [thirumurugan1672005-dot/math-skills](https://github.com/thirumurugan1672005-dot/math-skills) | 0 | — | 2026-08-11 |  |
-| 51 | [rosskuyper/skills](https://github.com/rosskuyper/skills) | 0 | Shell | 2026-08-11 |  |
-| 52 | [MiketheEstimator/Skills-ShowCase](https://github.com/MiketheEstimator/Skills-ShowCase) | 1 | Python | 2026-08-11 |  |
-| 53 | [Neplich/dev-agent-skills](https://github.com/Neplich/dev-agent-skills) | 8 | JavaScript | 2026-08-11 |  |
-| 54 | [LiamKlyneker/skills](https://github.com/LiamKlyneker/skills) | 0 | Shell | 2026-08-11 | My personal directory of skills |
-| 55 | [sungurerdim/dev-skills](https://github.com/sungurerdim/dev-skills) | 1 | HTML | 2026-08-11 | 30 multi-phase AI coding skills with executable gates — pure markdown, zero dependencies. |
-| 56 | [itsjuls23/skills-scale-institutional-knowledge-using-copilot-spaces](https://github.com/itsjuls23/skills-scale-institutional-knowledge-using-copilot-spaces) | 0 | — | 2026-08-11 | Exercise: Scale Institutional Knowledge Using Copilot Spaces |
-| 57 | [Emmraan/agent-skills](https://github.com/Emmraan/agent-skills) | 0 | Python | 2026-08-11 | This repository collects 160+ well-structured SKILL.md documents that define capability modules ("skills") for AI agents |
-| 58 | [SamoTech/skills-tree](https://github.com/SamoTech/skills-tree) | 2 | Python | 2026-08-11 | 🌳 A comprehensive collection of all skills available for AI agents and computer-use models — perception, reasoning, memo |
-| 59 | [OTH-Tech-Skills-Classroom50/lab-devcontainer-image](https://github.com/OTH-Tech-Skills-Classroom50/lab-devcontainer-image) | 0 | Dockerfile | 2026-08-11 | Prebuilt devcontainer image for Technology Skills labs (cs50, check50, gh-student baked in) |
-| 60 | [massirr/skills-deploy-to-azure-1](https://github.com/massirr/skills-deploy-to-azure-1) | 1 | JavaScript | 2026-08-11 | My clone repository |
-| 61 | [Diego-Peres/skills-communicate-using-markdown](https://github.com/Diego-Peres/skills-communicate-using-markdown) | 0 | — | 2026-08-11 |  |
-| 62 | [ramjiram4269/skills-release-based-workflow](https://github.com/ramjiram4269/skills-release-based-workflow) | 0 | JavaScript | 2026-08-11 |  |
-| 63 | [ymaxymovych/tz-skills](https://github.com/ymaxymovych/tz-skills) | 0 | Shell | 2026-08-11 | Portable Claude Code skills: /tz-review (audit a spec before work) and /tz-verify (verify it was truly implemented after |
-| 64 | [open-mercato/skills](https://github.com/open-mercato/skills) | 116 | Shell | 2026-08-11 | Enterprise AI Engineering skills we coined at Open Mercato (800k+ lines of code ERP built with AI) |
-| 65 | [fxmuld3r/skills-getting-started-with-github-copilot-andre](https://github.com/fxmuld3r/skills-getting-started-with-github-copilot-andre) | 0 | JavaScript | 2026-08-11 | Exercício: Primeiros Passos com GitHub Copilot |
-| 66 | [grahama1970/agent-skills](https://github.com/grahama1970/agent-skills) | 5 | Python | 2026-08-11 | Shared skills for AI agents (Claude Code, Codex, Gemini) |
-| 67 | [Lbstrydom/claude-engineering-skills](https://github.com/Lbstrydom/claude-engineering-skills) | 0 | JavaScript | 2026-08-11 | Self-driving plan-audit-fix loop: Claude plans, GPT-5.4 audits, peer deliberation, multi-pass parallel code audits |
-| 68 | [YeDaxia/pennyscribe-skills](https://github.com/YeDaxia/pennyscribe-skills) | 7 | HTML | 2026-08-11 | 把播客整理成适合发布到小红书和X的内容 |
-| 69 | [wix/skills](https://github.com/wix/skills) | 26 | JavaScript | 2026-08-11 | Wix Skills |
-| 70 | [AyoAyomide/skills-bee](https://github.com/AyoAyomide/skills-bee) | 0 | — | 2026-08-11 | a dump for skills I use daily  |
-| 71 | [dobachi/claude-skills-marketplace](https://github.com/dobachi/claude-skills-marketplace) | 0 | Python | 2026-08-11 |  |
-| 72 | [dhicoc/wuyun-liuqi-skills](https://github.com/dhicoc/wuyun-liuqi-skills) | 38 | Python | 2026-08-11 | 五运六气 AI Agent 技能包 — 中医运气学说推算引擎。干支推算 + 六气步移 + RAG五层知识库(104键) + ReAct推理工作流 + 自进化引擎。支持 Claude Code/Codex CLI/Cursor/Cline/O |
-| 73 | [blas1n/claude-skills](https://github.com/blas1n/claude-skills) | 2 | Python | 2026-08-11 | Reusable claude skills |
-| 74 | [Thompitelli/roger-skills](https://github.com/Thompitelli/roger-skills) | 0 | — | 2026-08-11 |  |
-| 75 | [pedro-dalben/BigBangSkills](https://github.com/pedro-dalben/BigBangSkills) | 0 | Java | 2026-08-11 |  |
-| 76 | [ttperes/skills-getting-started-with-github-copilot-ttp-ex1](https://github.com/ttperes/skills-getting-started-with-github-copilot-ttp-ex1) | 0 | JavaScript | 2026-08-11 | Exercício: Primeiros Passos com GitHub Copilot |
-| 77 | [martinkalyonski/skills-getting-started-with-github-copilot](https://github.com/martinkalyonski/skills-getting-started-with-github-copilot) | 0 | JavaScript | 2026-08-11 | Exercise: Get started using GitHub Copilot |
-| 78 | [umarfaruqmulla833-lab/Skillscout](https://github.com/umarfaruqmulla833-lab/Skillscout) | 0 | JavaScript | 2026-08-11 | Skillscout-training-need matching platform prototype |
-| 79 | [alastairlundy/skills](https://github.com/alastairlundy/skills) | 0 | PowerShell | 2026-08-11 | Useful skills for creating and maintaining software with AI |
-| 80 | [ryanduguid/australian-accounting-skills](https://github.com/ryanduguid/australian-accounting-skills) | 1 | Python | 2026-08-11 | AI agent skills for Australian public-practice accounting: BAS, FBT, Division 7A, STP, month-end close and workpapers. |
-| 81 | [starlake-ai/starlake-skills](https://github.com/starlake-ai/starlake-skills) | 1 | PowerShell | 2026-08-11 | Skills for Starlake data pipeline CLI. Covers load, transform, extract, autoload, dag-generate, configuration patterns,  |
-| 82 | [Aneaire/higantic-skills](https://github.com/Aneaire/higantic-skills) | 0 | Python | 2026-08-11 | Public agent skills for creating and managing HiGantic artifacts |
-| 83 | [Geethanath71/skills-getting-started-with-github-copilot](https://github.com/Geethanath71/skills-getting-started-with-github-copilot) | 0 | JavaScript | 2026-08-11 | Exercise: Get started using GitHub Copilot |
-| 84 | [PrimeKartik/TeamB_SkillSphere-Learning-nexus-fsd-](https://github.com/PrimeKartik/TeamB_SkillSphere-Learning-nexus-fsd-) | 0 | JavaScript | 2026-08-11 |  |
-| 85 | [mofe0/skills-introduction-to-git](https://github.com/mofe0/skills-introduction-to-git) | 0 | JavaScript | 2026-08-11 | Exercise: Introduction to Git |
-| 86 | [SocialSkillsStudio/social-skills-curriculum](https://github.com/SocialSkillsStudio/social-skills-curriculum) | 0 | HTML | 2026-08-11 |  |
-| 87 | [MAONEZZE/SKILLS](https://github.com/MAONEZZE/SKILLS) | 0 | — | 2026-08-11 |  |
-| 88 | [Mauricio-000/skills-getting-started-with-github-copilot-mauricio](https://github.com/Mauricio-000/skills-getting-started-with-github-copilot-mauricio) | 0 | JavaScript | 2026-08-11 | Exercício: Primeiros Passos com GitHub Copilot |
-| 89 | [reddb-io/red-skills](https://github.com/reddb-io/red-skills) | 18 | TypeScript | 2026-08-11 |  |
-| 90 | [tobiaseri/skills-workflow-artifacts](https://github.com/tobiaseri/skills-workflow-artifacts) | 0 | JavaScript | 2026-08-11 | Exercise: Work with Workflow Artifacts |
-| 91 | [andrea-resende/skills-getting-started-with-github-copilot-andrear](https://github.com/andrea-resende/skills-getting-started-with-github-copilot-andrear) | 0 | JavaScript | 2026-08-11 | Exercício: Primeiros Passos com GitHub Copilot |
-| 92 | [sjy1998/sjy-agent-skills](https://github.com/sjy1998/sjy-agent-skills) | 0 | Python | 2026-08-11 | A skills repository for SJY |
-| 93 | [ArchdevilForge/skills](https://github.com/ArchdevilForge/skills) | 0 | Python | 2026-08-11 |  |
-| 94 | [Boundless-Fang/pm-skills](https://github.com/Boundless-Fang/pm-skills) | 0 | HTML | 2026-08-11 |  |
-| 95 | [fabiobabinski-telefonica/skills-introduction-to-git](https://github.com/fabiobabinski-telefonica/skills-introduction-to-git) | 0 | Shell | 2026-08-11 | Exercise: Introduction to Git |
-| 96 | [DhamarPutra/AgentSkills](https://github.com/DhamarPutra/AgentSkills) | 0 | Python | 2026-08-11 |  |
-| 97 | [BenaliHQ/paxus-skills](https://github.com/BenaliHQ/paxus-skills) | 3 | Python | 2026-08-11 | Claude Code skills for the Paxus CPA team — /onboard-client and /onboard-project |
-| 98 | [vermegi/skills-scale-institutional-knowledge-using-copilot-spaces](https://github.com/vermegi/skills-scale-institutional-knowledge-using-copilot-spaces) | 0 | — | 2026-08-11 | Exercise: Scale Institutional Knowledge Using Copilot Spaces |
-| 99 | [praveenmitian/skills-scale-institutional-knowledge-using-copilot-spaces](https://github.com/praveenmitian/skills-scale-institutional-knowledge-using-copilot-spaces) | 0 | — | 2026-08-11 | Exercise: Scale Institutional Knowledge Using Copilot Spaces |
-| 100 | [treinamentos-serpro/skills-getting-started-with-github-copilot-armstrong2](https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-armstrong2) | 0 | JavaScript | 2026-08-11 | Exercício: Primeiros Passos com GitHub Copilot |
+| 1 | [hefwilliams-glitch/skills-communicate-using-markdown](https://github.com/hefwilliams-glitch/skills-communicate-using-markdown) | 0 | — | 2026-08-11 | Exercise: Communicate using Markdown |
+| 2 | [treinamentos-serpro/skills-getting-started-with-github-copilot-paulo-roberto-2](https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-paulo-roberto-2) | 0 | — | 2026-08-11 | Exercício: Primeiros Passos com GitHub Copilot |
+| 3 | [YH-Wang000/amazon-skills](https://github.com/YH-Wang000/amazon-skills) | 0 | — | 2026-08-11 |  |
+| 4 | [brainpodnl/skills](https://github.com/brainpodnl/skills) | 1 | — | 2026-08-11 |  |
+| 5 | [svhema/skills-review-pull-requests](https://github.com/svhema/skills-review-pull-requests) | 0 | HTML | 2026-08-11 | Exercise: Review pull requests |
+| 6 | [trackerandscout/skills](https://github.com/trackerandscout/skills) | 0 | — | 2026-08-11 | T+S Skills |
+| 7 | [HelaElbez/skills-getting-started-with-github-copilot](https://github.com/HelaElbez/skills-getting-started-with-github-copilot) | 0 | — | 2026-08-11 | Exercise: Get started using GitHub Copilot |
+| 8 | [pedro-dalben/BigBangSkills](https://github.com/pedro-dalben/BigBangSkills) | 0 | Java | 2026-08-11 |  |
+| 9 | [Thompitelli/roger-skills](https://github.com/Thompitelli/roger-skills) | 0 | — | 2026-08-11 |  |
+| 10 | [everquint/frontend-skills](https://github.com/everquint/frontend-skills) | 0 | JavaScript | 2026-08-11 | One canonical frontend engineering standard, as installable agent skills. Detect facts, enforce standards. |
+| 11 | [NKGitTCS/skills-communicate-using-markdown](https://github.com/NKGitTCS/skills-communicate-using-markdown) | 0 | — | 2026-08-11 | skills-communicate-using-markdown |
+| 12 | [LuisRibeiroo/skills](https://github.com/LuisRibeiroo/skills) | 0 | — | 2026-08-11 |  |
+| 13 | [eorroe/anything-to-agent-skills](https://github.com/eorroe/anything-to-agent-skills) | 0 | — | 2026-08-11 |  |
+| 14 | [diego-arauj/skills-trafego-pago](https://github.com/diego-arauj/skills-trafego-pago) | 0 | — | 2026-08-11 |  |
+| 15 | [MiketheEstimator/Skills-ShowCase](https://github.com/MiketheEstimator/Skills-ShowCase) | 1 | Python | 2026-08-11 |  |
+| 16 | [fastforgedev/skills](https://github.com/fastforgedev/skills) | 0 | — | 2026-08-11 |  |
+| 17 | [kaileconsulting/trinity-skills](https://github.com/kaileconsulting/trinity-skills) | 2 | Python | 2026-08-11 | Trinity Skills - /create-plan /iterate-plan /iterate-review My AI building harness when working with Claude Code that le |
+| 18 | [francamacdowell/skills](https://github.com/francamacdowell/skills) | 0 | — | 2026-08-11 | Personal Claude Code skills: planning-phase (test-driven planning behind an approval gate) and create-pr (Conventional C |
+| 19 | [brendenmojaki01-source/skills-introduction-to-github](https://github.com/brendenmojaki01-source/skills-introduction-to-github) | 0 | — | 2026-08-11 | Exercise: Introduction to GitHub |
+| 20 | [Mauricio-000/skills-getting-started-with-github-copilot-mauricio2](https://github.com/Mauricio-000/skills-getting-started-with-github-copilot-mauricio2) | 0 | JavaScript | 2026-08-11 | Exercício: Primeiros Passos com GitHub Copilot |
+| 21 | [styrir/skills](https://github.com/styrir/skills) | 0 | Python | 2026-08-11 |  |
+| 22 | [shiyimi/x-skills](https://github.com/shiyimi/x-skills) | 0 | JavaScript | 2026-08-11 | agent skill 仓库 |
+| 23 | [useOttoAI/openclaw-skills](https://github.com/useOttoAI/openclaw-skills) | 0 | — | 2026-08-11 | OpenClaw skills from Otto AI - let your agent access crypto intelligence, AI image/video generation, and research via x4 |
+| 24 | [ChrisFmlyc/ai-skills](https://github.com/ChrisFmlyc/ai-skills) | 0 | TypeScript | 2026-08-11 |  |
+| 25 | [Barby202022/test-skills](https://github.com/Barby202022/test-skills) | 0 | — | 2026-08-11 |  |
+| 26 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 25 | Python | 2026-08-11 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 27 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 19 | Python | 2026-08-11 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 28 | [natejswenson/claude-skills](https://github.com/natejswenson/claude-skills) | 3 | JavaScript | 2026-08-11 | Monorepo of independently-released Claude Code productivity skills: devlog, ghostwriter, resume |
+| 29 | [felix-fisheretuw5422/ai-skills-orchestrator-executor](https://github.com/felix-fisheretuw5422/ai-skills-orchestrator-executor) | 0 | HTML | 2026-08-11 | AI Skills Orchestrator v2026 is a cross-platform framework for arranging AI skills, coordinating workflow-based automati |
+| 30 | [tomdale/skills](https://github.com/tomdale/skills) | 0 | JavaScript | 2026-08-11 | Tom Dale's personal agent skills and utilities. |
+| 31 | [grahama1970/agent-skills](https://github.com/grahama1970/agent-skills) | 5 | Python | 2026-08-11 | Shared skills for AI agents (Claude Code, Codex, Gemini) |
+| 32 | [mcvandevoorde/skills-introduction-to-github](https://github.com/mcvandevoorde/skills-introduction-to-github) | 0 | — | 2026-08-11 | Exercise: Introduction to GitHub |
+| 33 | [JulioPeixoto/agent-skills](https://github.com/JulioPeixoto/agent-skills) | 0 | Shell | 2026-08-11 |  |
+| 34 | [whycantiusemyname/fuck-the-class-skills](https://github.com/whycantiusemyname/fuck-the-class-skills) | 2 | Python | 2026-08-11 |  |
+| 35 | [skills-il/marketing-growth](https://github.com/skills-il/marketing-growth) | 6 | Python | 2026-08-11 | Marketing & Growth skills for the Israeli market |
+| 36 | [carlitose/agent-skills](https://github.com/carlitose/agent-skills) | 0 | Python | 2026-08-11 | Custom AI agent skills for spec-driven development: write-a-prd, prd-to-issues, issues-to-openspec |
+| 37 | [RoyRolls/skills-introduction-to-codeql](https://github.com/RoyRolls/skills-introduction-to-codeql) | 0 | Python | 2026-08-11 | Exercise: Introduction to CodeQL |
+| 38 | [HollosCs/skills-scale-institutional-knowledge-using-copilot-spaces-public](https://github.com/HollosCs/skills-scale-institutional-knowledge-using-copilot-spaces-public) | 0 | — | 2026-08-11 | Exercise: Scale Institutional Knowledge Using Copilot Spaces |
+| 39 | [tryarcanist/skills](https://github.com/tryarcanist/skills) | 0 | — | 2026-08-11 | Agent skills Arcanist uses for shipping code. Start with resolve-comments. |
+| 40 | [andrevictor23-tech/claude-skills](https://github.com/andrevictor23-tech/claude-skills) | 0 | Python | 2026-08-11 |  |
+| 41 | [AndersonHJB/CodexSkills](https://github.com/AndersonHJB/CodexSkills) | 2 | Python | 2026-08-11 | Personal Codex skills |
+| 42 | [phuati/claude-skills-arsenal](https://github.com/phuati/claude-skills-arsenal) | 1 | HTML | 2026-08-11 | Your Ultimate Claude Skills Library & Hub 2026 – Integrate & Organize AI Workflows |
+| 43 | [alizas1/skills](https://github.com/alizas1/skills) | 0 | — | 2026-08-11 | Public Cursor and Claude skills for API developer experience work. |
+| 44 | [IceLemon-06/skills-introduction-to-git](https://github.com/IceLemon-06/skills-introduction-to-git) | 0 | Shell | 2026-08-11 | Exercise: Introduction to Git |
+| 45 | [weishao2/tizhuang-agent-skills](https://github.com/weishao2/tizhuang-agent-skills) | 0 | Python | 2026-08-11 | 2000万+中小学K12真题题库 Skill：免费注册、免费抽题、教材/章节/知识点检索、练习测验与AI智能组卷。 |
+| 46 | [NKGitTCS/skills-introduction-to-github](https://github.com/NKGitTCS/skills-introduction-to-github) | 0 | — | 2026-08-11 | skills-introduction-to-github |
+| 47 | [0xmortuex/claude-code-skills](https://github.com/0xmortuex/claude-code-skills) | 0 | Python | 2026-08-11 | A curated pack of 16 Claude Code skills for the unglamorous work that ships software - ship-it, readme-forge, security-s |
+| 48 | [aoirint/skills](https://github.com/aoirint/skills) | 0 | Python | 2026-08-11 | Agent skills by aoirint, distributed via APM. |
+| 49 | [whatagraph/whatagraph-skills](https://github.com/whatagraph/whatagraph-skills) | 0 | — | 2026-08-11 | Claude Skills to be used with Whatagraph MCP |
+| 50 | [blovenee-sudo/Skillset](https://github.com/blovenee-sudo/Skillset) | 0 | HTML | 2026-08-11 | 기획, 설계를 위한 Skillset 모음 및 활용 프로그램 |
+| 51 | [JoseLuis21/docker-golang-skills](https://github.com/JoseLuis21/docker-golang-skills) | 0 | Dockerfile | 2026-08-11 |  |
+| 52 | [JeremyKennedy/jk-skills](https://github.com/JeremyKennedy/jk-skills) | 1 | Python | 2026-08-11 | Heavyweight, opinionated, augmented version of Superpowers |
+| 53 | [ArdenZC/codex-work-skills](https://github.com/ArdenZC/codex-work-skills) | 0 | Python | 2026-08-11 | 个人工作用 Codex skills 仓库 |
+| 54 | [luishlaurentino-arch/skills-introduction-to-git](https://github.com/luishlaurentino-arch/skills-introduction-to-git) | 0 | Shell | 2026-08-11 | Exercise: Introduction to Git |
+| 55 | [ZMS-Labs/epistemic-skills](https://github.com/ZMS-Labs/epistemic-skills) | 0 | Python | 2026-08-11 | Epistemic-discipline skills for agentic coding (Claude Code, Codex, Cursor, Gemini, or any harness) — formal rigor, blin |
+| 56 | [Roubtec/agent-skills](https://github.com/Roubtec/agent-skills) | 0 | JavaScript | 2026-08-11 | Shared agent skills, distributed as a Claude Code marketplace plugin |
+| 57 | [kbichave/skills](https://github.com/kbichave/skills) | 2 | Python | 2026-08-11 | Claude Code plugin for deep system discovery, implementation planning, and code generation — research, multi-LLM review, |
+| 58 | [zama-ai/skills](https://github.com/zama-ai/skills) | 2 | Python | 2026-08-11 |  |
+| 59 | [zhuocun/agent-skills](https://github.com/zhuocun/agent-skills) | 0 | — | 2026-08-11 |  |
+| 60 | [luciusrockwing/skills](https://github.com/luciusrockwing/skills) | 0 | Python | 2026-08-11 |  |
+| 61 | [niicsz/skills-code-with-codespaces](https://github.com/niicsz/skills-code-with-codespaces) | 0 | Python | 2026-08-11 | Exercise: Code with Codespaces |
+| 62 | [alastairlundy/skills](https://github.com/alastairlundy/skills) | 0 | PowerShell | 2026-08-11 | Useful skills for creating and maintaining software with AI |
+| 63 | [FinnOD-06/skills-github-pages](https://github.com/FinnOD-06/skills-github-pages) | 0 | — | 2026-08-11 | Exercise: Create a site or blog from your GitHub repositories with GitHub Pages |
+| 64 | [cbusillo/codex-skills](https://github.com/cbusillo/codex-skills) | 5 | Python | 2026-08-11 |  |
+| 65 | [ResearcherryAI/Intergalactic_agent_skills](https://github.com/ResearcherryAI/Intergalactic_agent_skills) | 0 | Python | 2026-08-11 |  |
+| 66 | [epistemedeus/x402-data-gateway-skills](https://github.com/epistemedeus/x402-data-gateway-skills) | 0 | — | 2026-08-11 | Eleven installable agent skills for 14 live x402 and MPP machine services, including payment-offer preflight, web data,  |
+| 67 | [Abdo-Eid/agent-skills](https://github.com/Abdo-Eid/agent-skills) | 0 | Python | 2026-08-11 |  |
+| 68 | [mranner/azedo-skills](https://github.com/mranner/azedo-skills) | 1 | Python | 2026-08-11 | Sammlung von Claude-Code-Skills für die azedo-Systemadministration (FreeBSD, WordPress, Server- & Kundenverwaltung). |
+| 69 | [IT-Althusser/csdn-writer-skills](https://github.com/IT-Althusser/csdn-writer-skills) | 6 | — | 2026-08-11 | 用于生成csdn博客的skills |
+| 70 | [reddb-io/red-skills](https://github.com/reddb-io/red-skills) | 18 | TypeScript | 2026-08-11 |  |
+| 71 | [Diego-Peres/skills-github-pages](https://github.com/Diego-Peres/skills-github-pages) | 0 | — | 2026-08-11 |  |
+| 72 | [Sridharan315/skillsprockcet](https://github.com/Sridharan315/skillsprockcet) | 0 | TypeScript | 2026-08-11 | to improve employment skills |
+| 73 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 14 | Python | 2026-08-11 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 74 | [osteele/agent-skills](https://github.com/osteele/agent-skills) | 0 | Python | 2026-08-11 | Portable agent skills for file-based research notebooks |
+| 75 | [niicsz/skills-introduction-to-git](https://github.com/niicsz/skills-introduction-to-git) | 0 | Shell | 2026-08-11 | Exercise: Introduction to Git |
+| 76 | [heymishy/skills-platform-val](https://github.com/heymishy/skills-platform-val) | 0 | JavaScript | 2026-08-11 | Skills platform validation working instance — 2nd team |
+| 77 | [pcnandes/skills-getting-started-with-github-copilot](https://github.com/pcnandes/skills-getting-started-with-github-copilot) | 0 | JavaScript | 2026-08-11 | Exercício: Primeiros Passos com GitHub Copilot |
+| 78 | [eliemarbueno/skills-introduction-to-git](https://github.com/eliemarbueno/skills-introduction-to-git) | 0 | Shell | 2026-08-11 | Exercise: Introduction to Git |
+| 79 | [brgrp/skills](https://github.com/brgrp/skills) | 0 | Shell | 2026-08-11 |  |
+| 80 | [SocialSkillsStudio/social-skills-curriculum](https://github.com/SocialSkillsStudio/social-skills-curriculum) | 0 | HTML | 2026-08-11 |  |
+| 81 | [oliverb-io1902e8/agent-skills-collection](https://github.com/oliverb-io1902e8/agent-skills-collection) | 186 | Python | 2026-08-11 | Curated collection of modular agent skills for LLM-based agents |
+| 82 | [YuMuuu/my-agent-skills](https://github.com/YuMuuu/my-agent-skills) | 0 | — | 2026-08-11 |  |
+| 83 | [SagaSmithAI/SagaSmith-dnd-skills](https://github.com/SagaSmithAI/SagaSmith-dnd-skills) | 0 | Python | 2026-08-11 | D&D game-master skills, references, templates, and tool guidance for SagaSmithAI. |
+| 84 | [Diego-Peres/skills-communicate-using-markdown](https://github.com/Diego-Peres/skills-communicate-using-markdown) | 0 | — | 2026-08-11 |  |
+| 85 | [HiQ-AI/agent-skills](https://github.com/HiQ-AI/agent-skills) | 0 | Python | 2026-08-11 | Open Agent Skills from HiQ — LCA emission factors, carbon footprint, and EPD data for AI agents |
+| 86 | [ineztia/user-skills](https://github.com/ineztia/user-skills) | 0 | PowerShell | 2026-08-11 |  |
+| 87 | [21StarkCom/stark-skills](https://github.com/21StarkCom/stark-skills) | 0 | TypeScript | 2026-08-11 | Multi-agent PR code review system — 3 AI agents × N domains, hierarchical config, self-improving prompts |
+| 88 | [stark-ai-de/agent-skills](https://github.com/stark-ai-de/agent-skills) | 4 | JavaScript | 2026-08-11 | Public Agent Skills for Codex operations, Cursor operations, Claude operations, repo maintenance, skill maintenance, pro |
+| 89 | [ardiannurcahya/ogm-mcp-skills](https://github.com/ardiannurcahya/ogm-mcp-skills) | 3 | Python | 2026-08-11 | MCP Server and AI Agent Skills for OpenGraphMemory |
+| 90 | [jasim/sapporta-skills](https://github.com/jasim/sapporta-skills) | 0 | JavaScript | 2026-08-11 | Skill files for working with Sapporta projects |
+| 91 | [galiprandi/skills](https://github.com/galiprandi/skills) | 0 | JavaScript | 2026-08-11 | My personal skills repository |
+| 92 | [falcondev-oss/skills](https://github.com/falcondev-oss/skills) | 0 | Shell | 2026-08-11 |  |
+| 93 | [Deekshithapng/skills-project](https://github.com/Deekshithapng/skills-project) | 0 | JavaScript | 2026-08-11 |  |
+| 94 | [antiquark12/skills-introduction-to-repository-management](https://github.com/antiquark12/skills-introduction-to-repository-management) | 0 | JavaScript | 2026-08-11 | Exercise: introduction to repository management |
+| 95 | [skills-studio/ai-guide](https://github.com/skills-studio/ai-guide) | 0 | HTML | 2026-08-11 | Дигитален Наръчник за AI Трансформация. |
+| 96 | [liuxincuit/skills](https://github.com/liuxincuit/skills) | 0 | JavaScript | 2026-08-11 |  |
+| 97 | [richaray/skills-agent-platform](https://github.com/richaray/skills-agent-platform) | 0 | Python | 2026-08-11 |  |
+| 98 | [luecabral/skills](https://github.com/luecabral/skills) | 1 | Shell | 2026-08-11 | Skills de vibecoding da Lue |
+| 99 | [Vladick-Pick/production-system-skills](https://github.com/Vladick-Pick/production-system-skills) | 0 | Python | 2026-08-11 | Четыре русскоязычных скилла и канонический шаблон для моделирования и сопровождения производственных систем |
+| 100 | [Lbstrydom/claude-engineering-skills](https://github.com/Lbstrydom/claude-engineering-skills) | 0 | JavaScript | 2026-08-11 | Self-driving plan-audit-fix loop: Claude plans, GPT-5.4 audits, peer deliberation, multi-pass parallel code audits |
 <!-- TRACKER_TABLE_END -->
 
 ---
