@@ -1,6 +1,42 @@
 [
   {
     "description": "",
+    "id": "parihar-harsh/skills-revision-reader",
+    "language": "HTML",
+    "name": "parihar-harsh/skills-revision-reader",
+    "stars": 0,
+    "updated_at": "2026-08-11T18:30:45Z",
+    "url": "https://github.com/parihar-harsh/skills-revision-reader"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-08-11T18:30:40Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 14,
+    "updated_at": "2026-08-11T18:30:39Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Exercise: Customize Your GitHub Copilot Experience",
+    "id": "rodrigoeufrasio/skills-customize-your-github-copilot-experience-eufrasio",
+    "language": "JavaScript",
+    "name": "rodrigoeufrasio/skills-customize-your-github-copilot-experience-eufrasio",
+    "stars": 0,
+    "updated_at": "2026-08-11T18:30:26Z",
+    "url": "https://github.com/rodrigoeufrasio/skills-customize-your-github-copilot-experience-eufrasio"
+  },
+  {
+    "description": "",
     "id": "nludd25/awesome-codex-skills",
     "language": "\u2014",
     "name": "nludd25/awesome-codex-skills",
@@ -394,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T18:26:04Z",
     "url": "https://github.com/pcnandes/skills-customize-your-github-copilot-experience"
-  },
-  {
-    "description": "Exercise: Customize Your GitHub Copilot Experience",
-    "id": "rodrigoeufrasio/skills-customize-your-github-copilot-experience-eufrasio",
-    "language": "JavaScript",
-    "name": "rodrigoeufrasio/skills-customize-your-github-copilot-experience-eufrasio",
-    "stars": 0,
-    "updated_at": "2026-08-11T18:30:26Z",
-    "url": "https://github.com/rodrigoeufrasio/skills-customize-your-github-copilot-experience-eufrasio"
   },
   {
     "description": "Exercise: Customize Your GitHub Copilot Experience",
@@ -871,32 +898,5 @@
     "stars": 17,
     "updated_at": "2026-08-11T18:19:17Z",
     "url": "https://github.com/Parcha-ai/parcha-skills"
-  },
-  {
-    "description": "",
-    "id": "3tallah/awesome-ai-agent-skills",
-    "language": "TypeScript",
-    "name": "3tallah/awesome-ai-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-11T18:18:44Z",
-    "url": "https://github.com/3tallah/awesome-ai-agent-skills"
-  },
-  {
-    "description": "Exercise: GitHub Copilot Code Review",
-    "id": "yshareef071023/skills-copilot-code-review",
-    "language": "JavaScript",
-    "name": "yshareef071023/skills-copilot-code-review",
-    "stars": 0,
-    "updated_at": "2026-08-11T18:18:42Z",
-    "url": "https://github.com/yshareef071023/skills-copilot-code-review"
-  },
-  {
-    "description": "all of my claude skills",
-    "id": "HridayKadam/claude-skills",
-    "language": "\u2014",
-    "name": "HridayKadam/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-08-11T18:18:03Z",
-    "url": "https://github.com/HridayKadam/claude-skills"
   }
 ]
