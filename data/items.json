@@ -1,11 +1,65 @@
 [
   {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-08-11T00:45:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Toolkit and Standard for building, grading, and scaling cross-agent skill libraries (Claude Code + Codex) to a tiered Br",
+    "id": "product-on-purpose/agent-skills-toolkit",
+    "language": "JavaScript",
+    "name": "product-on-purpose/agent-skills-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-11T00:45:19Z",
+    "url": "https://github.com/product-on-purpose/agent-skills-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-11T00:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 14,
+    "updated_at": "2026-08-11T00:45:12Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Engineering skills and workflows to enhance AI-assisted coding, review, debugging, and project maintenance.",
+    "id": "flybroken/skills-engineer",
+    "language": "Shell",
+    "name": "flybroken/skills-engineer",
+    "stars": 1,
+    "updated_at": "2026-08-11T00:45:12Z",
+    "url": "https://github.com/flybroken/skills-engineer"
+  },
+  {
+    "description": "",
+    "id": "VENGEANCE8/Claude-skills-",
+    "language": "HTML",
+    "name": "VENGEANCE8/Claude-skills-",
+    "stars": 0,
+    "updated_at": "2026-08-11T00:45:04Z",
+    "url": "https://github.com/VENGEANCE8/Claude-skills-"
+  },
+  {
     "description": "A repo for storing agentic resources for Sei.",
     "id": "sei-protocol/sei-internal-skills",
     "language": "Go",
     "name": "sei-protocol/sei-internal-skills",
     "stars": 1,
-    "updated_at": "2026-08-11T00:44:58Z",
+    "updated_at": "2026-08-11T00:45:23Z",
     "url": "https://github.com/sei-protocol/sei-internal-skills"
   },
   {
@@ -423,24 +477,6 @@
     "url": "https://github.com/skills-studio/ai-guide"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-11T00:34:05Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 19,
-    "updated_at": "2026-08-11T00:34:02Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "",
     "id": "Ricardo-kui/claude-skills",
     "language": "Python",
@@ -574,15 +610,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T00:30:40Z",
     "url": "https://github.com/flyingTodream/harmonyos-development-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 14,
-    "updated_at": "2026-08-11T00:30:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Skills platform validation working instance \u2014 2nd team",
@@ -793,15 +820,6 @@
   },
   {
     "description": "",
-    "id": "VENGEANCE8/Claude-skills-",
-    "language": "HTML",
-    "name": "VENGEANCE8/Claude-skills-",
-    "stars": 0,
-    "updated_at": "2026-08-11T00:45:04Z",
-    "url": "https://github.com/VENGEANCE8/Claude-skills-"
-  },
-  {
-    "description": "",
     "id": "yto/yto-skills",
     "language": "\u2014",
     "name": "yto/yto-skills",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T00:19:17Z",
     "url": "https://github.com/mcorreiam/opencode-skills"
-  },
-  {
-    "description": "Collection of LLM agent skills used in my day-to-day",
-    "id": "davelens/agent-skills",
-    "language": "Shell",
-    "name": "davelens/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-11T00:18:48Z",
-    "url": "https://github.com/davelens/agent-skills"
-  },
-  {
-    "description": "A collection of custom GitHub Copilot agents and skills built for VS Code, designed to accelerate enterprise data engine",
-    "id": "d-c-small/Portfolio-Copilot-Agents-Skills",
-    "language": "TSQL",
-    "name": "d-c-small/Portfolio-Copilot-Agents-Skills",
-    "stars": 0,
-    "updated_at": "2026-08-11T00:18:05Z",
-    "url": "https://github.com/d-c-small/Portfolio-Copilot-Agents-Skills"
   }
 ]
