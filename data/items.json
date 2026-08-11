@@ -1,5 +1,59 @@
 [
   {
+    "description": "79 security skills across 9 domains \u2014 installable into Claude Code, Codex, Cursor, Gemini CLI, Windsurf, GitHub Copilot,",
+    "id": "Wang200935/security-agent-skills",
+    "language": "\u2014",
+    "name": "Wang200935/security-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-11T16:30:20Z",
+    "url": "https://github.com/Wang200935/security-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-11T16:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 14,
+    "updated_at": "2026-08-11T16:30:15Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Exercise: Code with Codespaces",
+    "id": "RamatenkiCharan/skills-code-with-codespaces",
+    "language": "Python",
+    "name": "RamatenkiCharan/skills-code-with-codespaces",
+    "stars": 0,
+    "updated_at": "2026-08-11T16:30:12Z",
+    "url": "https://github.com/RamatenkiCharan/skills-code-with-codespaces"
+  },
+  {
+    "description": "",
+    "id": "YeXingKe/x-prompt-skills",
+    "language": "\u2014",
+    "name": "YeXingKe/x-prompt-skills",
+    "stars": 0,
+    "updated_at": "2026-08-11T16:30:09Z",
+    "url": "https://github.com/YeXingKe/x-prompt-skills"
+  },
+  {
+    "description": "A collection of useful claude skills I personally use",
+    "id": "ptrandev/claude-skills",
+    "language": "Python",
+    "name": "ptrandev/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-11T16:30:08Z",
+    "url": "https://github.com/ptrandev/claude-skills"
+  },
+  {
     "description": "",
     "id": "noe-lcp/gh200-skills-deploy-to-azure",
     "language": "JavaScript",
@@ -32,7 +86,7 @@
     "language": "HTML",
     "name": "agankitagupta/skills-review-pull-requests-day2",
     "stars": 0,
-    "updated_at": "2026-08-11T16:29:59Z",
+    "updated_at": "2026-08-11T16:30:19Z",
     "url": "https://github.com/agankitagupta/skills-review-pull-requests-day2"
   },
   {
@@ -41,17 +95,8 @@
     "language": "\u2014",
     "name": "Abhinav968-coder/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-08-11T16:29:56Z",
+    "updated_at": "2026-08-11T16:30:29Z",
     "url": "https://github.com/Abhinav968-coder/skills-introduction-to-github"
-  },
-  {
-    "description": "Exercise: Code with Codespaces",
-    "id": "RamatenkiCharan/skills-code-with-codespaces",
-    "language": "Python",
-    "name": "RamatenkiCharan/skills-code-with-codespaces",
-    "stars": 0,
-    "updated_at": "2026-08-11T16:29:56Z",
-    "url": "https://github.com/RamatenkiCharan/skills-code-with-codespaces"
   },
   {
     "description": "Open-source Agent Skills from Romy for solo founders: voice, LinkedIn, X, GEO, and daily research workflows.",
@@ -59,7 +104,7 @@
     "language": "JavaScript",
     "name": "alicejt/romy-skills",
     "stars": 0,
-    "updated_at": "2026-08-11T16:29:47Z",
+    "updated_at": "2026-08-11T16:30:32Z",
     "url": "https://github.com/alicejt/romy-skills"
   },
   {
@@ -109,6 +154,24 @@
   },
   {
     "description": "",
+    "id": "mr-mohamad-mr/ai-skills",
+    "language": "TypeScript",
+    "name": "mr-mohamad-mr/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-08-11T16:29:02Z",
+    "url": "https://github.com/mr-mohamad-mr/ai-skills"
+  },
+  {
+    "description": "Agent skills for trivy-plugin-vdr: FedRAMP VDR/VER dataflow capture (vdr-dataflow ConfigMap + Mermaid diagrams) and asse",
+    "id": "stackArmor/trivy-plugin-vdr-skills",
+    "language": "Python",
+    "name": "stackArmor/trivy-plugin-vdr-skills",
+    "stars": 0,
+    "updated_at": "2026-08-11T16:29:01Z",
+    "url": "https://github.com/stackArmor/trivy-plugin-vdr-skills"
+  },
+  {
+    "description": "",
     "id": "Sizhanbo/Divination_skills",
     "language": "Python",
     "name": "Sizhanbo/Divination_skills",
@@ -127,20 +190,11 @@
   },
   {
     "description": "",
-    "id": "mr-mohamad-mr/ai-skills",
-    "language": "TypeScript",
-    "name": "mr-mohamad-mr/ai-skills",
-    "stars": 0,
-    "updated_at": "2026-08-11T16:29:02Z",
-    "url": "https://github.com/mr-mohamad-mr/ai-skills"
-  },
-  {
-    "description": "",
     "id": "kolega-ai/kolega-skills",
     "language": "Python",
     "name": "kolega-ai/kolega-skills",
     "stars": 7,
-    "updated_at": "2026-08-11T16:28:47Z",
+    "updated_at": "2026-08-11T16:30:13Z",
     "url": "https://github.com/kolega-ai/kolega-skills"
   },
   {
@@ -419,7 +473,7 @@
     "language": "JavaScript",
     "name": "pratik-khot/skills-workflow-artifacts",
     "stars": 0,
-    "updated_at": "2026-08-11T16:24:28Z",
+    "updated_at": "2026-08-11T16:30:31Z",
     "url": "https://github.com/pratik-khot/skills-workflow-artifacts"
   },
   {
@@ -844,59 +898,5 @@
     "stars": 3,
     "updated_at": "2026-08-11T16:25:06Z",
     "url": "https://github.com/mattlane66/planning-skills-for-agents-and-humans"
-  },
-  {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "rhintz000/skills-getting-started-with-github-copilot",
-    "language": "Python",
-    "name": "rhintz000/skills-getting-started-with-github-copilot",
-    "stars": 0,
-    "updated_at": "2026-08-11T16:18:28Z",
-    "url": "https://github.com/rhintz000/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "Adnaan-Osman/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "Adnaan-Osman/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-11T16:18:21Z",
-    "url": "https://github.com/Adnaan-Osman/skills-introduction-to-github"
-  },
-  {
-    "description": "Claude Code plugin marketplace for WSL users in restricted environments. agent-toast delivers native Windows toast notif",
-    "id": "astropham1808/astro-agent-skills",
-    "language": "Python",
-    "name": "astropham1808/astro-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-08-11T16:20:40Z",
-    "url": "https://github.com/astropham1808/astro-agent-skills"
-  },
-  {
-    "description": "Exercise: Code with Codespaces",
-    "id": "lucaskyo/skills-code-with-codespaces",
-    "language": "Shell",
-    "name": "lucaskyo/skills-code-with-codespaces",
-    "stars": 0,
-    "updated_at": "2026-08-11T16:18:20Z",
-    "url": "https://github.com/lucaskyo/skills-code-with-codespaces"
-  },
-  {
-    "description": "",
-    "id": "NullChris0/skills",
-    "language": "Python",
-    "name": "NullChris0/skills",
-    "stars": 0,
-    "updated_at": "2026-08-11T16:18:19Z",
-    "url": "https://github.com/NullChris0/skills"
-  },
-  {
-    "description": "",
-    "id": "anhnvt21-fsoft/skills-github-pages",
-    "language": "\u2014",
-    "name": "anhnvt21-fsoft/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-08-11T16:18:02Z",
-    "url": "https://github.com/anhnvt21-fsoft/skills-github-pages"
   }
 ]
