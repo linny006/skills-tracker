@@ -1,5 +1,86 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-12T19:45:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Approve what an agent reads by content, not by name. A verifying MCP gateway that makes tool-description and Agent Skill",
+    "id": "getskillseal/skillseal",
+    "language": "JavaScript",
+    "name": "getskillseal/skillseal",
+    "stars": 0,
+    "updated_at": "2026-08-12T19:45:10Z",
+    "url": "https://github.com/getskillseal/skillseal"
+  },
+  {
+    "description": "Exercise: introduction to repository management",
+    "id": "xShadyy/skills-introduction-to-repository-management",
+    "language": "JavaScript",
+    "name": "xShadyy/skills-introduction-to-repository-management",
+    "stars": 0,
+    "updated_at": "2026-08-12T19:44:55Z",
+    "url": "https://github.com/xShadyy/skills-introduction-to-repository-management"
+  },
+  {
+    "description": "",
+    "id": "heymishy/skills-repo",
+    "language": "JavaScript",
+    "name": "heymishy/skills-repo",
+    "stars": 1,
+    "updated_at": "2026-08-12T19:45:06Z",
+    "url": "https://github.com/heymishy/skills-repo"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (25 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 0,
+    "updated_at": "2026-08-12T19:44:48Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "Quantitative Social Science Research Skills for Claude Code",
+    "id": "sysilviakim/quant-social-science-skills",
+    "language": "JavaScript",
+    "name": "sysilviakim/quant-social-science-skills",
+    "stars": 0,
+    "updated_at": "2026-08-12T19:44:34Z",
+    "url": "https://github.com/sysilviakim/quant-social-science-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 14,
+    "updated_at": "2026-08-12T19:44:26Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Exercise: Code with Codespaces",
+    "id": "LekhanaGN/skills-code-with-codespaces",
+    "language": "Python",
+    "name": "LekhanaGN/skills-code-with-codespaces",
+    "stars": 0,
+    "updated_at": "2026-08-12T19:44:25Z",
+    "url": "https://github.com/LekhanaGN/skills-code-with-codespaces"
+  },
+  {
+    "description": "Dream Skills",
+    "id": "llblab/skills",
+    "language": "JavaScript",
+    "name": "llblab/skills",
+    "stars": 6,
+    "updated_at": "2026-08-12T19:44:33Z",
+    "url": "https://github.com/llblab/skills"
+  },
+  {
     "description": "Claude Code global skills",
     "id": "Xaaalera/claude-skills",
     "language": "Python",
@@ -16,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-08-12T19:44:09Z",
     "url": "https://github.com/qhuydtvt/aha-skills"
+  },
+  {
+    "description": "",
+    "id": "marincountygov/marin-skills",
+    "language": "\u2014",
+    "name": "marincountygov/marin-skills",
+    "stars": 0,
+    "updated_at": "2026-08-12T19:44:06Z",
+    "url": "https://github.com/marincountygov/marin-skills"
   },
   {
     "description": "A Claude Code harness \u2014 subagent review personas, permission hooks that deny the irreversible floor, and a generic skill",
@@ -136,15 +226,6 @@
   },
   {
     "description": "",
-    "id": "heymishy/skills-repo",
-    "language": "JavaScript",
-    "name": "heymishy/skills-repo",
-    "stars": 1,
-    "updated_at": "2026-08-12T19:41:56Z",
-    "url": "https://github.com/heymishy/skills-repo"
-  },
-  {
-    "description": "",
     "id": "okruber/skills",
     "language": "JavaScript",
     "name": "okruber/skills",
@@ -243,15 +324,6 @@
     "url": "https://github.com/kiankhooban/skills-code-with-codespaces"
   },
   {
-    "description": "Exercise: Code with Codespaces",
-    "id": "LekhanaGN/skills-code-with-codespaces",
-    "language": "Python",
-    "name": "LekhanaGN/skills-code-with-codespaces",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:38:27Z",
-    "url": "https://github.com/LekhanaGN/skills-code-with-codespaces"
-  },
-  {
     "description": "",
     "id": "SanderSpiegelaar/skills",
     "language": "\u2014",
@@ -295,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T19:37:28Z",
     "url": "https://github.com/botelh00/skills-introduction-to-github"
-  },
-  {
-    "description": "Quantitative Social Science Research Skills for Claude Code",
-    "id": "sysilviakim/quant-social-science-skills",
-    "language": "JavaScript",
-    "name": "sysilviakim/quant-social-science-skills",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:36:54Z",
-    "url": "https://github.com/sysilviakim/quant-social-science-skills"
   },
   {
     "description": "Soccer skills tracker application development repository.",
@@ -394,15 +457,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T19:35:49Z",
     "url": "https://github.com/SamoTech/skills-tree"
-  },
-  {
-    "description": "Approve what an agent reads by content, not by name. A verifying MCP gateway that makes tool-description and Agent Skill",
-    "id": "getskillseal/skillseal",
-    "language": "JavaScript",
-    "name": "getskillseal/skillseal",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:35:42Z",
-    "url": "https://github.com/getskillseal/skillseal"
   },
   {
     "description": "Lifecycle Management for Agent Skills",
@@ -738,24 +792,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 14,
-    "updated_at": "2026-08-12T19:30:36Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-12T19:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Exercise: Introduction to GitHub ",
     "id": "Ishaan282/skills-introduction-to-github",
     "language": "Python",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T19:27:35Z",
     "url": "https://github.com/Angel-Gril/Kimi-PPT-Skills"
-  },
-  {
-    "description": "Jogo de a\u00e7\u00e3o 3D em Godot 4.6 inspirado em One Piece \u2014 frutas do diabo, parkour e multiplayer ENet",
-    "id": "bittigoncalves-sketch/skills-one-piece",
-    "language": "GDScript",
-    "name": "bittigoncalves-sketch/skills-one-piece",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:27:29Z",
-    "url": "https://github.com/bittigoncalves-sketch/skills-one-piece"
-  },
-  {
-    "description": "Personal agent-skill registry + humblskills CLI that installs agentskills.io skills into Claude Code, Cursor, and other ",
-    "id": "jjfantini/humblSKILLS",
-    "language": "Go",
-    "name": "jjfantini/humblSKILLS",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:39:01Z",
-    "url": "https://github.com/jjfantini/humblSKILLS"
-  },
-  {
-    "description": "Curated, trusted open catalog of AI agent skills for OpenClaw, Claude Code, Codex, GitHub Copilot, Gemini, Cursor, MCP, ",
-    "id": "agentskillexchange/skills",
-    "language": "Python",
-    "name": "agentskillexchange/skills",
-    "stars": 27,
-    "updated_at": "2026-08-12T19:27:13Z",
-    "url": "https://github.com/agentskillexchange/skills"
-  },
-  {
-    "description": "",
-    "id": "marincountygov/marin-skills",
-    "language": "\u2014",
-    "name": "marincountygov/marin-skills",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:44:06Z",
-    "url": "https://github.com/marincountygov/marin-skills"
   }
 ]
