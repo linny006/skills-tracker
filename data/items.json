@@ -1,5 +1,50 @@
 [
   {
+    "description": "Exercise: Introduction to Git",
+    "id": "flatyflo/skills-introduction-to-git",
+    "language": "\u2014",
+    "name": "flatyflo/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-12T07:01:04Z",
+    "url": "https://github.com/flatyflo/skills-introduction-to-git"
+  },
+  {
+    "description": "Personal agent skills for research workflows",
+    "id": "Chung-I/personal-skills",
+    "language": "Python",
+    "name": "Chung-I/personal-skills",
+    "stars": 0,
+    "updated_at": "2026-08-12T07:00:57Z",
+    "url": "https://github.com/Chung-I/personal-skills"
+  },
+  {
+    "description": "Complete collection of all custom Grok 4-agent ecosystem skills created as of May 2026. Includes SKILL.md files and rela",
+    "id": "Stijnman/grok-custom-skills",
+    "language": "Python",
+    "name": "Stijnman/grok-custom-skills",
+    "stars": 5,
+    "updated_at": "2026-08-12T07:00:53Z",
+    "url": "https://github.com/Stijnman/grok-custom-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 14,
+    "updated_at": "2026-08-12T07:00:33Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-08-12T07:00:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "\u6211\u81ea\u5df1\u65e5\u5e38\u4f7f\u7528\u7684\u65f6\u5019\u9700\u8981\u7684skills\uff0c\u5b9e\u73b0\u8bf8\u5982\u201c\u5728playground\u65b0\u5efa\u9879\u76ee\u5e2e\u6211\u5c1d\u8bd5...\u201c\uff0c\u201d\u5f53\u524dsession\u5230\u4e0a\u9650\uff0c\u6c47\u603b\u5de5\u4f5c\u4e3a\u4ea4\u63a5\u6587\u6863\u7ed9\u4e0b\u4e00\u4e2aagent\u201c\u7b49\u77ed\u6307\u4ee4\u3002",
     "id": "sunnysxg/claude_skills",
     "language": "Python",
@@ -52,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-08-12T06:59:57Z",
     "url": "https://github.com/olivaev-evo/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "",
+    "id": "cathaysia/skills",
+    "language": "Rust",
+    "name": "cathaysia/skills",
+    "stars": 2,
+    "updated_at": "2026-08-12T06:59:41Z",
+    "url": "https://github.com/cathaysia/skills"
   },
   {
     "description": "",
@@ -216,15 +270,6 @@
     "url": "https://github.com/PabloCollazoCollarte/skills-code-with-codespaces"
   },
   {
-    "description": "Complete collection of all custom Grok 4-agent ecosystem skills created as of May 2026. Includes SKILL.md files and rela",
-    "id": "Stijnman/grok-custom-skills",
-    "language": "Python",
-    "name": "Stijnman/grok-custom-skills",
-    "stars": 5,
-    "updated_at": "2026-08-12T06:57:18Z",
-    "url": "https://github.com/Stijnman/grok-custom-skills"
-  },
-  {
     "description": "A collection of AI-assisted skills for scientific research, built for FutureOS.",
     "id": "futuregene/future-skills",
     "language": "Python",
@@ -259,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T06:56:10Z",
     "url": "https://github.com/jeffreyliimerch/holahub-community-skills"
-  },
-  {
-    "description": "Personal agent skills for research workflows",
-    "id": "Chung-I/personal-skills",
-    "language": "Python",
-    "name": "Chung-I/personal-skills",
-    "stars": 0,
-    "updated_at": "2026-08-12T06:56:08Z",
-    "url": "https://github.com/Chung-I/personal-skills"
   },
   {
     "description": "ComPDF Skills are AI-agent-ready PDF processing skills for Claude Code, Cursor, Copilot, OpenCode, and 39+ coding agents",
@@ -828,24 +864,6 @@
     "url": "https://github.com/vRallev/agent-skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 19,
-    "updated_at": "2026-08-12T06:45:43Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 14,
-    "updated_at": "2026-08-12T06:45:41Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "",
     "id": "dragonadam/nature-skills",
     "language": "Python",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T06:45:19Z",
     "url": "https://github.com/Tsuki-city/skills-introduction-to-github"
-  },
-  {
-    "description": "Discrete, reusable capabilities for AI agents.",
-    "id": "kieranpotts/skills",
-    "language": "Shell",
-    "name": "kieranpotts/skills",
-    "stars": 0,
-    "updated_at": "2026-08-12T06:45:15Z",
-    "url": "https://github.com/kieranpotts/skills"
-  },
-  {
-    "description": "ProbePilotAI official Agent skills registry",
-    "id": "kzzou/probepilotai-skills",
-    "language": "Python",
-    "name": "kzzou/probepilotai-skills",
-    "stars": 0,
-    "updated_at": "2026-08-12T06:45:03Z",
-    "url": "https://github.com/kzzou/probepilotai-skills"
   }
 ]
