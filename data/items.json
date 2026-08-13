@@ -1,5 +1,68 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-13T22:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Curated, sanitized, and verified KBP Hermes skills collection.",
+    "id": "KushBeaverTTV/kbp-hermes-skills",
+    "language": "Python",
+    "name": "KushBeaverTTV/kbp-hermes-skills",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:00:00Z",
+    "url": "https://github.com/KushBeaverTTV/kbp-hermes-skills"
+  },
+  {
+    "description": "Skills for Software engineering",
+    "id": "FilipKrawiec/skills",
+    "language": "Python",
+    "name": "FilipKrawiec/skills",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:59:50Z",
+    "url": "https://github.com/FilipKrawiec/skills"
+  },
+  {
+    "description": "",
+    "id": "emo-eth/skills",
+    "language": "TypeScript",
+    "name": "emo-eth/skills",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:00:06Z",
+    "url": "https://github.com/emo-eth/skills"
+  },
+  {
+    "description": "My agent skills for GitHub Copilot CLI and other coding agents.",
+    "id": "dfrysinger/skills",
+    "language": "Shell",
+    "name": "dfrysinger/skills",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:59:19Z",
+    "url": "https://github.com/dfrysinger/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 15,
+    "updated_at": "2026-08-13T21:58:42Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "elephant-xyz/skills",
+    "language": "\u2014",
+    "name": "elephant-xyz/skills",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:58:37Z",
+    "url": "https://github.com/elephant-xyz/skills"
+  },
+  {
     "description": "Skill pack for DeepSeek Harness \u2014 aggregates every project's SKILL.md with a full skill index",
     "id": "h565656445/dsh-skills-pack",
     "language": "\u2014",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "dcouple/skills",
     "stars": 7,
-    "updated_at": "2026-08-13T21:58:06Z",
+    "updated_at": "2026-08-13T21:59:44Z",
     "url": "https://github.com/dcouple/skills"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T21:58:02Z",
     "url": "https://github.com/instrument-org/skills"
-  },
-  {
-    "description": "",
-    "id": "ulyx-in/jobhunt-skills",
-    "language": "JavaScript",
-    "name": "ulyx-in/jobhunt-skills",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:57:56Z",
-    "url": "https://github.com/ulyx-in/jobhunt-skills"
   },
   {
     "description": "AI Skills for Zavu",
@@ -104,7 +158,7 @@
     "language": "\u2014",
     "name": "erdiakgulofficial-dev/claude-skills",
     "stars": 0,
-    "updated_at": "2026-08-13T21:57:45Z",
+    "updated_at": "2026-08-13T22:00:16Z",
     "url": "https://github.com/erdiakgulofficial-dev/claude-skills"
   },
   {
@@ -293,7 +347,7 @@
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 13,
-    "updated_at": "2026-08-13T21:49:29Z",
+    "updated_at": "2026-08-13T22:00:06Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
@@ -423,15 +477,6 @@
     "url": "https://github.com/l0cka/legal-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 15,
-    "updated_at": "2026-08-13T21:45:41Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Personal skills for kevmoo - but shared with anyone why is interested!",
     "id": "kevmoo/kevmoo_skills",
     "language": "Dart",
@@ -466,15 +511,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T21:45:23Z",
     "url": "https://github.com/McBrideMusings/claude-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-13T21:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI agent skills index and marketplace for Claude Code & Codex CLI",
@@ -662,7 +698,7 @@
     "language": "TypeScript",
     "name": "reddb-io/red-skills",
     "stars": 12,
-    "updated_at": "2026-08-13T21:57:23Z",
+    "updated_at": "2026-08-13T21:59:09Z",
     "url": "https://github.com/reddb-io/red-skills"
   },
   {
@@ -680,7 +716,7 @@
     "language": "JavaScript",
     "name": "jfbridges/skills-deploy-to-azure",
     "stars": 0,
-    "updated_at": "2026-08-13T21:39:28Z",
+    "updated_at": "2026-08-13T22:00:27Z",
     "url": "https://github.com/jfbridges/skills-deploy-to-azure"
   },
   {
@@ -815,7 +851,7 @@
     "language": "Shell",
     "name": "expo/skills",
     "stars": 2409,
-    "updated_at": "2026-08-13T21:41:21Z",
+    "updated_at": "2026-08-13T22:00:08Z",
     "url": "https://github.com/expo/skills"
   },
   {
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T21:30:14Z",
     "url": "https://github.com/50BytesOfJohn/skills"
-  },
-  {
-    "description": "Exercise: Expand your team with GitHub Copilot cloud agent",
-    "id": "cet-SKUNJUMON/skills-expand-your-team-with-copilot1",
-    "language": "JavaScript",
-    "name": "cet-SKUNJUMON/skills-expand-your-team-with-copilot1",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:29:18Z",
-    "url": "https://github.com/cet-SKUNJUMON/skills-expand-your-team-with-copilot1"
-  },
-  {
-    "description": "Data scientist skills inventory for the AI-agent era \u2014 9-axis taxonomy, 0-4 rung ladders, and an interactive radar explo",
-    "id": "vanderbilt-data-science/ds-skills-inventory",
-    "language": "HTML",
-    "name": "vanderbilt-data-science/ds-skills-inventory",
-    "stars": 2,
-    "updated_at": "2026-08-13T21:28:57Z",
-    "url": "https://github.com/vanderbilt-data-science/ds-skills-inventory"
-  },
-  {
-    "description": "",
-    "id": "clint-miller/project-skills",
-    "language": "\u2014",
-    "name": "clint-miller/project-skills",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:38:23Z",
-    "url": "https://github.com/clint-miller/project-skills"
-  },
-  {
-    "description": "This project has skills, patterns, configuration and tools to AI agents.",
-    "id": "ThomasNicholas21/agent-skills",
-    "language": "Python",
-    "name": "ThomasNicholas21/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:28:12Z",
-    "url": "https://github.com/ThomasNicholas21/agent-skills"
   }
 ]
