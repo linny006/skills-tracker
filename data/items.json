@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agent-neutral skills for Claude Code, Copilot, Cursor and Codex \u2014 install with `gh skill install` or `npx skills add`",
+    "id": "devantler-tech/agent-skills",
+    "language": "Shell",
+    "name": "devantler-tech/agent-skills",
+    "stars": 3,
+    "updated_at": "2026-08-14T18:01:38Z",
+    "url": "https://github.com/devantler-tech/agent-skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "DragonsGames/skills-release-based-workflow",
+    "language": "JavaScript",
+    "name": "DragonsGames/skills-release-based-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-14T18:01:38Z",
+    "url": "https://github.com/DragonsGames/skills-release-based-workflow"
+  },
+  {
+    "description": "\u6e17\u900f\u6d4b\u8bd5\u6280\u80fd\u4ed3\u5e93: SRC_SKILLS_V1 + ZC_SKILLS_V1",
+    "id": "int-wc/MY_SKILLS",
+    "language": "JavaScript",
+    "name": "int-wc/MY_SKILLS",
+    "stars": 0,
+    "updated_at": "2026-08-14T18:01:32Z",
+    "url": "https://github.com/int-wc/MY_SKILLS"
+  },
+  {
+    "description": "SkillSwap: Peer-to-Peer Skill Exchange Platform",
+    "id": "smsaifuzzaman/SkillSwap",
+    "language": "JavaScript",
+    "name": "smsaifuzzaman/SkillSwap",
+    "stars": 0,
+    "updated_at": "2026-08-14T18:00:56Z",
+    "url": "https://github.com/smsaifuzzaman/SkillSwap"
+  },
+  {
+    "description": "Soccer skills tracker application development repository.",
+    "id": "blueneekone/soccer_skills_tracker",
+    "language": "JavaScript",
+    "name": "blueneekone/soccer_skills_tracker",
+    "stars": 1,
+    "updated_at": "2026-08-14T18:00:48Z",
+    "url": "https://github.com/blueneekone/soccer_skills_tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 20,
+    "updated_at": "2026-08-14T18:00:42Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "SkillSwap AI is a full-stack Django web application that enables users to exchange skills, discover learning opportuniti",
+    "id": "Kandarp089/SkillSwap-AI-Platform",
+    "language": "HTML",
+    "name": "Kandarp089/SkillSwap-AI-Platform",
+    "stars": 0,
+    "updated_at": "2026-08-14T18:00:37Z",
+    "url": "https://github.com/Kandarp089/SkillSwap-AI-Platform"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 15,
+    "updated_at": "2026-08-14T18:00:36Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "A collection of useful skills for use in Codex, Claude, etc.",
     "id": "schneidenbach/skills",
     "language": "\u2014",
@@ -16,15 +88,6 @@
     "stars": 26,
     "updated_at": "2026-08-14T18:00:14Z",
     "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "My clone repository",
-    "id": "DragonsGames/skills-release-based-workflow",
-    "language": "JavaScript",
-    "name": "DragonsGames/skills-release-based-workflow",
-    "stars": 0,
-    "updated_at": "2026-08-14T18:00:03Z",
-    "url": "https://github.com/DragonsGames/skills-release-based-workflow"
   },
   {
     "description": "Claude skills to support MAX delivery",
@@ -63,15 +126,6 @@
     "url": "https://github.com/trhodeos/skills"
   },
   {
-    "description": "\u6e17\u900f\u6d4b\u8bd5\u6280\u80fd\u4ed3\u5e93: SRC_SKILLS_V1 + ZC_SKILLS_V1",
-    "id": "int-wc/MY_SKILLS",
-    "language": "JavaScript",
-    "name": "int-wc/MY_SKILLS",
-    "stars": 0,
-    "updated_at": "2026-08-14T17:59:55Z",
-    "url": "https://github.com/int-wc/MY_SKILLS"
-  },
-  {
     "description": "Secret skills \u2014 personajes, no asistentes. Iceland: el fixer estrat\u00e9gico inspirado en Hall de Billions.",
     "id": "pedroromeroluna/secret-skills",
     "language": "\u2014",
@@ -88,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T17:58:23Z",
     "url": "https://github.com/jgilchl/skills-communicate-using-markdown"
-  },
-  {
-    "description": "SkillSwap AI is a full-stack Django web application that enables users to exchange skills, discover learning opportuniti",
-    "id": "Kandarp089/SkillSwap-AI-Platform",
-    "language": "HTML",
-    "name": "Kandarp089/SkillSwap-AI-Platform",
-    "stars": 0,
-    "updated_at": "2026-08-14T17:58:18Z",
-    "url": "https://github.com/Kandarp089/SkillSwap-AI-Platform"
   },
   {
     "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "akmfga/skills-introduction-to-codeql",
     "stars": 0,
-    "updated_at": "2026-08-14T17:56:57Z",
+    "updated_at": "2026-08-14T18:01:16Z",
     "url": "https://github.com/akmfga/skills-introduction-to-codeql"
   },
   {
@@ -194,7 +239,7 @@
     "language": "\u2014",
     "name": "ZJH006/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-08-14T17:56:42Z",
+    "updated_at": "2026-08-14T18:01:38Z",
     "url": "https://github.com/ZJH006/skills-introduction-to-github"
   },
   {
@@ -729,15 +774,6 @@
     "url": "https://github.com/moranricardo/skills-copilot-codespaces-vscode"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 15,
-    "updated_at": "2026-08-14T17:45:38Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "My Agent Skills",
     "id": "PerkyZZ999/AgentSkills",
     "language": "Python",
@@ -745,15 +781,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T17:45:37Z",
     "url": "https://github.com/PerkyZZ999/AgentSkills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 20,
-    "updated_at": "2026-08-14T17:45:35Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "A Claude Code harness \u2014 subagent review personas, permission hooks that deny the irreversible floor, and a generic skill",
@@ -864,15 +891,6 @@
     "url": "https://github.com/sshvarzman-Salesforce/claude-skills"
   },
   {
-    "description": "Soccer skills tracker application development repository.",
-    "id": "blueneekone/soccer_skills_tracker",
-    "language": "JavaScript",
-    "name": "blueneekone/soccer_skills_tracker",
-    "stars": 1,
-    "updated_at": "2026-08-14T18:00:08Z",
-    "url": "https://github.com/blueneekone/soccer_skills_tracker"
-  },
-  {
     "description": "Reusable AI assistant skills and workflows",
     "id": "MichaelHeaton/ai-skills",
     "language": "Shell",
@@ -880,23 +898,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T17:41:41Z",
     "url": "https://github.com/MichaelHeaton/ai-skills"
-  },
-  {
-    "description": "",
-    "id": "birol-dev/skills.sh-extractor",
-    "language": "JavaScript",
-    "name": "birol-dev/skills.sh-extractor",
-    "stars": 0,
-    "updated_at": "2026-08-14T17:41:27Z",
-    "url": "https://github.com/birol-dev/skills.sh-extractor"
-  },
-  {
-    "description": "A set of skills and MCP connector to allow agents to build Vapi AI agents, from creating tools and assistants to a phone",
-    "id": "VapiAI/skills",
-    "language": "Python",
-    "name": "VapiAI/skills",
-    "stars": 56,
-    "updated_at": "2026-08-14T17:41:13Z",
-    "url": "https://github.com/VapiAI/skills"
   }
 ]
