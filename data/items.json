@@ -1,5 +1,95 @@
 [
   {
+    "description": "Pers\u00f6nliche Sammlung wiederverwendbarer Claude Skills",
+    "id": "RL89744/claude-skills",
+    "language": "\u2014",
+    "name": "RL89744/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-15T22:34:05Z",
+    "url": "https://github.com/RL89744/claude-skills"
+  },
+  {
+    "description": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+    "id": "shinvictus/skills-integrate-mcp-with-copilot",
+    "language": "Python",
+    "name": "shinvictus/skills-integrate-mcp-with-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-15T22:33:55Z",
+    "url": "https://github.com/shinvictus/skills-integrate-mcp-with-copilot"
+  },
+  {
+    "description": "Exercise: Create and run a GitHub Actions Workflow",
+    "id": "parthibanr11/skills-hello-github-actions",
+    "language": "\u2014",
+    "name": "parthibanr11/skills-hello-github-actions",
+    "stars": 0,
+    "updated_at": "2026-08-15T22:32:11Z",
+    "url": "https://github.com/parthibanr11/skills-hello-github-actions"
+  },
+  {
+    "description": "",
+    "id": "JesterWizard/SkillSystem_FE7",
+    "language": "Assembly",
+    "name": "JesterWizard/SkillSystem_FE7",
+    "stars": 4,
+    "updated_at": "2026-08-15T22:31:19Z",
+    "url": "https://github.com/JesterWizard/SkillSystem_FE7"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 25,
+    "updated_at": "2026-08-15T22:31:16Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Reusable agent skills for ChatGPT, Codex, and the open skills ecosystem.",
+    "id": "Mullans/skills",
+    "language": "\u2014",
+    "name": "Mullans/skills",
+    "stars": 0,
+    "updated_at": "2026-08-15T22:31:03Z",
+    "url": "https://github.com/Mullans/skills"
+  },
+  {
+    "description": "",
+    "id": "wfklawfirm/aijur-skills",
+    "language": "TypeScript",
+    "name": "wfklawfirm/aijur-skills",
+    "stars": 0,
+    "updated_at": "2026-08-15T22:31:02Z",
+    "url": "https://github.com/wfklawfirm/aijur-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 18,
+    "updated_at": "2026-08-15T22:30:36Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 23,
+    "updated_at": "2026-08-15T22:30:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Shared agent skills for Codex, Claude, Cursor, and Antigravity",
+    "id": "nfma/agent-skills",
+    "language": "Python",
+    "name": "nfma/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-15T22:30:27Z",
+    "url": "https://github.com/nfma/agent-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "HTML",
     "name": "amarisng/skillstack-ng",
     "stars": 0,
-    "updated_at": "2026-08-15T22:30:00Z",
+    "updated_at": "2026-08-15T22:34:24Z",
     "url": "https://github.com/amarisng/skillstack-ng"
   },
   {
@@ -45,21 +135,12 @@
     "url": "https://github.com/D1ZZY4/agent-skills"
   },
   {
-    "description": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
-    "id": "shinvictus/skills-integrate-mcp-with-copilot",
-    "language": "Python",
-    "name": "shinvictus/skills-integrate-mcp-with-copilot",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:29:27Z",
-    "url": "https://github.com/shinvictus/skills-integrate-mcp-with-copilot"
-  },
-  {
     "description": "Exercise: Introduction to GitHub",
     "id": "Gemini1993/skills-introduction-to-github",
     "language": "\u2014",
     "name": "Gemini1993/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-08-15T22:29:01Z",
+    "updated_at": "2026-08-15T22:33:56Z",
     "url": "https://github.com/Gemini1993/skills-introduction-to-github"
   },
   {
@@ -198,15 +279,6 @@
     "url": "https://github.com/Lbstrydom/claude-engineering-skills"
   },
   {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 25,
-    "updated_at": "2026-08-15T22:26:39Z",
-    "url": "https://github.com/Servosity/msp-skills"
-  },
-  {
     "description": "A public catalog of Claude Code skills. Each folder is one skill: a SKILL.md plus references/.",
     "id": "berto-play/claude-skills",
     "language": "HTML",
@@ -214,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T22:26:13Z",
     "url": "https://github.com/berto-play/claude-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 23,
-    "updated_at": "2026-08-15T22:24:01Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Coding agent skills designed to help users work with PUDL data and the PUDL data processing pipeline codebase.",
@@ -239,7 +302,7 @@
     "language": "TypeScript",
     "name": "reddb-io/red-skills",
     "stars": 12,
-    "updated_at": "2026-08-15T22:28:48Z",
+    "updated_at": "2026-08-15T22:34:04Z",
     "url": "https://github.com/reddb-io/red-skills"
   },
   {
@@ -266,7 +329,7 @@
     "language": "Python",
     "name": "Jamie-BitFlight/claude_skills",
     "stars": 64,
-    "updated_at": "2026-08-15T22:27:07Z",
+    "updated_at": "2026-08-15T22:33:30Z",
     "url": "https://github.com/Jamie-BitFlight/claude_skills"
   },
   {
@@ -284,7 +347,7 @@
     "language": "\u2014",
     "name": "chasehelton/skills",
     "stars": 0,
-    "updated_at": "2026-08-15T22:29:31Z",
+    "updated_at": "2026-08-15T22:30:39Z",
     "url": "https://github.com/chasehelton/skills"
   },
   {
@@ -378,15 +441,6 @@
     "url": "https://github.com/decentraland/sdk-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 18,
-    "updated_at": "2026-08-15T22:15:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Personal AI skills, rules and instructions for Claude Code, GitHub Copilot and Codex",
     "id": "solvelab/ai-skills",
     "language": "Python",
@@ -439,15 +493,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T22:14:14Z",
     "url": "https://github.com/mimiry-com/mimiry-skills"
-  },
-  {
-    "description": "Exercise: Create and run a GitHub Actions Workflow",
-    "id": "parthibanr11/skills-hello-github-actions",
-    "language": "\u2014",
-    "name": "parthibanr11/skills-hello-github-actions",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:26:45Z",
-    "url": "https://github.com/parthibanr11/skills-hello-github-actions"
   },
   {
     "description": "Auto-updating overview of the marketingskills library \u2014 live at marketing-skills.vercel.app",
@@ -637,15 +682,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T22:09:41Z",
     "url": "https://github.com/agentic-framework-skills/OSMv6"
-  },
-  {
-    "description": "",
-    "id": "JesterWizard/SkillSystem_FE7",
-    "language": "Assembly",
-    "name": "JesterWizard/SkillSystem_FE7",
-    "stars": 4,
-    "updated_at": "2026-08-15T22:09:14Z",
-    "url": "https://github.com/JesterWizard/SkillSystem_FE7"
   },
   {
     "description": "Exercise: Introduction to Git",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T22:02:09Z",
     "url": "https://github.com/gmsas95/blytzintel-skills"
-  },
-  {
-    "description": "",
-    "id": "Alpha018/alpha-skills",
-    "language": "TypeScript",
-    "name": "Alpha018/alpha-skills",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:01:32Z",
-    "url": "https://github.com/Alpha018/alpha-skills"
-  },
-  {
-    "description": "Exercise: Build applications with GitHub Copilot agent mode",
-    "id": "Kdvasva1/skills-build-applications-w-copilot-agent-mode",
-    "language": "Shell",
-    "name": "Kdvasva1/skills-build-applications-w-copilot-agent-mode",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:01:28Z",
-    "url": "https://github.com/Kdvasva1/skills-build-applications-w-copilot-agent-mode"
-  },
-  {
-    "description": "The repo for all system/public ornn skills",
-    "id": "ChronoAIProject/nyx-skills",
-    "language": "JavaScript",
-    "name": "ChronoAIProject/nyx-skills",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:01:22Z",
-    "url": "https://github.com/ChronoAIProject/nyx-skills"
-  },
-  {
-    "description": "AI Skills Orchestrator v2026 is a cross-platform framework for arranging AI skills, coordinating workflow-based automati",
-    "id": "felix-fisheretuw5422/ai-skills-orchestrator-executor",
-    "language": "HTML",
-    "name": "felix-fisheretuw5422/ai-skills-orchestrator-executor",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:01:02Z",
-    "url": "https://github.com/felix-fisheretuw5422/ai-skills-orchestrator-executor"
   }
 ]
