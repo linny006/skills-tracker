@@ -1,5 +1,41 @@
 [
   {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "yjy4587-droid/skills-getting-started-with-github-copilot",
+    "language": "JavaScript",
+    "name": "yjy4587-droid/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-15T04:16:08Z",
+    "url": "https://github.com/yjy4587-droid/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5b9e\u9645\u9879\u76ee\u573a\u666f\u63d0\u70bc\u7684\u9875\u9762\u751f\u6210skill\u5305\u53ca\u6a21\u677f\u53c2\u8003\u548c\u6307\u5357",
+    "id": "ChenyCHENYU/wl-skills-kit",
+    "language": "JavaScript",
+    "name": "ChenyCHENYU/wl-skills-kit",
+    "stars": 5,
+    "updated_at": "2026-08-15T04:15:57Z",
+    "url": "https://github.com/ChenyCHENYU/wl-skills-kit"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 16,
+    "updated_at": "2026-08-15T04:15:38Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 21,
+    "updated_at": "2026-08-15T04:15:37Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Claude Code skills for Australian subcontractor accounting: progress claims, retentions, WIP and over/under-billing, fue",
     "id": "ryanduguid/subcontractor-accounting-skills",
     "language": "Python",
@@ -41,7 +77,7 @@
     "language": "HTML",
     "name": "FeatherHunter/SKILLS",
     "stars": 3,
-    "updated_at": "2026-08-15T04:15:20Z",
+    "updated_at": "2026-08-15T04:16:17Z",
     "url": "https://github.com/FeatherHunter/SKILLS"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "cezartdev/skills",
     "stars": 0,
-    "updated_at": "2026-08-15T04:10:18Z",
+    "updated_at": "2026-08-15T04:16:19Z",
     "url": "https://github.com/cezartdev/skills"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "chrisJuresh/skills",
     "stars": 0,
-    "updated_at": "2026-08-15T04:09:57Z",
+    "updated_at": "2026-08-15T04:16:16Z",
     "url": "https://github.com/chrisJuresh/skills"
   },
   {
@@ -351,15 +387,6 @@
     "url": "https://github.com/SharknadoBear/OMA_skillset"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 21,
-    "updated_at": "2026-08-15T04:04:12Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
     "id": "artisha-walker/skills-github-pages",
     "language": "HTML",
@@ -493,15 +520,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T04:01:18Z",
     "url": "https://github.com/ChronoAIProject/nyx-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 16,
-    "updated_at": "2026-08-15T04:00:37Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Exercise: Get started using GitHub Copilot",
@@ -880,23 +898,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T03:47:48Z",
     "url": "https://github.com/ex90rts/hong-skills"
-  },
-  {
-    "description": "MTB Skills Rubric and Tracking Application Build",
-    "id": "ashaber/mtb-skills",
-    "language": "Python",
-    "name": "ashaber/mtb-skills",
-    "stars": 1,
-    "updated_at": "2026-08-15T03:47:39Z",
-    "url": "https://github.com/ashaber/mtb-skills"
-  },
-  {
-    "description": "Awesome AI Agent Skills 2026 \u2014 a curated toolkit of agent skills, prompts, and integrations to supercharge your AI workf",
-    "id": "SectorDesign/awesome-ai-agent-skills",
-    "language": "HTML",
-    "name": "SectorDesign/awesome-ai-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-08-15T03:47:14Z",
-    "url": "https://github.com/SectorDesign/awesome-ai-agent-skills"
   }
 ]
