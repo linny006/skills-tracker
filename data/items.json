@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u4e2d\u6587 Agent Skills \u5e02\u573a\uff1a\u53d1\u73b0\u3001\u9884\u89c8\u5e76\u5b89\u88c5 GitHub \u4e0a\u7684\u516c\u5f00 Agent Skill\u3002",
+    "id": "XX888QM/skills-hub",
+    "language": "TypeScript",
+    "name": "XX888QM/skills-hub",
+    "stars": 0,
+    "updated_at": "2026-08-15T18:45:26Z",
+    "url": "https://github.com/XX888QM/skills-hub"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "debdattaporya86/skills-introduction-to-git",
+    "language": "\u2014",
+    "name": "debdattaporya86/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-15T18:45:26Z",
+    "url": "https://github.com/debdattaporya86/skills-introduction-to-git"
+  },
+  {
+    "description": "skills.md for serply",
+    "id": "serply-inc/skills",
+    "language": "\u2014",
+    "name": "serply-inc/skills",
+    "stars": 0,
+    "updated_at": "2026-08-15T18:45:25Z",
+    "url": "https://github.com/serply-inc/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 27,
+    "updated_at": "2026-08-15T18:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
+    "id": "Kdvasva1/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "language": "\u2014",
+    "name": "Kdvasva1/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "stars": 0,
+    "updated_at": "2026-08-15T18:44:33Z",
+    "url": "https://github.com/Kdvasva1/skills-scale-institutional-knowledge-using-copilot-spaces"
+  },
+  {
+    "description": "My personal agent skills arsenal \u2014 curated, categorized, and continuously maintained skills for coding and beyond. Inclu",
+    "id": "Johnnyzlee/skills-arsenal",
+    "language": "Python",
+    "name": "Johnnyzlee/skills-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-15T18:44:23Z",
+    "url": "https://github.com/Johnnyzlee/skills-arsenal"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 18,
+    "updated_at": "2026-08-15T18:44:11Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Personal collection of agent skills for Claude",
     "id": "leek/agent-skills",
     "language": "Shell",
@@ -18,24 +81,6 @@
     "url": "https://github.com/rendobar/agent-skills"
   },
   {
-    "description": "\u4e2d\u6587 Agent Skills \u5e02\u573a\uff1a\u53d1\u73b0\u3001\u9884\u89c8\u5e76\u5b89\u88c5 GitHub \u4e0a\u7684\u516c\u5f00 Agent Skill\u3002",
-    "id": "XX888QM/skills-hub",
-    "language": "TypeScript",
-    "name": "XX888QM/skills-hub",
-    "stars": 0,
-    "updated_at": "2026-08-15T18:43:25Z",
-    "url": "https://github.com/XX888QM/skills-hub"
-  },
-  {
-    "description": "My personal agent skills arsenal \u2014 curated, categorized, and continuously maintained skills for coding and beyond. Inclu",
-    "id": "Johnnyzlee/skills-arsenal",
-    "language": "Python",
-    "name": "Johnnyzlee/skills-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-15T18:42:52Z",
-    "url": "https://github.com/Johnnyzlee/skills-arsenal"
-  },
-  {
     "description": "SkillSwap AI is a skills exchange platform.",
     "id": "3cgbdg/SkillSwapAI",
     "language": "TypeScript",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "brandbai7/brandbai-skills",
     "stars": 2,
-    "updated_at": "2026-08-15T18:41:52Z",
+    "updated_at": "2026-08-15T18:45:24Z",
     "url": "https://github.com/brandbai7/brandbai-skills"
   },
   {
@@ -338,7 +383,7 @@
     "language": "\u2014",
     "name": "2097-cmd/skills-github-pages",
     "stars": 0,
-    "updated_at": "2026-08-15T18:36:11Z",
+    "updated_at": "2026-08-15T18:44:41Z",
     "url": "https://github.com/2097-cmd/skills-github-pages"
   },
   {
@@ -495,15 +540,6 @@
     "url": "https://github.com/AnmolS05/ML-based-Resume-Organization-and-Skills-based-Classification"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 27,
-    "updated_at": "2026-08-15T18:32:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -553,7 +589,7 @@
     "id": "TalissonVitorino/kmp-ios-skills",
     "language": "Python",
     "name": "TalissonVitorino/kmp-ios-skills",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-15T18:31:19Z",
     "url": "https://github.com/TalissonVitorino/kmp-ios-skills"
   },
@@ -583,15 +619,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T18:30:36Z",
     "url": "https://github.com/tatarco/agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 18,
-    "updated_at": "2026-08-15T18:30:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -871,32 +898,5 @@
     "stars": 6,
     "updated_at": "2026-08-15T18:23:39Z",
     "url": "https://github.com/Yeshwanthyk/agent-skills"
-  },
-  {
-    "description": "AI skills and Claude/Grok plugins for Kiwi TCMS QA workflows",
-    "id": "belovdm/kiwi-tcms-skills",
-    "language": "TypeScript",
-    "name": "belovdm/kiwi-tcms-skills",
-    "stars": 0,
-    "updated_at": "2026-08-15T18:23:23Z",
-    "url": "https://github.com/belovdm/kiwi-tcms-skills"
-  },
-  {
-    "description": "",
-    "id": "tiagopedras-twinkl/ds-skills",
-    "language": "JavaScript",
-    "name": "tiagopedras-twinkl/ds-skills",
-    "stars": 0,
-    "updated_at": "2026-08-15T18:22:38Z",
-    "url": "https://github.com/tiagopedras-twinkl/ds-skills"
-  },
-  {
-    "description": "",
-    "id": "changyiwu/cross-device-agent-skills",
-    "language": "Python",
-    "name": "changyiwu/cross-device-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-15T18:22:14Z",
-    "url": "https://github.com/changyiwu/cross-device-agent-skills"
   }
 ]
