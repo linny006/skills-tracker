@@ -1,5 +1,50 @@
 [
   {
+    "description": "A curated library of 1,100+ portable Agent Skills for Claude Code, Codex, Manus, and other coding agents.",
+    "id": "marquezinii/coding-skills-library",
+    "language": "Python",
+    "name": "marquezinii/coding-skills-library",
+    "stars": 0,
+    "updated_at": "2026-08-15T23:31:19Z",
+    "url": "https://github.com/marquezinii/coding-skills-library"
+  },
+  {
+    "description": "Claude Skills project",
+    "id": "winghoxu/Claude_Skills",
+    "language": "\u2014",
+    "name": "winghoxu/Claude_Skills",
+    "stars": 0,
+    "updated_at": "2026-08-15T23:31:07Z",
+    "url": "https://github.com/winghoxu/Claude_Skills"
+  },
+  {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "betozimmermann/skills-github-pages",
+    "language": "\u2014",
+    "name": "betozimmermann/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-08-15T23:31:04Z",
+    "url": "https://github.com/betozimmermann/skills-github-pages"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 18,
+    "updated_at": "2026-08-15T23:30:28Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 23,
+    "updated_at": "2026-08-15T23:30:27Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -7,15 +52,6 @@
     "stars": 29,
     "updated_at": "2026-08-15T23:30:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A curated library of 1,100+ portable Agent Skills for Claude Code, Codex, Manus, and other coding agents.",
-    "id": "marquezinii/coding-skills-library",
-    "language": "Python",
-    "name": "marquezinii/coding-skills-library",
-    "stars": 0,
-    "updated_at": "2026-08-15T23:29:53Z",
-    "url": "https://github.com/marquezinii/coding-skills-library"
   },
   {
     "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
@@ -68,7 +104,7 @@
     "language": "JavaScript",
     "name": "JasonColapietro/suede-creator-skills",
     "stars": 151,
-    "updated_at": "2026-08-15T23:27:46Z",
+    "updated_at": "2026-08-15T23:31:04Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
@@ -252,15 +288,6 @@
     "url": "https://github.com/grahama1970/agent-skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 23,
-    "updated_at": "2026-08-15T23:21:52Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Skills Manager - install coding-agent skills across opencode, cursor, claude and kilocode",
     "id": "laminlounis24-tech/skills-manager",
     "language": "Python",
@@ -367,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T23:15:29Z",
     "url": "https://github.com/xnebular881/PulsusSkillsWeb"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 18,
-    "updated_at": "2026-08-15T23:15:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T22:50:49Z",
     "url": "https://github.com/openclaw-cn-dev/yuxin-skills"
-  },
-  {
-    "description": "A Claude Code plugin marketplace of packaged Claude skills, installable via /plugin.",
-    "id": "HappypsychoX/Skills-Marketplace",
-    "language": "JavaScript",
-    "name": "HappypsychoX/Skills-Marketplace",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:50:38Z",
-    "url": "https://github.com/HappypsychoX/Skills-Marketplace"
-  },
-  {
-    "description": "A collection of SKILLs used for BD, Design, Marketing, and other GTM activities",
-    "id": "brandonleekramer/graph-skills",
-    "language": "Python",
-    "name": "brandonleekramer/graph-skills",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:49:29Z",
-    "url": "https://github.com/brandonleekramer/graph-skills"
   }
 ]
