@@ -1,5 +1,32 @@
 [
   {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 18,
+    "updated_at": "2026-08-16T19:30:13Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-16T19:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "This is a React+Node+Express+MySQL project.",
+    "id": "talha-2002-daff/SkillSwap",
+    "language": "JavaScript",
+    "name": "talha-2002-daff/SkillSwap",
+    "stars": 0,
+    "updated_at": "2026-08-16T19:30:11Z",
+    "url": "https://github.com/talha-2002-daff/SkillSwap"
+  },
+  {
     "description": "",
     "id": "RaphaDevx/k-skills-app",
     "language": "\u2014",
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T19:26:47Z",
     "url": "https://github.com/SalehAhmed-Ai/job_market_skills_analyzer"
-  },
-  {
-    "description": "This is a React+Node+Express+MySQL project.",
-    "id": "talha-2002-daff/SkillSwap",
-    "language": "\u2014",
-    "name": "talha-2002-daff/SkillSwap",
-    "stars": 0,
-    "updated_at": "2026-08-16T19:26:43Z",
-    "url": "https://github.com/talha-2002-daff/SkillSwap"
   },
   {
     "description": "Skills I built for myself, now open-sourced for you",
@@ -522,15 +540,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 18,
-    "updated_at": "2026-08-16T19:15:33Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Ra Pulse Radio: VS Code & Codespaces automation module for Gerrit CI/CD tracking.",
     "id": "moranricardo/skills-copilot-codespaces-vscode",
     "language": "JavaScript",
@@ -547,15 +556,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T19:15:28Z",
     "url": "https://github.com/iamsatyansh/SkillSync"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-16T19:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
