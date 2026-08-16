@@ -1,5 +1,59 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-16T18:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "My Personal Private Skills + Open Source Skills",
+    "id": "Cotidie/cotidie-skills",
+    "language": "JavaScript",
+    "name": "Cotidie/cotidie-skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T18:44:43Z",
+    "url": "https://github.com/Cotidie/cotidie-skills"
+  },
+  {
+    "description": "Agent Skill Integrations",
+    "id": "grovetools/skills",
+    "language": "Go",
+    "name": "grovetools/skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T18:44:37Z",
+    "url": "https://github.com/grovetools/skills"
+  },
+  {
+    "description": "",
+    "id": "brian-kps/kps-skills",
+    "language": "Shell",
+    "name": "brian-kps/kps-skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T18:44:32Z",
+    "url": "https://github.com/brian-kps/kps-skills"
+  },
+  {
+    "description": "This repos is for sharing useful rules that will help agentic AI works better in various tasks.",
+    "id": "surasakcho/agentic-ai-rules-and-skills",
+    "language": "Python",
+    "name": "surasakcho/agentic-ai-rules-and-skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T18:44:14Z",
+    "url": "https://github.com/surasakcho/agentic-ai-rules-and-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 18,
+    "updated_at": "2026-08-16T18:43:50Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "",
     "id": "a-rastin/skills",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T18:42:11Z",
     "url": "https://github.com/jilombmiker-alt/lobe-skills"
-  },
-  {
-    "description": "My clone repository",
-    "id": "KayVongBits/skills-copilot-codespaces-vscode",
-    "language": "\u2014",
-    "name": "KayVongBits/skills-copilot-codespaces-vscode",
-    "stars": 0,
-    "updated_at": "2026-08-16T18:42:03Z",
-    "url": "https://github.com/KayVongBits/skills-copilot-codespaces-vscode"
   },
   {
     "description": "",
@@ -374,7 +419,7 @@
     "language": "\u2014",
     "name": "ewanski/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-08-16T18:35:34Z",
+    "updated_at": "2026-08-16T18:43:55Z",
     "url": "https://github.com/ewanski/skills-introduction-to-github"
   },
   {
@@ -437,7 +482,7 @@
     "language": "JavaScript",
     "name": "wix/skills",
     "stars": 27,
-    "updated_at": "2026-08-16T18:33:40Z",
+    "updated_at": "2026-08-16T18:44:29Z",
     "url": "https://github.com/wix/skills"
   },
   {
@@ -531,15 +576,6 @@
     "url": "https://github.com/dsonders/claude-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-16T18:31:45Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
     "id": "martinholovsky/SOTA-skills",
     "language": "Python",
@@ -603,15 +639,6 @@
     "url": "https://github.com/AllexandrKnife/hermes-skills-lib"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 18,
-    "updated_at": "2026-08-16T18:30:36Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "the repository for monthly RSAA skillshares",
     "id": "svenbuder/rsaa_skillshare",
     "language": "Jupyter Notebook",
@@ -637,15 +664,6 @@
     "stars": 9,
     "updated_at": "2026-08-16T18:29:55Z",
     "url": "https://github.com/mouadja02/skills"
-  },
-  {
-    "description": "This repos is for sharing useful rules that will help agentic AI works better in various tasks.",
-    "id": "surasakcho/agentic-ai-rules-and-skills",
-    "language": "Python",
-    "name": "surasakcho/agentic-ai-rules-and-skills",
-    "stars": 0,
-    "updated_at": "2026-08-16T18:29:40Z",
-    "url": "https://github.com/surasakcho/agentic-ai-rules-and-skills"
   },
   {
     "description": "Exercise: Build applications with GitHub Copilot agent mode",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T18:24:40Z",
     "url": "https://github.com/1pedroosilva/databricks-genie-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "Tia-Govender1005/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "Tia-Govender1005/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-16T18:24:21Z",
-    "url": "https://github.com/Tia-Govender1005/skills-introduction-to-github"
-  },
-  {
-    "description": "Reusable OKF templates and agent Skills for Codex and Claude Code.",
-    "id": "hamakyo/okf-skills",
-    "language": "Python",
-    "name": "hamakyo/okf-skills",
-    "stars": 2,
-    "updated_at": "2026-08-16T18:24:20Z",
-    "url": "https://github.com/hamakyo/okf-skills"
   }
 ]
