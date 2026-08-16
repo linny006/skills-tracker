@@ -1,5 +1,86 @@
 [
   {
+    "description": "skills to use with claude, ",
+    "id": "ASteynes/skills",
+    "language": "\u2014",
+    "name": "ASteynes/skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T09:15:27Z",
+    "url": "https://github.com/ASteynes/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-16T09:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Skills for Kotlin, Jetpack Compose, and Android development",
+    "id": "chrisbanes/skills",
+    "language": "Python",
+    "name": "chrisbanes/skills",
+    "stars": 924,
+    "updated_at": "2026-08-16T09:15:09Z",
+    "url": "https://github.com/chrisbanes/skills"
+  },
+  {
+    "description": "OpenCode skills collection including MV fan-edit workflow",
+    "id": "Amywith/opencode-skills",
+    "language": "\u2014",
+    "name": "Amywith/opencode-skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T09:14:53Z",
+    "url": "https://github.com/Amywith/opencode-skills"
+  },
+  {
+    "description": "Six agent skills, one command, every agent. Umbrella installer for the ssheleg skill family \u2014 super-ux, task-pipeline, a",
+    "id": "ssheleg/sshlg-skills",
+    "language": "JavaScript",
+    "name": "ssheleg/sshlg-skills",
+    "stars": 2,
+    "updated_at": "2026-08-16T09:14:48Z",
+    "url": "https://github.com/ssheleg/sshlg-skills"
+  },
+  {
+    "description": "",
+    "id": "kuishung/trading-skills",
+    "language": "Python",
+    "name": "kuishung/trading-skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T09:14:36Z",
+    "url": "https://github.com/kuishung/trading-skills"
+  },
+  {
+    "description": "Official portable agent skills for working safely with Folderbase.",
+    "id": "chalkagents/folderbase-skills",
+    "language": "Shell",
+    "name": "chalkagents/folderbase-skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T09:14:07Z",
+    "url": "https://github.com/chalkagents/folderbase-skills"
+  },
+  {
+    "description": "KnowledgeCraft Skills helps turn research and evidence into understanding, communication, and practical action through r",
+    "id": "AnimusXCASH/knowledgecraft_skills",
+    "language": "Python",
+    "name": "AnimusXCASH/knowledgecraft_skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T09:13:58Z",
+    "url": "https://github.com/AnimusXCASH/knowledgecraft_skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 18,
+    "updated_at": "2026-08-16T09:13:55Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "",
     "id": "junaid96/Skills",
     "language": "\u2014",
@@ -97,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T09:11:58Z",
     "url": "https://github.com/HaJH/unreal-graph-skills"
-  },
-  {
-    "description": "OpenCode skills collection including MV fan-edit workflow",
-    "id": "Amywith/opencode-skills",
-    "language": "\u2014",
-    "name": "Amywith/opencode-skills",
-    "stars": 0,
-    "updated_at": "2026-08-16T09:13:17Z",
-    "url": "https://github.com/Amywith/opencode-skills"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -212,7 +284,7 @@
     "language": "Python",
     "name": "nfma/agent-skills",
     "stars": 0,
-    "updated_at": "2026-08-16T09:13:29Z",
+    "updated_at": "2026-08-16T09:14:51Z",
     "url": "https://github.com/nfma/agent-skills"
   },
   {
@@ -315,15 +387,6 @@
     "url": "https://github.com/prog76/mcp_skills-server"
   },
   {
-    "description": "Official portable agent skills for working safely with Folderbase.",
-    "id": "chalkagents/folderbase-skills",
-    "language": "Shell",
-    "name": "chalkagents/folderbase-skills",
-    "stars": 0,
-    "updated_at": "2026-08-16T09:09:40Z",
-    "url": "https://github.com/chalkagents/folderbase-skills"
-  },
-  {
     "description": "Composable Claude Code skills for research, planning, implementation, and feedback. A lean, structured harness to get th",
     "id": "jsk4581/kio-skills",
     "language": "Shell",
@@ -414,15 +477,6 @@
     "url": "https://github.com/htktamura/skills-introduction-to-github"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-16T09:03:43Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "",
     "id": "llg179org/Claude-skills-Fairphone3",
     "language": "Python",
@@ -491,17 +545,8 @@
     "language": "Python",
     "name": "linny006/awesome-agent-skills",
     "stars": 23,
-    "updated_at": "2026-08-16T09:00:38Z",
+    "updated_at": "2026-08-16T09:15:31Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 18,
-    "updated_at": "2026-08-16T09:00:37Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "\u4e2a\u4eba\u6280\u80fd\u96c6\u5408",
@@ -806,7 +851,7 @@
     "language": "Python",
     "name": "sdwurg180507280211/my-skills",
     "stars": 1,
-    "updated_at": "2026-08-16T08:52:14Z",
+    "updated_at": "2026-08-16T09:15:29Z",
     "url": "https://github.com/sdwurg180507280211/my-skills"
   },
   {
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T08:50:59Z",
     "url": "https://github.com/IhorKondratenko/skills-copilot-code-review"
-  },
-  {
-    "description": "DSH Skills Manager \u57fa\u4e8e DeepSeek Harness \u7684Skills\u7ba1\u7406\u63d2\u4ef6",
-    "id": "MichengAI/dsh-skills-manager",
-    "language": "JavaScript",
-    "name": "MichengAI/dsh-skills-manager",
-    "stars": 5,
-    "updated_at": "2026-08-16T08:50:39Z",
-    "url": "https://github.com/MichengAI/dsh-skills-manager"
-  },
-  {
-    "description": "Public repository for Skills",
-    "id": "korakot/skills",
-    "language": "Python",
-    "name": "korakot/skills",
-    "stars": 5,
-    "updated_at": "2026-08-16T08:50:27Z",
-    "url": "https://github.com/korakot/skills"
-  },
-  {
-    "description": "Portable LazyingArt agent skills for AgInTiFlow, Codex, Claude, Gemini, Copilot, LazyEdit, AutoPublish, browser automati",
-    "id": "lachlanchen/LazySkills",
-    "language": "Python",
-    "name": "lachlanchen/LazySkills",
-    "stars": 1,
-    "updated_at": "2026-08-16T08:50:12Z",
-    "url": "https://github.com/lachlanchen/LazySkills"
-  },
-  {
-    "description": "ProbePilotAI official Agent skills registry",
-    "id": "kzzou/probepilotai-skills",
-    "language": "Python",
-    "name": "kzzou/probepilotai-skills",
-    "stars": 0,
-    "updated_at": "2026-08-16T08:49:34Z",
-    "url": "https://github.com/kzzou/probepilotai-skills"
-  },
-  {
-    "description": "",
-    "id": "dragonadam/nature-skills",
-    "language": "Python",
-    "name": "dragonadam/nature-skills",
-    "stars": 2,
-    "updated_at": "2026-08-16T08:49:23Z",
-    "url": "https://github.com/dragonadam/nature-skills"
   }
 ]
