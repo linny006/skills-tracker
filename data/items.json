@@ -1,5 +1,59 @@
 [
   {
+    "description": "Claude Code workflow skills \u2014 GitHub issue/PR/release automation and Fable-driven planning. Install via npx or as a Clau",
+    "id": "richkuo/rk-skills",
+    "language": "JavaScript",
+    "name": "richkuo/rk-skills",
+    "stars": 46,
+    "updated_at": "2026-08-16T19:01:14Z",
+    "url": "https://github.com/richkuo/rk-skills"
+  },
+  {
+    "description": "\u5f00\u653e\u7684\u4e2d\u6587\u5206\u5b50\u6a21\u62df / CCUS / \u5438\u9644\u6559\u5b66\u77e5\u8bc6\u5e93 \u2014 6 \u672c\u9886\u57df\u6559\u6750\u7684\u7ed3\u6784\u5316\u884d\u751f\u54c1 + Frenkel & Smit \u7b2c\u4e09\u7248\u4e2d\u6587\u8bd1\u672c",
+    "id": "KASSARhahaha/skills-4-Molecular-Simulation",
+    "language": "Python",
+    "name": "KASSARhahaha/skills-4-Molecular-Simulation",
+    "stars": 0,
+    "updated_at": "2026-08-16T19:00:43Z",
+    "url": "https://github.com/KASSARhahaha/skills-4-Molecular-Simulation"
+  },
+  {
+    "description": "",
+    "id": "MDizzleZA/claude-skills",
+    "language": "Python",
+    "name": "MDizzleZA/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T19:00:43Z",
+    "url": "https://github.com/MDizzleZA/claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 18,
+    "updated_at": "2026-08-16T19:00:36Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 23,
+    "updated_at": "2026-08-16T19:00:36Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "",
+    "id": "ankushgupta05/SISTEC-Kaizen-Skills-Answer",
+    "language": "Roff",
+    "name": "ankushgupta05/SISTEC-Kaizen-Skills-Answer",
+    "stars": 0,
+    "updated_at": "2026-08-16T19:00:35Z",
+    "url": "https://github.com/ankushgupta05/SISTEC-Kaizen-Skills-Answer"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -7,6 +61,15 @@
     "stars": 29,
     "updated_at": "2026-08-16T19:00:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "abracadabra-afk/razorblade-skills",
+    "language": "Python",
+    "name": "abracadabra-afk/razorblade-skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T19:00:14Z",
+    "url": "https://github.com/abracadabra-afk/razorblade-skills"
   },
   {
     "description": "Hermes\u5e73\u53f0 skills \u6bcf\u65e5\u5907\u4efd",
@@ -252,15 +315,6 @@
     "url": "https://github.com/steingran/skills"
   },
   {
-    "description": "",
-    "id": "ankushgupta05/SISTEC-Kaizen-Skills-Answer",
-    "language": "Roff",
-    "name": "ankushgupta05/SISTEC-Kaizen-Skills-Answer",
-    "stars": 0,
-    "updated_at": "2026-08-16T18:51:53Z",
-    "url": "https://github.com/ankushgupta05/SISTEC-Kaizen-Skills-Answer"
-  },
-  {
     "description": "Skills I built for myself, now open-sourced for you",
     "id": "akshay-diwadkar/skills",
     "language": "Python",
@@ -484,24 +538,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T18:45:41Z",
     "url": "https://github.com/jakubtobiasz/skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 23,
-    "updated_at": "2026-08-16T18:45:36Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 18,
-    "updated_at": "2026-08-16T18:45:33Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
@@ -862,41 +898,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T18:34:56Z",
     "url": "https://github.com/heymishy/skills-repo"
-  },
-  {
-    "description": "Source-controlled Claude Code skills: review-with-me and cleanup",
-    "id": "dantebarr/agent-skills",
-    "language": "\u2014",
-    "name": "dantebarr/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-16T18:34:55Z",
-    "url": "https://github.com/dantebarr/agent-skills"
-  },
-  {
-    "description": "Exercise: GitHub Copilot Code Review",
-    "id": "huangchenone/skills-copilot-code-review",
-    "language": "JavaScript",
-    "name": "huangchenone/skills-copilot-code-review",
-    "stars": 0,
-    "updated_at": "2026-08-16T18:34:52Z",
-    "url": "https://github.com/huangchenone/skills-copilot-code-review"
-  },
-  {
-    "description": "Wix Skills",
-    "id": "wix/skills",
-    "language": "JavaScript",
-    "name": "wix/skills",
-    "stars": 27,
-    "updated_at": "2026-08-16T18:44:29Z",
-    "url": "https://github.com/wix/skills"
-  },
-  {
-    "description": "DIY SKILL",
-    "id": "zuoemmmm-tech/skills",
-    "language": "Python",
-    "name": "zuoemmmm-tech/skills",
-    "stars": 0,
-    "updated_at": "2026-08-16T18:33:33Z",
-    "url": "https://github.com/zuoemmmm-tech/skills"
   }
 ]
