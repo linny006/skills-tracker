@@ -1,5 +1,77 @@
 [
   {
+    "description": "Exercise: Communicate using Markdown",
+    "id": "WilliamSeykora/skills-communicate-using-markdown",
+    "language": "\u2014",
+    "name": "WilliamSeykora/skills-communicate-using-markdown",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:16:39Z",
+    "url": "https://github.com/WilliamSeykora/skills-communicate-using-markdown"
+  },
+  {
+    "description": "\u9762\u5411\u6cd5\u5f8b\u4eba\u7684 Skills \u96c6\u5408\u3002",
+    "id": "cat-xierluo/legal-skills",
+    "language": "Python",
+    "name": "cat-xierluo/legal-skills",
+    "stars": 574,
+    "updated_at": "2026-08-16T06:16:31Z",
+    "url": "https://github.com/cat-xierluo/legal-skills"
+  },
+  {
+    "description": "",
+    "id": "shoji9x9/skills",
+    "language": "JavaScript",
+    "name": "shoji9x9/skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:16:11Z",
+    "url": "https://github.com/shoji9x9/skills"
+  },
+  {
+    "description": "",
+    "id": "pmstar/my-skills",
+    "language": "\u2014",
+    "name": "pmstar/my-skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:15:58Z",
+    "url": "https://github.com/pmstar/my-skills"
+  },
+  {
+    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
+    "id": "simota/agent-skills",
+    "language": "HTML",
+    "name": "simota/agent-skills",
+    "stars": 72,
+    "updated_at": "2026-08-16T06:15:50Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "Official Pixeloa skills & integrations for AI agents: Claude skill, OpenAI/Gemini instructions, MCP configs, and a build",
+    "id": "Pixeloa/agent-skills",
+    "language": "Python",
+    "name": "Pixeloa/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:15:39Z",
+    "url": "https://github.com/Pixeloa/agent-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 23,
+    "updated_at": "2026-08-16T06:15:36Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 18,
+    "updated_at": "2026-08-16T06:15:33Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Plugin for hero skills to make development faster.",
     "id": "ai-hero/hero-skills",
     "language": "Shell",
@@ -16,15 +88,6 @@
     "stars": 29,
     "updated_at": "2026-08-16T06:15:16Z",
     "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Official Pixeloa skills & integrations for AI agents: Claude skill, OpenAI/Gemini instructions, MCP configs, and a build",
-    "id": "Pixeloa/agent-skills",
-    "language": "Python",
-    "name": "Pixeloa/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:15:16Z",
-    "url": "https://github.com/Pixeloa/agent-skills"
   },
   {
     "description": "",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T06:14:59Z",
     "url": "https://github.com/weberwang/phaser-skills"
-  },
-  {
-    "description": "",
-    "id": "pmstar/my-skills",
-    "language": "\u2014",
-    "name": "pmstar/my-skills",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:14:59Z",
-    "url": "https://github.com/pmstar/my-skills"
   },
   {
     "description": "",
@@ -558,15 +612,6 @@
     "url": "https://github.com/enhansome/enhansome-amazon-ec-skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 23,
-    "updated_at": "2026-08-16T06:03:19Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "",
     "id": "askrubberduck/skills",
     "language": "Python",
@@ -675,15 +720,6 @@
     "url": "https://github.com/subhashdoc234xyz/SkillSprint"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 18,
-    "updated_at": "2026-08-16T06:00:35Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "SKills for AI Agents",
     "id": "secdoc/AI-Agent-Skills",
     "language": "\u2014",
@@ -702,15 +738,6 @@
     "url": "https://github.com/sissc0731/photo-skills-daily"
   },
   {
-    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
-    "id": "simota/agent-skills",
-    "language": "HTML",
-    "name": "simota/agent-skills",
-    "stars": 72,
-    "updated_at": "2026-08-16T05:59:48Z",
-    "url": "https://github.com/simota/agent-skills"
-  },
-  {
     "description": "AI agent skills for Claude Code and Codex, distilled from real sessions",
     "id": "WoojinAhn/custom-skills",
     "language": "Python",
@@ -727,15 +754,6 @@
     "stars": 3,
     "updated_at": "2026-08-16T05:59:19Z",
     "url": "https://github.com/devantler-tech/agent-skills"
-  },
-  {
-    "description": "Exercise: Communicate using Markdown",
-    "id": "WilliamSeykora/skills-communicate-using-markdown",
-    "language": "\u2014",
-    "name": "WilliamSeykora/skills-communicate-using-markdown",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:14:33Z",
-    "url": "https://github.com/WilliamSeykora/skills-communicate-using-markdown"
   },
   {
     "description": "",
@@ -880,23 +898,5 @@
     "stars": 2,
     "updated_at": "2026-08-16T05:54:13Z",
     "url": "https://github.com/tailrocks/tailrocks-skills"
-  },
-  {
-    "description": "\ud83c\udf33 A comprehensive collection of all skills available for AI agents and computer-use models \u2014 perception, reasoning, memo",
-    "id": "SamoTech/skills-tree",
-    "language": "Python",
-    "name": "SamoTech/skills-tree",
-    "stars": 2,
-    "updated_at": "2026-08-16T05:53:19Z",
-    "url": "https://github.com/SamoTech/skills-tree"
-  },
-  {
-    "description": "",
-    "id": "replit-opencode/skills",
-    "language": "\u2014",
-    "name": "replit-opencode/skills",
-    "stars": 0,
-    "updated_at": "2026-08-16T05:53:00Z",
-    "url": "https://github.com/replit-opencode/skills"
   }
 ]
