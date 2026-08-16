@@ -1,5 +1,41 @@
 [
   {
+    "description": "Exercise: introduction to repository management",
+    "id": "elliminaterr/skills-introduction-to-repository-management",
+    "language": "\u2014",
+    "name": "elliminaterr/skills-introduction-to-repository-management",
+    "stars": 0,
+    "updated_at": "2026-08-16T21:31:36Z",
+    "url": "https://github.com/elliminaterr/skills-introduction-to-repository-management"
+  },
+  {
+    "description": "AI security skills grounded in mid-2026 threat reality, not stale framework documentation",
+    "id": "blamejs/exceptd-skills",
+    "language": "JavaScript",
+    "name": "blamejs/exceptd-skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T21:31:30Z",
+    "url": "https://github.com/blamejs/exceptd-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 18,
+    "updated_at": "2026-08-16T21:30:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 23,
+    "updated_at": "2026-08-16T21:30:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -274,7 +310,7 @@
     "id": "jeremylongshore/claude-code-plugins-plus-skills",
     "language": "Python",
     "name": "jeremylongshore/claude-code-plugins-plus-skills",
-    "stars": 2645,
+    "stars": 2646,
     "updated_at": "2026-08-16T21:23:28Z",
     "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
   },
@@ -322,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T21:21:43Z",
     "url": "https://github.com/GregorySmithHtx/FDE_Skills_dev"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 23,
-    "updated_at": "2026-08-16T21:21:43Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Central plugin marketplace for Claude Code and Codex",
@@ -513,15 +540,6 @@
     "url": "https://github.com/openhonest/honest-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 18,
-    "updated_at": "2026-08-16T21:15:30Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "",
     "id": "DhamarPutra/AgentSkills",
     "language": "Python",
@@ -662,7 +680,7 @@
     "language": "\u2014",
     "name": "nikolainobadi/nn-swift-skills",
     "stars": 0,
-    "updated_at": "2026-08-16T21:29:34Z",
+    "updated_at": "2026-08-16T21:31:38Z",
     "url": "https://github.com/nikolainobadi/nn-swift-skills"
   },
   {
@@ -805,7 +823,7 @@
     "id": "mattpocock/skills",
     "language": "Shell",
     "name": "mattpocock/skills",
-    "stars": 219223,
+    "stars": 219224,
     "updated_at": "2026-08-16T21:03:27Z",
     "url": "https://github.com/mattpocock/skills"
   },
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T20:59:37Z",
     "url": "https://github.com/DeshaniBandara/Soft-Skills-Tutor-"
-  },
-  {
-    "description": "Agent skills for git-loopy: an engineering workflow from idea to ship. Inspired by mattpocock/skills.",
-    "id": "bradcstevens/git-loopy-skills",
-    "language": "Shell",
-    "name": "bradcstevens/git-loopy-skills",
-    "stars": 0,
-    "updated_at": "2026-08-16T20:59:33Z",
-    "url": "https://github.com/bradcstevens/git-loopy-skills"
-  },
-  {
-    "description": "Shareable skills for clankers",
-    "id": "iurysza/agent-skills",
-    "language": "Python",
-    "name": "iurysza/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-08-16T20:59:10Z",
-    "url": "https://github.com/iurysza/agent-skills"
   }
 ]
