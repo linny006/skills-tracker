@@ -1,5 +1,41 @@
 [
   {
+    "description": "Generate mind maps from Markdown with EdrawMind AI, using custom layouts, themes, backgrounds, and hand-drawn styles",
+    "id": "Tristanb2952/edrawmind-skills",
+    "language": "\u2014",
+    "name": "Tristanb2952/edrawmind-skills",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:15:37Z",
+    "url": "https://github.com/Tristanb2952/edrawmind-skills"
+  },
+  {
+    "description": "Portable Agent Skills for AI coding agents, with sync tooling for each agent's skill directory.",
+    "id": "alexruf/agent-skills",
+    "language": "Shell",
+    "name": "alexruf/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:15:35Z",
+    "url": "https://github.com/alexruf/agent-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 23,
+    "updated_at": "2026-08-17T20:15:35Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 18,
+    "updated_at": "2026-08-17T20:15:32Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Source-backed Nano Banana prompts with real result images, reusable design workflows, and multilingual guides.",
     "id": "imagineVid/Awesome-nano-banana-prompts-and-skills",
     "language": "TypeScript",
@@ -63,6 +99,15 @@
     "url": "https://github.com/mjuzefiszyn/claude-skills"
   },
   {
+    "description": "Build and test production-ready software from simple prompts using a reliable 9-stage pipeline with full verification an",
+    "id": "aydenbarkle11-gif/claude-enterprise-skills",
+    "language": "Shell",
+    "name": "aydenbarkle11-gif/claude-enterprise-skills",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:14:37Z",
+    "url": "https://github.com/aydenbarkle11-gif/claude-enterprise-skills"
+  },
+  {
     "description": "A curated list of awesome claude skills",
     "id": "Chat2AnyLLM/awesome-claude-skills",
     "language": "Python",
@@ -70,6 +115,15 @@
     "stars": 146,
     "updated_at": "2026-08-17T20:14:34Z",
     "url": "https://github.com/Chat2AnyLLM/awesome-claude-skills"
+  },
+  {
+    "description": "Enable efficient smart contract bug bounty hunting with AI-powered skills built from thousands of real Immunefi and DeFi",
+    "id": "Olaradiallysymmetrical491/web3-bug-bounty-hunting-ai-skills",
+    "language": "\u2014",
+    "name": "Olaradiallysymmetrical491/web3-bug-bounty-hunting-ai-skills",
+    "stars": 4,
+    "updated_at": "2026-08-17T20:14:25Z",
+    "url": "https://github.com/Olaradiallysymmetrical491/web3-bug-bounty-hunting-ai-skills"
   },
   {
     "description": "Provide multimedia generation and AI app integration for OpenClaw using RunningHub\u2019s extensive API endpoints in image, v",
@@ -315,6 +369,15 @@
     "url": "https://github.com/brandonlsosa-dev/skills-communicate-using-markdown2"
   },
   {
+    "description": "Empirically verified Nim coding skills, test suites, datasets, and benchmarks.",
+    "id": "konqoro/skills_experiment",
+    "language": "Nim",
+    "name": "konqoro/skills_experiment",
+    "stars": 1,
+    "updated_at": "2026-08-17T20:10:35Z",
+    "url": "https://github.com/konqoro/skills_experiment"
+  },
+  {
     "description": "",
     "id": "alexey-blip/giants-skills",
     "language": "Python",
@@ -446,7 +509,7 @@
     "language": "Python",
     "name": "huyao15880-ui/sci-figure-skills",
     "stars": 0,
-    "updated_at": "2026-08-17T20:07:57Z",
+    "updated_at": "2026-08-17T20:15:33Z",
     "url": "https://github.com/huyao15880-ui/sci-figure-skills"
   },
   {
@@ -509,7 +572,7 @@
     "language": "Shell",
     "name": "whizzzkid/skills",
     "stars": 0,
-    "updated_at": "2026-08-17T20:06:28Z",
+    "updated_at": "2026-08-17T20:15:30Z",
     "url": "https://github.com/whizzzkid/skills"
   },
   {
@@ -835,68 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T20:08:40Z",
     "url": "https://github.com/tsiufx-art/skills-introduction-to-github"
-  },
-  {
-    "description": "The repo for all system/public ornn skills",
-    "id": "ChronoAIProject/nyx-skills",
-    "language": "JavaScript",
-    "name": "ChronoAIProject/nyx-skills",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:01:27Z",
-    "url": "https://github.com/ChronoAIProject/nyx-skills"
-  },
-  {
-    "description": "Cyber Yoshi SKILLS",
-    "id": "yoshi-ortiz/cyber-skills",
-    "language": "Python",
-    "name": "yoshi-ortiz/cyber-skills",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:01:04Z",
-    "url": "https://github.com/yoshi-ortiz/cyber-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "mklmfane/skills-introduction-to-github",
-    "language": "HCL",
-    "name": "mklmfane/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:01:02Z",
-    "url": "https://github.com/mklmfane/skills-introduction-to-github"
-  },
-  {
-    "description": "",
-    "id": "rundesk-ai/rundesk-skills-google",
-    "language": "\u2014",
-    "name": "rundesk-ai/rundesk-skills-google",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:00:46Z",
-    "url": "https://github.com/rundesk-ai/rundesk-skills-google"
-  },
-  {
-    "description": "Tableau -> Microsoft Fabric / Power BI semantic-model migration skill (skills-for-fabric compatible)",
-    "id": "Yarbrdab000/tableau-fabric-skills",
-    "language": "Python",
-    "name": "Yarbrdab000/tableau-fabric-skills",
-    "stars": 2,
-    "updated_at": "2026-08-17T20:00:44Z",
-    "url": "https://github.com/Yarbrdab000/tableau-fabric-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 23,
-    "updated_at": "2026-08-17T20:00:32Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 18,
-    "updated_at": "2026-08-17T20:00:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
   }
 ]
