@@ -1,12 +1,21 @@
 [
   {
-    "description": "Repository of agent skills used within and authored by Wildcat Labs",
-    "id": "wildcat-finance/skills",
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
     "language": "Python",
-    "name": "wildcat-finance/skills",
-    "stars": 3,
-    "updated_at": "2026-08-18T17:59:44Z",
-    "url": "https://github.com/wildcat-finance/skills"
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-18T18:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 18,
+    "updated_at": "2026-08-18T18:00:13Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -14,8 +23,17 @@
     "language": "\u2014",
     "name": "Joynath-coder/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-08-18T17:59:37Z",
+    "updated_at": "2026-08-18T18:00:03Z",
     "url": "https://github.com/Joynath-coder/skills-introduction-to-github"
+  },
+  {
+    "description": "Repository of agent skills used within and authored by Wildcat Labs",
+    "id": "wildcat-finance/skills",
+    "language": "Python",
+    "name": "wildcat-finance/skills",
+    "stars": 3,
+    "updated_at": "2026-08-18T17:59:44Z",
+    "url": "https://github.com/wildcat-finance/skills"
   },
   {
     "description": "",
@@ -124,6 +142,15 @@
     "stars": 60,
     "updated_at": "2026-08-18T17:57:24Z",
     "url": "https://github.com/laguagu/claude-code-nextjs-skills"
+  },
+  {
+    "description": "\u5b58\u653e\u6211\u7684skill",
+    "id": "qxdn/skills",
+    "language": "Python",
+    "name": "qxdn/skills",
+    "stars": 0,
+    "updated_at": "2026-08-18T17:57:10Z",
+    "url": "https://github.com/qxdn/skills"
   },
   {
     "description": "Exercise: AI in Actions",
@@ -846,15 +873,6 @@
     "url": "https://github.com/CrowdStrike/foundry-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 18,
-    "updated_at": "2026-08-18T17:45:35Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -862,15 +880,6 @@
     "stars": 23,
     "updated_at": "2026-08-18T17:45:35Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-18T17:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI agent skills for prooph board",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T17:44:55Z",
     "url": "https://github.com/liangdabiao/liang-skills-intro"
-  },
-  {
-    "description": "",
-    "id": "mr-mohamad-mr/ai-skills",
-    "language": "TypeScript",
-    "name": "mr-mohamad-mr/ai-skills",
-    "stars": 0,
-    "updated_at": "2026-08-18T17:44:55Z",
-    "url": "https://github.com/mr-mohamad-mr/ai-skills"
   }
 ]
