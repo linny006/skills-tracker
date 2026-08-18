@@ -1,5 +1,59 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-18T19:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Reusable public-safe workflows for Codex and other AI agents.",
+    "id": "duduselect/junya-ai-skills",
+    "language": "\u2014",
+    "name": "duduselect/junya-ai-skills",
+    "stars": 0,
+    "updated_at": "2026-08-18T19:15:12Z",
+    "url": "https://github.com/duduselect/junya-ai-skills"
+  },
+  {
+    "description": "Introdu\u00e7\u00e3o GitHub",
+    "id": "taubatexs/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "taubatexs/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-08-18T19:15:10Z",
+    "url": "https://github.com/taubatexs/skills-introduction-to-github"
+  },
+  {
+    "description": "Backup de Skills",
+    "id": "MadML-VBCOD/skills-manager-backup",
+    "language": "\u2014",
+    "name": "MadML-VBCOD/skills-manager-backup",
+    "stars": 0,
+    "updated_at": "2026-08-18T19:15:03Z",
+    "url": "https://github.com/MadML-VBCOD/skills-manager-backup"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 18,
+    "updated_at": "2026-08-18T19:14:44Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "mycroft/skills",
+    "language": "\u2014",
+    "name": "mycroft/skills",
+    "stars": 0,
+    "updated_at": "2026-08-18T19:14:43Z",
+    "url": "https://github.com/mycroft/skills"
+  },
+  {
     "description": "Exercise: introduction to repository management",
     "id": "momairh/skills-introduction-to-repository-management",
     "language": "\u2014",
@@ -25,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-08-18T19:13:53Z",
     "url": "https://github.com/lisamao770-sys/skills-introduction-to-codeql-81826"
+  },
+  {
+    "description": "Reusable, organization-neutral Agent Skills for critical thinking, product building, delivery, and operations.",
+    "id": "SylphxAI/skills",
+    "language": "Python",
+    "name": "SylphxAI/skills",
+    "stars": 1,
+    "updated_at": "2026-08-18T19:13:45Z",
+    "url": "https://github.com/SylphxAI/skills"
   },
   {
     "description": "Exercise: Build applications with GitHub Copilot agent mode",
@@ -79,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-08-18T19:11:55Z",
     "url": "https://github.com/minvest-tech/claude-skills"
+  },
+  {
+    "description": "AI coding agent skills collection following the Agent Skills open standard",
+    "id": "carlosmscabral/cabral-skills",
+    "language": "Python",
+    "name": "carlosmscabral/cabral-skills",
+    "stars": 1,
+    "updated_at": "2026-08-18T19:11:49Z",
+    "url": "https://github.com/carlosmscabral/cabral-skills"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -187,6 +259,15 @@
     "stars": 0,
     "updated_at": "2026-08-18T19:08:44Z",
     "url": "https://github.com/HeatherFraser96/skills-github-pages"
+  },
+  {
+    "description": "",
+    "id": "taha-kms/skillsync",
+    "language": "Python",
+    "name": "taha-kms/skillsync",
+    "stars": 0,
+    "updated_at": "2026-08-18T19:08:35Z",
+    "url": "https://github.com/taha-kms/skillsync"
   },
   {
     "description": "65 project-, stack-, and language-agnostic skills for Claude Code \u2014 judgment, testing, debugging, systems design, securi",
@@ -567,15 +648,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 18,
-    "updated_at": "2026-08-18T19:00:36Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Exercise: Introduction to GitHub",
     "id": "kalocadomonte/skills-introduction-to-github",
     "language": "\u2014",
@@ -592,15 +664,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T19:00:30Z",
     "url": "https://github.com/sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-18T19:00:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -779,7 +842,7 @@
     "language": "JavaScript",
     "name": "Akhil111993/skills-getting-started-with-github-copilot",
     "stars": 0,
-    "updated_at": "2026-08-18T18:56:33Z",
+    "updated_at": "2026-08-18T19:15:14Z",
     "url": "https://github.com/Akhil111993/skills-getting-started-with-github-copilot"
   },
   {
@@ -835,68 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T18:56:01Z",
     "url": "https://github.com/MohdShehbaaz/skills-copilot-codespaces-vscode"
-  },
-  {
-    "description": "Standard template for all the skill repos",
-    "id": "NUCS338-skills-scaffolding-project/skill-standard-template",
-    "language": "Python",
-    "name": "NUCS338-skills-scaffolding-project/skill-standard-template",
-    "stars": 0,
-    "updated_at": "2026-08-18T18:55:53Z",
-    "url": "https://github.com/NUCS338-skills-scaffolding-project/skill-standard-template"
-  },
-  {
-    "description": "Agent skills for VillageSQL - gemini-cli-extension; claude-code-plugin",
-    "id": "villagesql/villagesql-skills",
-    "language": "\u2014",
-    "name": "villagesql/villagesql-skills",
-    "stars": 5,
-    "updated_at": "2026-08-18T18:55:43Z",
-    "url": "https://github.com/villagesql/villagesql-skills"
-  },
-  {
-    "description": "",
-    "id": "goobermv/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "goobermv/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-08-18T18:55:41Z",
-    "url": "https://github.com/goobermv/skills-introduction-to-git"
-  },
-  {
-    "description": "PSS LLM prompt 'rules' for use with tools such as Cline",
-    "id": "PSSTools/agent-skills-pss",
-    "language": "\u2014",
-    "name": "PSSTools/agent-skills-pss",
-    "stars": 1,
-    "updated_at": "2026-08-18T18:55:18Z",
-    "url": "https://github.com/PSSTools/agent-skills-pss"
-  },
-  {
-    "description": "Repository of agent skills used within and authored by Wildcat Labs",
-    "id": "wildcat-finance/skills",
-    "language": "Python",
-    "name": "wildcat-finance/skills",
-    "stars": 3,
-    "updated_at": "2026-08-18T19:12:27Z",
-    "url": "https://github.com/wildcat-finance/skills"
-  },
-  {
-    "description": "Arquivos .md sobre Genexus",
-    "id": "GxBrasilNOficial/GeneXus-XPZ-Skills",
-    "language": "PowerShell",
-    "name": "GxBrasilNOficial/GeneXus-XPZ-Skills",
-    "stars": 11,
-    "updated_at": "2026-08-18T18:54:41Z",
-    "url": "https://github.com/GxBrasilNOficial/GeneXus-XPZ-Skills"
-  },
-  {
-    "description": "Skills for agents.",
-    "id": "TimSamshuijzen/skills",
-    "language": "\u2014",
-    "name": "TimSamshuijzen/skills",
-    "stars": 0,
-    "updated_at": "2026-08-18T18:54:28Z",
-    "url": "https://github.com/TimSamshuijzen/skills"
   }
 ]
