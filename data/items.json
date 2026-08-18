@@ -1,5 +1,32 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-18T17:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Portable BTCP skills and plugins for AI agents",
+    "id": "JoshMayerr/btcp-skills",
+    "language": "Python",
+    "name": "JoshMayerr/btcp-skills",
+    "stars": 0,
+    "updated_at": "2026-08-18T17:15:02Z",
+    "url": "https://github.com/JoshMayerr/btcp-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 18,
+    "updated_at": "2026-08-18T17:14:41Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "",
     "id": "radnerus/hermes-skills",
     "language": "\u2014",
@@ -43,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-08-18T17:13:58Z",
     "url": "https://github.com/whattodo-skills/Subscriber-Dashboard-AUG2026"
+  },
+  {
+    "description": "Self-improving set of skills for product leader",
+    "id": "AndyMelnykov/product_leadership_skills",
+    "language": "\u2014",
+    "name": "AndyMelnykov/product_leadership_skills",
+    "stars": 0,
+    "updated_at": "2026-08-18T17:13:54Z",
+    "url": "https://github.com/AndyMelnykov/product_leadership_skills"
   },
   {
     "description": "My clone repository",
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "Rohith918/Devops-Skills-WordCloud",
     "stars": 0,
-    "updated_at": "2026-08-18T17:09:18Z",
+    "updated_at": "2026-08-18T17:15:01Z",
     "url": "https://github.com/Rohith918/Devops-Skills-WordCloud"
   },
   {
@@ -666,6 +702,15 @@
     "url": "https://github.com/hssh8917/cc-skills"
   },
   {
+    "description": "Manage reusable AI coding skills in a multi-skill workspace for easy reuse, sync, and expansion",
+    "id": "aramamer4577-source/skills",
+    "language": "Shell",
+    "name": "aramamer4577-source/skills",
+    "stars": 0,
+    "updated_at": "2026-08-18T17:05:36Z",
+    "url": "https://github.com/aramamer4577-source/skills"
+  },
+  {
     "description": "",
     "id": "ccabelloc/skills-write-javascript-actions",
     "language": "\u2014",
@@ -792,15 +837,6 @@
     "url": "https://github.com/chetpictured508/smarty-skills-infra"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-18T17:04:28Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Exercise: Introduction to GitHub",
     "id": "nbh14975/skills-introduction-to-github",
     "language": "\u2014",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T17:03:54Z",
     "url": "https://github.com/MaloTheBG/skills-introduction-to-git"
-  },
-  {
-    "description": "",
-    "id": "beardedgingerdesigns/bgd-skills",
-    "language": "\u2014",
-    "name": "beardedgingerdesigns/bgd-skills",
-    "stars": 0,
-    "updated_at": "2026-08-18T17:03:48Z",
-    "url": "https://github.com/beardedgingerdesigns/bgd-skills"
-  },
-  {
-    "description": "Exercise: Write JavaScript Actions",
-    "id": "Davidoam/skills-write-javascript-actions",
-    "language": "\u2014",
-    "name": "Davidoam/skills-write-javascript-actions",
-    "stars": 0,
-    "updated_at": "2026-08-18T17:03:47Z",
-    "url": "https://github.com/Davidoam/skills-write-javascript-actions"
-  },
-  {
-    "description": "Skills for Linggen \u2014 drop-in folders that become native apps: personal CFO, DJ, Mac care, GTM pulse, shared memory.",
-    "id": "linggen/skills",
-    "language": "JavaScript",
-    "name": "linggen/skills",
-    "stars": 2,
-    "updated_at": "2026-08-18T17:03:47Z",
-    "url": "https://github.com/linggen/skills"
-  },
-  {
-    "description": "Provide accurate Jetpack Compose code by detecting common errors and improving Android UI practices with a modern agent ",
-    "id": "Pushpade7366/jetpack-compose-skills",
-    "language": "\u2014",
-    "name": "Pushpade7366/jetpack-compose-skills",
-    "stars": 0,
-    "updated_at": "2026-08-18T17:03:46Z",
-    "url": "https://github.com/Pushpade7366/jetpack-compose-skills"
   }
 ]
