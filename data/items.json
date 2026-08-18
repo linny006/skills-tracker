@@ -1,5 +1,50 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-18T00:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "JSGitOrg/skills-publish-packages",
+    "language": "JavaScript",
+    "name": "JSGitOrg/skills-publish-packages",
+    "stars": 0,
+    "updated_at": "2026-08-18T00:30:08Z",
+    "url": "https://github.com/JSGitOrg/skills-publish-packages"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 18,
+    "updated_at": "2026-08-18T00:29:54Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Lifecycle Management for Agent Skills",
+    "id": "smith-horn/skillsmith",
+    "language": "TypeScript",
+    "name": "smith-horn/skillsmith",
+    "stars": 76,
+    "updated_at": "2026-08-18T00:29:52Z",
+    "url": "https://github.com/smith-horn/skillsmith"
+  },
+  {
+    "description": "",
+    "id": "Alfredisabug/skills",
+    "language": "\u2014",
+    "name": "Alfredisabug/skills",
+    "stars": 0,
+    "updated_at": "2026-08-18T00:29:38Z",
+    "url": "https://github.com/Alfredisabug/skills"
+  },
+  {
     "description": "",
     "id": "josefaidt/skills",
     "language": "Shell",
@@ -23,7 +68,7 @@
     "language": "Shell",
     "name": "yuu/agent-skills",
     "stars": 0,
-    "updated_at": "2026-08-18T00:28:39Z",
+    "updated_at": "2026-08-18T00:30:11Z",
     "url": "https://github.com/yuu/agent-skills"
   },
   {
@@ -270,15 +315,6 @@
     "url": "https://github.com/llodev/skills"
   },
   {
-    "description": "",
-    "id": "JSGitOrg/skills-publish-packages",
-    "language": "JavaScript",
-    "name": "JSGitOrg/skills-publish-packages",
-    "stars": 0,
-    "updated_at": "2026-08-18T00:21:19Z",
-    "url": "https://github.com/JSGitOrg/skills-publish-packages"
-  },
-  {
     "description": "Exercise: Introduction to Git",
     "id": "EduardoChale/skills-introduction-to-git",
     "language": "Shell",
@@ -522,24 +558,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 18,
-    "updated_at": "2026-08-18T00:15:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-18T00:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "",
     "id": "luckie2076/skills-sh",
     "language": "\u2014",
@@ -628,15 +646,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T00:11:47Z",
     "url": "https://github.com/3tallah/awesome-ai-agent-skills"
-  },
-  {
-    "description": "Lifecycle Management for Agent Skills",
-    "id": "smith-horn/skillsmith",
-    "language": "TypeScript",
-    "name": "smith-horn/skillsmith",
-    "stars": 76,
-    "updated_at": "2026-08-18T00:11:43Z",
-    "url": "https://github.com/smith-horn/skillsmith"
   },
   {
     "description": "A record label in a box.",
@@ -824,7 +833,7 @@
     "language": "Shell",
     "name": "soumyadeep2207/skills-build-applications-w-copilot-agent-mode",
     "stars": 0,
-    "updated_at": "2026-08-18T00:15:14Z",
+    "updated_at": "2026-08-18T00:30:14Z",
     "url": "https://github.com/soumyadeep2207/skills-build-applications-w-copilot-agent-mode"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T00:01:38Z",
     "url": "https://github.com/LeSplooch/tbaguette-skills"
-  },
-  {
-    "description": "Agent skills for Scry.io -- SQL + vector search over the internet. Install: npx skills add exopriors/skills",
-    "id": "ExoPriors/skills",
-    "language": "\u2014",
-    "name": "ExoPriors/skills",
-    "stars": 3,
-    "updated_at": "2026-08-18T00:01:34Z",
-    "url": "https://github.com/ExoPriors/skills"
   }
 ]
