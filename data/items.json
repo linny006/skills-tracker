@@ -1,12 +1,75 @@
 [
   {
+    "description": "",
+    "id": "PIYUSH0-7/6_Soft_Skills",
+    "language": "\u2014",
+    "name": "PIYUSH0-7/6_Soft_Skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T04:59:36Z",
+    "url": "https://github.com/PIYUSH0-7/6_Soft_Skills"
+  },
+  {
+    "description": "kylinlab.tech's skills",
+    "id": "KylinLabAI/kylinlab.tech.skills",
+    "language": "Python",
+    "name": "KylinLabAI/kylinlab.tech.skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T04:59:31Z",
+    "url": "https://github.com/KylinLabAI/kylinlab.tech.skills"
+  },
+  {
+    "description": "npx reborn-skills \u2014 Claude Code essential skills installer: installs 5 free community skills, then verifies they actuall",
+    "id": "reborn-labs-kr/reborn-skills",
+    "language": "JavaScript",
+    "name": "reborn-labs-kr/reborn-skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T04:59:28Z",
+    "url": "https://github.com/reborn-labs-kr/reborn-skills"
+  },
+  {
+    "description": "tutu's skills",
+    "id": "tutu359/tutu-skills",
+    "language": "Go",
+    "name": "tutu359/tutu-skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T04:58:16Z",
+    "url": "https://github.com/tutu359/tutu-skills"
+  },
+  {
+    "description": "",
+    "id": "justbecauselabs/agent-skills",
+    "language": "TypeScript",
+    "name": "justbecauselabs/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-08-19T04:58:13Z",
+    "url": "https://github.com/justbecauselabs/agent-skills"
+  },
+  {
+    "description": "AI agent skills for generating high-quality unit tests \u2014 Given-When-Then test cases, JUnit 5, Mockito, AssertJ. Works wi",
+    "id": "mavka-ai/unit-tests-skills",
+    "language": "\u2014",
+    "name": "mavka-ai/unit-tests-skills",
+    "stars": 49,
+    "updated_at": "2026-08-19T04:58:03Z",
+    "url": "https://github.com/mavka-ai/unit-tests-skills"
+  },
+  {
     "description": "Exercise: Communicate using Markdown",
     "id": "TheoShiako/skills-communicate-using-markdown",
     "language": "\u2014",
     "name": "TheoShiako/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-08-19T04:57:29Z",
+    "updated_at": "2026-08-19T04:57:49Z",
     "url": "https://github.com/TheoShiako/skills-communicate-using-markdown"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 19,
+    "updated_at": "2026-08-19T04:57:36Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -25,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-08-19T04:57:09Z",
     "url": "https://github.com/kavanthompson/radiology-ai-skills"
+  },
+  {
+    "description": "Skills for the boring bits in my life. Created by myself.",
+    "id": "luojiahai/skills",
+    "language": "JavaScript",
+    "name": "luojiahai/skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T04:56:59Z",
+    "url": "https://github.com/luojiahai/skills"
   },
   {
     "description": "My clone repository",
@@ -124,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T04:56:03Z",
     "url": "https://github.com/troywilsonsportsscience/skills-review-pull-requests"
-  },
-  {
-    "description": "Skills for the boring bits in my life. Created by myself.",
-    "id": "luojiahai/skills",
-    "language": "JavaScript",
-    "name": "luojiahai/skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T04:56:59Z",
-    "url": "https://github.com/luojiahai/skills"
   },
   {
     "description": "",
@@ -356,7 +419,7 @@
     "language": "HTML",
     "name": "vanducng/skills",
     "stars": 5,
-    "updated_at": "2026-08-19T04:50:37Z",
+    "updated_at": "2026-08-19T05:00:19Z",
     "url": "https://github.com/vanducng/skills"
   },
   {
@@ -621,15 +684,6 @@
     "url": "https://github.com/ArvindRamakrishnan78907/skills-introduction-to-git"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 19,
-    "updated_at": "2026-08-19T04:45:30Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Exercise: Introduction to Git",
     "id": "DhrubaDS/skills-introduction-to-git",
     "language": "Shell",
@@ -844,59 +898,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T04:40:31Z",
     "url": "https://github.com/choplin/my-agent-skills"
-  },
-  {
-    "description": "Claude Skills",
-    "id": "Zintellix/Claude-Skills",
-    "language": "\u2014",
-    "name": "Zintellix/Claude-Skills",
-    "stars": 2,
-    "updated_at": "2026-08-19T04:40:31Z",
-    "url": "https://github.com/Zintellix/Claude-Skills"
-  },
-  {
-    "description": "",
-    "id": "paradite/skills",
-    "language": "\u2014",
-    "name": "paradite/skills",
-    "stars": 1,
-    "updated_at": "2026-08-19T04:40:20Z",
-    "url": "https://github.com/paradite/skills"
-  },
-  {
-    "description": "Post-GWAS analysis skills for AI coding agents: MR, colocalization, TWAS, and more",
-    "id": "zoebischuribe-cloud/postgwas-skills",
-    "language": "\u2014",
-    "name": "zoebischuribe-cloud/postgwas-skills",
-    "stars": 3,
-    "updated_at": "2026-08-19T04:40:17Z",
-    "url": "https://github.com/zoebischuribe-cloud/postgwas-skills"
-  },
-  {
-    "description": "Workflow skills and hooks I carry into every repo, packaged as a Claude Code plugin.",
-    "id": "shine5402/kira-skills",
-    "language": "Python",
-    "name": "shine5402/kira-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T04:40:10Z",
-    "url": "https://github.com/shine5402/kira-skills"
-  },
-  {
-    "description": "Slides",
-    "id": "sreeram-tecfuge/skills-bee-image-slide",
-    "language": "HTML",
-    "name": "sreeram-tecfuge/skills-bee-image-slide",
-    "stars": 0,
-    "updated_at": "2026-08-19T04:39:57Z",
-    "url": "https://github.com/sreeram-tecfuge/skills-bee-image-slide"
-  },
-  {
-    "description": "Skills for Claude COde",
-    "id": "vladeasytag/claude-code-skills",
-    "language": "Python",
-    "name": "vladeasytag/claude-code-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T04:39:21Z",
-    "url": "https://github.com/vladeasytag/claude-code-skills"
   }
 ]
