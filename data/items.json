@@ -5,8 +5,26 @@
     "language": "\u2014",
     "name": "peech44/skills-github-pages_peech44",
     "stars": 0,
-    "updated_at": "2026-08-19T09:00:03Z",
+    "updated_at": "2026-08-19T09:00:27Z",
     "url": "https://github.com/peech44/skills-github-pages_peech44"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 30,
+    "updated_at": "2026-08-19T09:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 19,
+    "updated_at": "2026-08-19T09:00:12Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -68,7 +86,7 @@
     "language": "\u2014",
     "name": "invniskills-cmd/skills-web-v2",
     "stars": 0,
-    "updated_at": "2026-08-19T08:59:13Z",
+    "updated_at": "2026-08-19T09:00:18Z",
     "url": "https://github.com/invniskills-cmd/skills-web-v2"
   },
   {
@@ -162,6 +180,15 @@
     "url": "https://github.com/abramovmarketing88-byte/cursor-skills"
   },
   {
+    "description": "tkt \u516c\u5f00 skill \u96c6:\u6d41\u7a0b\u5f15\u5bfc\u4e0e\u901a\u7528\u5de5\u5177",
+    "id": "Manshawar/tkt-skills",
+    "language": "Python",
+    "name": "Manshawar/tkt-skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T08:58:09Z",
+    "url": "https://github.com/Manshawar/tkt-skills"
+  },
+  {
     "description": "A personal skill library",
     "id": "lilinji/skills",
     "language": "Python",
@@ -169,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T08:57:56Z",
     "url": "https://github.com/lilinji/skills"
-  },
-  {
-    "description": "tkt \u516c\u5f00 skill \u96c6:\u6d41\u7a0b\u5f15\u5bfc\u4e0e\u901a\u7528\u5de5\u5177",
-    "id": "Manshawar/tkt-skills",
-    "language": "\u2014",
-    "name": "Manshawar/tkt-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T08:58:09Z",
-    "url": "https://github.com/Manshawar/tkt-skills"
   },
   {
     "description": "Protect your code with automated testing",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T08:48:44Z",
     "url": "https://github.com/GbrieuZ/skills-introduction-to-github"
-  },
-  {
-    "description": "Upload local Markdown articles to the WeChat Official Account draft box",
-    "id": "ACBBZ/wechat-fin-article-skills",
-    "language": "Python",
-    "name": "ACBBZ/wechat-fin-article-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T08:48:42Z",
-    "url": "https://github.com/ACBBZ/wechat-fin-article-skills"
-  },
-  {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "sakshi014-11/skills-getting-started-with-github-copilot",
-    "language": "JavaScript",
-    "name": "sakshi014-11/skills-getting-started-with-github-copilot",
-    "stars": 0,
-    "updated_at": "2026-08-19T08:48:40Z",
-    "url": "https://github.com/sakshi014-11/skills-getting-started-with-github-copilot"
   }
 ]
