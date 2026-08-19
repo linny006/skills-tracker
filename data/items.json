@@ -1,5 +1,104 @@
 [
   {
+    "description": "Portable Codex skill pack",
+    "id": "Canepro/codex-skills",
+    "language": "Python",
+    "name": "Canepro/codex-skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T23:33:10Z",
+    "url": "https://github.com/Canepro/codex-skills"
+  },
+  {
+    "description": "",
+    "id": "hellatan/claude-skills",
+    "language": "Shell",
+    "name": "hellatan/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T23:32:54Z",
+    "url": "https://github.com/hellatan/claude-skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "hyderalib-135/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "hyderalib-135/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-19T23:32:41Z",
+    "url": "https://github.com/hyderalib-135/skills-introduction-to-git"
+  },
+  {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "jesusjr/skills-getting-started-with-github-copilot",
+    "language": "\u2014",
+    "name": "jesusjr/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-19T23:32:31Z",
+    "url": "https://github.com/jesusjr/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "separately maintained standalone clone of leonardomso/rust-skills, preserving original authorship and upstream provenanc",
+    "id": "jason931225/rust-skills",
+    "language": "Python",
+    "name": "jason931225/rust-skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T23:32:27Z",
+    "url": "https://github.com/jason931225/rust-skills"
+  },
+  {
+    "description": "Here is the go-to place for those skills and it's canonical",
+    "id": "BestNameYet/Canonical-Skills-Location",
+    "language": "Python",
+    "name": "BestNameYet/Canonical-Skills-Location",
+    "stars": 0,
+    "updated_at": "2026-08-19T23:32:23Z",
+    "url": "https://github.com/BestNameYet/Canonical-Skills-Location"
+  },
+  {
+    "description": "",
+    "id": "kuishung/trading-skills",
+    "language": "Python",
+    "name": "kuishung/trading-skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T23:32:23Z",
+    "url": "https://github.com/kuishung/trading-skills"
+  },
+  {
+    "description": "",
+    "id": "bilalzindani/claude--skills-test",
+    "language": "HTML",
+    "name": "bilalzindani/claude--skills-test",
+    "stars": 0,
+    "updated_at": "2026-08-19T23:31:54Z",
+    "url": "https://github.com/bilalzindani/claude--skills-test"
+  },
+  {
+    "description": "\u26a1 The ultimate collection of 136+ OpenCode Skills (Codex Subagents port) featuring auto-sync and 1-click deployment.",
+    "id": "jshsakura/awesome-opencode-skills",
+    "language": "Python",
+    "name": "jshsakura/awesome-opencode-skills",
+    "stars": 25,
+    "updated_at": "2026-08-19T23:31:39Z",
+    "url": "https://github.com/jshsakura/awesome-opencode-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 24,
+    "updated_at": "2026-08-19T23:30:35Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 19,
+    "updated_at": "2026-08-19T23:30:34Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Expand your team with GitHub Copilot cloud agent",
     "id": "divtar/skills-expand-your-team-with-copilot",
     "language": "JavaScript",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "hivdb/HCV-GenBank-Skills",
     "stars": 0,
-    "updated_at": "2026-08-19T23:30:18Z",
+    "updated_at": "2026-08-19T23:33:32Z",
     "url": "https://github.com/hivdb/HCV-GenBank-Skills"
   },
   {
@@ -162,15 +261,6 @@
     "url": "https://github.com/sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker"
   },
   {
-    "description": "",
-    "id": "kuishung/trading-skills",
-    "language": "Python",
-    "name": "kuishung/trading-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T23:25:49Z",
-    "url": "https://github.com/kuishung/trading-skills"
-  },
-  {
     "description": "Epistemic-discipline skills for agentic coding (Claude Code, Codex, Cursor, Gemini, ZCode, or any harness) \u2014 formal rigo",
     "id": "ZMS-Labs/epistemic-skills",
     "language": "Python",
@@ -214,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T23:25:05Z",
     "url": "https://github.com/jacksontriffon/skills"
-  },
-  {
-    "description": "",
-    "id": "hellatan/claude-skills",
-    "language": "Shell",
-    "name": "hellatan/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T23:24:42Z",
-    "url": "https://github.com/hellatan/claude-skills"
   },
   {
     "description": "Agent skills by dinghino. monkey: short, plain, no-jargon replies.",
@@ -387,15 +468,6 @@
     "url": "https://github.com/ameagher17/claude-skills"
   },
   {
-    "description": "separately maintained standalone clone of leonardomso/rust-skills, preserving original authorship and upstream provenanc",
-    "id": "jason931225/rust-skills",
-    "language": "Python",
-    "name": "jason931225/rust-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T23:18:41Z",
-    "url": "https://github.com/jason931225/rust-skills"
-  },
-  {
     "description": "Shared agent skills intended to be reusable across tools like Codex and Claude Code",
     "id": "dismantl/agent-skills",
     "language": "Python",
@@ -511,24 +583,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T23:15:42Z",
     "url": "https://github.com/anthonyvmottola-ops/RCA-Skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 19,
-    "updated_at": "2026-08-19T23:15:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 24,
-    "updated_at": "2026-08-19T23:15:28Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "SwiftUI iOS UX agent skills for Cursor, Codex, and other SKILL.md hosts",
@@ -774,15 +828,6 @@
     "url": "https://github.com/blakeure83-oss/skills-introduction-to-git"
   },
   {
-    "description": "Here is the go-to place for those skills and it's canonical",
-    "id": "BestNameYet/Canonical-Skills-Location",
-    "language": "Python",
-    "name": "BestNameYet/Canonical-Skills-Location",
-    "stars": 0,
-    "updated_at": "2026-08-19T23:07:41Z",
-    "url": "https://github.com/BestNameYet/Canonical-Skills-Location"
-  },
-  {
     "description": "This is a repository of skills for interfacing UiPath capabilities to external developers.",
     "id": "UiPath/skills",
     "language": "Python",
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T23:26:09Z",
     "url": "https://github.com/oepenut/skills-scale-institutional-knowledge-using-copilot-spaces"
-  },
-  {
-    "description": "OpenCode skills collection - 290+ skills for scientific computing, automation, and AI workflows",
-    "id": "BrightGold70/skills",
-    "language": "Python",
-    "name": "BrightGold70/skills",
-    "stars": 1,
-    "updated_at": "2026-08-19T23:03:57Z",
-    "url": "https://github.com/BrightGold70/skills"
-  },
-  {
-    "description": "The 1+3 Cloud Adoption Skills Framework is an AI-driven capability system that organizes cloud skills into general, doma",
-    "id": "binrogithub/1-3-Cloud-Adoption-Skills",
-    "language": "JavaScript",
-    "name": "binrogithub/1-3-Cloud-Adoption-Skills",
-    "stars": 11,
-    "updated_at": "2026-08-19T23:03:16Z",
-    "url": "https://github.com/binrogithub/1-3-Cloud-Adoption-Skills"
-  },
-  {
-    "description": "The repo for all system/public ornn skills",
-    "id": "ChronoAIProject/nyx-skills",
-    "language": "JavaScript",
-    "name": "ChronoAIProject/nyx-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T23:01:26Z",
-    "url": "https://github.com/ChronoAIProject/nyx-skills"
-  },
-  {
-    "description": "Shared agent skills and MCP configuration for JeremyKuhne's .NET repositories. A gh skill source and Copilot/Claude plug",
-    "id": "JeremyKuhne/agent-skills",
-    "language": "PowerShell",
-    "name": "JeremyKuhne/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-08-19T23:01:22Z",
-    "url": "https://github.com/JeremyKuhne/agent-skills"
-  },
-  {
-    "description": "Turns vague project ideas into researched, actionable next steps. Use when unsure of direction, mapping unknowns, or con",
-    "id": "ThorStarlord/sensemaking-skills",
-    "language": "Python",
-    "name": "ThorStarlord/sensemaking-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T23:01:14Z",
-    "url": "https://github.com/ThorStarlord/sensemaking-skills"
   }
 ]
