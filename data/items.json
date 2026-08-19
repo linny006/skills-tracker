@@ -1,5 +1,104 @@
 [
   {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "Marq91/skills-getting-started-with-github-copilot",
+    "language": "JavaScript",
+    "name": "Marq91/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-19T22:46:11Z",
+    "url": "https://github.com/Marq91/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "Manifesto das minhas skills/plugins do Claude Code instaladas",
+    "id": "carlossantosgit/my-claude-skills",
+    "language": "\u2014",
+    "name": "carlossantosgit/my-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T22:45:59Z",
+    "url": "https://github.com/carlossantosgit/my-claude-skills"
+  },
+  {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "fridao3/skills-github-pages",
+    "language": "\u2014",
+    "name": "fridao3/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-08-19T22:45:55Z",
+    "url": "https://github.com/fridao3/skills-github-pages"
+  },
+  {
+    "description": "Agent Skills oficiales de los productos Realter \u2014 RealterID: skills entrevistadoras para asesores inmobiliarios (espa\u00f1ol",
+    "id": "RealterHub/realter-skills",
+    "language": "JavaScript",
+    "name": "RealterHub/realter-skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T22:45:47Z",
+    "url": "https://github.com/RealterHub/realter-skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "renzoaguilar/skills-introduction-to-git",
+    "language": "\u2014",
+    "name": "renzoaguilar/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-19T22:45:40Z",
+    "url": "https://github.com/renzoaguilar/skills-introduction-to-git"
+  },
+  {
+    "description": "",
+    "id": "KadlecekTomas/SkillStorm",
+    "language": "TypeScript",
+    "name": "KadlecekTomas/SkillStorm",
+    "stars": 0,
+    "updated_at": "2026-08-19T22:45:37Z",
+    "url": "https://github.com/KadlecekTomas/SkillStorm"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 24,
+    "updated_at": "2026-08-19T22:45:34Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 19,
+    "updated_at": "2026-08-19T22:45:32Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Which AI agent Skills survive a real build? Every pick is field-tested by building a product from scratch, then rated on",
+    "id": "phoebefu6/agent-skills-phoebe-picks",
+    "language": "JavaScript",
+    "name": "phoebefu6/agent-skills-phoebe-picks",
+    "stars": 1,
+    "updated_at": "2026-08-19T22:45:31Z",
+    "url": "https://github.com/phoebefu6/agent-skills-phoebe-picks"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "fer-netizen/skills-introduction-to-git",
+    "language": "\u2014",
+    "name": "fer-netizen/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-19T22:45:39Z",
+    "url": "https://github.com/fer-netizen/skills-introduction-to-git"
+  },
+  {
+    "description": "Claude Code skills for querying and safely editing structured files (JSON, YAML, Markdown, SQLite) and extracting text f",
+    "id": "jrjsmrtn/structured-data-skills",
+    "language": "\u2014",
+    "name": "jrjsmrtn/structured-data-skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T22:45:24Z",
+    "url": "https://github.com/jrjsmrtn/structured-data-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -16,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T22:45:10Z",
     "url": "https://github.com/divtar/skills-scale-institutional-knowledge-using-copilot-spaces"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "fer-netizen/skills-introduction-to-git",
-    "language": "\u2014",
-    "name": "fer-netizen/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-08-19T22:45:09Z",
-    "url": "https://github.com/fer-netizen/skills-introduction-to-git"
   },
   {
     "description": "Fleet skill federation \u2014 contributors/darkhero + contributors/scar3",
@@ -88,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T22:44:10Z",
     "url": "https://github.com/adelrodriguez/skills"
-  },
-  {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "fridao3/skills-github-pages",
-    "language": "\u2014",
-    "name": "fridao3/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-08-19T22:44:10Z",
-    "url": "https://github.com/fridao3/skills-github-pages"
   },
   {
     "description": "",
@@ -198,15 +279,6 @@
     "url": "https://github.com/JavierCuellar93/skills-introduction-to-git"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 24,
-    "updated_at": "2026-08-19T22:42:08Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. ",
     "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
@@ -223,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T22:41:47Z",
     "url": "https://github.com/biw/skills"
-  },
-  {
-    "description": "Agent Skills oficiales de los productos Realter \u2014 RealterID: skills entrevistadoras para asesores inmobiliarios (espa\u00f1ol",
-    "id": "RealterHub/realter-skills",
-    "language": "JavaScript",
-    "name": "RealterHub/realter-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T22:41:44Z",
-    "url": "https://github.com/RealterHub/realter-skills"
   },
   {
     "description": "Claude Code skills \u2014 eco-mode, eco-analyze, and more",
@@ -329,7 +392,7 @@
     "language": "Shell",
     "name": "xenodeve/xeno-skills",
     "stars": 2,
-    "updated_at": "2026-08-19T22:36:42Z",
+    "updated_at": "2026-08-19T22:46:06Z",
     "url": "https://github.com/xenodeve/xeno-skills"
   },
   {
@@ -509,7 +572,7 @@
     "language": "Python",
     "name": "BrightGold70/skills",
     "stars": 1,
-    "updated_at": "2026-08-19T22:32:41Z",
+    "updated_at": "2026-08-19T22:45:28Z",
     "url": "https://github.com/BrightGold70/skills"
   },
   {
@@ -583,15 +646,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T22:30:54Z",
     "url": "https://github.com/JoeKennish/skills-introduction-to-git"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 19,
-    "updated_at": "2026-08-19T22:30:33Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -844,59 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T22:21:27Z",
     "url": "https://github.com/helio-netcon/skills-integrate-mcp-with-copilot"
-  },
-  {
-    "description": "Professional Agentic AI Skills Suite for Game Development: End-to-end GDD Architecture, Rapid Prototyping, Technical Des",
-    "id": "ncdlek/game-dev-agent-skills",
-    "language": "\u2014",
-    "name": "ncdlek/game-dev-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T22:21:18Z",
-    "url": "https://github.com/ncdlek/game-dev-agent-skills"
-  },
-  {
-    "description": "Collection of skills.",
-    "id": "Sivx/SKILLS",
-    "language": "JavaScript",
-    "name": "Sivx/SKILLS",
-    "stars": 0,
-    "updated_at": "2026-08-19T22:21:15Z",
-    "url": "https://github.com/Sivx/SKILLS"
-  },
-  {
-    "description": "",
-    "id": "mawwardhana/myGPT_Skills",
-    "language": "\u2014",
-    "name": "mawwardhana/myGPT_Skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T22:21:12Z",
-    "url": "https://github.com/mawwardhana/myGPT_Skills"
-  },
-  {
-    "description": "Skills Hub \u2014 desktop app to browse and install shared Claude Code skills (Windows + macOS)",
-    "id": "pow3rcycle/claude-skills-hub",
-    "language": "TypeScript",
-    "name": "pow3rcycle/claude-skills-hub",
-    "stars": 0,
-    "updated_at": "2026-08-19T22:21:06Z",
-    "url": "https://github.com/pow3rcycle/claude-skills-hub"
-  },
-  {
-    "description": "Custom skills for Claude Code \u2014 SEO, security auditing, and web tools",
-    "id": "jdickey1/claude-skills",
-    "language": "Python",
-    "name": "jdickey1/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T22:20:59Z",
-    "url": "https://github.com/jdickey1/claude-skills"
-  },
-  {
-    "description": "Skills repository that learns with you",
-    "id": "andrewheldy/perci-skills.md",
-    "language": "\u2014",
-    "name": "andrewheldy/perci-skills.md",
-    "stars": 0,
-    "updated_at": "2026-08-19T22:20:49Z",
-    "url": "https://github.com/andrewheldy/perci-skills.md"
   }
 ]
