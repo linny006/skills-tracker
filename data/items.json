@@ -1,6 +1,60 @@
 [
   {
     "description": "",
+    "id": "JovaniPink/skills",
+    "language": "\u2014",
+    "name": "JovaniPink/skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T16:15:27Z",
+    "url": "https://github.com/JovaniPink/skills"
+  },
+  {
+    "description": "",
+    "id": "neuralrespawn/hermes-skills",
+    "language": "Python",
+    "name": "neuralrespawn/hermes-skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T16:15:26Z",
+    "url": "https://github.com/neuralrespawn/hermes-skills"
+  },
+  {
+    "description": "Personal agent skills and the MCP servers they call. Works in Claude Code, Codex, Cursor, Antigravity, and any agent tha",
+    "id": "8bu/skills",
+    "language": "TypeScript",
+    "name": "8bu/skills",
+    "stars": 0,
+    "updated_at": "2026-08-19T16:15:25Z",
+    "url": "https://github.com/8bu/skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "toman-lukas85/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "toman-lukas85/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-19T16:15:22Z",
+    "url": "https://github.com/toman-lukas85/skills-introduction-to-git"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 30,
+    "updated_at": "2026-08-19T16:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 19,
+    "updated_at": "2026-08-19T16:15:11Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
     "id": "Frank-Y81/personal-ai-skills",
     "language": "\u2014",
     "name": "Frank-Y81/personal-ai-skills",
@@ -63,7 +117,7 @@
     "url": "https://github.com/sandbaseai/sandbase-skills"
   },
   {
-    "description": "Collection of Windows-focused AI-agent skills (each with English + Chinese README)",
+    "description": " Windows-focused AI-agent skills",
     "id": "cecilia4412/skills",
     "language": "PowerShell",
     "name": "cecilia4412/skills",
@@ -99,13 +153,13 @@
     "url": "https://github.com/rajasribalasubramanyam-coder/skills-copilot-codespaces-vscode"
   },
   {
-    "description": "Personal agent skills and the MCP servers they call. Works in Claude Code, Codex, Cursor, Antigravity, and any agent tha",
-    "id": "8bu/skills",
-    "language": "TypeScript",
-    "name": "8bu/skills",
+    "description": "Agent skills for Splunk ITSI, the Splunk platform, and Splunk Observability Cloud. Not an official Splunk project; not s",
+    "id": "abancel-cisco/splunk-field-skills",
+    "language": "Python",
+    "name": "abancel-cisco/splunk-field-skills",
     "stars": 0,
-    "updated_at": "2026-08-19T16:11:57Z",
-    "url": "https://github.com/8bu/skills"
+    "updated_at": "2026-08-19T16:10:50Z",
+    "url": "https://github.com/abancel-cisco/splunk-field-skills"
   },
   {
     "description": "Fleet skill federation \u2014 contributors/darkhero + contributors/scar3",
@@ -837,15 +891,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 19,
-    "updated_at": "2026-08-19T16:00:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "\u5b50\u590f\u516b\u5b57\u79bb\u7ebf\u6392\u76d8\u4e0e\u751f\u547d\u84dd\u56fe\u5206\u6790 Skills",
     "id": "zixia-han/zixia-skills",
     "language": "Python",
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T16:00:30Z",
     "url": "https://github.com/zixia-han/zixia-skills"
-  },
-  {
-    "description": "My personal collection of handcrafted AI agent skills \u2014 original prompting modules for code quality, knowledge explorati",
-    "id": "unix2dos/skills",
-    "language": "Python",
-    "name": "unix2dos/skills",
-    "stars": 3,
-    "updated_at": "2026-08-19T16:00:30Z",
-    "url": "https://github.com/unix2dos/skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "AnthonyHindi/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "AnthonyHindi/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-08-19T16:00:29Z",
-    "url": "https://github.com/AnthonyHindi/skills-introduction-to-git"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "Changshuai-Chou/skills-introduction-togithub",
-    "language": "\u2014",
-    "name": "Changshuai-Chou/skills-introduction-togithub",
-    "stars": 0,
-    "updated_at": "2026-08-19T16:12:32Z",
-    "url": "https://github.com/Changshuai-Chou/skills-introduction-togithub"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 30,
-    "updated_at": "2026-08-19T16:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Codex skills for source-video prompt extraction, Jimeng shot remixing, and physically consistent durian daifuku insertio",
-    "id": "Athena314159/durian-daifuku-video-prompt-skills",
-    "language": "Python",
-    "name": "Athena314159/durian-daifuku-video-prompt-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T16:00:13Z",
-    "url": "https://github.com/Athena314159/durian-daifuku-video-prompt-skills"
   }
 ]
