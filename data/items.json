@@ -1,5 +1,50 @@
 [
   {
+    "description": "",
+    "id": "carlosap6576/cp-skills",
+    "language": "\u2014",
+    "name": "carlosap6576/cp-skills",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:00:27Z",
+    "url": "https://github.com/carlosap6576/cp-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 31,
+    "updated_at": "2026-08-20T22:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "My skills that I use in my projects with Codex and ChatGPT.",
+    "id": "jhonatan-oliveiradev/agent-skills",
+    "language": "\u2014",
+    "name": "jhonatan-oliveiradev/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:00:11Z",
+    "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
+  },
+  {
+    "description": "Skills for AI coding agents (Claude Code, Codex CLI, opencode, Pi, and more) to build BorgIQ automations",
+    "id": "BorgIQ/borgiq-skills",
+    "language": "Python",
+    "name": "BorgIQ/borgiq-skills",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:00:15Z",
+    "url": "https://github.com/BorgIQ/borgiq-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 19,
+    "updated_at": "2026-08-20T21:59:51Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
     "id": "mqscavillazon-bit/skills-github-pages",
     "language": "\u2014",
@@ -14,7 +59,7 @@
     "language": "\u2014",
     "name": "thomas-wartick/skills-connect-the-dots",
     "stars": 0,
-    "updated_at": "2026-08-20T21:59:33Z",
+    "updated_at": "2026-08-20T21:59:49Z",
     "url": "https://github.com/thomas-wartick/skills-connect-the-dots"
   },
   {
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "Anirudh220/Job-Market-Skills-Analytics",
     "stars": 0,
-    "updated_at": "2026-08-20T21:58:12Z",
+    "updated_at": "2026-08-20T22:00:06Z",
     "url": "https://github.com/Anirudh220/Job-Market-Skills-Analytics"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 24,
     "updated_at": "2026-08-20T21:56:12Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 31,
-    "updated_at": "2026-08-20T21:55:59Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent-agnostic clinical documentation skills",
@@ -347,7 +383,7 @@
     "language": "\u2014",
     "name": "davidxu-ai/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-08-20T21:57:40Z",
+    "updated_at": "2026-08-20T22:00:24Z",
     "url": "https://github.com/davidxu-ai/skills-introduction-to-github"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Astro",
     "name": "nasquasha/skills-agentic-workflows-that-read-the-room",
     "stars": 0,
-    "updated_at": "2026-08-20T21:50:35Z",
+    "updated_at": "2026-08-20T22:00:00Z",
     "url": "https://github.com/nasquasha/skills-agentic-workflows-that-read-the-room"
   },
   {
@@ -511,15 +547,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T21:45:52Z",
     "url": "https://github.com/keijiinoue/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 19,
-    "updated_at": "2026-08-20T21:45:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T21:35:15Z",
     "url": "https://github.com/juanscr/skills"
-  },
-  {
-    "description": "Skills for Selfship-ai",
-    "id": "selfship-ai/selfship-skills",
-    "language": "\u2014",
-    "name": "selfship-ai/selfship-skills",
-    "stars": 0,
-    "updated_at": "2026-08-20T21:35:07Z",
-    "url": "https://github.com/selfship-ai/selfship-skills"
-  },
-  {
-    "description": "Exercise: Build applications with GitHub Copilot agent mode",
-    "id": "prasanthpanati/skills-build-applications-w-copilot-agent-mode",
-    "language": "Shell",
-    "name": "prasanthpanati/skills-build-applications-w-copilot-agent-mode",
-    "stars": 0,
-    "updated_at": "2026-08-20T21:56:57Z",
-    "url": "https://github.com/prasanthpanati/skills-build-applications-w-copilot-agent-mode"
-  },
-  {
-    "description": "",
-    "id": "juzarmotorwala/healthcare-skills-checklist",
-    "language": "TypeScript",
-    "name": "juzarmotorwala/healthcare-skills-checklist",
-    "stars": 0,
-    "updated_at": "2026-08-20T21:34:43Z",
-    "url": "https://github.com/juzarmotorwala/healthcare-skills-checklist"
   }
 ]
