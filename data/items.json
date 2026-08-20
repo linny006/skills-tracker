@@ -1,5 +1,77 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 31,
+    "updated_at": "2026-08-20T05:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "For the non-profit Frest Start Life Skills in Louisiana ",
+    "id": "PulseTV-llc/Fresh-Start-Life-Skills",
+    "language": "TypeScript",
+    "name": "PulseTV-llc/Fresh-Start-Life-Skills",
+    "stars": 0,
+    "updated_at": "2026-08-20T05:00:02Z",
+    "url": "https://github.com/PulseTV-llc/Fresh-Start-Life-Skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "HarshaDeepBezawada/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "HarshaDeepBezawada/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-08-20T05:00:01Z",
+    "url": "https://github.com/HarshaDeepBezawada/skills-introduction-to-github"
+  },
+  {
+    "description": "My clone repository",
+    "id": "Ravi-Paswan/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "Ravi-Paswan/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-08-20T04:59:56Z",
+    "url": "https://github.com/Ravi-Paswan/skills-introduction-to-github"
+  },
+  {
+    "description": "",
+    "id": "BlockLune/skills",
+    "language": "\u2014",
+    "name": "BlockLune/skills",
+    "stars": 0,
+    "updated_at": "2026-08-20T04:59:45Z",
+    "url": "https://github.com/BlockLune/skills"
+  },
+  {
+    "description": "",
+    "id": "XLCYun/se-skills",
+    "language": "Python",
+    "name": "XLCYun/se-skills",
+    "stars": 1,
+    "updated_at": "2026-08-20T04:59:14Z",
+    "url": "https://github.com/XLCYun/se-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 19,
+    "updated_at": "2026-08-20T04:59:13Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Repository of agent skills used within and authored by Wildcat Labs",
+    "id": "wildcat-finance/skills",
+    "language": "Python",
+    "name": "wildcat-finance/skills",
+    "stars": 3,
+    "updated_at": "2026-08-20T04:59:06Z",
+    "url": "https://github.com/wildcat-finance/skills"
+  },
+  {
     "description": "Public Codex marketplace test: e-Comet Wildberries skills with bundled local MCP",
     "id": "ShadyAV/ecomet-skills-local-mcp",
     "language": "JavaScript",
@@ -100,15 +172,6 @@
   },
   {
     "description": "",
-    "id": "XLCYun/se-skills",
-    "language": "Python",
-    "name": "XLCYun/se-skills",
-    "stars": 1,
-    "updated_at": "2026-08-20T04:58:50Z",
-    "url": "https://github.com/XLCYun/se-skills"
-  },
-  {
-    "description": "",
     "id": "Gamaroff/agent-skills",
     "language": "JavaScript",
     "name": "Gamaroff/agent-skills",
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "sandbaseai/sandbase-skills",
     "stars": 22,
-    "updated_at": "2026-08-20T04:56:04Z",
+    "updated_at": "2026-08-20T05:00:01Z",
     "url": "https://github.com/sandbaseai/sandbase-skills"
   },
   {
@@ -205,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T04:55:22Z",
     "url": "https://github.com/lilinji/skills"
-  },
-  {
-    "description": "For the non-profit Frest Start Life Skills in Louisiana ",
-    "id": "PulseTV-llc/Fresh-Start-Life-Skills",
-    "language": "TypeScript",
-    "name": "PulseTV-llc/Fresh-Start-Life-Skills",
-    "stars": 0,
-    "updated_at": "2026-08-20T04:55:22Z",
-    "url": "https://github.com/PulseTV-llc/Fresh-Start-Life-Skills"
   },
   {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
@@ -401,7 +455,7 @@
     "language": "Python",
     "name": "idaibin/skills",
     "stars": 6,
-    "updated_at": "2026-08-20T04:56:57Z",
+    "updated_at": "2026-08-20T04:59:57Z",
     "url": "https://github.com/idaibin/skills"
   },
   {
@@ -729,15 +783,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 19,
-    "updated_at": "2026-08-20T04:45:26Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "XYO Agentic Skills",
     "id": "XYOracleNetwork/xyo-skills",
     "language": "TypeScript",
@@ -745,15 +790,6 @@
     "stars": 4,
     "updated_at": "2026-08-20T04:45:18Z",
     "url": "https://github.com/XYOracleNetwork/xyo-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 31,
-    "updated_at": "2026-08-20T04:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Skills Hub for ActonOS",
@@ -846,15 +882,6 @@
     "url": "https://github.com/shuaz-shuai/qli-bt-bringup-skills"
   },
   {
-    "description": "Repository of agent skills used within and authored by Wildcat Labs",
-    "id": "wildcat-finance/skills",
-    "language": "Python",
-    "name": "wildcat-finance/skills",
-    "stars": 3,
-    "updated_at": "2026-08-20T04:59:06Z",
-    "url": "https://github.com/wildcat-finance/skills"
-  },
-  {
     "description": "",
     "id": "daryl-tg/skills",
     "language": "\u2014",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T04:43:00Z",
     "url": "https://github.com/Hantous21/trailwise-finance-ops-skills"
-  },
-  {
-    "description": "My clone repository",
-    "id": "purabh122/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "purabh122/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-20T04:42:04Z",
-    "url": "https://github.com/purabh122/skills-introduction-to-github"
-  },
-  {
-    "description": "OpenClaw Skills Explorer - discover and browse skills for your OpenClaw agent",
-    "id": "Cluka-399/openclaw-skills-explorer",
-    "language": "HTML",
-    "name": "Cluka-399/openclaw-skills-explorer",
-    "stars": 3,
-    "updated_at": "2026-08-20T04:42:01Z",
-    "url": "https://github.com/Cluka-399/openclaw-skills-explorer"
-  },
-  {
-    "description": "Pen Test Skills for various domains",
-    "id": "marags-web/Pen-Test-Skills",
-    "language": "\u2014",
-    "name": "marags-web/Pen-Test-Skills",
-    "stars": 0,
-    "updated_at": "2026-08-20T04:41:52Z",
-    "url": "https://github.com/marags-web/Pen-Test-Skills"
   }
 ]
