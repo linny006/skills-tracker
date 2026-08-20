@@ -1,5 +1,32 @@
 [
   {
+    "description": "",
+    "id": "ydangkuul/skills",
+    "language": "JavaScript",
+    "name": "ydangkuul/skills",
+    "stars": 0,
+    "updated_at": "2026-08-20T15:00:26Z",
+    "url": "https://github.com/ydangkuul/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 31,
+    "updated_at": "2026-08-20T15:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 19,
+    "updated_at": "2026-08-20T15:00:14Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Antigravity & AI Agent Skills Collection",
     "id": "JackyLin213/antigravity-skills",
     "language": "\u2014",
@@ -104,7 +131,7 @@
     "language": "\u2014",
     "name": "InesGarciaDuhalde/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-08-20T14:56:34Z",
+    "updated_at": "2026-08-20T15:00:19Z",
     "url": "https://github.com/InesGarciaDuhalde/skills-introduction-to-github"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 16,
     "updated_at": "2026-08-20T14:55:36Z",
     "url": "https://github.com/redhat-developer/rhdh-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 31,
-    "updated_at": "2026-08-20T14:55:25Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
@@ -693,15 +711,6 @@
     "url": "https://github.com/zhangCan112/my-open-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 19,
-    "updated_at": "2026-08-20T14:45:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "",
     "id": "xw053815/simon-legal-ai-skills",
     "language": "Python",
@@ -743,7 +752,7 @@
     "language": "Python",
     "name": "Georgellx/skills",
     "stars": 0,
-    "updated_at": "2026-08-20T14:44:33Z",
+    "updated_at": "2026-08-20T15:00:23Z",
     "url": "https://github.com/Georgellx/skills"
   },
   {
@@ -887,16 +896,7 @@
     "language": "Python",
     "name": "JacopoLupo/tribe-claude-skills",
     "stars": 1,
-    "updated_at": "2026-08-20T14:50:02Z",
+    "updated_at": "2026-08-20T15:00:14Z",
     "url": "https://github.com/JacopoLupo/tribe-claude-skills"
-  },
-  {
-    "description": "Claude Code \uc2a4\ud0ac 3\uc885 \u2014 \ud300\uc6d0\uc774 \uc77d\ub294 PR\u00b7\uc774\uc288\u00b7\ucee4\ubc0b \uae00\uc4f0\uae30, \ud300\uc6d0 PR \ub9ac\ubdf0 \uc808\ucc28, AI\uac00 \uc9e0 \ucf54\ub4dc\uc5d0 \ub300\ud55c \uc774\ud574 \ubd80\ucc44 \uc810\uac80",
-    "id": "iceberggymnast/skills",
-    "language": "PowerShell",
-    "name": "iceberggymnast/skills",
-    "stars": 0,
-    "updated_at": "2026-08-20T14:42:17Z",
-    "url": "https://github.com/iceberggymnast/skills"
   }
 ]
