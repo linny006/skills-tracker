@@ -1,12 +1,57 @@
 [
   {
-    "description": "\u0421\u043a\u0438\u043b\u043b\u044b \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0432 \u043f\u043e\u043c\u043e\u0449\u044c \u043f\u0440\u043e\u0434\u0430\u043a\u0442-\u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u0443 \u0438 \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0443",
-    "id": "MeFoDy/product-decision-skills",
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
     "language": "Python",
-    "name": "MeFoDy/product-decision-skills",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-21T23:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Free MERIT agent skills for Cursor and Codex",
+    "id": "AgentDraven/merit-agent-skills",
+    "language": "PowerShell",
+    "name": "AgentDraven/merit-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-08-21T23:44:44Z",
+    "url": "https://github.com/AgentDraven/merit-agent-skills"
+  },
+  {
+    "description": "",
+    "id": "onurseckin/skills",
+    "language": "TypeScript",
+    "name": "onurseckin/skills",
     "stars": 0,
-    "updated_at": "2026-08-21T23:43:12Z",
-    "url": "https://github.com/MeFoDy/product-decision-skills"
+    "updated_at": "2026-08-21T23:44:06Z",
+    "url": "https://github.com/onurseckin/skills"
+  },
+  {
+    "description": "",
+    "id": "ajmaher2-dev/claude-skills",
+    "language": "JavaScript",
+    "name": "ajmaher2-dev/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:44:15Z",
+    "url": "https://github.com/ajmaher2-dev/claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-21T23:43:37Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "get in loser, we're building god",
+    "id": "wildcat-finance/skills",
+    "language": "Python",
+    "name": "wildcat-finance/skills",
+    "stars": 4,
+    "updated_at": "2026-08-21T23:43:25Z",
+    "url": "https://github.com/wildcat-finance/skills"
   },
   {
     "description": "",
@@ -16,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-08-21T23:43:17Z",
     "url": "https://github.com/mr-mohamad-mr/ai-skills"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b\u043b\u044b \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0432 \u043f\u043e\u043c\u043e\u0449\u044c \u043f\u0440\u043e\u0434\u0430\u043a\u0442-\u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u0443 \u0438 \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0443",
+    "id": "MeFoDy/product-decision-skills",
+    "language": "Python",
+    "name": "MeFoDy/product-decision-skills",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:43:12Z",
+    "url": "https://github.com/MeFoDy/product-decision-skills"
   },
   {
     "description": "",
@@ -151,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T23:40:42Z",
     "url": "https://github.com/tiredThracian/thracian-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-21T23:39:38Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
@@ -342,15 +387,6 @@
     "url": "https://github.com/n0th1ng-else/agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-21T23:30:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "",
     "id": "stimulir/skills",
     "language": "Python",
@@ -358,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T23:30:25Z",
     "url": "https://github.com/stimulir/skills"
-  },
-  {
-    "description": "",
-    "id": "onurseckin/skills",
-    "language": "TypeScript",
-    "name": "onurseckin/skills",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:30:20Z",
-    "url": "https://github.com/onurseckin/skills"
   },
   {
     "description": "Agent skills that make a model report what it cannot do. root-cause forbids a causal claim without evidence; sitrep puts",
@@ -419,7 +446,7 @@
     "language": "HTML",
     "name": "stevepolitodesign/skills",
     "stars": 1,
-    "updated_at": "2026-08-21T23:43:17Z",
+    "updated_at": "2026-08-21T23:45:09Z",
     "url": "https://github.com/stevepolitodesign/skills"
   },
   {
@@ -864,15 +891,6 @@
     "url": "https://github.com/heymishy/skills-platform-val"
   },
   {
-    "description": "",
-    "id": "ajmaher2-dev/claude-skills",
-    "language": "JavaScript",
-    "name": "ajmaher2-dev/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:40:44Z",
-    "url": "https://github.com/ajmaher2-dev/claude-skills"
-  },
-  {
     "description": "Agent Skills for Claude Code, Codex, Copilot & Tabnine \u2014 one repo, every agent. Planning, ADRs-in-git, functional style,",
     "id": "MatanelGordon/skills",
     "language": "Shell",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T23:07:52Z",
     "url": "https://github.com/MatanelGordon/skills"
-  },
-  {
-    "description": "",
-    "id": "dtoebe/SKILLSandAGENTS",
-    "language": "Shell",
-    "name": "dtoebe/SKILLSandAGENTS",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:07:42Z",
-    "url": "https://github.com/dtoebe/SKILLSandAGENTS"
-  },
-  {
-    "description": "My clone repository",
-    "id": "Thopio/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "Thopio/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:07:21Z",
-    "url": "https://github.com/Thopio/skills-introduction-to-github"
   }
 ]
