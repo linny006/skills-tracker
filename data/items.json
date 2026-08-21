@@ -1,5 +1,50 @@
 [
   {
+    "description": "",
+    "id": "SamGalanakis/skills",
+    "language": "\u2014",
+    "name": "SamGalanakis/skills",
+    "stars": 3,
+    "updated_at": "2026-08-21T21:15:15Z",
+    "url": "https://github.com/SamGalanakis/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-21T21:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Home Assistant skills for agents",
+    "id": "homeassistant-ai/skills",
+    "language": "\u2014",
+    "name": "homeassistant-ai/skills",
+    "stars": 698,
+    "updated_at": "2026-08-21T21:14:50Z",
+    "url": "https://github.com/homeassistant-ai/skills"
+  },
+  {
+    "description": "Agent skills that make a model report what it cannot do. root-cause forbids a causal claim without evidence; sitrep puts",
+    "id": "openhonest/honest-skills",
+    "language": "Python",
+    "name": "openhonest/honest-skills",
+    "stars": 0,
+    "updated_at": "2026-08-21T21:14:26Z",
+    "url": "https://github.com/openhonest/honest-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-21T21:14:24Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "A curated list of awesome claude skills",
     "id": "Chat2AnyLLM/awesome-claude-skills",
     "language": "Python",
@@ -52,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-08-21T21:12:39Z",
     "url": "https://github.com/klondikemarlen/marlens-skills-rules-and-tools"
+  },
+  {
+    "description": "Claude Code skills for understanding social media",
+    "id": "scrollmark/social-skills",
+    "language": "Python",
+    "name": "scrollmark/social-skills",
+    "stars": 13,
+    "updated_at": "2026-08-21T21:12:23Z",
+    "url": "https://github.com/scrollmark/social-skills"
   },
   {
     "description": "",
@@ -261,15 +315,6 @@
     "url": "https://github.com/yortch/skills-secure-repository-supply-chain"
   },
   {
-    "description": "Agent skills that make a model report what it cannot do. root-cause forbids a causal claim without evidence; sitrep puts",
-    "id": "openhonest/honest-skills",
-    "language": "Python",
-    "name": "openhonest/honest-skills",
-    "stars": 0,
-    "updated_at": "2026-08-21T21:06:07Z",
-    "url": "https://github.com/openhonest/honest-skills"
-  },
-  {
     "description": "",
     "id": "rwilson504/agent-skills",
     "language": "PowerShell",
@@ -320,7 +365,7 @@
     "language": "Shell",
     "name": "sultanxgokce/Sx-Claude-Skills",
     "stars": 0,
-    "updated_at": "2026-08-21T21:11:08Z",
+    "updated_at": "2026-08-21T21:15:02Z",
     "url": "https://github.com/sultanxgokce/Sx-Claude-Skills"
   },
   {
@@ -405,15 +450,6 @@
     "url": "https://github.com/ChronoAIProject/nyx-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-21T21:01:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -448,15 +484,6 @@
     "stars": 24,
     "updated_at": "2026-08-21T21:02:21Z",
     "url": "https://github.com/vinnie357/claude-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-21T21:00:36Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Repository of OpenCode agent skills (Portuguese-language educational focus).",
@@ -801,15 +828,6 @@
     "url": "https://github.com/emreari/skills-release-based-workflow"
   },
   {
-    "description": "Claude Code skills for understanding social media",
-    "id": "scrollmark/social-skills",
-    "language": "Python",
-    "name": "scrollmark/social-skills",
-    "stars": 13,
-    "updated_at": "2026-08-21T21:12:23Z",
-    "url": "https://github.com/scrollmark/social-skills"
-  },
-  {
     "description": "",
     "id": "gvieira18/skills",
     "language": "HTML",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T20:48:11Z",
     "url": "https://github.com/AlexMayol/skills"
-  },
-  {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "Darriagada7/skills-github-pages",
-    "language": "\u2014",
-    "name": "Darriagada7/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:48:10Z",
-    "url": "https://github.com/Darriagada7/skills-github-pages"
-  },
-  {
-    "description": "My clone repository",
-    "id": "darelyquezada/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "darelyquezada/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:48:03Z",
-    "url": "https://github.com/darelyquezada/skills-introduction-to-github"
   }
 ]
