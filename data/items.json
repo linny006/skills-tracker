@@ -1,12 +1,93 @@
 [
   {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "saurabhd-veefin/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "saurabhd-veefin/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:16:16Z",
+    "url": "https://github.com/saurabhd-veefin/skills-introduction-to-github"
+  },
+  {
+    "description": "A curated collection of agent skills for your AI agents - engineering craft, prompt engineering, design, growth marketin",
+    "id": "mouadja02/skills",
+    "language": "Python",
+    "name": "mouadja02/skills",
+    "stars": 9,
+    "updated_at": "2026-08-21T10:16:07Z",
+    "url": "https://github.com/mouadja02/skills"
+  },
+  {
+    "description": "Exercise: GitHub Copilot Code Review",
+    "id": "harsh0124/skills-copilot-code-reviewMona",
+    "language": "\u2014",
+    "name": "harsh0124/skills-copilot-code-reviewMona",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:16:19Z",
+    "url": "https://github.com/harsh0124/skills-copilot-code-reviewMona"
+  },
+  {
+    "description": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+    "id": "maxlilleyman/skills-integrate-mcp-with-copilot",
+    "language": "\u2014",
+    "name": "maxlilleyman/skills-integrate-mcp-with-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:15:58Z",
+    "url": "https://github.com/maxlilleyman/skills-integrate-mcp-with-copilot"
+  },
+  {
+    "description": "OB \u81ea\u7528 AI Skills \u5408\u96c6\uff08monorepo\uff09| \u591a\u8bbe\u5907\u591a agent \u540c\u6b65",
+    "id": "obisoldbee/skills",
+    "language": "Python",
+    "name": "obisoldbee/skills",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:15:53Z",
+    "url": "https://github.com/obisoldbee/skills"
+  },
+  {
     "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
     "id": "avanish460/skills-scale-institutional-knowledge-using-copilot-spaces",
     "language": "\u2014",
     "name": "avanish460/skills-scale-institutional-knowledge-using-copilot-spaces",
     "stars": 0,
-    "updated_at": "2026-08-21T10:15:26Z",
+    "updated_at": "2026-08-21T10:15:48Z",
     "url": "https://github.com/avanish460/skills-scale-institutional-knowledge-using-copilot-spaces"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 24,
+    "updated_at": "2026-08-21T10:15:34Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 19,
+    "updated_at": "2026-08-21T10:15:32Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Exercise: Build applications with GitHub Copilot agent mode",
+    "id": "shadan1203-claude/skills-build-applications-w-copilot-agent-mode",
+    "language": "Shell",
+    "name": "shadan1203-claude/skills-build-applications-w-copilot-agent-mode",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:15:29Z",
+    "url": "https://github.com/shadan1203-claude/skills-build-applications-w-copilot-agent-mode"
+  },
+  {
+    "description": "Vendor-neutral OpenTelemetry skills for AI coding agents, grounded in upstream sources",
+    "id": "ollygarden/opentelemetry-agent-skills",
+    "language": "Shell",
+    "name": "ollygarden/opentelemetry-agent-skills",
+    "stars": 90,
+    "updated_at": "2026-08-21T10:15:25Z",
+    "url": "https://github.com/ollygarden/opentelemetry-agent-skills"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -18,13 +99,31 @@
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
-    "description": "Exercise: Build applications with GitHub Copilot agent mode",
-    "id": "shadan1203-claude/skills-build-applications-w-copilot-agent-mode",
-    "language": "\u2014",
-    "name": "shadan1203-claude/skills-build-applications-w-copilot-agent-mode",
+    "description": "",
+    "id": "calebweixun/skills",
+    "language": "Shell",
+    "name": "calebweixun/skills",
     "stars": 0,
-    "updated_at": "2026-08-21T10:15:29Z",
-    "url": "https://github.com/shadan1203-claude/skills-build-applications-w-copilot-agent-mode"
+    "updated_at": "2026-08-21T10:15:13Z",
+    "url": "https://github.com/calebweixun/skills"
+  },
+  {
+    "description": "Skills for engineers that care about quality and scalability. Lessons condensed from my blog articles.",
+    "id": "saschb2b/skills",
+    "language": "JavaScript",
+    "name": "saschb2b/skills",
+    "stars": 11,
+    "updated_at": "2026-08-21T10:15:12Z",
+    "url": "https://github.com/saschb2b/skills"
+  },
+  {
+    "description": "",
+    "id": "Skills-Yard/wellness-website-client",
+    "language": "TypeScript",
+    "name": "Skills-Yard/wellness-website-client",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:15:09Z",
+    "url": "https://github.com/Skills-Yard/wellness-website-client"
   },
   {
     "description": "",
@@ -50,7 +149,7 @@
     "language": "HTML",
     "name": "Yu1ocean/qi-skills",
     "stars": 0,
-    "updated_at": "2026-08-21T10:14:56Z",
+    "updated_at": "2026-08-21T10:15:34Z",
     "url": "https://github.com/Yu1ocean/qi-skills"
   },
   {
@@ -65,11 +164,20 @@
   {
     "description": "Skills that make an agent build a Figma design exactly, not approximately.",
     "id": "Kemdirimakujuobi/skills",
-    "language": "\u2014",
+    "language": "Markdown",
     "name": "Kemdirimakujuobi/skills",
     "stars": 0,
     "updated_at": "2026-08-21T10:14:45Z",
     "url": "https://github.com/Kemdirimakujuobi/skills"
+  },
+  {
+    "description": "",
+    "id": "Jermic/keai-skills",
+    "language": "Python",
+    "name": "Jermic/keai-skills",
+    "stars": 1,
+    "updated_at": "2026-08-21T10:14:35Z",
+    "url": "https://github.com/Jermic/keai-skills"
   },
   {
     "description": "  A skill-matching web app with a swipe-based interface, FastAPI + vanilla JS",
@@ -77,7 +185,7 @@
     "language": "JavaScript",
     "name": "can-yazicioglu/SkillSwap",
     "stars": 0,
-    "updated_at": "2026-08-21T10:14:21Z",
+    "updated_at": "2026-08-21T10:16:17Z",
     "url": "https://github.com/can-yazicioglu/SkillSwap"
   },
   {
@@ -171,15 +279,6 @@
     "url": "https://github.com/nrwl/polygraph-skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 24,
-    "updated_at": "2026-08-21T10:11:58Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Exercise: Expand your team with GitHub Copilot cloud agent",
     "id": "harikeshmca-hrs/skills-expand-your-team-with-copilot",
     "language": "JavaScript",
@@ -221,7 +320,7 @@
     "language": "\u2014",
     "name": "SamRosi81/skills-github-pages",
     "stars": 0,
-    "updated_at": "2026-08-21T10:11:48Z",
+    "updated_at": "2026-08-21T10:16:02Z",
     "url": "https://github.com/SamRosi81/skills-github-pages"
   },
   {
@@ -229,7 +328,7 @@
     "id": "mattpocock/skills",
     "language": "Shell",
     "name": "mattpocock/skills",
-    "stars": 227906,
+    "stars": 227908,
     "updated_at": "2026-08-21T10:11:42Z",
     "url": "https://github.com/mattpocock/skills"
   },
@@ -394,15 +493,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T10:09:39Z",
     "url": "https://github.com/tedd0120/llm_skills"
-  },
-  {
-    "description": "OB \u81ea\u7528 AI Skills \u5408\u96c6\uff08monorepo\uff09| \u591a\u8bbe\u5907\u591a agent \u540c\u6b65",
-    "id": "obisoldbee/skills",
-    "language": "Python",
-    "name": "obisoldbee/skills",
-    "stars": 0,
-    "updated_at": "2026-08-21T10:09:37Z",
-    "url": "https://github.com/obisoldbee/skills"
   },
   {
     "description": "Clean Coding and Clean Archictecture skills for Agents",
@@ -599,7 +689,7 @@
     "language": "Python",
     "name": "nickschmidt94/skills",
     "stars": 2,
-    "updated_at": "2026-08-21T10:08:16Z",
+    "updated_at": "2026-08-21T10:15:42Z",
     "url": "https://github.com/nickschmidt94/skills"
   },
   {
@@ -808,95 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T10:02:05Z",
     "url": "https://github.com/kzarzycki/agent-skills"
-  },
-  {
-    "description": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
-    "id": "lebrislo/skills-integrate-mcp-with-copilot",
-    "language": "JavaScript",
-    "name": "lebrislo/skills-integrate-mcp-with-copilot",
-    "stars": 0,
-    "updated_at": "2026-08-21T10:01:58Z",
-    "url": "https://github.com/lebrislo/skills-integrate-mcp-with-copilot"
-  },
-  {
-    "description": "",
-    "id": "imrea/skills",
-    "language": "\u2014",
-    "name": "imrea/skills",
-    "stars": 0,
-    "updated_at": "2026-08-21T10:01:40Z",
-    "url": "https://github.com/imrea/skills"
-  },
-  {
-    "description": "Repository of agent skills used within and authored by Wildcat Labs",
-    "id": "wildcat-finance/skills",
-    "language": "Python",
-    "name": "wildcat-finance/skills",
-    "stars": 4,
-    "updated_at": "2026-08-21T10:09:02Z",
-    "url": "https://github.com/wildcat-finance/skills"
-  },
-  {
-    "description": "My clone repository",
-    "id": "AdeleyeJoshua/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "AdeleyeJoshua/skills-introduction-to-github",
-    "stars": 1,
-    "updated_at": "2026-08-21T10:01:29Z",
-    "url": "https://github.com/AdeleyeJoshua/skills-introduction-to-github"
-  },
-  {
-    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
-    "id": "itkumaramrendra-spec/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "language": "\u2014",
-    "name": "itkumaramrendra-spec/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "stars": 0,
-    "updated_at": "2026-08-21T10:01:27Z",
-    "url": "https://github.com/itkumaramrendra-spec/skills-scale-institutional-knowledge-using-copilot-spaces"
-  },
-  {
-    "description": "The repo for all system/public ornn skills",
-    "id": "ChronoAIProject/nyx-skills",
-    "language": "JavaScript",
-    "name": "ChronoAIProject/nyx-skills",
-    "stars": 0,
-    "updated_at": "2026-08-21T10:01:26Z",
-    "url": "https://github.com/ChronoAIProject/nyx-skills"
-  },
-  {
-    "description": "",
-    "id": "Prakruthi408/modus-future-skills-ai",
-    "language": "Python",
-    "name": "Prakruthi408/modus-future-skills-ai",
-    "stars": 0,
-    "updated_at": "2026-08-21T10:01:17Z",
-    "url": "https://github.com/Prakruthi408/modus-future-skills-ai"
-  },
-  {
-    "description": "\u96c6\u4e2d\u7ba1\u7406\u7684 AI \u6280\u80fd",
-    "id": "sutchan/Agent-Skills-Hub",
-    "language": "Python",
-    "name": "sutchan/Agent-Skills-Hub",
-    "stars": 1,
-    "updated_at": "2026-08-21T10:01:10Z",
-    "url": "https://github.com/sutchan/Agent-Skills-Hub"
-  },
-  {
-    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
-    "id": "mdansarism/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "language": "\u2014",
-    "name": "mdansarism/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "stars": 0,
-    "updated_at": "2026-08-21T10:01:08Z",
-    "url": "https://github.com/mdansarism/skills-scale-institutional-knowledge-using-copilot-spaces"
-  },
-  {
-    "description": "A collection of Agent Skills for Rstack.",
-    "id": "rstackjs/agent-skills",
-    "language": "JavaScript",
-    "name": "rstackjs/agent-skills",
-    "stars": 87,
-    "updated_at": "2026-08-21T10:00:59Z",
-    "url": "https://github.com/rstackjs/agent-skills"
   }
 ]
