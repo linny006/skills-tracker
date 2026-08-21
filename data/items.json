@@ -1,6 +1,123 @@
 [
   {
     "description": "Exercise: Introduction to GitHub",
+    "id": "gustting/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "gustting/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-08-21T04:00:25Z",
+    "url": "https://github.com/gustting/skills-introduction-to-github"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 31,
+    "updated_at": "2026-08-21T04:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\uc4f0\ub294 \uc2a4\ud0ac \ubaa8\uc74c",
+    "id": "SwiftyJunnos/skills",
+    "language": "\u2014",
+    "name": "SwiftyJunnos/skills",
+    "stars": 0,
+    "updated_at": "2026-08-21T04:00:10Z",
+    "url": "https://github.com/SwiftyJunnos/skills"
+  },
+  {
+    "description": "Canonical source-controlled global agent skills",
+    "id": "alexmikeagent/agent-skills",
+    "language": "Python",
+    "name": "alexmikeagent/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-21T03:59:45Z",
+    "url": "https://github.com/alexmikeagent/agent-skills"
+  },
+  {
+    "description": "",
+    "id": "SigorMatt/agile-skills",
+    "language": "Python",
+    "name": "SigorMatt/agile-skills",
+    "stars": 0,
+    "updated_at": "2026-08-21T03:59:32Z",
+    "url": "https://github.com/SigorMatt/agile-skills"
+  },
+  {
+    "description": "Claude Code skills for Altium hardware design \u2014 library authoring, schematic review, PCB placement",
+    "id": "ScottJeong/altium-claude-skills",
+    "language": "Python",
+    "name": "ScottJeong/altium-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-08-21T03:59:32Z",
+    "url": "https://github.com/ScottJeong/altium-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "mono-koto/skills",
+    "language": "\u2014",
+    "name": "mono-koto/skills",
+    "stars": 0,
+    "updated_at": "2026-08-21T03:59:25Z",
+    "url": "https://github.com/mono-koto/skills"
+  },
+  {
+    "description": "",
+    "id": "uulab-official/appstore-skills",
+    "language": "Python",
+    "name": "uulab-official/appstore-skills",
+    "stars": 0,
+    "updated_at": "2026-08-21T03:59:16Z",
+    "url": "https://github.com/uulab-official/appstore-skills"
+  },
+  {
+    "description": "Open, platform-agnostic prompt skills for AI coding agents.",
+    "id": "freeasinbird/free-skills",
+    "language": "Shell",
+    "name": "freeasinbird/free-skills",
+    "stars": 1,
+    "updated_at": "2026-08-21T03:59:05Z",
+    "url": "https://github.com/freeasinbird/free-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 19,
+    "updated_at": "2026-08-21T03:59:00Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "markkj/skills",
+    "language": "Shell",
+    "name": "markkj/skills",
+    "stars": 3,
+    "updated_at": "2026-08-21T03:59:00Z",
+    "url": "https://github.com/markkj/skills"
+  },
+  {
+    "description": "",
+    "id": "Varuj-Lim/AE49_ClaudeSkills",
+    "language": "PowerShell",
+    "name": "Varuj-Lim/AE49_ClaudeSkills",
+    "stars": 0,
+    "updated_at": "2026-08-21T03:58:56Z",
+    "url": "https://github.com/Varuj-Lim/AE49_ClaudeSkills"
+  },
+  {
+    "description": "",
+    "id": "andreiGl/andrei-agentic-ai-skills",
+    "language": "HTML",
+    "name": "andreiGl/andrei-agentic-ai-skills",
+    "stars": 0,
+    "updated_at": "2026-08-21T03:58:41Z",
+    "url": "https://github.com/andreiGl/andrei-agentic-ai-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
     "id": "Diego-Hernandez-Vazquez/skills-introduction-to-github",
     "language": "\u2014",
     "name": "Diego-Hernandez-Vazquez/skills-introduction-to-github",
@@ -34,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-08-21T03:58:07Z",
     "url": "https://github.com/soia-team/soia-open-pkm-vault-skills"
-  },
-  {
-    "description": "",
-    "id": "SigorMatt/agile-skills",
-    "language": "Python",
-    "name": "SigorMatt/agile-skills",
-    "stars": 0,
-    "updated_at": "2026-08-21T03:57:59Z",
-    "url": "https://github.com/SigorMatt/agile-skills"
   },
   {
     "description": "MKT skills",
@@ -153,15 +261,6 @@
     "url": "https://github.com/StanleyChanH/Agnes_skills"
   },
   {
-    "description": "",
-    "id": "andreiGl/andrei-agentic-ai-skills",
-    "language": "HTML",
-    "name": "andreiGl/andrei-agentic-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-08-21T03:58:41Z",
-    "url": "https://github.com/andreiGl/andrei-agentic-ai-skills"
-  },
-  {
     "description": "repertoire of skills I use",
     "id": "IshanAtScryptid/skills",
     "language": "Python",
@@ -232,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T03:54:59Z",
     "url": "https://github.com/seetheworldwithme/memory_skills"
-  },
-  {
-    "description": "",
-    "id": "uulab-official/appstore-skills",
-    "language": "Python",
-    "name": "uulab-official/appstore-skills",
-    "stars": 0,
-    "updated_at": "2026-08-21T03:54:55Z",
-    "url": "https://github.com/uulab-official/appstore-skills"
   },
   {
     "description": "",
@@ -367,15 +457,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T03:53:16Z",
     "url": "https://github.com/devlive-community/skills"
-  },
-  {
-    "description": "",
-    "id": "Varuj-Lim/AE49_ClaudeSkills",
-    "language": "PowerShell",
-    "name": "Varuj-Lim/AE49_ClaudeSkills",
-    "stars": 0,
-    "updated_at": "2026-08-21T03:58:56Z",
-    "url": "https://github.com/Varuj-Lim/AE49_ClaudeSkills"
   },
   {
     "description": "Personal skills repository and deployment toolkit for AI coding CLIs.",
@@ -538,15 +619,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T03:49:50Z",
     "url": "https://github.com/oddsnipe22-byte/Skills"
-  },
-  {
-    "description": "Claude Code skills for Altium hardware design \u2014 library authoring, schematic review, PCB placement",
-    "id": "ScottJeong/altium-claude-skills",
-    "language": "Python",
-    "name": "ScottJeong/altium-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-08-21T03:49:41Z",
-    "url": "https://github.com/ScottJeong/altium-claude-skills"
   },
   {
     "description": "",
@@ -747,15 +819,6 @@
     "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 19,
-    "updated_at": "2026-08-21T03:45:33Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -783,15 +846,6 @@
     "url": "https://github.com/Starchild-ai-agent/official-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 31,
-    "updated_at": "2026-08-21T03:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "",
     "id": "hunter385/My-skills-",
     "language": "HTML",
@@ -806,7 +860,7 @@
     "language": "TypeScript",
     "name": "skillswap-ssd/Skillswap",
     "stars": 1,
-    "updated_at": "2026-08-21T03:44:41Z",
+    "updated_at": "2026-08-21T03:59:17Z",
     "url": "https://github.com/skillswap-ssd/Skillswap"
   },
   {
@@ -844,59 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T03:44:19Z",
     "url": "https://github.com/GoalfyAI/scene-creator-skills"
-  },
-  {
-    "description": "Company skill registry (probe r2) - shared Claude Code skills",
-    "id": "tranfu-labs/tranfu-skills",
-    "language": "JavaScript",
-    "name": "tranfu-labs/tranfu-skills",
-    "stars": 2,
-    "updated_at": "2026-08-21T03:44:10Z",
-    "url": "https://github.com/tranfu-labs/tranfu-skills"
-  },
-  {
-    "description": "Exercise: Agentic Workflows That Read the Room",
-    "id": "Raamesh-Bhardwaj-UST/skills-agentic-workflows-that-read-the-room",
-    "language": "Astro",
-    "name": "Raamesh-Bhardwaj-UST/skills-agentic-workflows-that-read-the-room",
-    "stars": 0,
-    "updated_at": "2026-08-21T03:44:00Z",
-    "url": "https://github.com/Raamesh-Bhardwaj-UST/skills-agentic-workflows-that-read-the-room"
-  },
-  {
-    "description": "Personal capability center: reusable skills for Hermes agent (and any MCP-capable agent). Self-hosted skill hub.",
-    "id": "Tania-X/skills-hub",
-    "language": "Python",
-    "name": "Tania-X/skills-hub",
-    "stars": 0,
-    "updated_at": "2026-08-21T03:43:59Z",
-    "url": "https://github.com/Tania-X/skills-hub"
-  },
-  {
-    "description": "",
-    "id": "houx15/platform-course-skills",
-    "language": "Python",
-    "name": "houx15/platform-course-skills",
-    "stars": 0,
-    "updated_at": "2026-08-21T03:43:50Z",
-    "url": "https://github.com/houx15/platform-course-skills"
-  },
-  {
-    "description": "\uae30\ud68d, \uc124\uacc4\ub97c \uc704\ud55c Skillset \ubaa8\uc74c \ubc0f \ud65c\uc6a9 \ud504\ub85c\uadf8\ub7a8",
-    "id": "blovenee-sudo/Skillset",
-    "language": "HTML",
-    "name": "blovenee-sudo/Skillset",
-    "stars": 0,
-    "updated_at": "2026-08-21T03:43:35Z",
-    "url": "https://github.com/blovenee-sudo/Skillset"
-  },
-  {
-    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
-    "id": "janeilagan/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "language": "\u2014",
-    "name": "janeilagan/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "stars": 0,
-    "updated_at": "2026-08-21T03:56:23Z",
-    "url": "https://github.com/janeilagan/skills-scale-institutional-knowledge-using-copilot-spaces"
   }
 ]
