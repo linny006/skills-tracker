@@ -1,12 +1,21 @@
 [
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-22T07:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "",
+    "id": "almoghr/fullstack-nestjs-react-skills",
+    "language": "Shell",
+    "name": "almoghr/fullstack-nestjs-react-skills",
+    "stars": 0,
+    "updated_at": "2026-08-22T07:16:42Z",
+    "url": "https://github.com/almoghr/fullstack-nestjs-react-skills"
+  },
+  {
+    "description": "B4XDaisyUIKit Skills to create native DaisyUI android UIs",
+    "id": "Mashiane/B4XDaisyUIKit-Skills",
+    "language": "PowerShell",
+    "name": "Mashiane/B4XDaisyUIKit-Skills",
+    "stars": 0,
+    "updated_at": "2026-08-22T07:16:34Z",
+    "url": "https://github.com/Mashiane/B4XDaisyUIKit-Skills"
   },
   {
     "description": "Skills and commands to improve your workflow with Boole",
@@ -14,8 +23,62 @@
     "language": "\u2014",
     "name": "boole-ai/boole-code-skills",
     "stars": 0,
-    "updated_at": "2026-08-22T07:15:10Z",
+    "updated_at": "2026-08-22T07:16:23Z",
     "url": "https://github.com/boole-ai/boole-code-skills"
+  },
+  {
+    "description": "Portable Agent Skills by Kadoppe for Claude Code, Codex, and Hermes Agent.",
+    "id": "kadoppe/kadoppe-agent-skills",
+    "language": "Python",
+    "name": "kadoppe/kadoppe-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-22T07:16:13Z",
+    "url": "https://github.com/kadoppe/kadoppe-agent-skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "star-investigator/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "star-investigator/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-22T07:16:06Z",
+    "url": "https://github.com/star-investigator/skills-introduction-to-git"
+  },
+  {
+    "description": "Skills platform validation working instance \u2014 2nd team",
+    "id": "heymishy/skills-platform-val",
+    "language": "JavaScript",
+    "name": "heymishy/skills-platform-val",
+    "stars": 0,
+    "updated_at": "2026-08-22T07:15:58Z",
+    "url": "https://github.com/heymishy/skills-platform-val"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 25,
+    "updated_at": "2026-08-22T07:15:32Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-22T07:15:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-22T07:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Install and auto-update an opinionated Agent Skills pack across Claude Code, Codex, Pi, Amp, and Cursor",
@@ -230,7 +293,7 @@
     "language": "\u2014",
     "name": "lokianand861/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-08-22T07:13:09Z",
+    "updated_at": "2026-08-22T07:16:53Z",
     "url": "https://github.com/lokianand861/skills-introduction-to-github"
   },
   {
@@ -329,7 +392,7 @@
     "language": "C#",
     "name": "ruu-dotcom/skills-secure-repository-supply-chain",
     "stars": 0,
-    "updated_at": "2026-08-22T07:08:46Z",
+    "updated_at": "2026-08-22T07:16:07Z",
     "url": "https://github.com/ruu-dotcom/skills-secure-repository-supply-chain"
   },
   {
@@ -491,7 +554,7 @@
     "language": "Shell",
     "name": "okayus/okayus-skills",
     "stars": 0,
-    "updated_at": "2026-08-22T07:05:22Z",
+    "updated_at": "2026-08-22T07:16:48Z",
     "url": "https://github.com/okayus/okayus-skills"
   },
   {
@@ -707,7 +770,7 @@
     "language": "JavaScript",
     "name": "deepayan-choudhury88/skills-getting-started-with-github-copilot",
     "stars": 0,
-    "updated_at": "2026-08-22T07:01:21Z",
+    "updated_at": "2026-08-22T07:16:55Z",
     "url": "https://github.com/deepayan-choudhury88/skills-getting-started-with-github-copilot"
   },
   {
@@ -745,24 +808,6 @@
     "stars": 70,
     "updated_at": "2026-08-22T07:01:03Z",
     "url": "https://github.com/PaulRBerg/agent-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 25,
-    "updated_at": "2026-08-22T07:00:33Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-22T07:00:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T06:58:53Z",
     "url": "https://github.com/KAMBAR-NARASIMHA/shell-skills"
-  },
-  {
-    "description": "These are my skills",
-    "id": "corygabrielsen/skills",
-    "language": "Rust",
-    "name": "corygabrielsen/skills",
-    "stars": 1,
-    "updated_at": "2026-08-22T06:58:53Z",
-    "url": "https://github.com/corygabrielsen/skills"
-  },
-  {
-    "description": "Agent skills for Unity/C# development and review \u2014 distributed via APM",
-    "id": "bigdra50/skills",
-    "language": "HTML",
-    "name": "bigdra50/skills",
-    "stars": 0,
-    "updated_at": "2026-08-22T06:58:27Z",
-    "url": "https://github.com/bigdra50/skills"
-  },
-  {
-    "description": "#Start to hack for AI\uff0cbro\uff01\uff01\uff01",
-    "id": "SurrealSky/hack_skills",
-    "language": "\u2014",
-    "name": "SurrealSky/hack_skills",
-    "stars": 2,
-    "updated_at": "2026-08-22T06:57:47Z",
-    "url": "https://github.com/SurrealSky/hack_skills"
-  },
-  {
-    "description": "Open-source PPT generation skills: themed, CJK-aware, editable PPTX decks via PptxGenJS.",
-    "id": "CacinieP/ppt-skills",
-    "language": "JavaScript",
-    "name": "CacinieP/ppt-skills",
-    "stars": 5,
-    "updated_at": "2026-08-22T06:57:45Z",
-    "url": "https://github.com/CacinieP/ppt-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "anish20072603-ai/skills-introduction-to-github-2-",
-    "language": "\u2014",
-    "name": "anish20072603-ai/skills-introduction-to-github-2-",
-    "stars": 0,
-    "updated_at": "2026-08-22T06:57:35Z",
-    "url": "https://github.com/anish20072603-ai/skills-introduction-to-github-2-"
   }
 ]
