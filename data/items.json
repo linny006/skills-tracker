@@ -1,5 +1,86 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-22T13:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A curated AI skill pack for Codex/Cursor, with reusable SKILL.md workflows for research, coding, and documentation autom",
+    "id": "YuukiAS/AI_Skills_Collection",
+    "language": "Python",
+    "name": "YuukiAS/AI_Skills_Collection",
+    "stars": 1,
+    "updated_at": "2026-08-22T13:00:14Z",
+    "url": "https://github.com/YuukiAS/AI_Skills_Collection"
+  },
+  {
+    "description": "",
+    "id": "cameri/skills",
+    "language": "TypeScript",
+    "name": "cameri/skills",
+    "stars": 0,
+    "updated_at": "2026-08-22T12:59:57Z",
+    "url": "https://github.com/cameri/skills"
+  },
+  {
+    "description": "Exercise: Build applications with GitHub Copilot agent mode",
+    "id": "SHURIKA6/skills-build-applications-w-copilot-agent-mode",
+    "language": "Shell",
+    "name": "SHURIKA6/skills-build-applications-w-copilot-agent-mode",
+    "stars": 0,
+    "updated_at": "2026-08-22T12:59:43Z",
+    "url": "https://github.com/SHURIKA6/skills-build-applications-w-copilot-agent-mode"
+  },
+  {
+    "description": "",
+    "id": "rehan-mehmood-tech/Skill-Forge-AI-Powered-Student-Skills-and-Career-Development-Platform",
+    "language": "TypeScript",
+    "name": "rehan-mehmood-tech/Skill-Forge-AI-Powered-Student-Skills-and-Career-Development-Platform",
+    "stars": 0,
+    "updated_at": "2026-08-22T12:59:09Z",
+    "url": "https://github.com/rehan-mehmood-tech/Skill-Forge-AI-Powered-Student-Skills-and-Career-Development-Platform"
+  },
+  {
+    "description": "lifedever's Claude Code skills \u2014 macOS dev utilities, debug workflows, icon generation, localization, system diagnostics",
+    "id": "lifedever/skills-plugin",
+    "language": "Shell",
+    "name": "lifedever/skills-plugin",
+    "stars": 11,
+    "updated_at": "2026-08-22T12:59:03Z",
+    "url": "https://github.com/lifedever/skills-plugin"
+  },
+  {
+    "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
+    "id": "phuati/claude-skills-arsenal",
+    "language": "HTML",
+    "name": "phuati/claude-skills-arsenal",
+    "stars": 1,
+    "updated_at": "2026-08-22T12:58:58Z",
+    "url": "https://github.com/phuati/claude-skills-arsenal"
+  },
+  {
+    "description": "",
+    "id": "beserb/skills",
+    "language": "\u2014",
+    "name": "beserb/skills",
+    "stars": 0,
+    "updated_at": "2026-08-22T12:58:58Z",
+    "url": "https://github.com/beserb/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-22T12:58:11Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Hermes \u6280\u80fd\u5408\u96c6 (Hermes Agent skills collection)",
     "id": "hon25nan/hermes-skills",
     "language": "\u2014",
@@ -27,6 +108,15 @@
     "url": "https://github.com/anzchy/skills"
   },
   {
+    "description": "My clone repository",
+    "id": "MattilaHenriRS/skills-code-with-codespaces",
+    "language": "Python",
+    "name": "MattilaHenriRS/skills-code-with-codespaces",
+    "stars": 0,
+    "updated_at": "2026-08-22T12:57:33Z",
+    "url": "https://github.com/MattilaHenriRS/skills-code-with-codespaces"
+  },
+  {
     "description": "Protect your code with automated testing",
     "id": "akin124-droid/skills-test-with-actions",
     "language": "Python",
@@ -52,6 +142,15 @@
     "stars": 4,
     "updated_at": "2026-08-22T12:57:06Z",
     "url": "https://github.com/zeyuyuyu/router-skills-evolve"
+  },
+  {
+    "description": "Claude Code and Codex skills for Australian public-practice workflows. Not lodgment.",
+    "id": "ryanduguid/australian-accounting-skills",
+    "language": "Python",
+    "name": "ryanduguid/australian-accounting-skills",
+    "stars": 1,
+    "updated_at": "2026-08-22T12:57:04Z",
+    "url": "https://github.com/ryanduguid/australian-accounting-skills"
   },
   {
     "description": "\u4e2a\u4eba skills \u96c6\u5408",
@@ -82,30 +181,12 @@
   },
   {
     "description": "",
-    "id": "cameri/skills",
-    "language": "TypeScript",
-    "name": "cameri/skills",
-    "stars": 0,
-    "updated_at": "2026-08-22T12:55:49Z",
-    "url": "https://github.com/cameri/skills"
-  },
-  {
-    "description": "",
     "id": "pavanlaghuvarapu/capgemini_backend_skillsync_project",
     "language": "Java",
     "name": "pavanlaghuvarapu/capgemini_backend_skillsync_project",
     "stars": 0,
     "updated_at": "2026-08-22T12:55:36Z",
     "url": "https://github.com/pavanlaghuvarapu/capgemini_backend_skillsync_project"
-  },
-  {
-    "description": "lifedever's Claude Code skills \u2014 macOS dev utilities, debug workflows, icon generation, localization, system diagnostics",
-    "id": "lifedever/skills-plugin",
-    "language": "Shell",
-    "name": "lifedever/skills-plugin",
-    "stars": 11,
-    "updated_at": "2026-08-22T12:55:14Z",
-    "url": "https://github.com/lifedever/skills-plugin"
   },
   {
     "description": "Exercise: Secure your Repository Supply Chain",
@@ -151,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T12:55:25Z",
     "url": "https://github.com/maneja81/claude-skills"
-  },
-  {
-    "description": "",
-    "id": "beserb/skills",
-    "language": "\u2014",
-    "name": "beserb/skills",
-    "stars": 0,
-    "updated_at": "2026-08-22T12:54:01Z",
-    "url": "https://github.com/beserb/skills"
   },
   {
     "description": "Skills manager for AI coding agents",
@@ -225,15 +297,6 @@
     "url": "https://github.com/duckysmacky/skills"
   },
   {
-    "description": "Claude Code and Codex skills for Australian public-practice workflows. Not lodgment.",
-    "id": "ryanduguid/australian-accounting-skills",
-    "language": "Python",
-    "name": "ryanduguid/australian-accounting-skills",
-    "stars": 1,
-    "updated_at": "2026-08-22T12:57:04Z",
-    "url": "https://github.com/ryanduguid/australian-accounting-skills"
-  },
-  {
     "description": "",
     "id": "sibson/agent-skills",
     "language": "Python",
@@ -266,7 +329,7 @@
     "language": "\u2014",
     "name": "stj-m/skills-hello-github-actions",
     "stars": 0,
-    "updated_at": "2026-08-22T12:57:06Z",
+    "updated_at": "2026-08-22T12:59:05Z",
     "url": "https://github.com/stj-m/skills-hello-github-actions"
   },
   {
@@ -284,7 +347,7 @@
     "language": "Python",
     "name": "ed3c/skills-shared",
     "stars": 0,
-    "updated_at": "2026-08-22T12:56:41Z",
+    "updated_at": "2026-08-22T12:58:58Z",
     "url": "https://github.com/ed3c/skills-shared"
   },
   {
@@ -331,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T12:50:53Z",
     "url": "https://github.com/xiaoqianran/mygpt-cf-tunnel-skills"
-  },
-  {
-    "description": "",
-    "id": "rehan-mehmood-tech/Skill-Forge-AI-Powered-Student-Skills-and-Career-Development-Platform",
-    "language": "TypeScript",
-    "name": "rehan-mehmood-tech/Skill-Forge-AI-Powered-Student-Skills-and-Career-Development-Platform",
-    "stars": 0,
-    "updated_at": "2026-08-22T12:50:40Z",
-    "url": "https://github.com/rehan-mehmood-tech/Skill-Forge-AI-Powered-Student-Skills-and-Career-Development-Platform"
   },
   {
     "description": "A developer network for students to showcase projects, skills, and achievements.",
@@ -430,15 +484,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T12:48:17Z",
     "url": "https://github.com/sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker"
-  },
-  {
-    "description": "My clone repository",
-    "id": "MattilaHenriRS/skills-code-with-codespaces",
-    "language": "Python",
-    "name": "MattilaHenriRS/skills-code-with-codespaces",
-    "stars": 0,
-    "updated_at": "2026-08-22T12:57:33Z",
-    "url": "https://github.com/MattilaHenriRS/skills-code-with-codespaces"
   },
   {
     "description": "agent skills",
@@ -567,15 +612,6 @@
     "url": "https://github.com/avivsinai/skills-marketplace"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-22T12:45:36Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Claude Code\u00b7Codex\uc6a9 \uc2e4\uc804 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \uc2a4\ud0ac \ud5c8\ube0c \u2014 mattpocock/skills 1.2.3 \ub3d9\uae30\ud654",
     "id": "sodam3156/Skills_for_AwesomeAI",
     "language": "Shell",
@@ -621,21 +657,12 @@
     "url": "https://github.com/oubuild/skills-manager"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-22T12:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Shared agent skills for Codex, Claude, Cursor, and Antigravity",
     "id": "nfma/agent-skills",
     "language": "Python",
     "name": "nfma/agent-skills",
     "stars": 0,
-    "updated_at": "2026-08-22T12:57:47Z",
+    "updated_at": "2026-08-22T12:59:46Z",
     "url": "https://github.com/nfma/agent-skills"
   },
   {
@@ -689,7 +716,7 @@
     "language": "JavaScript",
     "name": "reopt-ai/reopt-skills",
     "stars": 1,
-    "updated_at": "2026-08-22T12:42:27Z",
+    "updated_at": "2026-08-22T12:59:40Z",
     "url": "https://github.com/reopt-ai/reopt-skills"
   },
   {
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T12:36:44Z",
     "url": "https://github.com/sonsu-lee/skills"
-  },
-  {
-    "description": "voice-builder",
-    "id": "weddingnote26-glitch/https-github.com-charlie947-social-media-skills-tree-main-skills-voice-builder",
-    "language": "Python",
-    "name": "weddingnote26-glitch/https-github.com-charlie947-social-media-skills-tree-main-skills-voice-builder",
-    "stars": 0,
-    "updated_at": "2026-08-22T12:36:35Z",
-    "url": "https://github.com/weddingnote26-glitch/https-github.com-charlie947-social-media-skills-tree-main-skills-voice-builder"
-  },
-  {
-    "description": "My clone repository",
-    "id": "topeogunleye/skills-copilot-codespaces-vscode",
-    "language": "\u2014",
-    "name": "topeogunleye/skills-copilot-codespaces-vscode",
-    "stars": 0,
-    "updated_at": "2026-08-22T12:36:24Z",
-    "url": "https://github.com/topeogunleye/skills-copilot-codespaces-vscode"
-  },
-  {
-    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
-    "id": "an15hgupta/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "language": "\u2014",
-    "name": "an15hgupta/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "stars": 0,
-    "updated_at": "2026-08-22T12:35:22Z",
-    "url": "https://github.com/an15hgupta/skills-scale-institutional-knowledge-using-copilot-spaces"
   }
 ]
