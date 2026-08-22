@@ -1,5 +1,23 @@
 [
   {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 25,
+    "updated_at": "2026-08-22T08:45:28Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-22T08:45:26Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "",
     "id": "heymishy/skills-repo",
     "language": "JavaScript",
@@ -25,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-08-22T08:44:59Z",
     "url": "https://github.com/Goodnessmbakara/codex-skills"
+  },
+  {
+    "description": "",
+    "id": "joegoldin/agent-skills",
+    "language": "JavaScript",
+    "name": "joegoldin/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-08-22T08:44:54Z",
+    "url": "https://github.com/joegoldin/agent-skills"
   },
   {
     "description": "\u5ba2\u88fdSKILL for Job or personal",
@@ -612,24 +639,6 @@
     "url": "https://github.com/deephanson94/claude-skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 25,
-    "updated_at": "2026-08-22T08:30:34Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-22T08:30:33Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Cyber Yoshi SKILLS",
     "id": "yoshi-ortiz/cyber-skills",
     "language": "Python",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T08:23:34Z",
     "url": "https://github.com/QuestionPilot/authored-skills"
-  },
-  {
-    "description": "",
-    "id": "YU4Cyan/YuCyan-Skills",
-    "language": "\u2014",
-    "name": "YU4Cyan/YuCyan-Skills",
-    "stars": 0,
-    "updated_at": "2026-08-22T08:27:32Z",
-    "url": "https://github.com/YU4Cyan/YuCyan-Skills"
   }
 ]
