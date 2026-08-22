@@ -1,5 +1,23 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-22T05:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-22T05:14:57Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "You can use the following description for your repository:  > Actionable study guides, checklists, and learning resource",
     "id": "doonvalleyhighschool80-prog/doon-valley-study-skills",
     "language": "\u2014",
@@ -7,6 +25,15 @@
     "stars": 0,
     "updated_at": "2026-08-22T05:14:44Z",
     "url": "https://github.com/doonvalleyhighschool80-prog/doon-valley-study-skills"
+  },
+  {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "QA-Shivam/skills-github-pages",
+    "language": "\u2014",
+    "name": "QA-Shivam/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-08-22T05:14:41Z",
+    "url": "https://github.com/QA-Shivam/skills-github-pages"
   },
   {
     "description": "",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T05:12:58Z",
     "url": "https://github.com/Angel20040127/skills-introduction-to-github"
-  },
-  {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "QA-Shivam/skills-github-pages",
-    "language": "\u2014",
-    "name": "QA-Shivam/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-08-22T05:14:41Z",
-    "url": "https://github.com/QA-Shivam/skills-github-pages"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -430,24 +448,6 @@
     "stars": 25,
     "updated_at": "2026-08-22T05:00:37Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-22T05:00:36Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-22T05:00:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source Agent Skills for Claude Code and Codex: Full Send orchestration, A-F code review, AI evals, CI gates, design",
