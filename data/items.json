@@ -1,5 +1,86 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-22T00:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "wpschaub/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "wpschaub/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:59:52Z",
+    "url": "https://github.com/wpschaub/skills-introduction-to-git"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "Cassandra36/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "Cassandra36/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:59:52Z",
+    "url": "https://github.com/Cassandra36/skills-introduction-to-github"
+  },
+  {
+    "description": "",
+    "id": "consultrevops/GTM-Skills",
+    "language": "\u2014",
+    "name": "consultrevops/GTM-Skills",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:59:33Z",
+    "url": "https://github.com/consultrevops/GTM-Skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "LanaCutter/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "LanaCutter/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:59:30Z",
+    "url": "https://github.com/LanaCutter/skills-introduction-to-git"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 25,
+    "updated_at": "2026-08-21T23:59:26Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "skills to teach coding agents how to use neosigma products",
+    "id": "neosigmaai/skills",
+    "language": "\u2014",
+    "name": "neosigmaai/skills",
+    "stars": 1,
+    "updated_at": "2026-08-21T23:58:57Z",
+    "url": "https://github.com/neosigmaai/skills"
+  },
+  {
+    "description": "Claude Code plugins: design-bundle mapping and as-built documentation (atlas), codebase and docs review (review), and a ",
+    "id": "hhauer/skills",
+    "language": "Python",
+    "name": "hhauer/skills",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:58:15Z",
+    "url": "https://github.com/hhauer/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-21T23:58:14Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "",
     "id": "Redefine-Reach/advisor-reach-hermes-skills",
     "language": "HTML",
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "openhonest/honest-skills",
     "stars": 0,
-    "updated_at": "2026-08-21T23:57:17Z",
+    "updated_at": "2026-08-22T00:00:24Z",
     "url": "https://github.com/openhonest/honest-skills"
   },
   {
@@ -61,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-08-21T23:56:19Z",
     "url": "https://github.com/yuanying/skills"
+  },
+  {
+    "description": "Skills based on concepts from the book A Philosophy Of Software Design by John Ousterhout",
+    "id": "hkvalheim/apsd-skills",
+    "language": "Python",
+    "name": "hkvalheim/apsd-skills",
+    "stars": 1,
+    "updated_at": "2026-08-21T23:56:07Z",
+    "url": "https://github.com/hkvalheim/apsd-skills"
   },
   {
     "description": "Exercise: Agent Orchestration: Build Your AI Dream Team",
@@ -86,7 +176,7 @@
     "language": "\u2014",
     "name": "stellaazevedodev/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-08-21T23:55:54Z",
+    "updated_at": "2026-08-21T23:59:23Z",
     "url": "https://github.com/stellaazevedodev/skills-introduction-to-github"
   },
   {
@@ -115,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T23:55:15Z",
     "url": "https://github.com/gloriankosi/agent-dev-skills-workshop-gloriankosi"
-  },
-  {
-    "description": "",
-    "id": "consultrevops/GTM-Skills",
-    "language": "\u2014",
-    "name": "consultrevops/GTM-Skills",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:54:33Z",
-    "url": "https://github.com/consultrevops/GTM-Skills"
   },
   {
     "description": "",
@@ -239,7 +320,7 @@
     "language": "C#",
     "name": "dotnet/skills",
     "stars": 5215,
-    "updated_at": "2026-08-21T23:49:51Z",
+    "updated_at": "2026-08-21T23:59:53Z",
     "url": "https://github.com/dotnet/skills"
   },
   {
@@ -277,33 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T23:46:43Z",
     "url": "https://github.com/mikelneonedwin/skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 25,
-    "updated_at": "2026-08-21T23:45:32Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-21T23:45:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-21T23:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Personal agent skills distributed via APM",
@@ -635,7 +689,7 @@
     "language": "Python",
     "name": "jscraik/Agent-Skills",
     "stars": 8,
-    "updated_at": "2026-08-21T23:39:27Z",
+    "updated_at": "2026-08-21T23:59:50Z",
     "url": "https://github.com/jscraik/Agent-Skills"
   },
   {
@@ -844,59 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T23:21:45Z",
     "url": "https://github.com/bjesuiter/skills"
-  },
-  {
-    "description": "My agent skills",
-    "id": "tyom/skills",
-    "language": "HTML",
-    "name": "tyom/skills",
-    "stars": 1,
-    "updated_at": "2026-08-21T23:21:43Z",
-    "url": "https://github.com/tyom/skills"
-  },
-  {
-    "description": "Skills I wrote for Claude. Published from a private working library.",
-    "id": "LarrySequino/skills",
-    "language": "Python",
-    "name": "LarrySequino/skills",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:21:20Z",
-    "url": "https://github.com/LarrySequino/skills"
-  },
-  {
-    "description": "Community registry for bash commands/aliases and LLM skills (Claude, Copilot)",
-    "id": "atinseau/oh-my-skills",
-    "language": "TypeScript",
-    "name": "atinseau/oh-my-skills",
-    "stars": 1,
-    "updated_at": "2026-08-21T23:21:17Z",
-    "url": "https://github.com/atinseau/oh-my-skills"
-  },
-  {
-    "description": "A centralized library of reusable, project-agnostic Markdown skills for LLM coding agents.",
-    "id": "BTreeMap/SKILLs",
-    "language": "Python",
-    "name": "BTreeMap/SKILLs",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:21:16Z",
-    "url": "https://github.com/BTreeMap/SKILLs"
-  },
-  {
-    "description": "",
-    "id": "chenxin-yan/skills",
-    "language": "\u2014",
-    "name": "chenxin-yan/skills",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:19:59Z",
-    "url": "https://github.com/chenxin-yan/skills"
-  },
-  {
-    "description": "Agent skills for decisions under uncertainty, plus the evaluation harness that measures them: pre-registered predictions",
-    "id": "AngelCampa1/decision-making-skills",
-    "language": "Python",
-    "name": "AngelCampa1/decision-making-skills",
-    "stars": 1,
-    "updated_at": "2026-08-21T23:24:49Z",
-    "url": "https://github.com/AngelCampa1/decision-making-skills"
   }
 ]
