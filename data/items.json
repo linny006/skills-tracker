@@ -1,5 +1,50 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-23T06:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "SarayuVegesna/skills-getting-started-with-github-copilot",
+    "language": "JavaScript",
+    "name": "SarayuVegesna/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-23T06:00:00Z",
+    "url": "https://github.com/SarayuVegesna/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "tr3mandy/skills-getting-started-with-github-copilot",
+    "language": "Python",
+    "name": "tr3mandy/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-23T05:59:46Z",
+    "url": "https://github.com/tr3mandy/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-23T05:59:38Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "svradoll/skills-github-pages",
+    "language": "HTML",
+    "name": "svradoll/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-08-23T05:59:37Z",
+    "url": "https://github.com/svradoll/skills-github-pages"
+  },
+  {
     "description": "Claude Code workflow skills \u2014 GitHub issue/PR/release automation and Fable-driven planning. Install via npx or as a Clau",
     "id": "richkuo/rk-skills",
     "language": "JavaScript",
@@ -27,13 +72,13 @@
     "url": "https://github.com/jonhill90/skills"
   },
   {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "tr3mandy/skills-getting-started-with-github-copilot",
-    "language": "Python",
-    "name": "tr3mandy/skills-getting-started-with-github-copilot",
+    "description": "",
+    "id": "sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker",
+    "language": "JavaScript",
+    "name": "sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker",
     "stars": 0,
-    "updated_at": "2026-08-23T05:59:17Z",
-    "url": "https://github.com/tr3mandy/skills-getting-started-with-github-copilot"
+    "updated_at": "2026-08-23T05:59:19Z",
+    "url": "https://github.com/sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker"
   },
   {
     "description": "Most beloved agent skills used in hourly work done by me",
@@ -43,6 +88,15 @@
     "stars": 1,
     "updated_at": "2026-08-23T05:59:15Z",
     "url": "https://github.com/yhyu13/AgentSkillsVault"
+  },
+  {
+    "description": "AI agent skills repo",
+    "id": "tteschon/skills",
+    "language": "Python",
+    "name": "tteschon/skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T05:59:14Z",
+    "url": "https://github.com/tteschon/skills"
   },
   {
     "description": "My clone repository",
@@ -135,21 +189,12 @@
     "url": "https://github.com/muhammadabdullahpk289-lab/deep-skills-website-full"
   },
   {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "svradoll/skills-github-pages",
-    "language": "HTML",
-    "name": "svradoll/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-08-23T05:59:24Z",
-    "url": "https://github.com/svradoll/skills-github-pages"
-  },
-  {
     "description": "Exercise: Communicate using Markdown",
     "id": "anacllaraxy/skills-communicate-using-markdown",
     "language": "\u2014",
     "name": "anacllaraxy/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-08-23T05:58:02Z",
+    "updated_at": "2026-08-23T06:00:02Z",
     "url": "https://github.com/anacllaraxy/skills-communicate-using-markdown"
   },
   {
@@ -239,7 +284,7 @@
     "language": "HTML",
     "name": "jarixhew-bit/skills-github-pages",
     "stars": 0,
-    "updated_at": "2026-08-23T05:57:58Z",
+    "updated_at": "2026-08-23T05:59:46Z",
     "url": "https://github.com/jarixhew-bit/skills-github-pages"
   },
   {
@@ -495,15 +540,6 @@
     "url": "https://github.com/AgenticTimes/SystemDesignSkills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-23T05:47:35Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -619,15 +655,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T05:45:40Z",
     "url": "https://github.com/Iamshankhadeep/skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-23T05:45:34Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Snet \u5de5\u4e1a\u7269\u8054\u7f51\u751f\u6001\u7684\u57fa\u4e8eAI\u667a\u80fd\u4f53\u7684\u56db\u4e2a\u6838\u5fc3\u6280\u80fd\uff0c\u8986\u76d6\u4ece\"\u4f7f\u7528\u73b0\u6709\u534f\u8bae\"\u5230\"\u5f00\u53d1\u81ea\u5b9a\u4e49\u63d2\u4ef6\"\u518d\u5230\"WPFUI\u5e94\u7528\"\u7684\u5b8c\u6574\u6d41\u7a0b",
@@ -865,38 +892,11 @@
   },
   {
     "description": "",
-    "id": "sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker",
-    "language": "JavaScript",
-    "name": "sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker",
-    "stars": 0,
-    "updated_at": "2026-08-23T05:59:19Z",
-    "url": "https://github.com/sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker"
-  },
-  {
-    "description": "",
     "id": "alshohid/skillswap-nest-backend-app",
     "language": "TypeScript",
     "name": "alshohid/skillswap-nest-backend-app",
     "stars": 0,
     "updated_at": "2026-08-23T05:38:46Z",
     "url": "https://github.com/alshohid/skillswap-nest-backend-app"
-  },
-  {
-    "description": "Claude Code \u00d7 Codex \uacf5\uc6a9 \uac1c\ubc1c \uc6cc\ud06c\ud50c\ub85c \uc2a4\ud0ac \ud0b7 \u2014 clone \ud6c4 ./bootstrap.sh \ud55c \ubc88\uc774\uba74 \uc124\uce58",
-    "id": "oyuns-wishket/claude-skills-kit",
-    "language": "Python",
-    "name": "oyuns-wishket/claude-skills-kit",
-    "stars": 0,
-    "updated_at": "2026-08-23T05:38:39Z",
-    "url": "https://github.com/oyuns-wishket/claude-skills-kit"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "raymondconslt/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "raymondconslt/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-08-23T05:38:03Z",
-    "url": "https://github.com/raymondconslt/skills-introduction-to-git"
   }
 ]
