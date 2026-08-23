@@ -1,5 +1,68 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-23T09:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "starci183/starci-skills",
+    "language": "JavaScript",
+    "name": "starci183/starci-skills",
+    "stars": 2,
+    "updated_at": "2026-08-23T09:14:48Z",
+    "url": "https://github.com/starci183/starci-skills"
+  },
+  {
+    "description": "Skills for Real Engineers. ",
+    "id": "gausszhou/skills",
+    "language": "\u2014",
+    "name": "gausszhou/skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T09:14:40Z",
+    "url": "https://github.com/gausszhou/skills"
+  },
+  {
+    "description": "Workflow skills for codex",
+    "id": "canzheng/workflow-skills",
+    "language": "Python",
+    "name": "canzheng/workflow-skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T09:14:37Z",
+    "url": "https://github.com/canzheng/workflow-skills"
+  },
+  {
+    "description": "",
+    "id": "tetradice/project-knowledge-agent-skills",
+    "language": "Python",
+    "name": "tetradice/project-knowledge-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T09:14:37Z",
+    "url": "https://github.com/tetradice/project-knowledge-agent-skills"
+  },
+  {
+    "description": "Personal AI skills collection for Kimi Code CLI and other agents",
+    "id": "askairo/kairo-skills",
+    "language": "Python",
+    "name": "askairo/kairo-skills",
+    "stars": 1,
+    "updated_at": "2026-08-23T09:14:34Z",
+    "url": "https://github.com/askairo/kairo-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-23T09:14:24Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
     "id": "filippolmt/skills",
     "language": "JavaScript",
@@ -18,6 +81,24 @@
     "url": "https://github.com/isty2e/agent-skills"
   },
   {
+    "description": "",
+    "id": "lwlee2608/agent-skills",
+    "language": "\u2014",
+    "name": "lwlee2608/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-08-23T09:13:56Z",
+    "url": "https://github.com/lwlee2608/agent-skills"
+  },
+  {
+    "description": "Protect your code with automated testing",
+    "id": "TheCSharpAcademy/skills-test-with-actions",
+    "language": "Python",
+    "name": "TheCSharpAcademy/skills-test-with-actions",
+    "stars": 0,
+    "updated_at": "2026-08-23T09:13:52Z",
+    "url": "https://github.com/TheCSharpAcademy/skills-test-with-actions"
+  },
+  {
     "description": "a skill-learning platform connecting teachers and learners with availability management, atomic slot booking, and end-to",
     "id": "rk0939885-alt/skillSync",
     "language": "JavaScript",
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T09:13:42Z",
     "url": "https://github.com/rk0939885-alt/skillSync"
-  },
-  {
-    "description": "Personal AI skills collection for Kimi Code CLI and other agents",
-    "id": "askairo/kairo-skills",
-    "language": "Python",
-    "name": "askairo/kairo-skills",
-    "stars": 1,
-    "updated_at": "2026-08-23T09:13:39Z",
-    "url": "https://github.com/askairo/kairo-skills"
   },
   {
     "description": "Exercise: Expand your team with GitHub Copilot cloud agent",
@@ -427,7 +499,7 @@
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
     "name": "VoltAgent/awesome-agent-skills",
-    "stars": 30981,
+    "stars": 30982,
     "updated_at": "2026-08-23T09:04:44Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
@@ -459,15 +531,6 @@
     "url": "https://github.com/openreachtech/hora-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-23T09:04:08Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "",
     "id": "aniketspring-sde/Life_Skills",
     "language": "\u2014",
@@ -484,15 +547,6 @@
     "stars": 25,
     "updated_at": "2026-08-23T09:03:51Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "",
-    "id": "lwlee2608/agent-skills",
-    "language": "\u2014",
-    "name": "lwlee2608/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-08-23T09:13:56Z",
-    "url": "https://github.com/lwlee2608/agent-skills"
   },
   {
     "description": "skill\u662f",
@@ -538,15 +592,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T09:02:52Z",
     "url": "https://github.com/YuukiAS/AI_Skills_Collection"
-  },
-  {
-    "description": "",
-    "id": "starci183/starci-skills",
-    "language": "JavaScript",
-    "name": "starci183/starci-skills",
-    "stars": 2,
-    "updated_at": "2026-08-23T09:02:49Z",
-    "url": "https://github.com/starci183/starci-skills"
   },
   {
     "description": "tkt \u516c\u5f00 skill \u96c6:\u6d41\u7a0b\u5f15\u5bfc\u4e0e\u901a\u7528\u5de5\u5177",
@@ -655,15 +700,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T09:00:40Z",
     "url": "https://github.com/dnd-mapp/agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-23T09:00:35Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T08:54:42Z",
     "url": "https://github.com/lajendora6/my-skills"
-  },
-  {
-    "description": "",
-    "id": "ArchdevilForge/skills",
-    "language": "Python",
-    "name": "ArchdevilForge/skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T08:54:13Z",
-    "url": "https://github.com/ArchdevilForge/skills"
-  },
-  {
-    "description": "Shared Claude Code skills for the ObserveOps team \u2014 install once, use globally.",
-    "id": "niravbhatt1317/observeops-team-skills",
-    "language": "PowerShell",
-    "name": "niravbhatt1317/observeops-team-skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T08:53:56Z",
-    "url": "https://github.com/niravbhatt1317/observeops-team-skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "pavarmaa/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "pavarmaa/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-08-23T08:53:24Z",
-    "url": "https://github.com/pavarmaa/skills-introduction-to-git"
-  },
-  {
-    "description": "Shared skills and knowledge base for ChatGPT/Codex",
-    "id": "raynacocobobobo-arch/skills-share",
-    "language": "Python",
-    "name": "raynacocobobobo-arch/skills-share",
-    "stars": 0,
-    "updated_at": "2026-08-23T08:52:54Z",
-    "url": "https://github.com/raynacocobobobo-arch/skills-share"
   }
 ]
