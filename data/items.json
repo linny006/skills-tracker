@@ -1,5 +1,68 @@
 [
   {
+    "description": "voice-builder",
+    "id": "weddingnote26-glitch/https-github.com-charlie947-social-media-skills-tree-main-skills-voice-builder",
+    "language": "TypeScript",
+    "name": "weddingnote26-glitch/https-github.com-charlie947-social-media-skills-tree-main-skills-voice-builder",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:31:41Z",
+    "url": "https://github.com/weddingnote26-glitch/https-github.com-charlie947-social-media-skills-tree-main-skills-voice-builder"
+  },
+  {
+    "description": "",
+    "id": "onurseckin/skills",
+    "language": "TypeScript",
+    "name": "onurseckin/skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:31:20Z",
+    "url": "https://github.com/onurseckin/skills"
+  },
+  {
+    "description": "Portable Agent Skills for consistent workflows across coding harnesses.",
+    "id": "jonhill90/skills",
+    "language": "Python",
+    "name": "jonhill90/skills",
+    "stars": 8,
+    "updated_at": "2026-08-23T11:31:05Z",
+    "url": "https://github.com/jonhill90/skills"
+  },
+  {
+    "description": "Claude Code skills for git workflows, GitHub automation, security audits, code refactoring, and project tooling",
+    "id": "tartinerlabs/skills",
+    "language": "Go",
+    "name": "tartinerlabs/skills",
+    "stars": 7,
+    "updated_at": "2026-08-23T11:30:59Z",
+    "url": "https://github.com/tartinerlabs/skills"
+  },
+  {
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "id": "mabzadev/skills",
+    "language": "JavaScript",
+    "name": "mabzadev/skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:31:14Z",
+    "url": "https://github.com/mabzadev/skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 25,
+    "updated_at": "2026-08-23T11:30:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-23T11:30:26Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Introduction to Git",
     "id": "hrisimct-prog/skills-introduction-to-git",
     "language": "Shell",
@@ -43,6 +106,15 @@
     "stars": 309,
     "updated_at": "2026-08-23T11:29:38Z",
     "url": "https://github.com/shareAI-lab/lab-skills"
+  },
+  {
+    "description": "Agent skills for Lettr \u2014 migrate providers, send emails, manage domains and templates from AI coding agents",
+    "id": "lettr-com/lettr-skills",
+    "language": "JavaScript",
+    "name": "lettr-com/lettr-skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:29:27Z",
+    "url": "https://github.com/lettr-com/lettr-skills"
   },
   {
     "description": "Shared skills and knowledge base for ChatGPT/Codex",
@@ -127,20 +199,11 @@
   },
   {
     "description": "",
-    "id": "onurseckin/skills",
-    "language": "TypeScript",
-    "name": "onurseckin/skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T11:30:20Z",
-    "url": "https://github.com/onurseckin/skills"
-  },
-  {
-    "description": "",
     "id": "kekaojip/-kq-novel-skills",
     "language": "Python",
     "name": "kekaojip/-kq-novel-skills",
     "stars": 0,
-    "updated_at": "2026-08-23T11:30:01Z",
+    "updated_at": "2026-08-23T11:30:34Z",
     "url": "https://github.com/kekaojip/-kq-novel-skills"
   },
   {
@@ -405,24 +468,6 @@
     "url": "https://github.com/wubuku/spring-ai-skills-demo"
   },
   {
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "id": "mabzadev/skills",
-    "language": "JavaScript",
-    "name": "mabzadev/skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T11:29:37Z",
-    "url": "https://github.com/mabzadev/skills"
-  },
-  {
-    "description": "voice-builder",
-    "id": "weddingnote26-glitch/https-github.com-charlie947-social-media-skills-tree-main-skills-voice-builder",
-    "language": "TypeScript",
-    "name": "weddingnote26-glitch/https-github.com-charlie947-social-media-skills-tree-main-skills-voice-builder",
-    "stars": 0,
-    "updated_at": "2026-08-23T11:22:11Z",
-    "url": "https://github.com/weddingnote26-glitch/https-github.com-charlie947-social-media-skills-tree-main-skills-voice-builder"
-  },
-  {
     "description": "",
     "id": "hansinibhavsar1715/SkillScope",
     "language": "Jupyter Notebook",
@@ -556,15 +601,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T11:19:06Z",
     "url": "https://github.com/Princekr267/SkillSphere"
-  },
-  {
-    "description": "Portable Agent Skills for consistent workflows across coding harnesses.",
-    "id": "jonhill90/skills",
-    "language": "Python",
-    "name": "jonhill90/skills",
-    "stars": 8,
-    "updated_at": "2026-08-23T11:23:41Z",
-    "url": "https://github.com/jonhill90/skills"
   },
   {
     "description": "Agent skills in two collections: latticework (60 thinking and analysis frameworks) and stray (parallel agent orchestrati",
@@ -702,24 +738,6 @@
     "url": "https://github.com/hainesdrewh/35-anti-slop-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-23T11:15:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 25,
-    "updated_at": "2026-08-23T11:15:28Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "A skill-tracking application built with Python",
     "id": "Tomatio13/Temple-of-Skills",
     "language": "Python",
@@ -828,6 +846,15 @@
     "url": "https://github.com/davidondrej/skills"
   },
   {
+    "description": "Agent Skills",
+    "id": "muhuchah/Skills",
+    "language": "\u2014",
+    "name": "muhuchah/Skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:12:46Z",
+    "url": "https://github.com/muhuchah/Skills"
+  },
+  {
     "description": "A curated list of awesome claude skills",
     "id": "Chat2AnyLLM/awesome-claude-skills",
     "language": "Python",
@@ -871,32 +898,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T11:12:07Z",
     "url": "https://github.com/marcoalfa30/claude-skills-vibe-toolkit"
-  },
-  {
-    "description": "My clone repository",
-    "id": "Sarma9273/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "Sarma9273/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-23T11:12:01Z",
-    "url": "https://github.com/Sarma9273/skills-introduction-to-github"
-  },
-  {
-    "description": "",
-    "id": "sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker",
-    "language": "JavaScript",
-    "name": "sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker",
-    "stars": 0,
-    "updated_at": "2026-08-23T11:11:47Z",
-    "url": "https://github.com/sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "maneehmohan2-gmail/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "maneehmohan2-gmail/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-23T11:11:30Z",
-    "url": "https://github.com/maneehmohan2-gmail/skills-introduction-to-github"
   }
 ]
