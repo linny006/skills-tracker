@@ -1,5 +1,59 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-23T15:00:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud504\ub860\ud2b8\uc5d4\ub4dc \uc560\ub2c8\uba54\uc774\uc158/UI/UX \uad6c\ud604 \uc2a4\ud0ac \uc800\uc7a5\uc18c",
+    "id": "Guksu/fe-skills",
+    "language": "JavaScript",
+    "name": "Guksu/fe-skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:00:02Z",
+    "url": "https://github.com/Guksu/fe-skills"
+  },
+  {
+    "description": "Reusable Agent Skills for Pi and compatible coding agents",
+    "id": "glundgren93/skills",
+    "language": "\u2014",
+    "name": "glundgren93/skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T14:59:53Z",
+    "url": "https://github.com/glundgren93/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-23T14:59:47Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "AI agent skills \u4e0e\u751f\u6001\u5de5\u5177\u6e05\u5355 \u2014 48 skills + 4 \u5de5\u5177\u8986\u76d6 Claude Code / Codex / OpenClaw / Cursor / Hermes",
+    "id": "Kiasma1/skills",
+    "language": "Python",
+    "name": "Kiasma1/skills",
+    "stars": 1,
+    "updated_at": "2026-08-23T14:59:45Z",
+    "url": "https://github.com/Kiasma1/skills"
+  },
+  {
+    "description": "AI agent skills for Israeli tax, invoicing, VAT, and financial systems",
+    "id": "skills-il/tax-and-finance",
+    "language": "Python",
+    "name": "skills-il/tax-and-finance",
+    "stars": 30,
+    "updated_at": "2026-08-23T14:59:39Z",
+    "url": "https://github.com/skills-il/tax-and-finance"
+  },
+  {
     "description": "Exercise: Expand your team with GitHub Copilot cloud agent",
     "id": "interactlm212-ship-it/skills-expand-your-team-with-copilot",
     "language": "JavaScript",
@@ -7,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-08-23T14:59:39Z",
     "url": "https://github.com/interactlm212-ship-it/skills-expand-your-team-with-copilot"
+  },
+  {
+    "description": "Collection of custom skills for AI agents",
+    "id": "hwj123hwj/custom-skills",
+    "language": "JavaScript",
+    "name": "hwj123hwj/custom-skills",
+    "stars": 4,
+    "updated_at": "2026-08-23T14:59:22Z",
+    "url": "https://github.com/hwj123hwj/custom-skills"
   },
   {
     "description": "",
@@ -342,15 +405,6 @@
     "url": "https://github.com/merico34/skills-github-pages"
   },
   {
-    "description": "AI agent skills for Israeli tax, invoicing, VAT, and financial systems",
-    "id": "skills-il/tax-and-finance",
-    "language": "Python",
-    "name": "skills-il/tax-and-finance",
-    "stars": 30,
-    "updated_at": "2026-08-23T14:59:39Z",
-    "url": "https://github.com/skills-il/tax-and-finance"
-  },
-  {
     "description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners",
     "id": "tradermonty/claude-trading-skills",
     "language": "Python",
@@ -392,7 +446,7 @@
     "language": "Python",
     "name": "ploylab07/korean_skills_2026",
     "stars": 0,
-    "updated_at": "2026-08-23T14:53:25Z",
+    "updated_at": "2026-08-23T15:00:17Z",
     "url": "https://github.com/ploylab07/korean_skills_2026"
   },
   {
@@ -475,15 +529,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T14:52:43Z",
     "url": "https://github.com/bk-abhinava/SkillSwap"
-  },
-  {
-    "description": "Reusable Agent Skills for Pi and compatible coding agents",
-    "id": "glundgren93/skills",
-    "language": "\u2014",
-    "name": "glundgren93/skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T14:52:32Z",
-    "url": "https://github.com/glundgren93/skills"
   },
   {
     "description": "",
@@ -792,15 +837,6 @@
     "url": "https://github.com/nulltek/skills-introduction-to-git"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-23T14:45:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -817,15 +853,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T14:45:15Z",
     "url": "https://github.com/sutchan/Agent-Skills-Hub"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-23T14:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T14:44:33Z",
     "url": "https://github.com/hquan5397/skills-agent-orchestration-build-your-ai-dream-team"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "dev-creative-space/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "dev-creative-space/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-23T14:44:33Z",
-    "url": "https://github.com/dev-creative-space/skills-introduction-to-github"
-  },
-  {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "dave-adam-aparicio/skills-github-pages",
-    "language": "\u2014",
-    "name": "dave-adam-aparicio/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-08-23T14:44:17Z",
-    "url": "https://github.com/dave-adam-aparicio/skills-github-pages"
-  },
-  {
-    "description": "\u4f19\u4f34\u4e91\u56fe\u6587\u4f7f\u7528\u624b\u518c skill\uff1a\u6d4f\u89c8\u5668\u5b9e\u6d4b\u8d70\u67e5\u622a\u56fe\uff0c\u4ea7\u51fa Markdown+\u56fe\u7247\uff1bhac \u4e0e Playwright \u53cc\u8f68\u91c7\u96c6",
-    "id": "huoban-skills/huoban-user-manual",
-    "language": "Python",
-    "name": "huoban-skills/huoban-user-manual",
-    "stars": 0,
-    "updated_at": "2026-08-23T14:44:08Z",
-    "url": "https://github.com/huoban-skills/huoban-user-manual"
   }
 ]
