@@ -1,5 +1,50 @@
 [
   {
+    "description": "",
+    "id": "danielbaldwin47/skills",
+    "language": "\u2014",
+    "name": "danielbaldwin47/skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:30:56Z",
+    "url": "https://github.com/danielbaldwin47/skills"
+  },
+  {
+    "description": "",
+    "id": "nludd25/Anthropic-Cybersecurity-Skills",
+    "language": "Python",
+    "name": "nludd25/Anthropic-Cybersecurity-Skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:30:39Z",
+    "url": "https://github.com/nludd25/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "description": "Prefect 3 agent skill: greenfield scaffolding + project audit with a live docs-lookup protocol (llms.txt). Part of relen",
+    "id": "sleeplessv/relentless-data-skills",
+    "language": "Python",
+    "name": "sleeplessv/relentless-data-skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:30:35Z",
+    "url": "https://github.com/sleeplessv/relentless-data-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 25,
+    "updated_at": "2026-08-23T19:30:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-23T19:30:28Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Geometry dash AI skills for building level with GDShare mod",
     "id": "bbartling/gd-ai-agent-skills",
     "language": "Python",
@@ -9,6 +54,15 @@
     "url": "https://github.com/bbartling/gd-ai-agent-skills"
   },
   {
+    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
+    "id": "skazsi/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "language": "\u2014",
+    "name": "skazsi/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:30:18Z",
+    "url": "https://github.com/skazsi/skills-scale-institutional-knowledge-using-copilot-spaces"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 32,
     "updated_at": "2026-08-23T19:30:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "",
-    "id": "nludd25/Anthropic-Cybersecurity-Skills",
-    "language": "\u2014",
-    "name": "nludd25/Anthropic-Cybersecurity-Skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T19:30:12Z",
-    "url": "https://github.com/nludd25/Anthropic-Cybersecurity-Skills"
   },
   {
     "description": "Agent skills collection for OpenClaw and DSH",
@@ -81,6 +126,15 @@
     "url": "https://github.com/jizzoe/joericearchitect-ai-skills"
   },
   {
+    "description": "Exercise: Introduction to Git",
+    "id": "shaardul-18/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "shaardul-18/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:28:16Z",
+    "url": "https://github.com/shaardul-18/skills-introduction-to-git"
+  },
+  {
     "description": "Personal LLM skills",
     "id": "JamesMcMahon/llm-skills",
     "language": "\u2014",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T19:28:08Z",
     "url": "https://github.com/tmk241/hemx-skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "shaardul-18/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "shaardul-18/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-08-23T19:28:16Z",
-    "url": "https://github.com/shaardul-18/skills-introduction-to-git"
   },
   {
     "description": "Skills SDK for Codex/AI coding agents: author, validate, evaluate, and sync runtime projections through ask.",
@@ -304,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T19:23:57Z",
     "url": "https://github.com/gioele-lai-pro/skills-introduction-to-git"
-  },
-  {
-    "description": "Prefect 3 agent skill: greenfield scaffolding + project audit with a live docs-lookup protocol (llms.txt). Part of relen",
-    "id": "sleeplessv/relentless-data-skills",
-    "language": "Python",
-    "name": "sleeplessv/relentless-data-skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T19:30:14Z",
-    "url": "https://github.com/sleeplessv/relentless-data-skills"
   },
   {
     "description": "",
@@ -648,15 +684,6 @@
     "url": "https://github.com/moranricardo/skills-copilot-codespaces-vscode"
   },
   {
-    "description": "",
-    "id": "kekaojip/-kq-novel-skills",
-    "language": "Python",
-    "name": "kekaojip/-kq-novel-skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T19:16:46Z",
-    "url": "https://github.com/kekaojip/-kq-novel-skills"
-  },
-  {
     "description": "Official APITube News API skill for AI coding agents \u2014 search worldwide news, sentiment, entities and 135 filters from C",
     "id": "apitube/news-api-skills",
     "language": "\u2014",
@@ -709,24 +736,6 @@
     "stars": 12,
     "updated_at": "2026-08-23T19:15:31Z",
     "url": "https://github.com/sudosubin/nix-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 25,
-    "updated_at": "2026-08-23T19:15:29Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-23T19:15:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Master Vibe Coder Workflows 2026: Build, Author & Automate with Claude AI",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T19:11:49Z",
     "url": "https://github.com/YOYO-thm/skills-hello-github-actions"
-  },
-  {
-    "description": "Organization-wide catalog of Agent Skills (agentskills.io open standard), installable into any compatible agent.",
-    "id": "forschungsgruppe-digital-health/agent-skills",
-    "language": "Python",
-    "name": "forschungsgruppe-digital-health/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T19:11:36Z",
-    "url": "https://github.com/forschungsgruppe-digital-health/agent-skills"
   }
 ]
