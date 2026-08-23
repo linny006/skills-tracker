@@ -1,5 +1,95 @@
 [
   {
+    "description": "Generalized playbook versions of skills I build in Claude Code + Notion, de-identified and rewritten as first-time setup",
+    "id": "hendhensla/skills-public",
+    "language": "TypeScript",
+    "name": "hendhensla/skills-public",
+    "stars": 0,
+    "updated_at": "2026-08-23T23:32:50Z",
+    "url": "https://github.com/hendhensla/skills-public"
+  },
+  {
+    "description": "",
+    "id": "onurseckin/skills",
+    "language": "TypeScript",
+    "name": "onurseckin/skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T23:32:12Z",
+    "url": "https://github.com/onurseckin/skills"
+  },
+  {
+    "description": "",
+    "id": "kelly-griffith/software-engineering-cursor-skills",
+    "language": "Shell",
+    "name": "kelly-griffith/software-engineering-cursor-skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T23:31:33Z",
+    "url": "https://github.com/kelly-griffith/software-engineering-cursor-skills"
+  },
+  {
+    "description": "",
+    "id": "AlesioRios/Laboratorio-de-skills",
+    "language": "Jupyter Notebook",
+    "name": "AlesioRios/Laboratorio-de-skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T23:31:28Z",
+    "url": "https://github.com/AlesioRios/Laboratorio-de-skills"
+  },
+  {
+    "description": "Portable coding-agent skills for UI mockups, browser verification, Codebase Memory, and isolated worktrees.",
+    "id": "ConnorGriffin/skills",
+    "language": "JavaScript",
+    "name": "ConnorGriffin/skills",
+    "stars": 19,
+    "updated_at": "2026-08-23T23:31:25Z",
+    "url": "https://github.com/ConnorGriffin/skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "ayoubjoudii/skills-copilot-codespaces-vscode",
+    "language": "\u2014",
+    "name": "ayoubjoudii/skills-copilot-codespaces-vscode",
+    "stars": 0,
+    "updated_at": "2026-08-23T23:31:24Z",
+    "url": "https://github.com/ayoubjoudii/skills-copilot-codespaces-vscode"
+  },
+  {
+    "description": "",
+    "id": "Hamza2024-CODE/Africa-Skills-Forum",
+    "language": "JavaScript",
+    "name": "Hamza2024-CODE/Africa-Skills-Forum",
+    "stars": 1,
+    "updated_at": "2026-08-23T23:31:18Z",
+    "url": "https://github.com/Hamza2024-CODE/Africa-Skills-Forum"
+  },
+  {
+    "description": "Official Claude skills for Email Love: build export-ready emails in Figma from your design system",
+    "id": "email-love/claude-skills",
+    "language": "Python",
+    "name": "email-love/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T23:30:36Z",
+    "url": "https://github.com/email-love/claude-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 25,
+    "updated_at": "2026-08-23T23:30:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-23T23:30:29Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -25,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T23:30:05Z",
     "url": "https://github.com/xentristech/claude-skills"
-  },
-  {
-    "description": "Generalized playbook versions of skills I build in Claude Code + Notion, de-identified and rewritten as first-time setup",
-    "id": "hendhensla/skills-public",
-    "language": "TypeScript",
-    "name": "hendhensla/skills-public",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:30:02Z",
-    "url": "https://github.com/hendhensla/skills-public"
   },
   {
     "description": "My personal curation of skills.md",
@@ -117,15 +198,6 @@
     "url": "https://github.com/nicovarelat/skills-github-pages"
   },
   {
-    "description": "",
-    "id": "Hamza2024-CODE/Africa-Skills-Forum",
-    "language": "JavaScript",
-    "name": "Hamza2024-CODE/Africa-Skills-Forum",
-    "stars": 1,
-    "updated_at": "2026-08-23T23:27:52Z",
-    "url": "https://github.com/Hamza2024-CODE/Africa-Skills-Forum"
-  },
-  {
     "description": "Agent skills for SDLC",
     "id": "brunodantas/skills",
     "language": "Python",
@@ -133,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T23:27:30Z",
     "url": "https://github.com/brunodantas/skills"
-  },
-  {
-    "description": "My clone repository",
-    "id": "ayoubjoudii/skills-copilot-codespaces-vscode",
-    "language": "\u2014",
-    "name": "ayoubjoudii/skills-copilot-codespaces-vscode",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:27:19Z",
-    "url": "https://github.com/ayoubjoudii/skills-copilot-codespaces-vscode"
   },
   {
     "description": "Personal agent skills marketplace",
@@ -322,15 +385,6 @@
     "stars": 7,
     "updated_at": "2026-08-23T23:22:54Z",
     "url": "https://github.com/nklisch/skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 25,
-    "updated_at": "2026-08-23T23:22:35Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "",
@@ -558,15 +612,6 @@
     "url": "https://github.com/DhamarPutra/AgentSkills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-23T23:15:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "",
     "id": "jon890/fos-skills",
     "language": "Python",
@@ -635,7 +680,7 @@
     "language": "TypeScript",
     "name": "reddb-io/red-skills",
     "stars": 16,
-    "updated_at": "2026-08-23T23:13:45Z",
+    "updated_at": "2026-08-23T23:32:13Z",
     "url": "https://github.com/reddb-io/red-skills"
   },
   {
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T23:07:03Z",
     "url": "https://github.com/heymishy/skills-platform-val"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "rjrjack/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "rjrjack/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:21:16Z",
-    "url": "https://github.com/rjrjack/skills-introduction-to-github"
-  },
-  {
-    "description": "",
-    "id": "miguelece/skills",
-    "language": "Python",
-    "name": "miguelece/skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:06:06Z",
-    "url": "https://github.com/miguelece/skills"
-  },
-  {
-    "description": "AI agent skills for Kotlin Multiplatform (KMP) development \u2014 clean architecture, feature scaffolding, Compose UI, MVI, n",
-    "id": "ronjunevaldoz/kmp-agent-skills",
-    "language": "Python",
-    "name": "ronjunevaldoz/kmp-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-08-23T23:05:31Z",
-    "url": "https://github.com/ronjunevaldoz/kmp-agent-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "josefinaesp/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "josefinaesp/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:09:27Z",
-    "url": "https://github.com/josefinaesp/skills-introduction-to-github"
-  },
-  {
-    "description": "",
-    "id": "tellscode/skills",
-    "language": "Shell",
-    "name": "tellscode/skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:04:48Z",
-    "url": "https://github.com/tellscode/skills"
   }
 ]
