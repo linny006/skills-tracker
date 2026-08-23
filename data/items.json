@@ -1,12 +1,12 @@
 [
   {
-    "description": "Exercise: Resolve Merge Conflicts",
-    "id": "pri221/skills-resolve-merge-conflicts",
+    "description": "Skills autonomously learned by AgentWorld AI agents \u2014 promoted from repeated high-confidence successes into reusable SKI",
+    "id": "shawnhvac/agentworld-skills",
     "language": "\u2014",
-    "name": "pri221/skills-resolve-merge-conflicts",
+    "name": "shawnhvac/agentworld-skills",
     "stars": 0,
-    "updated_at": "2026-08-23T10:15:24Z",
-    "url": "https://github.com/pri221/skills-resolve-merge-conflicts"
+    "updated_at": "2026-08-23T10:16:35Z",
+    "url": "https://github.com/shawnhvac/agentworld-skills"
   },
   {
     "description": "Finel website testing",
@@ -14,8 +14,89 @@
     "language": "HTML",
     "name": "pranjils0ni/skillsfy-finel",
     "stars": 0,
-    "updated_at": "2026-08-23T10:15:33Z",
+    "updated_at": "2026-08-23T10:16:31Z",
     "url": "https://github.com/pranjils0ni/skillsfy-finel"
+  },
+  {
+    "description": "\u7389\u82ac\u6280\u80fd\u4ed3\u5e93",
+    "id": "openclaw-cn-dev/yuxin-skills",
+    "language": "Python",
+    "name": "openclaw-cn-dev/yuxin-skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T10:15:51Z",
+    "url": "https://github.com/openclaw-cn-dev/yuxin-skills"
+  },
+  {
+    "description": "",
+    "id": "dibbla-agents/skills",
+    "language": "\u2014",
+    "name": "dibbla-agents/skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T10:15:42Z",
+    "url": "https://github.com/dibbla-agents/skills"
+  },
+  {
+    "description": "Ra Pulse Radio: VS Code & Codespaces automation module for Gerrit CI/CD tracking.",
+    "id": "moranricardo/skills-copilot-codespaces-vscode",
+    "language": "JavaScript",
+    "name": "moranricardo/skills-copilot-codespaces-vscode",
+    "stars": 2,
+    "updated_at": "2026-08-23T10:15:39Z",
+    "url": "https://github.com/moranricardo/skills-copilot-codespaces-vscode"
+  },
+  {
+    "description": "auto",
+    "id": "Yu1ocean/qi-skills",
+    "language": "Python",
+    "name": "Yu1ocean/qi-skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T10:15:38Z",
+    "url": "https://github.com/Yu1ocean/qi-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-23T10:15:37Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 25,
+    "updated_at": "2026-08-23T10:15:36Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Exercise: Resolve Merge Conflicts",
+    "id": "pri221/skills-resolve-merge-conflicts",
+    "language": "\u2014",
+    "name": "pri221/skills-resolve-merge-conflicts",
+    "stars": 0,
+    "updated_at": "2026-08-23T10:15:36Z",
+    "url": "https://github.com/pri221/skills-resolve-merge-conflicts"
+  },
+  {
+    "description": "",
+    "id": "Skills4hire-org/skills-4-hire-backend",
+    "language": "Python",
+    "name": "Skills4hire-org/skills-4-hire-backend",
+    "stars": 1,
+    "updated_at": "2026-08-23T10:15:23Z",
+    "url": "https://github.com/Skills4hire-org/skills-4-hire-backend"
+  },
+  {
+    "description": "Plugins for Anthropic's Claude Code, Codex, Cursor and more",
+    "id": "Jamie-BitFlight/claude_skills",
+    "language": "Python",
+    "name": "Jamie-BitFlight/claude_skills",
+    "stars": 64,
+    "updated_at": "2026-08-23T10:15:16Z",
+    "url": "https://github.com/Jamie-BitFlight/claude_skills"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -52,6 +133,15 @@
     "stars": 1,
     "updated_at": "2026-08-23T10:15:12Z",
     "url": "https://github.com/canhta/copycat-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "xtian23-tech/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "xtian23-tech/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-08-23T10:15:12Z",
+    "url": "https://github.com/xtian23-tech/skills-introduction-to-github"
   },
   {
     "description": "",
@@ -675,15 +765,6 @@
     "url": "https://github.com/shuymn/skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 25,
-    "updated_at": "2026-08-23T10:02:25Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
     "id": "furball28/skills-github-pages",
     "language": "\u2014",
@@ -727,15 +808,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T10:00:40Z",
     "url": "https://github.com/Lu1sDV/skillsmd"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-23T10:00:38Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Self Skills",
@@ -826,77 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T09:58:06Z",
     "url": "https://github.com/BlessingNyuwani/marona-skills"
-  },
-  {
-    "description": "",
-    "id": "ArchdevilForge/skills",
-    "language": "Python",
-    "name": "ArchdevilForge/skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T09:58:05Z",
-    "url": "https://github.com/ArchdevilForge/skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "xtian23-tech/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "xtian23-tech/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-23T10:15:12Z",
-    "url": "https://github.com/xtian23-tech/skills-introduction-to-github"
-  },
-  {
-    "description": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
-    "id": "iasonas54/skills-integrate-mcp-with-copilot",
-    "language": "JavaScript",
-    "name": "iasonas54/skills-integrate-mcp-with-copilot",
-    "stars": 0,
-    "updated_at": "2026-08-23T09:57:27Z",
-    "url": "https://github.com/iasonas54/skills-integrate-mcp-with-copilot"
-  },
-  {
-    "description": "Skills to automate app store deployed and everything related to it using the asc cli",
-    "id": "rorkai/app-store-connect-cli-skills",
-    "language": "Python",
-    "name": "rorkai/app-store-connect-cli-skills",
-    "stars": 971,
-    "updated_at": "2026-08-23T09:57:13Z",
-    "url": "https://github.com/rorkai/app-store-connect-cli-skills"
-  },
-  {
-    "description": "",
-    "id": "JesterWizard/SkillSystem_FE7",
-    "language": "Assembly",
-    "name": "JesterWizard/SkillSystem_FE7",
-    "stars": 4,
-    "updated_at": "2026-08-23T09:56:46Z",
-    "url": "https://github.com/JesterWizard/SkillSystem_FE7"
-  },
-  {
-    "description": "",
-    "id": "slb1988/luckey_skills",
-    "language": "HTML",
-    "name": "slb1988/luckey_skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T09:56:33Z",
-    "url": "https://github.com/slb1988/luckey_skills"
-  },
-  {
-    "description": "downloading programs directly into LLM's brain",
-    "id": "malinskibeniamin/skills",
-    "language": "Shell",
-    "name": "malinskibeniamin/skills",
-    "stars": 3,
-    "updated_at": "2026-08-23T09:56:24Z",
-    "url": "https://github.com/malinskibeniamin/skills"
-  },
-  {
-    "description": "Custom OpenClaw skills for Trevor",
-    "id": "PanthroCorp-Limited/openclaw-skills",
-    "language": "Go",
-    "name": "PanthroCorp-Limited/openclaw-skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T09:56:16Z",
-    "url": "https://github.com/PanthroCorp-Limited/openclaw-skills"
   }
 ]
