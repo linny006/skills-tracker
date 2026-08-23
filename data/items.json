@@ -1,5 +1,50 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-23T17:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Shared skills for AI agents (Claude Code, Codex, Gemini)",
+    "id": "grahama1970/agent-skills",
+    "language": "Python",
+    "name": "grahama1970/agent-skills",
+    "stars": 5,
+    "updated_at": "2026-08-23T17:15:13Z",
+    "url": "https://github.com/grahama1970/agent-skills"
+  },
+  {
+    "description": "Public skill registry (Anthropic-format skills) served to Open WebUI and any MCP/skill-capable downstream.",
+    "id": "TuMee-Dev/skills-registry",
+    "language": "HTML",
+    "name": "TuMee-Dev/skills-registry",
+    "stars": 0,
+    "updated_at": "2026-08-23T17:14:48Z",
+    "url": "https://github.com/TuMee-Dev/skills-registry"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-23T17:14:48Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "AI agent skills for Kotlin Multiplatform (KMP) development \u2014 clean architecture, feature scaffolding, Compose UI, MVI, n",
+    "id": "ronjunevaldoz/kmp-agent-skills",
+    "language": "Python",
+    "name": "ronjunevaldoz/kmp-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-08-23T17:14:50Z",
+    "url": "https://github.com/ronjunevaldoz/kmp-agent-skills"
+  },
+  {
     "description": "Exercise: Introduction to Git",
     "id": "yeshface/skills-introduction-to-git",
     "language": "Shell",
@@ -9,6 +54,15 @@
     "url": "https://github.com/yeshface/skills-introduction-to-git"
   },
   {
+    "description": "",
+    "id": "reddb-io/red-skills",
+    "language": "TypeScript",
+    "name": "reddb-io/red-skills",
+    "stars": 16,
+    "updated_at": "2026-08-23T17:14:35Z",
+    "url": "https://github.com/reddb-io/red-skills"
+  },
+  {
     "description": "Skills for OpenClaw \u2014 security, dev tools, DevOps, SEO, memory upgrades, and more",
     "id": "DehydratedFlask/openclaw-skills",
     "language": "Python",
@@ -16,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-08-23T17:14:18Z",
     "url": "https://github.com/DehydratedFlask/openclaw-skills"
+  },
+  {
+    "description": "Ra Pulse Radio: VS Code & Codespaces automation module for Gerrit CI/CD tracking.",
+    "id": "moranricardo/skills-copilot-codespaces-vscode",
+    "language": "JavaScript",
+    "name": "moranricardo/skills-copilot-codespaces-vscode",
+    "stars": 2,
+    "updated_at": "2026-08-23T17:13:57Z",
+    "url": "https://github.com/moranricardo/skills-copilot-codespaces-vscode"
   },
   {
     "description": "Curated collection of AI agent skills for Hermes and other agent frameworks",
@@ -52,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-08-23T17:14:12Z",
     "url": "https://github.com/mshamblin5150-code/clinical-skills"
+  },
+  {
+    "description": "\u4e9a\u9a6c\u900a\u6240\u6709sop\u57fa\u672c\u529f Ai\u5316",
+    "id": "Bailing-01/bailing-amazon-skills",
+    "language": "Python",
+    "name": "Bailing-01/bailing-amazon-skills",
+    "stars": 1,
+    "updated_at": "2026-08-23T17:13:42Z",
+    "url": "https://github.com/Bailing-01/bailing-amazon-skills"
   },
   {
     "description": "My personal agent skills",
@@ -135,6 +207,15 @@
     "url": "https://github.com/lovstudio/skills"
   },
   {
+    "description": "",
+    "id": "turintech/skills",
+    "language": "\u2014",
+    "name": "turintech/skills",
+    "stars": 1,
+    "updated_at": "2026-08-23T17:11:46Z",
+    "url": "https://github.com/turintech/skills"
+  },
+  {
     "description": "Agent skills that I find useful.",
     "id": "meymchen/skills",
     "language": "Python",
@@ -178,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T17:10:40Z",
     "url": "https://github.com/jdylanmc/agent-skills"
-  },
-  {
-    "description": "Public skill registry (Anthropic-format skills) served to Open WebUI and any MCP/skill-capable downstream.",
-    "id": "TuMee-Dev/skills-registry",
-    "language": "HTML",
-    "name": "TuMee-Dev/skills-registry",
-    "stars": 0,
-    "updated_at": "2026-08-23T17:10:39Z",
-    "url": "https://github.com/TuMee-Dev/skills-registry"
   },
   {
     "description": "\ub178\uc158 \u300c\ud559\uc6d0 \uad00\ub9ac PRO\u300d \ud15c\ud50c\ub9bf\uc744 \ud074\ub85c\ub4dc\uc640 \ud568\uaed8 \uc4f0\ub294 \uc2a4\ud0ac \uc138\ud2b8",
@@ -639,15 +711,6 @@
     "url": "https://github.com/LvvUP/dsh-themes-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-23T17:01:41Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -727,15 +790,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T17:00:35Z",
     "url": "https://github.com/sultanxgokce/Sx-Claude-Skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-23T17:00:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -844,59 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T16:58:26Z",
     "url": "https://github.com/amnimhops/skills-expand-your-team-with-copilot"
-  },
-  {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "ananthanagarajan/skills-getting-started-with-github-copilot",
-    "language": "JavaScript",
-    "name": "ananthanagarajan/skills-getting-started-with-github-copilot",
-    "stars": 0,
-    "updated_at": "2026-08-23T16:58:06Z",
-    "url": "https://github.com/ananthanagarajan/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "Personal collection of Claude Code skills",
-    "id": "benqqqq/claude-skills",
-    "language": "Shell",
-    "name": "benqqqq/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T16:57:45Z",
-    "url": "https://github.com/benqqqq/claude-skills"
-  },
-  {
-    "description": "",
-    "id": "lunkerchen/skills",
-    "language": "Python",
-    "name": "lunkerchen/skills",
-    "stars": 1,
-    "updated_at": "2026-08-23T16:57:41Z",
-    "url": "https://github.com/lunkerchen/skills"
-  },
-  {
-    "description": "Router + Skills + Model Training: 99% accuracy with 83% cost saving (verified on HumanEval 164)",
-    "id": "zeyuyuyu/router-skills-evolve",
-    "language": "Python",
-    "name": "zeyuyuyu/router-skills-evolve",
-    "stars": 4,
-    "updated_at": "2026-08-23T16:57:25Z",
-    "url": "https://github.com/zeyuyuyu/router-skills-evolve"
-  },
-  {
-    "description": "",
-    "id": "turintech/skills",
-    "language": "\u2014",
-    "name": "turintech/skills",
-    "stars": 1,
-    "updated_at": "2026-08-23T17:11:46Z",
-    "url": "https://github.com/turintech/skills"
-  },
-  {
-    "description": "\u4e2d\u6587 Codex \u6cbb\u7406\u4e0e\u5de5\u7a0b Skills \u96c6\u5408\uff1a\u8fde\u7eed\u6027\u3001\u9879\u76ee\u6743\u8d23\u3001\u4e8b\u5b9e\u95e8\u7981\u3001\u8bca\u65ad\u3001TDD\u3001\u67b6\u6784\u5065\u5eb7\u4e0e\u80fd\u529b\u53d1\u73b0",
-    "id": "JoyceBrown/codex-governance-skills",
-    "language": "Python",
-    "name": "JoyceBrown/codex-governance-skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T16:57:13Z",
-    "url": "https://github.com/JoyceBrown/codex-governance-skills"
   }
 ]
