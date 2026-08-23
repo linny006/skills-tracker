@@ -1,5 +1,41 @@
 [
   {
+    "description": "Source-backed Seedream 5.0 Pro prompts with real result images, reference editing, cinematic workflows, and multilingual",
+    "id": "imagineVid/Awesome-seedream-5-pro-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-seedream-5-pro-prompts-and-skills",
+    "stars": 4,
+    "updated_at": "2026-08-23T04:30:39Z",
+    "url": "https://github.com/imagineVid/Awesome-seedream-5-pro-prompts-and-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 25,
+    "updated_at": "2026-08-23T04:30:27Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-23T04:30:26Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.",
+    "id": "daymade/claude-code-skills",
+    "language": "Python",
+    "name": "daymade/claude-code-skills",
+    "stars": 1346,
+    "updated_at": "2026-08-23T04:30:18Z",
+    "url": "https://github.com/daymade/claude-code-skills"
+  },
+  {
     "description": "skills",
     "id": "volcanicll/cc-skills",
     "language": "Python",
@@ -16,6 +52,24 @@
     "stars": 32,
     "updated_at": "2026-08-23T04:30:14Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A portable, agent-friendly skill library served as an MCP server. Drop it into any project and AI agents across Codex, C",
+    "id": "coastdigitalgroup/coastai-skills",
+    "language": "HTML",
+    "name": "coastdigitalgroup/coastai-skills",
+    "stars": 3,
+    "updated_at": "2026-08-23T04:30:13Z",
+    "url": "https://github.com/coastdigitalgroup/coastai-skills"
+  },
+  {
+    "description": "Exercise: Integrate Model Context Protocol with GitHub Copilot from https://learn.microsoft.com/ja-jp/training/modules/m",
+    "id": "keijiinoue/skills-integrate-mcp-with-copilot",
+    "language": "JavaScript",
+    "name": "keijiinoue/skills-integrate-mcp-with-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-23T04:30:12Z",
+    "url": "https://github.com/keijiinoue/skills-integrate-mcp-with-copilot"
   },
   {
     "description": "",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T04:29:33Z",
     "url": "https://github.com/Jesse123272/skillsconnect-ghana"
-  },
-  {
-    "description": "A portable, agent-friendly skill library served as an MCP server. Drop it into any project and AI agents across Codex, C",
-    "id": "coastdigitalgroup/coastai-skills",
-    "language": "HTML",
-    "name": "coastdigitalgroup/coastai-skills",
-    "stars": 3,
-    "updated_at": "2026-08-23T04:30:13Z",
-    "url": "https://github.com/coastdigitalgroup/coastai-skills"
   },
   {
     "description": "",
@@ -157,7 +202,7 @@
     "id": "berzerk0/skills-and-prompts-noteboook",
     "language": "Python",
     "name": "berzerk0/skills-and-prompts-noteboook",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-23T04:27:32Z",
     "url": "https://github.com/berzerk0/skills-and-prompts-noteboook"
   },
@@ -166,7 +211,7 @@
     "id": "imagineVid/Awesome-nano-banana-prompts-and-skills",
     "language": "TypeScript",
     "name": "imagineVid/Awesome-nano-banana-prompts-and-skills",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-23T04:27:30Z",
     "url": "https://github.com/imagineVid/Awesome-nano-banana-prompts-and-skills"
   },
@@ -175,7 +220,7 @@
     "id": "marcoalfa30/claude-skills-vibe-toolkit",
     "language": "HTML",
     "name": "marcoalfa30/claude-skills-vibe-toolkit",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-23T04:27:27Z",
     "url": "https://github.com/marcoalfa30/claude-skills-vibe-toolkit"
   },
@@ -387,15 +432,6 @@
     "url": "https://github.com/dzshzx/agent-skills"
   },
   {
-    "description": "Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.",
-    "id": "daymade/claude-code-skills",
-    "language": "Python",
-    "name": "daymade/claude-code-skills",
-    "stars": 1346,
-    "updated_at": "2026-08-23T04:30:18Z",
-    "url": "https://github.com/daymade/claude-code-skills"
-  },
-  {
     "description": "RF \u5b98\u65b9\u6280\u80fd\u6e90\u2014\u2014\u6d77\u6d0b\u79d1\u7814\u6280\u80fd\u5305\uff08Anthropic Agent Skills \u6807\u51c6\uff09",
     "id": "CamE2Lia/rf-skills",
     "language": "\u2014",
@@ -576,24 +612,6 @@
     "url": "https://github.com/CarolShi417/Operation-Skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 25,
-    "updated_at": "2026-08-23T04:15:35Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-23T04:15:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "",
     "id": "hnrobert/hnrobert-skills",
     "language": "Shell",
@@ -700,15 +718,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T04:12:03Z",
     "url": "https://github.com/yuji-maru/skills-introduction-to-codeql"
-  },
-  {
-    "description": "Exercise: Integrate Model Context Protocol with GitHub Copilot from https://learn.microsoft.com/ja-jp/training/modules/m",
-    "id": "keijiinoue/skills-integrate-mcp-with-copilot",
-    "language": "JavaScript",
-    "name": "keijiinoue/skills-integrate-mcp-with-copilot",
-    "stars": 0,
-    "updated_at": "2026-08-23T04:30:12Z",
-    "url": "https://github.com/keijiinoue/skills-integrate-mcp-with-copilot"
   },
   {
     "description": "A collection of Claude Code plugins for development workflows, AI consultation, and more.",
@@ -889,14 +898,5 @@
     "stars": 3,
     "updated_at": "2026-08-23T04:05:58Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "",
-    "id": "BrTDevil/testing-skills",
-    "language": "\u2014",
-    "name": "BrTDevil/testing-skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T04:05:10Z",
-    "url": "https://github.com/BrTDevil/testing-skills"
   }
 ]
