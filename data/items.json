@@ -1,5 +1,32 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-23T18:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-23T18:45:10Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Brand design work frozen into agent skills that produce the same result every time",
+    "id": "wenxuanzhang1209-cyber/JKinco-Skills-Lab",
+    "language": "JavaScript",
+    "name": "wenxuanzhang1209-cyber/JKinco-Skills-Lab",
+    "stars": 1,
+    "updated_at": "2026-08-23T18:44:59Z",
+    "url": "https://github.com/wenxuanzhang1209-cyber/JKinco-Skills-Lab"
+  },
+  {
     "description": "mis habilidades, voy subiendo m\u00e1s de momento estan las que mencionare",
     "id": "fedemon16i/federico-skills",
     "language": "\u2014",
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T18:38:52Z",
     "url": "https://github.com/builtbystef/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-23T18:38:48Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent skills for scraping social media data",
@@ -639,15 +657,6 @@
     "url": "https://github.com/iasonas54/skills-copilot-code-review"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-23T18:30:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Custom Claude Code skills for design, development, and n8n automation",
     "id": "watchdogpedro/claude-skills",
     "language": "Shell",
@@ -889,14 +898,5 @@
     "stars": 3,
     "updated_at": "2026-08-23T18:24:56Z",
     "url": "https://github.com/zenstackhq/skills"
-  },
-  {
-    "description": "My clone repository",
-    "id": "harshtakalkar037-boop/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "harshtakalkar037-boop/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-23T18:24:26Z",
-    "url": "https://github.com/harshtakalkar037-boop/skills-introduction-to-github"
   }
 ]
