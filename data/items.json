@@ -1,5 +1,32 @@
 [
   {
+    "description": "",
+    "id": "designer976/Skills-e-Agents",
+    "language": "PowerShell",
+    "name": "designer976/Skills-e-Agents",
+    "stars": 0,
+    "updated_at": "2026-08-24T20:45:55Z",
+    "url": "https://github.com/designer976/Skills-e-Agents"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 26,
+    "updated_at": "2026-08-24T20:45:32Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-24T20:45:29Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -32,7 +59,7 @@
     "language": "\u2014",
     "name": "peterhvogel/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-08-24T20:44:24Z",
+    "updated_at": "2026-08-24T20:46:11Z",
     "url": "https://github.com/peterhvogel/skills-communicate-using-markdown"
   },
   {
@@ -52,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T20:44:11Z",
     "url": "https://github.com/scss1199/ai_fleet_skills"
+  },
+  {
+    "description": "Shared skills for AI agents (Claude Code, Codex, Gemini)",
+    "id": "grahama1970/agent-skills",
+    "language": "Python",
+    "name": "grahama1970/agent-skills",
+    "stars": 5,
+    "updated_at": "2026-08-24T20:44:08Z",
+    "url": "https://github.com/grahama1970/agent-skills"
   },
   {
     "description": "AI skills to stay sane",
@@ -79,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T20:43:19Z",
     "url": "https://github.com/adampelloso/skills"
+  },
+  {
+    "description": "Working Repo for skills.oobcreative.com",
+    "id": "rodneyobyrne/oobSKILLS",
+    "language": "HTML",
+    "name": "rodneyobyrne/oobSKILLS",
+    "stars": 0,
+    "updated_at": "2026-08-24T20:42:57Z",
+    "url": "https://github.com/rodneyobyrne/oobSKILLS"
   },
   {
     "description": "",
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "danieldoesbio/pi-scientific-skills",
     "stars": 0,
-    "updated_at": "2026-08-24T20:42:50Z",
+    "updated_at": "2026-08-24T20:45:42Z",
     "url": "https://github.com/danieldoesbio/pi-scientific-skills"
   },
   {
@@ -545,7 +590,7 @@
     "language": "Python",
     "name": "wildcat-finance/skills",
     "stars": 7,
-    "updated_at": "2026-08-24T20:33:15Z",
+    "updated_at": "2026-08-24T20:46:21Z",
     "url": "https://github.com/wildcat-finance/skills"
   },
   {
@@ -572,7 +617,7 @@
     "language": "Python",
     "name": "jscraik/Agent-Skills",
     "stars": 8,
-    "updated_at": "2026-08-24T20:44:41Z",
+    "updated_at": "2026-08-24T20:46:04Z",
     "url": "https://github.com/jscraik/Agent-Skills"
   },
   {
@@ -610,6 +655,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T20:31:24Z",
     "url": "https://github.com/uigraph-oss/skills"
+  },
+  {
+    "description": "Taza content-marketplace Claude Code plugin (mirrored from the monorepo). Install as a plugin marketplace.",
+    "id": "TazaAI-Platform/taza-skills",
+    "language": "\u2014",
+    "name": "TazaAI-Platform/taza-skills",
+    "stars": 0,
+    "updated_at": "2026-08-24T20:31:14Z",
+    "url": "https://github.com/TazaAI-Platform/taza-skills"
   },
   {
     "description": "Claude skill: empirically determine whether Coverity can detect a given defect, and find the minimal configuration that ",
@@ -709,24 +763,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T20:30:32Z",
     "url": "https://github.com/koptereli/growth-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 26,
-    "updated_at": "2026-08-24T20:30:32Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-24T20:30:30Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Unofficial export of Apple agent skills from the Xcode 27 developer beta (xcrun agent skills export), packaged as a plug",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T20:26:36Z",
     "url": "https://github.com/Dyoma3/skills-practice"
-  },
-  {
-    "description": "Shared skills for AI agents (Claude Code, Codex, Gemini)",
-    "id": "grahama1970/agent-skills",
-    "language": "Python",
-    "name": "grahama1970/agent-skills",
-    "stars": 5,
-    "updated_at": "2026-08-24T20:44:08Z",
-    "url": "https://github.com/grahama1970/agent-skills"
-  },
-  {
-    "description": "Source-backed Wan 3.0 Video prompts with real result clips, camera patterns, native-audio workflows, and multilingual gu",
-    "id": "imagineVid/Awesome-wan-3-0-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-wan-3-0-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-08-24T20:25:49Z",
-    "url": "https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills"
-  },
-  {
-    "description": "Source-backed GPT Image 2 prompts with real result images, editing workflows, reusable prompt structures, and multilingu",
-    "id": "imagineVid/Awesome-gpt-image-2-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-gpt-image-2-prompts-and-skills",
-    "stars": 6,
-    "updated_at": "2026-08-24T20:25:46Z",
-    "url": "https://github.com/imagineVid/Awesome-gpt-image-2-prompts-and-skills"
-  },
-  {
-    "description": "Harness-agnostic ports of pstack's code and writing quality skills (Lauren Tan / cursor/plugins), installable via npx sk",
-    "id": "pasevin/pstack-portable-skills",
-    "language": "Shell",
-    "name": "pasevin/pstack-portable-skills",
-    "stars": 0,
-    "updated_at": "2026-08-24T20:25:26Z",
-    "url": "https://github.com/pasevin/pstack-portable-skills"
   }
 ]
