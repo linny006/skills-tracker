@@ -1,12 +1,21 @@
 [
   {
-    "description": "",
-    "id": "ironbug-projects/ironbug-skills",
-    "language": "\u2014",
-    "name": "ironbug-projects/ironbug-skills",
-    "stars": 0,
-    "updated_at": "2026-08-24T21:15:24Z",
-    "url": "https://github.com/ironbug-projects/ironbug-skills"
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-24T21:15:38Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 26,
+    "updated_at": "2026-08-24T21:15:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "",
@@ -16,6 +25,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T21:15:25Z",
     "url": "https://github.com/bennettl/spark-skills"
+  },
+  {
+    "description": "",
+    "id": "ironbug-projects/ironbug-skills",
+    "language": "\u2014",
+    "name": "ironbug-projects/ironbug-skills",
+    "stars": 0,
+    "updated_at": "2026-08-24T21:15:24Z",
+    "url": "https://github.com/ironbug-projects/ironbug-skills"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -52,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T21:14:17Z",
     "url": "https://github.com/srawat10/skills-introduction-to-github"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 53,
+    "updated_at": "2026-08-24T21:14:16Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
     "description": "",
@@ -446,7 +473,7 @@
     "language": "HTML",
     "name": "Javitoo27/skills-review-pull-requests",
     "stars": 0,
-    "updated_at": "2026-08-24T21:15:27Z",
+    "updated_at": "2026-08-24T21:15:54Z",
     "url": "https://github.com/Javitoo27/skills-review-pull-requests"
   },
   {
@@ -711,24 +738,6 @@
     "url": "https://github.com/sofianypp/abozikry-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-24T21:00:34Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 26,
-    "updated_at": "2026-08-24T21:15:33Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "",
     "id": "johanruizb/custom-skills",
     "language": "Python",
@@ -889,14 +898,5 @@
     "stars": 3,
     "updated_at": "2026-08-24T20:56:32Z",
     "url": "https://github.com/tony-hoang-ai-automation/mkt-skills"
-  },
-  {
-    "description": "Exercise: Communicate using Markdown",
-    "id": "peterhvogel/skills-communicate-using-markdown",
-    "language": "\u2014",
-    "name": "peterhvogel/skills-communicate-using-markdown",
-    "stars": 0,
-    "updated_at": "2026-08-24T20:56:14Z",
-    "url": "https://github.com/peterhvogel/skills-communicate-using-markdown"
   }
 ]
