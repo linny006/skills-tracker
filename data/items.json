@@ -1,5 +1,77 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 33,
+    "updated_at": "2026-08-24T20:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "Javitoo27/skills-introduction-to-git",
+    "language": "\u2014",
+    "name": "Javitoo27/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-24T20:15:14Z",
+    "url": "https://github.com/Javitoo27/skills-introduction-to-git"
+  },
+  {
+    "description": "Carlos's agent skills, subagents, and slash commands for Claude Code, Gemini CLI, and OpenAI Codex CLI. Claude plugin ma",
+    "id": "heyimcarlos/agent-skills",
+    "language": "TypeScript",
+    "name": "heyimcarlos/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-24T20:15:10Z",
+    "url": "https://github.com/heyimcarlos/agent-skills"
+  },
+  {
+    "description": "",
+    "id": "cdixdev/skills-review-pull-requests",
+    "language": "HTML",
+    "name": "cdixdev/skills-review-pull-requests",
+    "stars": 0,
+    "updated_at": "2026-08-24T20:14:56Z",
+    "url": "https://github.com/cdixdev/skills-review-pull-requests"
+  },
+  {
+    "description": "My personal Agent Skills for coding agents: engineering workflows plus a few personal-use tools. Personalized forks, wit",
+    "id": "martonpaulo/skills",
+    "language": "Python",
+    "name": "martonpaulo/skills",
+    "stars": 0,
+    "updated_at": "2026-08-24T20:14:48Z",
+    "url": "https://github.com/martonpaulo/skills"
+  },
+  {
+    "description": "",
+    "id": "msribeiror29/HomeLabs-CybersecuritySkills",
+    "language": "\u2014",
+    "name": "msribeiror29/HomeLabs-CybersecuritySkills",
+    "stars": 0,
+    "updated_at": "2026-08-24T20:14:27Z",
+    "url": "https://github.com/msribeiror29/HomeLabs-CybersecuritySkills"
+  },
+  {
+    "description": "AI Skills for software engineers and founders",
+    "id": "zcaceres/skills",
+    "language": "TypeScript",
+    "name": "zcaceres/skills",
+    "stars": 7,
+    "updated_at": "2026-08-24T20:14:22Z",
+    "url": "https://github.com/zcaceres/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-24T20:14:22Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Introduction to GitHub",
     "id": "benschweitz223/skills-introduction-to-github",
     "language": "\u2014",
@@ -16,6 +88,24 @@
     "stars": 0,
     "updated_at": "2026-08-24T20:13:36Z",
     "url": "https://github.com/dormothsk5/skills-introduction-to-git"
+  },
+  {
+    "description": "Live browser demo for skillsmith: paste a Claude Agent SKILL.md, get instant lint + security-scan results. https://skill",
+    "id": "Larslllllll/skillsmith-web",
+    "language": "HTML",
+    "name": "Larslllllll/skillsmith-web",
+    "stars": 0,
+    "updated_at": "2026-08-24T20:13:28Z",
+    "url": "https://github.com/Larslllllll/skillsmith-web"
+  },
+  {
+    "description": "\u7389\u82ac\u6280\u80fd\u4ed3\u5e93",
+    "id": "openclaw-cn-dev/yuxin-skills",
+    "language": "Python",
+    "name": "openclaw-cn-dev/yuxin-skills",
+    "stars": 0,
+    "updated_at": "2026-08-24T20:13:03Z",
+    "url": "https://github.com/openclaw-cn-dev/yuxin-skills"
   },
   {
     "description": "Exerc\u00edcio: Primeiros Passos com GitHub Copilot",
@@ -54,13 +144,13 @@
     "url": "https://github.com/krake747/skills"
   },
   {
-    "description": "",
-    "id": "msribeiror29/HomeLabs-CybersecuritySkills",
-    "language": "\u2014",
-    "name": "msribeiror29/HomeLabs-CybersecuritySkills",
+    "description": "Protect your code with automated testing",
+    "id": "LanaCutter/skills-test-with-actions",
+    "language": "Python",
+    "name": "LanaCutter/skills-test-with-actions",
     "stars": 0,
-    "updated_at": "2026-08-24T20:11:54Z",
-    "url": "https://github.com/msribeiror29/HomeLabs-CybersecuritySkills"
+    "updated_at": "2026-08-24T20:12:48Z",
+    "url": "https://github.com/LanaCutter/skills-test-with-actions"
   },
   {
     "description": "",
@@ -70,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T20:11:52Z",
     "url": "https://github.com/Cyber-G3/spectrasec-ai-skills"
+  },
+  {
+    "description": "Self-driving plan-audit-fix loop: Claude plans, GPT-5.4 audits, peer deliberation, multi-pass parallel code audits",
+    "id": "Lbstrydom/claude-engineering-skills",
+    "language": "JavaScript",
+    "name": "Lbstrydom/claude-engineering-skills",
+    "stars": 0,
+    "updated_at": "2026-08-24T20:11:50Z",
+    "url": "https://github.com/Lbstrydom/claude-engineering-skills"
   },
   {
     "description": "Eight evaluated Agent Skills for an end-to-end AI product management workflow",
@@ -387,15 +486,6 @@
     "url": "https://github.com/bgutschke/skills"
   },
   {
-    "description": "My personal Agent Skills for coding agents: engineering workflows plus a few personal-use tools. Personalized forks, wit",
-    "id": "martonpaulo/skills",
-    "language": "Python",
-    "name": "martonpaulo/skills",
-    "stars": 0,
-    "updated_at": "2026-08-24T20:10:24Z",
-    "url": "https://github.com/martonpaulo/skills"
-  },
-  {
     "description": "Exercise: GitHub Copilot Code Review",
     "id": "cet-ashamimi/skills-copilot-code-review",
     "language": "JavaScript",
@@ -466,15 +556,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T20:05:25Z",
     "url": "https://github.com/jzbick/agent-skills"
-  },
-  {
-    "description": "Live browser demo for skillsmith: paste a Claude Agent SKILL.md, get instant lint + security-scan results. https://skill",
-    "id": "Larslllllll/skillsmith-web",
-    "language": "HTML",
-    "name": "Larslllllll/skillsmith-web",
-    "stars": 0,
-    "updated_at": "2026-08-24T20:13:28Z",
-    "url": "https://github.com/Larslllllll/skillsmith-web"
   },
   {
     "description": "Lint, scaffold, package, and security-scan Claude Agent Skills (SKILL.md). Validated against 13 real Prime Agent skills ",
@@ -576,15 +657,6 @@
     "url": "https://github.com/mistakenot/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 33,
-    "updated_at": "2026-08-24T20:03:07Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "",
     "id": "yashwanthtalari/SkillSync",
     "language": "TypeScript",
@@ -619,15 +691,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T20:02:52Z",
     "url": "https://github.com/usermeme/skills"
-  },
-  {
-    "description": "",
-    "id": "cdixdev/skills-review-pull-requests",
-    "language": "HTML",
-    "name": "cdixdev/skills-review-pull-requests",
-    "stars": 0,
-    "updated_at": "2026-08-24T20:13:43Z",
-    "url": "https://github.com/cdixdev/skills-review-pull-requests"
   },
   {
     "description": "Personal agent skills for design engineering, fluid UI, modern CSS/HTML, and AI judgement",
@@ -720,15 +783,6 @@
     "url": "https://github.com/upstash/skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-24T20:00:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Deterministic design critique for HTML/CSS: 73 slop guards from the rules professional designers use in production-grade",
     "id": "Gesso-Build/skills",
     "language": "TypeScript",
@@ -801,15 +855,6 @@
     "url": "https://github.com/houseoftag/claude-skills"
   },
   {
-    "description": "Protect your code with automated testing",
-    "id": "LanaCutter/skills-test-with-actions",
-    "language": "Python",
-    "name": "LanaCutter/skills-test-with-actions",
-    "stars": 0,
-    "updated_at": "2026-08-24T20:12:48Z",
-    "url": "https://github.com/LanaCutter/skills-test-with-actions"
-  },
-  {
     "description": "",
     "id": "sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker",
     "language": "JavaScript",
@@ -853,50 +898,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T19:58:13Z",
     "url": "https://github.com/owenphiri/skills-introduction-to-github"
-  },
-  {
-    "description": "Shared skills for AI agents (Claude Code, Codex, Gemini)",
-    "id": "grahama1970/agent-skills",
-    "language": "Python",
-    "name": "grahama1970/agent-skills",
-    "stars": 5,
-    "updated_at": "2026-08-24T19:58:03Z",
-    "url": "https://github.com/grahama1970/agent-skills"
-  },
-  {
-    "description": "Claude Code skills for real-world development workflows \u2014 audit, full-audit, plan, dsgvo",
-    "id": "raaaf/claude-skills",
-    "language": "Shell",
-    "name": "raaaf/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-08-24T19:57:50Z",
-    "url": "https://github.com/raaaf/claude-skills"
-  },
-  {
-    "description": "Motion skill",
-    "id": "lumynixlab/mkdir--p-.claude-skills",
-    "language": "\u2014",
-    "name": "lumynixlab/mkdir--p-.claude-skills",
-    "stars": 0,
-    "updated_at": "2026-08-24T19:57:45Z",
-    "url": "https://github.com/lumynixlab/mkdir--p-.claude-skills"
-  },
-  {
-    "description": "Agent skills that reconcile reported status against Jira, GitHub, Slack and the PRD",
-    "id": "Pulseboard-ai/execution-drift-skills",
-    "language": "Python",
-    "name": "Pulseboard-ai/execution-drift-skills",
-    "stars": 1,
-    "updated_at": "2026-08-24T19:57:22Z",
-    "url": "https://github.com/Pulseboard-ai/execution-drift-skills"
-  },
-  {
-    "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
-    "id": "alirezarezvani/claude-skills",
-    "language": "Python",
-    "name": "alirezarezvani/claude-skills",
-    "stars": 24906,
-    "updated_at": "2026-08-24T20:05:10Z",
-    "url": "https://github.com/alirezarezvani/claude-skills"
   }
 ]
