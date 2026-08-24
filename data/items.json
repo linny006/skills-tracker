@@ -1,5 +1,23 @@
 [
   {
+    "description": "ITI Employability Skills 360 MCQs test with answers and proper explaination with score card",
+    "id": "sudipta2580/employability-skills",
+    "language": "\u2014",
+    "name": "sudipta2580/employability-skills",
+    "stars": 0,
+    "updated_at": "2026-08-24T17:00:53Z",
+    "url": "https://github.com/sudipta2580/employability-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-24T17:00:40Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -828,15 +846,6 @@
     "url": "https://github.com/imrohitagrawal/stackclimb-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-24T16:45:36Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Exercise: Introduction to GitHub",
     "id": "Jerry-John-Doviavu/skills-introduction-to-github",
     "language": "\u2014",
@@ -889,14 +898,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T16:45:00Z",
     "url": "https://github.com/echanhitachi/skills-build-applications-w-copilot-agent-mode"
-  },
-  {
-    "description": "Personal Agent Skills library \u2014 spec-conformant, versioned, per-skill semver releases",
-    "id": "villavicencio/skills",
-    "language": "Python",
-    "name": "villavicencio/skills",
-    "stars": 0,
-    "updated_at": "2026-08-24T16:44:48Z",
-    "url": "https://github.com/villavicencio/skills"
   }
 ]
