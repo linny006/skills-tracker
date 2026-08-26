@@ -1,5 +1,86 @@
 [
   {
+    "description": "Exercise: Build applications with GitHub Copilot agent mode",
+    "id": "raghavendrakodimala/skills-build-applications-w-copilot-agent-mode",
+    "language": "Shell",
+    "name": "raghavendrakodimala/skills-build-applications-w-copilot-agent-mode",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:30:32Z",
+    "url": "https://github.com/raghavendrakodimala/skills-build-applications-w-copilot-agent-mode"
+  },
+  {
+    "description": "",
+    "id": "heshamalhamrawi/Presentation-Skills",
+    "language": "HTML",
+    "name": "heshamalhamrawi/Presentation-Skills",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:30:28Z",
+    "url": "https://github.com/heshamalhamrawi/Presentation-Skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "takeshi-is/skills-introduction-to-git",
+    "language": "\u2014",
+    "name": "takeshi-is/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:30:20Z",
+    "url": "https://github.com/takeshi-is/skills-introduction-to-git"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 33,
+    "updated_at": "2026-08-26T13:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "luanxavier-21dbm/skills-introduction-to-git",
+    "language": "\u2014",
+    "name": "luanxavier-21dbm/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:30:27Z",
+    "url": "https://github.com/luanxavier-21dbm/skills-introduction-to-git"
+  },
+  {
+    "description": "skills_of_plant_simulation",
+    "id": "CrazyCarlG/skills_of_plant_simulation",
+    "language": "Python",
+    "name": "CrazyCarlG/skills_of_plant_simulation",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:30:02Z",
+    "url": "https://github.com/CrazyCarlG/skills_of_plant_simulation"
+  },
+  {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "jameenramsaitv-collab/skills-getting-started-with-github-copilot",
+    "language": "\u2014",
+    "name": "jameenramsaitv-collab/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:29:55Z",
+    "url": "https://github.com/jameenramsaitv-collab/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-26T13:29:34Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "andedevx/skills-introduction-to-git",
+    "language": "\u2014",
+    "name": "andedevx/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:29:44Z",
+    "url": "https://github.com/andedevx/skills-introduction-to-git"
+  },
+  {
     "description": "",
     "id": "NunoAMS/skills-communicate-using-markdown",
     "language": "\u2014",
@@ -9,13 +90,13 @@
     "url": "https://github.com/NunoAMS/skills-communicate-using-markdown"
   },
   {
-    "description": "Exercise: Introduction to Git",
-    "id": "andedevx/skills-introduction-to-git",
+    "description": "Exercise: Introduction to GitHub",
+    "id": "MarcoBonicelli/skills-introduction-to-github",
     "language": "\u2014",
-    "name": "andedevx/skills-introduction-to-git",
+    "name": "MarcoBonicelli/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-08-26T13:29:11Z",
-    "url": "https://github.com/andedevx/skills-introduction-to-git"
+    "updated_at": "2026-08-26T13:29:13Z",
+    "url": "https://github.com/MarcoBonicelli/skills-introduction-to-github"
   },
   {
     "description": "",
@@ -113,7 +194,7 @@
     "language": "\u2014",
     "name": "Devivdb/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-08-26T13:27:05Z",
+    "updated_at": "2026-08-26T13:30:25Z",
     "url": "https://github.com/Devivdb/skills-introduction-to-github"
   },
   {
@@ -151,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T13:26:44Z",
     "url": "https://github.com/joysherin23-max/SkillSwap"
-  },
-  {
-    "description": "skills_of_plant_simulation",
-    "id": "CrazyCarlG/skills_of_plant_simulation",
-    "language": "Python",
-    "name": "CrazyCarlG/skills_of_plant_simulation",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:26:41Z",
-    "url": "https://github.com/CrazyCarlG/skills_of_plant_simulation"
   },
   {
     "description": "",
@@ -245,7 +317,7 @@
   {
     "description": "Exercise: Get started using GitHub Copilot",
     "id": "suenod39-design/skills-getting-started-with-github-copilot",
-    "language": "\u2014",
+    "language": "JavaScript",
     "name": "suenod39-design/skills-getting-started-with-github-copilot",
     "stars": 0,
     "updated_at": "2026-08-26T13:23:56Z",
@@ -268,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T13:23:51Z",
     "url": "https://github.com/achollet/little-coder-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "MarcoBonicelli/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "MarcoBonicelli/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:29:13Z",
-    "url": "https://github.com/MarcoBonicelli/skills-introduction-to-github"
   },
   {
     "description": "Exercise: Introduction to Git",
@@ -419,7 +482,7 @@
     "language": "Python",
     "name": "jaysson1710/skills-introduction-to-codeql",
     "stars": 0,
-    "updated_at": "2026-08-26T13:28:25Z",
+    "updated_at": "2026-08-26T13:29:41Z",
     "url": "https://github.com/jaysson1710/skills-introduction-to-codeql"
   },
   {
@@ -430,15 +493,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T13:21:24Z",
     "url": "https://github.com/Apocolyptica/skills-scale-institutional-knowledge-using-copilot-spaces"
-  },
-  {
-    "description": "",
-    "id": "heshamalhamrawi/Presentation-Skills",
-    "language": "HTML",
-    "name": "heshamalhamrawi/Presentation-Skills",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:21:12Z",
-    "url": "https://github.com/heshamalhamrawi/Presentation-Skills"
   },
   {
     "description": "",
@@ -599,7 +653,7 @@
     "language": "TypeScript",
     "name": "reactankita/SkillSetu",
     "stars": 0,
-    "updated_at": "2026-08-26T13:17:41Z",
+    "updated_at": "2026-08-26T13:30:31Z",
     "url": "https://github.com/reactankita/SkillSetu"
   },
   {
@@ -738,21 +792,12 @@
     "url": "https://github.com/FreakStudioCN/MicroPython_Skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-26T13:15:36Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
     "name": "linny006/awesome-agent-skills",
     "stars": 27,
-    "updated_at": "2026-08-26T13:15:35Z",
+    "updated_at": "2026-08-26T13:30:37Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
@@ -779,17 +824,8 @@
     "language": "TypeScript",
     "name": "palamooradithyagoud/SkillsCatalyst",
     "stars": 0,
-    "updated_at": "2026-08-26T13:15:17Z",
+    "updated_at": "2026-08-26T13:30:18Z",
     "url": "https://github.com/palamooradithyagoud/SkillsCatalyst"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 33,
-    "updated_at": "2026-08-26T13:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "General Skills Development Pipeline - Claude Code & Codex",
@@ -860,43 +896,7 @@
     "language": "Shell",
     "name": "CameronKahrs-Microsoft/skills-build-applications-w-copilot-agent-mode",
     "stars": 0,
-    "updated_at": "2026-08-26T13:24:41Z",
+    "updated_at": "2026-08-26T13:30:17Z",
     "url": "https://github.com/CameronKahrs-Microsoft/skills-build-applications-w-copilot-agent-mode"
-  },
-  {
-    "description": "",
-    "id": "maximejolivet/chatbot-skills-ia",
-    "language": "PHP",
-    "name": "maximejolivet/chatbot-skills-ia",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:14:03Z",
-    "url": "https://github.com/maximejolivet/chatbot-skills-ia"
-  },
-  {
-    "description": "Insights on skills and salaries using real data (scraped from Linkedin) - https://rafabelokurows.github.io/data-analyst-",
-    "id": "rafabelokurows/data-analyst-job-skills",
-    "language": "Jupyter Notebook",
-    "name": "rafabelokurows/data-analyst-job-skills",
-    "stars": 3,
-    "updated_at": "2026-08-26T13:13:57Z",
-    "url": "https://github.com/rafabelokurows/data-analyst-job-skills"
-  },
-  {
-    "description": "\ud83e\ude9a My AI skills toolbox",
-    "id": "ThiagoPanini/panlabs-skills",
-    "language": "JavaScript",
-    "name": "ThiagoPanini/panlabs-skills",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:13:55Z",
-    "url": "https://github.com/ThiagoPanini/panlabs-skills"
-  },
-  {
-    "description": "Exercise: introduction to repository management",
-    "id": "GitHubCopilot-02/skills-introduction-to-repository-management",
-    "language": "JavaScript",
-    "name": "GitHubCopilot-02/skills-introduction-to-repository-management",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:13:45Z",
-    "url": "https://github.com/GitHubCopilot-02/skills-introduction-to-repository-management"
   }
 ]
