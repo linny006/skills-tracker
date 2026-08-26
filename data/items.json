@@ -1,5 +1,23 @@
 [
   {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 26,
+    "updated_at": "2026-08-26T03:15:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-26T03:15:30Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Orchestration skills for evidence-driven codebase research, semantic batch refactoring, and deep research reports \u2014 incl",
     "id": "caikiji/skills-lab",
     "language": "\u2014",
@@ -27,9 +45,18 @@
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
+    "description": "Ling's shared Claude Code skills marketplace. Build a skill, publish it here, let anyone fork it.",
+    "id": "ling-app/ling-skills",
+    "language": "Python",
+    "name": "ling-app/ling-skills",
+    "stars": 0,
+    "updated_at": "2026-08-26T03:15:07Z",
+    "url": "https://github.com/ling-app/ling-skills"
+  },
+  {
     "description": "Exercise: Get started using GitHub Copilot",
     "id": "LivbjergStudent/skills-getting-started-with-github-copilot",
-    "language": "JavaScript",
+    "language": "Python",
     "name": "LivbjergStudent/skills-getting-started-with-github-copilot",
     "stars": 0,
     "updated_at": "2026-08-26T03:14:43Z",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:14:29Z",
     "url": "https://github.com/tndevproj/professional-skills-training-automation"
-  },
-  {
-    "description": "Ling's shared Claude Code skills marketplace. Build a skill, publish it here, let anyone fork it.",
-    "id": "ling-app/ling-skills",
-    "language": "Python",
-    "name": "ling-app/ling-skills",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:15:07Z",
-    "url": "https://github.com/ling-app/ling-skills"
   },
   {
     "description": "\u62e8\u5f00\u8ff7\u96fe\u770b\u89c1\u7ec8\u70b9\uff0c\u5269\u4e0b\u7684\u4ea4\u7ed9\u4efb\u52a1\u680f\u3002Part the fog, see the end \u2014 the task bar handles the rest. \ud83c\udfae mattpocock/skills \u7684 DSH \u6e38\u620f\u4efb\u52a1\u7cfb\u7edf\uff1amap \u62e8\u8ff7\u96fe\uff0c\u4efb\u52a1",
@@ -396,15 +414,6 @@
     "url": "https://github.com/deuriib/agent-skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 26,
-    "updated_at": "2026-08-26T03:06:40Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Working Repo for skills.oobcreative.com",
     "id": "rodneyobyrne/oobSKILLS",
     "language": "HTML",
@@ -428,7 +437,7 @@
     "language": "Shell",
     "name": "maro114510/skills",
     "stars": 1,
-    "updated_at": "2026-08-26T03:11:56Z",
+    "updated_at": "2026-08-26T03:15:49Z",
     "url": "https://github.com/maro114510/skills"
   },
   {
@@ -718,15 +727,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:00:54Z",
     "url": "https://github.com/QNFO/qnfo-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-26T03:00:34Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "My AI skills library - synced from Claude Code",
