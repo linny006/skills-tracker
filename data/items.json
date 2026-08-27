@@ -1,6 +1,42 @@
 [
   {
     "description": "Exercise: Introduction to Git",
+    "id": "alexander-stockton/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "alexander-stockton/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:45:26Z",
+    "url": "https://github.com/alexander-stockton/skills-introduction-to-git"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T20:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-27T20:45:07Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Canonical Agent Skills library for Claude Code, Cursor, Codex, and other agents.",
+    "id": "lgtm-hq/ai-skills",
+    "language": "Python",
+    "name": "lgtm-hq/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:44:53Z",
+    "url": "https://github.com/lgtm-hq/ai-skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
     "id": "DilyaraD/skills-introduction-to-git",
     "language": "Shell",
     "name": "DilyaraD/skills-introduction-to-git",
@@ -18,13 +54,22 @@
     "url": "https://github.com/duke5am/skills-for-proot-distro-ubuntu"
   },
   {
-    "description": "Exercise: Communicate using Markdown",
-    "id": "JimmyyyChen/skills-communicate-using-markdown",
-    "language": "\u2014",
-    "name": "JimmyyyChen/skills-communicate-using-markdown",
+    "description": "Reusable agent skills",
+    "id": "zanellig/skills",
+    "language": "JavaScript",
+    "name": "zanellig/skills",
     "stars": 0,
-    "updated_at": "2026-08-27T20:44:47Z",
-    "url": "https://github.com/JimmyyyChen/skills-communicate-using-markdown"
+    "updated_at": "2026-08-27T20:44:46Z",
+    "url": "https://github.com/zanellig/skills"
+  },
+  {
+    "description": "",
+    "id": "tquinzain59/hermes-core-skills-recouvrement",
+    "language": "Python",
+    "name": "tquinzain59/hermes-core-skills-recouvrement",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:44:41Z",
+    "url": "https://github.com/tquinzain59/hermes-core-skills-recouvrement"
   },
   {
     "description": "My copy of the skills course on changing commit history",
@@ -45,15 +90,6 @@
     "url": "https://github.com/agutierrez11/mis-agentes-y-skills"
   },
   {
-    "description": "Canonical Agent Skills library for Claude Code, Cursor, Codex, and other agents.",
-    "id": "lgtm-hq/ai-skills",
-    "language": "Python",
-    "name": "lgtm-hq/ai-skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T20:44:53Z",
-    "url": "https://github.com/lgtm-hq/ai-skills"
-  },
-  {
     "description": "My clone repository",
     "id": "TheoShiako/skills-connect-the-dots",
     "language": "\u2014",
@@ -70,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T20:44:11Z",
     "url": "https://github.com/scss1199/ai_fleet_skills"
+  },
+  {
+    "description": "Claude Code skills for Test-Led Development (TLD) \u2014 per-repo campaign config, JIRA-backed workflow",
+    "id": "Jbrawner/tld-skills",
+    "language": "JavaScript",
+    "name": "Jbrawner/tld-skills",
+    "stars": 3,
+    "updated_at": "2026-08-27T20:44:08Z",
+    "url": "https://github.com/Jbrawner/tld-skills"
   },
   {
     "description": "Keyboarding skills",
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "okqixiaobao727-design/agentcrew-dev-skills",
     "stars": 1,
-    "updated_at": "2026-08-27T20:42:42Z",
+    "updated_at": "2026-08-27T20:45:15Z",
     "url": "https://github.com/okqixiaobao727-design/agentcrew-dev-skills"
   },
   {
@@ -268,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T20:45:03Z",
     "url": "https://github.com/oldcuber/skills-introduction-to-github"
-  },
-  {
-    "description": "Reusable agent skills",
-    "id": "zanellig/skills",
-    "language": "JavaScript",
-    "name": "zanellig/skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T20:44:46Z",
-    "url": "https://github.com/zanellig/skills"
   },
   {
     "description": "Exercise: Agent Orchestration: Build Your AI Dream Team",
@@ -738,15 +774,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-27T20:30:34Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "",
     "id": "floraSaka/gdg-skills",
     "language": "HTML",
@@ -763,15 +790,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T20:30:22Z",
     "url": "https://github.com/silasbrasil/test-api-with-ai-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T20:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T20:28:26Z",
     "url": "https://github.com/afolabi-adesina-m/NA-Skills-Portfolio"
-  },
-  {
-    "description": "SQD's official collection of AI agents skills",
-    "id": "subsquid-labs/skills",
-    "language": "HTML",
-    "name": "subsquid-labs/skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T20:28:09Z",
-    "url": "https://github.com/subsquid-labs/skills"
-  },
-  {
-    "description": "AI short-video production skills for Claude Code \u2014 kie.ai (Nano Banana 2 + Wan 2.6) + ElevenLabs + HyperFrames: setup, a",
-    "id": "milojarow/ai-video-skills",
-    "language": "\u2014",
-    "name": "milojarow/ai-video-skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T20:27:39Z",
-    "url": "https://github.com/milojarow/ai-video-skills"
   }
 ]
