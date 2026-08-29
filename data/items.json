@@ -1,5 +1,68 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T17:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "AHCS26/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "AHCS26/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-08-29T17:15:07Z",
+    "url": "https://github.com/AHCS26/skills-introduction-to-github"
+  },
+  {
+    "description": "Agent skills for development: programming languages, tooling and environments. Router + references format, with evals.",
+    "id": "b1gbr0/dev-skills",
+    "language": "Python",
+    "name": "b1gbr0/dev-skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T17:15:04Z",
+    "url": "https://github.com/b1gbr0/dev-skills"
+  },
+  {
+    "description": "Skills",
+    "id": "newkayak12/claude-skills",
+    "language": "JavaScript",
+    "name": "newkayak12/claude-skills",
+    "stars": 3,
+    "updated_at": "2026-08-29T17:15:00Z",
+    "url": "https://github.com/newkayak12/claude-skills"
+  },
+  {
+    "description": "My public Claude Code skills",
+    "id": "mertbuilds/skills",
+    "language": "Shell",
+    "name": "mertbuilds/skills",
+    "stars": 2,
+    "updated_at": "2026-08-29T17:14:59Z",
+    "url": "https://github.com/mertbuilds/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-29T17:14:51Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Spring Boot 3.2 (Java 21) modular backend for SkillSwap, connecting FPTU students with verified mentors. Features 1-on-1",
+    "id": "fu-skillswap/fu-skillswap-be",
+    "language": "Java",
+    "name": "fu-skillswap/fu-skillswap-be",
+    "stars": 0,
+    "updated_at": "2026-08-29T17:14:36Z",
+    "url": "https://github.com/fu-skillswap/fu-skillswap-be"
+  },
+  {
     "description": "Eigene Claude-Code-Skills als installierbare Plugins. Marktplatz und Inhalt in einem Repo.",
     "id": "florianfinn/claude-skills",
     "language": "\u2014",
@@ -104,7 +167,7 @@
     "language": "HTML",
     "name": "dlmastery/startup-skills",
     "stars": 1,
-    "updated_at": "2026-08-29T17:12:41Z",
+    "updated_at": "2026-08-29T17:15:24Z",
     "url": "https://github.com/dlmastery/startup-skills"
   },
   {
@@ -306,15 +369,6 @@
     "url": "https://github.com/bjrochem72/flutter-audit-skills"
   },
   {
-    "description": "Spring Boot 3.2 (Java 21) modular backend for SkillSwap, connecting FPTU students with verified mentors. Features 1-on-1",
-    "id": "fu-skillswap/fu-skillswap-be",
-    "language": "Java",
-    "name": "fu-skillswap/fu-skillswap-be",
-    "stars": 0,
-    "updated_at": "2026-08-29T17:14:36Z",
-    "url": "https://github.com/fu-skillswap/fu-skillswap-be"
-  },
-  {
     "description": "",
     "id": "starluna-app/solo-skills",
     "language": "Shell",
@@ -477,15 +531,6 @@
     "url": "https://github.com/gabrielrujo/skills-introduction-to-git"
   },
   {
-    "description": "My public Claude Code skills",
-    "id": "mertbuilds/skills",
-    "language": "Shell",
-    "name": "mertbuilds/skills",
-    "stars": 2,
-    "updated_at": "2026-08-29T17:04:38Z",
-    "url": "https://github.com/mertbuilds/skills"
-  },
-  {
     "description": "AI coding assistant skills for building CrowdStrike Falcon Foundry apps: scaffolding, deployment, and best practices for",
     "id": "CrowdStrike/foundry-skills",
     "language": "Shell",
@@ -572,7 +617,7 @@
     "language": "HTML",
     "name": "AnmolS05/ML-based-Resume-Organization-and-Skills-based-Classification",
     "stars": 0,
-    "updated_at": "2026-08-29T17:02:20Z",
+    "updated_at": "2026-08-29T17:15:13Z",
     "url": "https://github.com/AnmolS05/ML-based-Resume-Organization-and-Skills-based-Classification"
   },
   {
@@ -682,24 +727,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T17:00:30Z",
     "url": "https://github.com/bfarley2960/skills-introduction-to-github"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-29T17:00:30Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T17:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\ude9a My AI skills toolbox",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T16:55:40Z",
     "url": "https://github.com/Q1143316492/wey-skills"
-  },
-  {
-    "description": "Skills editoriais do ProjetoAfiliados \u2014 Claude Code plugin",
-    "id": "marcelohaz/afiliados-skills",
-    "language": "Python",
-    "name": "marcelohaz/afiliados-skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:55:06Z",
-    "url": "https://github.com/marcelohaz/afiliados-skills"
-  },
-  {
-    "description": "",
-    "id": "sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker",
-    "language": "JavaScript",
-    "name": "sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:54:56Z",
-    "url": "https://github.com/sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker"
-  },
-  {
-    "description": "",
-    "id": "CowDogMoo/squad-skills",
-    "language": "Python",
-    "name": "CowDogMoo/squad-skills",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:54:49Z",
-    "url": "https://github.com/CowDogMoo/squad-skills"
   }
 ]
