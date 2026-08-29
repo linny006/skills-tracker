@@ -1,11 +1,65 @@
 [
   {
+    "description": "Exercise: Publish Docker Images",
+    "id": "DenizFeital/skills-publish-docker-images",
+    "language": "\u2014",
+    "name": "DenizFeital/skills-publish-docker-images",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:45:45Z",
+    "url": "https://github.com/DenizFeital/skills-publish-docker-images"
+  },
+  {
+    "description": "A curated AI skill pack for Codex/Cursor, with reusable SKILL.md workflows for research, coding, and documentation autom",
+    "id": "YuukiAS/AI_Skills_Collection",
+    "language": "Python",
+    "name": "YuukiAS/AI_Skills_Collection",
+    "stars": 1,
+    "updated_at": "2026-08-29T00:45:30Z",
+    "url": "https://github.com/YuukiAS/AI_Skills_Collection"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 27,
+    "updated_at": "2026-08-29T00:45:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-29T00:45:28Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Skills platform validation working instance \u2014 2nd team",
+    "id": "heymishy/skills-platform-val",
+    "language": "JavaScript",
+    "name": "heymishy/skills-platform-val",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:45:28Z",
+    "url": "https://github.com/heymishy/skills-platform-val"
+  },
+  {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "alexagilfedder/skills-github-pages",
+    "language": "\u2014",
+    "name": "alexagilfedder/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:45:20Z",
+    "url": "https://github.com/alexagilfedder/skills-github-pages"
+  },
+  {
     "description": "",
     "id": "calvingit/skills",
     "language": "HTML",
     "name": "calvingit/skills",
     "stars": 0,
-    "updated_at": "2026-08-29T00:45:22Z",
+    "updated_at": "2026-08-29T00:45:36Z",
     "url": "https://github.com/calvingit/skills"
   },
   {
@@ -36,15 +90,6 @@
     "url": "https://github.com/aleeyaahmad5/skills-exchange-buildweekend"
   },
   {
-    "description": "A curated AI skill pack for Codex/Cursor, with reusable SKILL.md workflows for research, coding, and documentation autom",
-    "id": "YuukiAS/AI_Skills_Collection",
-    "language": "Python",
-    "name": "YuukiAS/AI_Skills_Collection",
-    "stars": 1,
-    "updated_at": "2026-08-29T00:44:57Z",
-    "url": "https://github.com/YuukiAS/AI_Skills_Collection"
-  },
-  {
     "description": "",
     "id": "t-step/skills",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T00:44:14Z",
     "url": "https://github.com/pcanete/claude-brand-system-skills"
-  },
-  {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "alexagilfedder/skills-github-pages",
-    "language": "\u2014",
-    "name": "alexagilfedder/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:45:20Z",
-    "url": "https://github.com/alexagilfedder/skills-github-pages"
   },
   {
     "description": "\u751f\u6210AI\u306e\u751f\u6210\u3059\u308bWEB\u753b\u9762\u304b\u3089AI\u81ed\u3055\u3092\u6d88\u3057\u3001\u4fdd\u5b88\u6027\u306e\u826f\u3044\u30b3\u30fc\u30c9\u3092\u751f\u6210\u3055\u305b\u308b\u30b9\u30ad\u30eb\u306e\u30c6\u30b9\u30c8\u7ba1\u7406",
@@ -531,24 +567,6 @@
     "url": "https://github.com/Peytontalismanic424/paper-share-skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 27,
-    "updated_at": "2026-08-29T00:30:29Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-29T00:30:26Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Discover, verify, and track 296 Claude Code & Agent Skills tools with daily automated health checks.",
     "id": "Anikaar382/claude-skills-live",
     "language": "TypeScript",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T00:21:27Z",
     "url": "https://github.com/Jolyjumbo536/awesome-persona-distill-skills"
-  },
-  {
-    "description": "Distill human behaviors, roles, and personality traits into reusable AI agent skills for your projects.",
-    "id": "LatestPlayz/awesome-persona-skills",
-    "language": "\u2014",
-    "name": "LatestPlayz/awesome-persona-skills",
-    "stars": 2,
-    "updated_at": "2026-08-29T00:21:19Z",
-    "url": "https://github.com/LatestPlayz/awesome-persona-skills"
-  },
-  {
-    "description": "",
-    "id": "mdbabumiamssm/AI-Agentic-Skills-by-Dr.-Mia",
-    "language": "Jupyter Notebook",
-    "name": "mdbabumiamssm/AI-Agentic-Skills-by-Dr.-Mia",
-    "stars": 6,
-    "updated_at": "2026-08-29T00:20:56Z",
-    "url": "https://github.com/mdbabumiamssm/AI-Agentic-Skills-by-Dr.-Mia"
   }
 ]
