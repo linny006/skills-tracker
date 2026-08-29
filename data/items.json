@@ -1,12 +1,75 @@
 [
   {
+    "description": "",
+    "id": "justinjohnson25600/hermes_skills",
+    "language": "Python",
+    "name": "justinjohnson25600/hermes_skills",
+    "stars": 2,
+    "updated_at": "2026-08-29T19:45:26Z",
+    "url": "https://github.com/justinjohnson25600/hermes_skills"
+  },
+  {
     "description": "PMM Skills Marketplace: 25+ agentic skills, commands, and plugins\u2014 from growth experiments to Go-To-Market strategy, exe",
     "id": "stefanoskarakasis/Product-Marketing-Skills",
     "language": "Python",
     "name": "stefanoskarakasis/Product-Marketing-Skills",
     "stars": 5,
-    "updated_at": "2026-08-29T19:44:14Z",
+    "updated_at": "2026-08-29T19:45:18Z",
     "url": "https://github.com/stefanoskarakasis/Product-Marketing-Skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T19:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "jdcastro8/skills-release-based-workflow",
+    "language": "JavaScript",
+    "name": "jdcastro8/skills-release-based-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:45:23Z",
+    "url": "https://github.com/jdcastro8/skills-release-based-workflow"
+  },
+  {
+    "description": "",
+    "id": "enhansome/enhansome-Auto-Research-Skills",
+    "language": "\u2014",
+    "name": "enhansome/enhansome-Auto-Research-Skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:45:05Z",
+    "url": "https://github.com/enhansome/enhansome-Auto-Research-Skills"
+  },
+  {
+    "description": "Outline, build and render course presentations from a Supabase course database, a YAML course directory, or a single fla",
+    "id": "ardakshalkar/professor-slides-skills",
+    "language": "TypeScript",
+    "name": "ardakshalkar/professor-slides-skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:45:04Z",
+    "url": "https://github.com/ardakshalkar/professor-slides-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-29T19:44:23Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Exercise: Resolve Merge Conflicts",
+    "id": "jdcastro8/skills-resolve-merge-conflicts",
+    "language": "\u2014",
+    "name": "jdcastro8/skills-resolve-merge-conflicts",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:44:22Z",
+    "url": "https://github.com/jdcastro8/skills-resolve-merge-conflicts"
   },
   {
     "description": "Creating and testing a new Fermentation skill for high capacity LLM's.",
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T19:44:03Z",
     "url": "https://github.com/mineclover/Skills-Platform"
-  },
-  {
-    "description": "Exercise: Resolve Merge Conflicts",
-    "id": "jdcastro8/skills-resolve-merge-conflicts",
-    "language": "\u2014",
-    "name": "jdcastro8/skills-resolve-merge-conflicts",
-    "stars": 0,
-    "updated_at": "2026-08-29T19:43:59Z",
-    "url": "https://github.com/jdcastro8/skills-resolve-merge-conflicts"
   },
   {
     "description": "Exercise: Resolve Merge Conflicts",
@@ -97,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-08-29T19:43:03Z",
     "url": "https://github.com/PrometheusDevCreator/SkillsForge"
+  },
+  {
+    "description": "repositorio en contiene skills  para los agentes IA, para el desarrollo y agilizaci\u00f3n dentro de la empresa.",
+    "id": "Collie-Valley/collie-skills",
+    "language": "\u2014",
+    "name": "Collie-Valley/collie-skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:43:00Z",
+    "url": "https://github.com/Collie-Valley/collie-skills"
   },
   {
     "description": "",
@@ -437,7 +500,7 @@
     "language": "Python",
     "name": "grahama1970/agent-skills",
     "stars": 5,
-    "updated_at": "2026-08-29T19:33:51Z",
+    "updated_at": "2026-08-29T19:45:22Z",
     "url": "https://github.com/grahama1970/agent-skills"
   },
   {
@@ -558,15 +621,6 @@
     "url": "https://github.com/GraemeMalcolm/ai-skills-nav"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-29T19:30:30Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -583,15 +637,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T19:30:18Z",
     "url": "https://github.com/philter87/deepdraw-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T19:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Public opencode remote rules for The Resonance Team \u2014 general, NestJS, frontend",
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T19:22:35Z",
     "url": "https://github.com/nicogomez94/skills"
-  },
-  {
-    "description": "custom agent skills",
-    "id": "gjkoplik/skills",
-    "language": "HTML",
-    "name": "gjkoplik/skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T19:22:31Z",
-    "url": "https://github.com/gjkoplik/skills"
-  },
-  {
-    "description": "Skills for VHDL development and related MCPs",
-    "id": "ru551n/vhdl-skills",
-    "language": "Shell",
-    "name": "ru551n/vhdl-skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T19:22:17Z",
-    "url": "https://github.com/ru551n/vhdl-skills"
-  },
-  {
-    "description": "Willie Jackson's Claude Code skills: Proxmox/homelab infra, Cloudflare development, web/design verification",
-    "id": "jackson2w/claude-code-skills",
-    "language": "TypeScript",
-    "name": "jackson2w/claude-code-skills",
-    "stars": 1,
-    "updated_at": "2026-08-29T19:22:06Z",
-    "url": "https://github.com/jackson2w/claude-code-skills"
-  },
-  {
-    "description": "",
-    "id": "reedzerric/Master_skills",
-    "language": "Python",
-    "name": "reedzerric/Master_skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T19:21:52Z",
-    "url": "https://github.com/reedzerric/Master_skills"
-  },
-  {
-    "description": "",
-    "id": "tichahong-bit/collect-skills",
-    "language": "\u2014",
-    "name": "tichahong-bit/collect-skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T19:21:32Z",
-    "url": "https://github.com/tichahong-bit/collect-skills"
   }
 ]
