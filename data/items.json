@@ -1,5 +1,68 @@
 [
   {
+    "description": "Skills.sh related",
+    "id": "alnutile/supanet-skills",
+    "language": "\u2014",
+    "name": "alnutile/supanet-skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T23:46:14Z",
+    "url": "https://github.com/alnutile/supanet-skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "GalacticSquirel/skills-copilot-codespaces-vscode",
+    "language": "\u2014",
+    "name": "GalacticSquirel/skills-copilot-codespaces-vscode",
+    "stars": 0,
+    "updated_at": "2026-08-29T23:45:49Z",
+    "url": "https://github.com/GalacticSquirel/skills-copilot-codespaces-vscode"
+  },
+  {
+    "description": "",
+    "id": "oxycodeai/OXYCODE-SKILLS",
+    "language": "HTML",
+    "name": "oxycodeai/OXYCODE-SKILLS",
+    "stars": 0,
+    "updated_at": "2026-08-29T23:45:42Z",
+    "url": "https://github.com/oxycodeai/OXYCODE-SKILLS"
+  },
+  {
+    "description": "Skills for AI for frameworks and workflows from A Smart Bear articles and the book Hidden Multipliers",
+    "id": "asmartbear/asb-skills",
+    "language": "MDX",
+    "name": "asmartbear/asb-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T23:45:42Z",
+    "url": "https://github.com/asmartbear/asb-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-29T23:45:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 27,
+    "updated_at": "2026-08-29T23:45:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
+    "id": "sudosubin/nix-skills",
+    "language": "TypeScript",
+    "name": "sudosubin/nix-skills",
+    "stars": 12,
+    "updated_at": "2026-08-29T23:45:18Z",
+    "url": "https://github.com/sudosubin/nix-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 34,
     "updated_at": "2026-08-29T23:45:16Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "b3an5j/SkillSwap",
+    "language": "HTML",
+    "name": "b3an5j/SkillSwap",
+    "stars": 0,
+    "updated_at": "2026-08-29T23:45:11Z",
+    "url": "https://github.com/b3an5j/SkillSwap"
   },
   {
     "description": "",
@@ -23,17 +95,8 @@
     "language": "Python",
     "name": "quantipixels/skills",
     "stars": 0,
-    "updated_at": "2026-08-29T23:44:45Z",
+    "updated_at": "2026-08-29T23:45:34Z",
     "url": "https://github.com/quantipixels/skills"
-  },
-  {
-    "description": "",
-    "id": "oxycodeai/OXYCODE-SKILLS",
-    "language": "HTML",
-    "name": "oxycodeai/OXYCODE-SKILLS",
-    "stars": 0,
-    "updated_at": "2026-08-29T23:44:12Z",
-    "url": "https://github.com/oxycodeai/OXYCODE-SKILLS"
   },
   {
     "description": "",
@@ -113,7 +176,7 @@
     "language": "\u2014",
     "name": "BDV25/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-08-29T23:41:43Z",
+    "updated_at": "2026-08-29T23:45:34Z",
     "url": "https://github.com/BDV25/skills-communicate-using-markdown"
   },
   {
@@ -252,15 +315,6 @@
     "url": "https://github.com/manasanudeep08/skillswap-sih"
   },
   {
-    "description": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
-    "id": "sudosubin/nix-skills",
-    "language": "TypeScript",
-    "name": "sudosubin/nix-skills",
-    "stars": 12,
-    "updated_at": "2026-08-29T23:45:18Z",
-    "url": "https://github.com/sudosubin/nix-skills"
-  },
-  {
     "description": "our coding agent skills, always up to date with the latest workflows. learn more: runpane.com",
     "id": "dcouple/skills",
     "language": "Python",
@@ -286,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T23:36:34Z",
     "url": "https://github.com/tuanloc1105/codex-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 27,
-    "updated_at": "2026-08-29T23:36:31Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Fleet skill federation \u2014 contributors/darkhero + contributors/scar3",
@@ -511,15 +556,6 @@
     "stars": 77,
     "updated_at": "2026-08-29T23:30:53Z",
     "url": "https://github.com/smith-horn/skillsmith"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-29T23:30:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -862,41 +898,5 @@
     "stars": 5,
     "updated_at": "2026-08-29T23:13:03Z",
     "url": "https://github.com/grahama1970/agent-skills"
-  },
-  {
-    "description": "",
-    "id": "Thood42/Skills",
-    "language": "HTML",
-    "name": "Thood42/Skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T23:12:53Z",
-    "url": "https://github.com/Thood42/Skills"
-  },
-  {
-    "description": "",
-    "id": "farmisen/skills",
-    "language": "\u2014",
-    "name": "farmisen/skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T23:12:39Z",
-    "url": "https://github.com/farmisen/skills"
-  },
-  {
-    "description": "Whole-NSE fundamental quality screener \u2014 FinEdge \u2192 BigQuery \u2192 React on Cloud Run",
-    "id": "vibecoding-skills/equity-screener",
-    "language": "JavaScript",
-    "name": "vibecoding-skills/equity-screener",
-    "stars": 0,
-    "updated_at": "2026-08-29T23:11:15Z",
-    "url": "https://github.com/vibecoding-skills/equity-screener"
-  },
-  {
-    "description": "The skills behind opchain.dev \u2014 interconnected Claude skills that form a complete development pipeline.",
-    "id": "asfbay-bit/opchain-skills",
-    "language": "JavaScript",
-    "name": "asfbay-bit/opchain-skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T23:11:14Z",
-    "url": "https://github.com/asfbay-bit/opchain-skills"
   }
 ]
