@@ -1,12 +1,39 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-08-31T20:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Exercise: Introduction to GitHub",
     "id": "Wang6409/skills-introduction-to-github",
     "language": "\u2014",
     "name": "Wang6409/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-08-31T19:59:17Z",
+    "updated_at": "2026-08-31T19:59:46Z",
     "url": "https://github.com/Wang6409/skills-introduction-to-github"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "Razazele/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "Razazele/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:59:40Z",
+    "url": "https://github.com/Razazele/skills-introduction-to-git"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-31T19:59:36Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -70,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-08-31T19:58:05Z",
     "url": "https://github.com/mariianoel/skills-resolve-merge-conflicts"
+  },
+  {
+    "description": "",
+    "id": "ansanloms/skills",
+    "language": "TypeScript",
+    "name": "ansanloms/skills",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:57:34Z",
+    "url": "https://github.com/ansanloms/skills"
   },
   {
     "description": "Software development skills for Claude Code, Codex CLI, and Agent Plugins clients: deep planning, root-cause analysis, r",
@@ -320,7 +356,7 @@
     "language": "\u2014",
     "name": "extrovert-dot-dev/extrovert-skills",
     "stars": 0,
-    "updated_at": "2026-08-31T19:52:36Z",
+    "updated_at": "2026-08-31T19:59:43Z",
     "url": "https://github.com/extrovert-dot-dev/extrovert-skills"
   },
   {
@@ -459,6 +495,15 @@
     "url": "https://github.com/engine9-ai/skills"
   },
   {
+    "description": "",
+    "id": "zyu-abbvie/AutomationSkills",
+    "language": "Python",
+    "name": "zyu-abbvie/AutomationSkills",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:49:12Z",
+    "url": "https://github.com/zyu-abbvie/AutomationSkills"
+  },
+  {
     "description": "Exercise: Introduction to GitHub",
     "id": "dav3626/skills-introduction-to-github",
     "language": "\u2014",
@@ -565,24 +610,6 @@
     "stars": 27,
     "updated_at": "2026-08-31T19:45:34Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-31T19:45:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-08-31T19:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Exercise: introduction to repository management",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T19:37:33Z",
     "url": "https://github.com/Skibbedabeba/skills-introduction-to-git"
-  },
-  {
-    "description": "A 13-week structured skills refresh covering advanced SQL, Python, data modelling, and modern data engineering / analyti",
-    "id": "LalaGabor/data-engineering-skills-refresh",
-    "language": "\u2014",
-    "name": "LalaGabor/data-engineering-skills-refresh",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:37:13Z",
-    "url": "https://github.com/LalaGabor/data-engineering-skills-refresh"
-  },
-  {
-    "description": "Claude skills for PxWebAPI v2 and v1. Main skill is towards Statistics Norway (SSB). Also Jupyter notebooks, javascript ",
-    "id": "janbrus/pxwebapi-skills",
-    "language": "Jupyter Notebook",
-    "name": "janbrus/pxwebapi-skills",
-    "stars": 10,
-    "updated_at": "2026-08-31T19:36:44Z",
-    "url": "https://github.com/janbrus/pxwebapi-skills"
-  },
-  {
-    "description": "Public canon skills distribution repo",
-    "id": "sunitghub/canon-skills",
-    "language": "Shell",
-    "name": "sunitghub/canon-skills",
-    "stars": 7,
-    "updated_at": "2026-08-31T19:36:39Z",
-    "url": "https://github.com/sunitghub/canon-skills"
   }
 ]
