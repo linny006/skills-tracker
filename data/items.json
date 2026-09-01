@@ -1,30 +1,93 @@
 [
   {
+    "description": "Buyna.ai team website development and GlobePay Codex skills",
+    "id": "Kaku-shiko/buyna-agent-skills",
+    "language": "JavaScript",
+    "name": "Kaku-shiko/buyna-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:30:28Z",
+    "url": "https://github.com/Kaku-shiko/buyna-agent-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 35,
-    "updated_at": "2026-09-01T01:15:24Z",
+    "updated_at": "2026-09-01T01:30:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
-    "description": "",
-    "id": "stymism/farman-skills",
-    "language": "Python",
-    "name": "stymism/farman-skills",
+    "description": "My clone repository",
+    "id": "fikriupm/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "fikriupm/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-09-01T01:15:03Z",
-    "url": "https://github.com/stymism/farman-skills"
+    "updated_at": "2026-09-01T01:30:11Z",
+    "url": "https://github.com/fikriupm/skills-introduction-to-github"
   },
   {
-    "description": "Agentic Skills for Development",
-    "id": "g0ld2k/Skills",
+    "description": "\u4e2a\u4eba\u5de5\u4f5c\u7528 Codex skills \u4ed3\u5e93",
+    "id": "ArdenZC/codex-work-skills",
     "language": "Python",
-    "name": "g0ld2k/Skills",
+    "name": "ArdenZC/codex-work-skills",
     "stars": 0,
-    "updated_at": "2026-09-01T01:14:50Z",
-    "url": "https://github.com/g0ld2k/Skills"
+    "updated_at": "2026-09-01T01:30:11Z",
+    "url": "https://github.com/ArdenZC/codex-work-skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "VitHgo/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "VitHgo/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:30:09Z",
+    "url": "https://github.com/VitHgo/skills-introduction-to-github"
+  },
+  {
+    "description": "Serenity (@aleabitoreddit) AI/semiconductor supply-chain chokepoint skills \u2014 install via: npx skills add 14H034160212/se",
+    "id": "14H034160212/serenity-skills",
+    "language": "\u2014",
+    "name": "14H034160212/serenity-skills",
+    "stars": 3,
+    "updated_at": "2026-09-01T01:30:07Z",
+    "url": "https://github.com/14H034160212/serenity-skills"
+  },
+  {
+    "description": "Enterprise gateway for git-distributed AI agent skill marketplaces (Claude Code, Copilot, Cursor)",
+    "id": "skillsgateway/skillsgateway",
+    "language": "JavaScript",
+    "name": "skillsgateway/skillsgateway",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:30:10Z",
+    "url": "https://github.com/skillsgateway/skillsgateway"
+  },
+  {
+    "description": "",
+    "id": "dangstan/claude-video-skills",
+    "language": "Shell",
+    "name": "dangstan/claude-video-skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:29:10Z",
+    "url": "https://github.com/dangstan/claude-video-skills"
+  },
+  {
+    "description": "Custom AI agent skills for spec-driven development: write-a-prd, prd-to-issues, issues-to-openspec",
+    "id": "carlitose/agent-skills",
+    "language": "Python",
+    "name": "carlitose/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:29:06Z",
+    "url": "https://github.com/carlitose/agent-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "arnieg-wbc/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "arnieg-wbc/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:28:58Z",
+    "url": "https://github.com/arnieg-wbc/skills-introduction-to-github"
   },
   {
     "description": "@itriton/skills \u9762\u5411\u667a\u80fd Agent \u7684\u5b9e\u7528\u6280\u80fd\u96c6\u5408",
@@ -32,17 +95,53 @@
     "language": "Python",
     "name": "icjs-cc/itriton-skills",
     "stars": 0,
-    "updated_at": "2026-09-01T01:14:13Z",
+    "updated_at": "2026-09-01T01:28:52Z",
     "url": "https://github.com/icjs-cc/itriton-skills"
   },
   {
-    "description": "749studio AI \u77ed\u5267\u521b\u4f5c\u65b9\u6cd5\u8bba Skill \u96c6\uff08\u89c6\u89c9\u5bfc\u6f14 / \u5267\u672c\u89c6\u542c\u9002\u914d\uff09",
-    "id": "along99518/749studio-skills",
-    "language": "\u2014",
-    "name": "along99518/749studio-skills",
+    "description": "Two verifiable Agent Skills for human UI review and clear input-output value covers.",
+    "id": "flychicken067/ivan-creator-skills",
+    "language": "HTML",
+    "name": "flychicken067/ivan-creator-skills",
     "stars": 0,
-    "updated_at": "2026-09-01T01:14:10Z",
-    "url": "https://github.com/along99518/749studio-skills"
+    "updated_at": "2026-09-01T01:28:47Z",
+    "url": "https://github.com/flychicken067/ivan-creator-skills"
+  },
+  {
+    "description": "",
+    "id": "OmicoDev/skills",
+    "language": "JavaScript",
+    "name": "OmicoDev/skills",
+    "stars": 8,
+    "updated_at": "2026-09-01T01:28:24Z",
+    "url": "https://github.com/OmicoDev/skills"
+  },
+  {
+    "description": "Sharing some useful skills",
+    "id": "ZeyuLing/research_autocode_skills",
+    "language": "JavaScript",
+    "name": "ZeyuLing/research_autocode_skills",
+    "stars": 9,
+    "updated_at": "2026-09-01T01:28:22Z",
+    "url": "https://github.com/ZeyuLing/research_autocode_skills"
+  },
+  {
+    "description": "",
+    "id": "YYY-AI-001/Prompt_Skills",
+    "language": "Python",
+    "name": "YYY-AI-001/Prompt_Skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:28:12Z",
+    "url": "https://github.com/YYY-AI-001/Prompt_Skills"
+  },
+  {
+    "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
+    "id": "phuati/claude-skills-arsenal",
+    "language": "HTML",
+    "name": "phuati/claude-skills-arsenal",
+    "stars": 1,
+    "updated_at": "2026-09-01T01:27:33Z",
+    "url": "https://github.com/phuati/claude-skills-arsenal"
   },
   {
     "description": "Universal, production-ready AI Agent Skills & Plugins for Claude Code, OpenAI Codex, Google Antigravity, and OpenCode.",
@@ -50,224 +149,107 @@
     "language": "HTML",
     "name": "nchungdev/agent-skills",
     "stars": 0,
-    "updated_at": "2026-09-01T01:15:05Z",
+    "updated_at": "2026-09-01T01:27:23Z",
     "url": "https://github.com/nchungdev/agent-skills"
   },
   {
-    "description": "Zane's reusable career asset Skills: resumes, portfolios, case studies, localization, visual references, and release QA.",
-    "id": "xuehuafu233-alt/zane-career-skills",
-    "language": "Python",
-    "name": "xuehuafu233-alt/zane-career-skills",
+    "description": "Working Repo for skills.oobcreative.com",
+    "id": "rodneyobyrne/oobSKILLS",
+    "language": "HTML",
+    "name": "rodneyobyrne/oobSKILLS",
     "stars": 0,
-    "updated_at": "2026-09-01T01:13:48Z",
-    "url": "https://github.com/xuehuafu233-alt/zane-career-skills"
+    "updated_at": "2026-09-01T01:27:22Z",
+    "url": "https://github.com/rodneyobyrne/oobSKILLS"
   },
   {
-    "description": "The skills that don't belong to any one project \u2014 Getty's shared skill library for Claude Code and Codex",
-    "id": "Getty/skills",
-    "language": "Perl",
-    "name": "Getty/skills",
+    "description": "Curated, trusted open catalog of AI agent skills for OpenClaw, Claude Code, Codex, GitHub Copilot, Gemini, Cursor, MCP, ",
+    "id": "agentskillexchange/skills",
+    "language": "Python",
+    "name": "agentskillexchange/skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T01:27:20Z",
+    "url": "https://github.com/agentskillexchange/skills"
+  },
+  {
+    "description": "\u56e2\u961fai\u5f00\u53d1\u89c4\u8303skills",
+    "id": "CDTRSFE/trsai-skills",
+    "language": "JavaScript",
+    "name": "CDTRSFE/trsai-skills",
     "stars": 1,
-    "updated_at": "2026-09-01T01:13:45Z",
-    "url": "https://github.com/Getty/skills"
+    "updated_at": "2026-09-01T01:27:19Z",
+    "url": "https://github.com/CDTRSFE/trsai-skills"
   },
   {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "nawanugxilef/skills-getting-started-with-github-copilot",
+    "description": "My clone repository",
+    "id": "MoizDev98/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "MoizDev98/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:27:08Z",
+    "url": "https://github.com/MoizDev98/skills-introduction-to-github"
+  },
+  {
+    "description": "",
+    "id": "Adonis0123/adonis-skills",
     "language": "JavaScript",
-    "name": "nawanugxilef/skills-getting-started-with-github-copilot",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:13:44Z",
-    "url": "https://github.com/nawanugxilef/skills-getting-started-with-github-copilot"
+    "name": "Adonis0123/adonis-skills",
+    "stars": 2,
+    "updated_at": "2026-09-01T01:26:02Z",
+    "url": "https://github.com/Adonis0123/adonis-skills"
   },
   {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "eacerone/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "eacerone/skills-introduction-to-github",
+    "description": "\uac1c\uc778\uc6a9 Claude Code Agent Skills \ubaa8\uc74c \u2014 \uba54\ud0c0(\uc2a4\ud0ac \uc791\uc131) \uc2a4\ud0ac \uc81c\uacf5",
+    "id": "andromedarabbit/aha-skills",
+    "language": "Shell",
+    "name": "andromedarabbit/aha-skills",
     "stars": 0,
-    "updated_at": "2026-09-01T01:13:37Z",
-    "url": "https://github.com/eacerone/skills-introduction-to-github"
-  },
-  {
-    "description": "costrict-plugins mirror of github-trending-cli-power-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/github-trending-cli-power-skills",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/github-trending-cli-power-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:13:34Z",
-    "url": "https://github.com/costrict-plugins-repo/github-trending-cli-power-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of github-trending-claude-workflow-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/github-trending-claude-workflow-skills",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/github-trending-claude-workflow-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:13:30Z",
-    "url": "https://github.com/costrict-plugins-repo/github-trending-claude-workflow-skills"
-  },
-  {
-    "description": "skills we write and use here at dooph. software",
-    "id": "dooph-software/dooph-skills",
-    "language": "\u2014",
-    "name": "dooph-software/dooph-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:13:16Z",
-    "url": "https://github.com/dooph-software/dooph-skills"
+    "updated_at": "2026-09-01T01:25:56Z",
+    "url": "https://github.com/andromedarabbit/aha-skills"
   },
   {
     "description": "",
-    "id": "afa7789/skills",
-    "language": "Shell",
-    "name": "afa7789/skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:12:59Z",
-    "url": "https://github.com/afa7789/skills"
-  },
-  {
-    "description": "",
-    "id": "Fangtsailo/adam_auto_skills",
-    "language": "Shell",
-    "name": "Fangtsailo/adam_auto_skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:12:55Z",
-    "url": "https://github.com/Fangtsailo/adam_auto_skills"
-  },
-  {
-    "description": "A set of agent skills aimed primarily at Claude Code.",
-    "id": "Pyroxin/opinionated-claude-skills",
-    "language": "Shell",
-    "name": "Pyroxin/opinionated-claude-skills",
-    "stars": 9,
-    "updated_at": "2026-09-01T01:12:55Z",
-    "url": "https://github.com/Pyroxin/opinionated-claude-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "Jeanrc0109/skills-introduction-to-github",
+    "id": "enhansome/enhansome-html-slide-skills",
     "language": "\u2014",
-    "name": "Jeanrc0109/skills-introduction-to-github",
+    "name": "enhansome/enhansome-html-slide-skills",
     "stars": 0,
-    "updated_at": "2026-09-01T01:12:40Z",
-    "url": "https://github.com/Jeanrc0109/skills-introduction-to-github"
+    "updated_at": "2026-09-01T01:25:53Z",
+    "url": "https://github.com/enhansome/enhansome-html-slide-skills"
   },
   {
-    "description": "Ascendant Skills extends Puffish Skills with unique passive rewards and advanced mechanics, including enchantment upgrad",
-    "id": "JuanSebLopez/Ascendant-Skills",
-    "language": "Java",
-    "name": "JuanSebLopez/Ascendant-Skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:12:35Z",
-    "url": "https://github.com/JuanSebLopez/Ascendant-Skills"
-  },
-  {
-    "description": "skills.md for codex, code, antigravity (model by gemini)",
-    "id": "akillness/jeo-skills",
-    "language": "TypeScript",
-    "name": "akillness/jeo-skills",
-    "stars": 44,
-    "updated_at": "2026-09-01T01:12:29Z",
-    "url": "https://github.com/akillness/jeo-skills"
-  },
-  {
-    "description": "collection of skills used with ai tools",
-    "id": "clintgeek/ai-skills",
-    "language": "Shell",
-    "name": "clintgeek/ai-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:12:18Z",
-    "url": "https://github.com/clintgeek/ai-skills"
-  },
-  {
-    "description": "",
-    "id": "tqnonline/skills",
+    "description": "The personal collection of agents and skills for AI",
+    "id": "baoduy/agents-and-skills",
     "language": "JavaScript",
-    "name": "tqnonline/skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:14:20Z",
-    "url": "https://github.com/tqnonline/skills"
+    "name": "baoduy/agents-and-skills",
+    "stars": 1,
+    "updated_at": "2026-09-01T01:26:04Z",
+    "url": "https://github.com/baoduy/agents-and-skills"
   },
   {
-    "description": "costrict-plugins mirror of github-trending-all-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/github-trending-all-skills",
-    "language": "Python",
-    "name": "costrict-plugins-repo/github-trending-all-skills",
+    "description": "Reusable coding-agent workflows, starting with a Poteto-powered review-and-fix loop",
+    "id": "builtbycalvin/agent-skills",
+    "language": "JavaScript",
+    "name": "builtbycalvin/agent-skills",
     "stars": 0,
-    "updated_at": "2026-09-01T01:11:53Z",
-    "url": "https://github.com/costrict-plugins-repo/github-trending-all-skills"
-  },
-  {
-    "description": "\u7389\u82ac\u6280\u80fd\u4ed3\u5e93",
-    "id": "openclaw-cn-dev/yuxin-skills",
-    "language": "Python",
-    "name": "openclaw-cn-dev/yuxin-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:11:52Z",
-    "url": "https://github.com/openclaw-cn-dev/yuxin-skills"
-  },
-  {
-    "description": "Claude Code agent skills collection",
-    "id": "WoodSong/my-skills",
-    "language": "Python",
-    "name": "WoodSong/my-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:11:45Z",
-    "url": "https://github.com/WoodSong/my-skills"
+    "updated_at": "2026-09-01T01:25:30Z",
+    "url": "https://github.com/builtbycalvin/agent-skills"
   },
   {
     "description": "",
-    "id": "kk29siisu129t-debug/claude-skills",
-    "language": "Python",
-    "name": "kk29siisu129t-debug/claude-skills",
+    "id": "sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker",
+    "language": "JavaScript",
+    "name": "sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker",
     "stars": 0,
-    "updated_at": "2026-09-01T01:11:42Z",
-    "url": "https://github.com/kk29siisu129t-debug/claude-skills"
+    "updated_at": "2026-09-01T01:25:26Z",
+    "url": "https://github.com/sabareesh2008/ECE-DEPARTMENT-coding-skills-tracker"
   },
   {
-    "description": "costrict-plugins mirror of github-trending-agent-skills-mcp (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/github-trending-agent-skills-mcp",
+    "description": "Willie Jackson's Claude Code skills: Proxmox/homelab infra, Cloudflare development, web/design verification",
+    "id": "jackson2w/claude-code-skills",
     "language": "TypeScript",
-    "name": "costrict-plugins-repo/github-trending-agent-skills-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:11:38Z",
-    "url": "https://github.com/costrict-plugins-repo/github-trending-agent-skills-mcp"
-  },
-  {
-    "description": "Personal agent skills marketplace",
-    "id": "kouko/monkey-skills",
-    "language": "Python",
-    "name": "kouko/monkey-skills",
-    "stars": 6,
-    "updated_at": "2026-09-01T01:11:31Z",
-    "url": "https://github.com/kouko/monkey-skills"
-  },
-  {
-    "description": "skills for self use.",
-    "id": "0x-jerry/skills",
-    "language": "\u2014",
-    "name": "0x-jerry/skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:11:28Z",
-    "url": "https://github.com/0x-jerry/skills"
-  },
-  {
-    "description": "",
-    "id": "crfldrxyz/AuthorOps-Skills",
-    "language": "\u2014",
-    "name": "crfldrxyz/AuthorOps-Skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:11:28Z",
-    "url": "https://github.com/crfldrxyz/AuthorOps-Skills"
-  },
-  {
-    "description": "",
-    "id": "alan-yiu-asiaalliedgroup/skills-hub",
-    "language": "\u2014",
-    "name": "alan-yiu-asiaalliedgroup/skills-hub",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:11:26Z",
-    "url": "https://github.com/alan-yiu-asiaalliedgroup/skills-hub"
+    "name": "jackson2w/claude-code-skills",
+    "stars": 1,
+    "updated_at": "2026-09-01T01:24:56Z",
+    "url": "https://github.com/jackson2w/claude-code-skills"
   },
   {
     "description": "OpenCode skills collection - 290+ skills for scientific computing, automation, and AI workflows",
@@ -275,539 +257,638 @@
     "language": "Python",
     "name": "BrightGold70/skills",
     "stars": 1,
-    "updated_at": "2026-09-01T01:11:23Z",
+    "updated_at": "2026-09-01T01:24:33Z",
     "url": "https://github.com/BrightGold70/skills"
   },
   {
-    "description": "An html prototype to test an online version of the library's Neurodivergent workshops.",
-    "id": "RMITLibrary/skills-for-nd-students",
-    "language": "SCSS",
-    "name": "RMITLibrary/skills-for-nd-students",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:11:20Z",
-    "url": "https://github.com/RMITLibrary/skills-for-nd-students"
-  },
-  {
-    "description": "Production-grade Autonomous AI Agent Skills Suite for Claude Code, Cursor, MCP Market, and Google Antigravity",
-    "id": "ahmedissamramadan/autonomous-agent-skills",
+    "description": "costrict-plugins mirror of trailofbits-trailofbits-testing-handbook-skills (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/trailofbits-trailofbits-testing-handbook-skills",
     "language": "Python",
-    "name": "ahmedissamramadan/autonomous-agent-skills",
+    "name": "costrict-plugins-repo/trailofbits-trailofbits-testing-handbook-skills",
     "stars": 0,
-    "updated_at": "2026-09-01T01:11:18Z",
-    "url": "https://github.com/ahmedissamramadan/autonomous-agent-skills"
+    "updated_at": "2026-09-01T01:24:32Z",
+    "url": "https://github.com/costrict-plugins-repo/trailofbits-trailofbits-testing-handbook-skills"
   },
   {
-    "description": "costrict-plugins mirror of dotnet-dotnet-agent-skills-dotnet11 (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet11",
+    "description": "Exercise: Introduction to GitHub",
+    "id": "masonm-cc/skills-introduction-to-github",
     "language": "\u2014",
-    "name": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet11",
+    "name": "masonm-cc/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-09-01T01:10:59Z",
-    "url": "https://github.com/costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet11"
+    "updated_at": "2026-09-01T01:27:00Z",
+    "url": "https://github.com/masonm-cc/skills-introduction-to-github"
   },
   {
-    "description": "costrict-plugins mirror of dotnet-dotnet-agent-skills-dotnet-upgrade (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-upgrade",
-    "language": "PowerShell",
-    "name": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-upgrade",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:58Z",
-    "url": "https://github.com/costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-upgrade"
-  },
-  {
-    "description": "costrict-plugins mirror of dotnet-dotnet-agent-skills-dotnet (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:58Z",
-    "url": "https://github.com/costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet"
-  },
-  {
-    "description": "19 protocol-driven skills for Claude Code & Codex CLI: an adversarial reviewer, its evidence-grounded analysis spine, a ",
-    "id": "CassioRoos/godfly-skills",
-    "language": "Python",
-    "name": "CassioRoos/godfly-skills",
-    "stars": 1,
-    "updated_at": "2026-09-01T01:10:57Z",
-    "url": "https://github.com/CassioRoos/godfly-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of dotnet-dotnet-agent-skills-dotnet-test (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-test",
-    "language": "Python",
-    "name": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-test",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:57Z",
-    "url": "https://github.com/costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-test"
-  },
-  {
-    "description": "costrict-plugins mirror of dotnet-dotnet-agent-skills-dotnet-test-migration (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-test-migration",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-test-migration",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:56Z",
-    "url": "https://github.com/costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-test-migration"
-  },
-  {
-    "description": "costrict-plugins mirror of dotnet-dotnet-agent-skills-dotnet-msbuild (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-msbuild",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-msbuild",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:55Z",
-    "url": "https://github.com/costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-msbuild"
-  },
-  {
-    "description": "costrict-plugins mirror of dotnet-dotnet-agent-skills-dotnet-template-engine (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-template-engine",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-template-engine",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:55Z",
-    "url": "https://github.com/costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-template-engine"
-  },
-  {
-    "description": "costrict-plugins mirror of dotnet-dotnet-agent-skills-dotnet-nuget (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-nuget",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-nuget",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:53Z",
-    "url": "https://github.com/costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-nuget"
-  },
-  {
-    "description": "costrict-plugins mirror of dotnet-dotnet-agent-skills-dotnet-maui (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-maui",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-maui",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:52Z",
-    "url": "https://github.com/costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-maui"
-  },
-  {
-    "description": "costrict-plugins mirror of dotnet-dotnet-agent-skills-dotnet-diag (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-diag",
-    "language": "PowerShell",
-    "name": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-diag",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:51Z",
-    "url": "https://github.com/costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-diag"
-  },
-  {
-    "description": "costrict-plugins mirror of dotnet-dotnet-agent-skills-dotnet-data (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-data",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-data",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:51Z",
-    "url": "https://github.com/costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-data"
-  },
-  {
-    "description": "costrict-plugins mirror of dotnet-dotnet-agent-skills-dotnet-aspnetcore (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-aspnetcore",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-aspnetcore",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:49Z",
-    "url": "https://github.com/costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-aspnetcore"
-  },
-  {
-    "description": "costrict-plugins mirror of dotnet-dotnet-agent-skills-dotnet-ai (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-ai",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-ai",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:48Z",
-    "url": "https://github.com/costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-ai"
-  },
-  {
-    "description": "costrict-plugins mirror of dontbesilent2025-dontbesilent-skills-dbs (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/dontbesilent2025-dontbesilent-skills-dbs",
-    "language": "JavaScript",
-    "name": "costrict-plugins-repo/dontbesilent2025-dontbesilent-skills-dbs",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:48Z",
-    "url": "https://github.com/costrict-plugins-repo/dontbesilent2025-dontbesilent-skills-dbs"
-  },
-  {
-    "description": "costrict-plugins mirror of dotnet-dotnet-agent-skills-dotnet-advanced (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-advanced",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-advanced",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:46Z",
-    "url": "https://github.com/costrict-plugins-repo/dotnet-dotnet-agent-skills-dotnet-advanced"
-  },
-  {
-    "description": "costrict-plugins mirror of czlonkowski-n8n-mcp-skills-n8n-mcp-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/czlonkowski-n8n-mcp-skills-n8n-mcp-skills",
+    "description": "costrict-plugins mirror of tanweai-pua-skills-pua (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/tanweai-pua-skills-pua",
     "language": "Shell",
-    "name": "costrict-plugins-repo/czlonkowski-n8n-mcp-skills-n8n-mcp-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:45Z",
-    "url": "https://github.com/costrict-plugins-repo/czlonkowski-n8n-mcp-skills-n8n-mcp-skills"
+    "name": "costrict-plugins-repo/tanweai-pua-skills-pua",
+    "stars": 1,
+    "updated_at": "2026-09-01T01:23:59Z",
+    "url": "https://github.com/costrict-plugins-repo/tanweai-pua-skills-pua"
   },
   {
-    "description": "costrict-plugins mirror of coreyhaines31-marketingskills-marketing-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/coreyhaines31-marketingskills-marketing-skills",
-    "language": "JavaScript",
-    "name": "costrict-plugins-repo/coreyhaines31-marketingskills-marketing-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:10:42Z",
-    "url": "https://github.com/costrict-plugins-repo/coreyhaines31-marketingskills-marketing-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of blaizzy-mlx-vlm-mlx-vlm-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/blaizzy-mlx-vlm-mlx-vlm-skills",
+    "description": "Zane's reusable career asset Skills: resumes, portfolios, case studies, localization, visual references, and release QA.",
+    "id": "xuehuafu233-alt/zane-career-skills",
     "language": "Python",
-    "name": "costrict-plugins-repo/blaizzy-mlx-vlm-mlx-vlm-skills",
+    "name": "xuehuafu233-alt/zane-career-skills",
     "stars": 0,
-    "updated_at": "2026-09-01T01:10:36Z",
-    "url": "https://github.com/costrict-plugins-repo/blaizzy-mlx-vlm-mlx-vlm-skills"
+    "updated_at": "2026-09-01T01:23:54Z",
+    "url": "https://github.com/xuehuafu233-alt/zane-career-skills"
   },
   {
-    "description": "costrict-plugins mirror of antvis-antv-infographic-antv-infographic-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/antvis-antv-infographic-antv-infographic-skills",
-    "language": "TypeScript",
-    "name": "costrict-plugins-repo/antvis-antv-infographic-antv-infographic-skills",
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-web-wizard (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-web-wizard",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-web-wizard",
     "stars": 0,
-    "updated_at": "2026-09-01T01:10:33Z",
-    "url": "https://github.com/costrict-plugins-repo/antvis-antv-infographic-antv-infographic-skills"
+    "updated_at": "2026-09-01T01:23:51Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-web-wizard"
   },
   {
-    "description": "Claude Code \ucee4\uc2a4\ud140 \uc2a4\ud0ac \ubaa8\uc74c",
-    "id": "aerok86-arch/claude-skills",
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-web-designer (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-web-designer",
     "language": "Python",
-    "name": "aerok86-arch/claude-skills",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-web-designer",
     "stars": 0,
-    "updated_at": "2026-09-01T01:10:12Z",
-    "url": "https://github.com/aerok86-arch/claude-skills"
+    "updated_at": "2026-09-01T01:23:50Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-web-designer"
   },
   {
-    "description": "costrict-plugins mirror of anthropic-youdotcom-agent-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/anthropic-youdotcom-agent-skills",
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-typescript-javascript (auto-generated, do not e",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-typescript-javascript",
     "language": "TypeScript",
-    "name": "costrict-plugins-repo/anthropic-youdotcom-agent-skills",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-typescript-javascript",
     "stars": 0,
-    "updated_at": "2026-09-01T01:10:06Z",
-    "url": "https://github.com/costrict-plugins-repo/anthropic-youdotcom-agent-skills"
+    "updated_at": "2026-09-01T01:23:49Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-typescript-javascript"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-systems-programming (auto-generated, do not edi",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-systems-programming",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-systems-programming",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:48Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-systems-programming"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-startup-founder (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-startup-founder",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-startup-founder",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:48Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-startup-founder"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-skill-author (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-skill-author",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-skill-author",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:47Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-skill-author"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-seo-specialist (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-seo-specialist",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-seo-specialist",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:46Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-seo-specialist"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-security-engineer (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-security-engineer",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-security-engineer",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:45Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-security-engineer"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-security-developer (auto-generated, do not edit",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-security-developer",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-security-developer",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:45Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-security-developer"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-revops-crm-automation (auto-generated, do not e",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-revops-crm-automation",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-revops-crm-automation",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:43Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-revops-crm-automation"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-qa-testing (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-qa-testing",
+    "language": "TypeScript",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-qa-testing",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:43Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-qa-testing"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-python-pro (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-python-pro",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-python-pro",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:42Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-python-pro"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-oss-maintainer (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-oss-maintainer",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-oss-maintainer",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:42Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-oss-maintainer"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-odoo-erp (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-odoo-erp",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-odoo-erp",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:40Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-odoo-erp"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-observability-monitoring (auto-generated, do no",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-observability-monitoring",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-observability-monitoring",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:40Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-observability-monitoring"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-mobile-developer (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-mobile-developer",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-mobile-developer",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:39Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-mobile-developer"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-marketing-growth (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-marketing-growth",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-marketing-growth",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:39Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-marketing-growth"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-makepad-builder (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-makepad-builder",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-makepad-builder",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:38Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-makepad-builder"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-llm-application-developer (auto-generated, do n",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-llm-application-developer",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-llm-application-developer",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:37Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-llm-application-developer"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-integration-apis (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-integration-apis",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-integration-apis",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:36Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-integration-apis"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-indie-game-dev (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-indie-game-dev",
+    "language": "HTML",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-indie-game-dev",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:35Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-indie-game-dev"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-expo-react-native (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-expo-react-native",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-expo-react-native",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:34Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-expo-react-native"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-full-stack-developer (auto-generated, do not ed",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-full-stack-developer",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-full-stack-developer",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:34Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-full-stack-developer"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-essentials (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-essentials",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-essentials",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:32Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-essentials"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-documents-presentations (auto-generated, do not",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-documents-presentations",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-documents-presentations",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:32Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-documents-presentations"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-ddd-evented-architecture (auto-generated, do no",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-ddd-evented-architecture",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-ddd-evented-architecture",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:31Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-ddd-evented-architecture"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-devops-cloud (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-devops-cloud",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-devops-cloud",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:31Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-devops-cloud"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-data-engineering (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-data-engineering",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-data-engineering",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:29Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-data-engineering"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-data-analytics (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-data-analytics",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-data-analytics",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:29Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-data-analytics"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-creative-director (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-creative-director",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-creative-director",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:28Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-creative-director"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-commerce-payments (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-commerce-payments",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-commerce-payments",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:25Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-commerce-payments"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-business-analyst (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-business-analyst",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-business-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:24Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-business-analyst"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-azure-ai-cloud (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-azure-ai-cloud",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-azure-ai-cloud",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:22Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-azure-ai-cloud"
   },
   {
     "description": "",
-    "id": "mhjoe/skills",
-    "language": "Python",
-    "name": "mhjoe/skills",
+    "id": "C1H2S3/SkillsTwin",
+    "language": "\u2014",
+    "name": "C1H2S3/SkillsTwin",
     "stars": 0,
-    "updated_at": "2026-09-01T01:10:04Z",
-    "url": "https://github.com/mhjoe/skills"
+    "updated_at": "2026-09-01T01:23:21Z",
+    "url": "https://github.com/C1H2S3/SkillsTwin"
   },
   {
-    "description": "costrict-plugins mirror of anthropic-togetherai-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/anthropic-togetherai-skills",
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-automation-builder (auto-generated, do not edit",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-automation-builder",
     "language": "Python",
-    "name": "costrict-plugins-repo/anthropic-togetherai-skills",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-automation-builder",
     "stars": 0,
-    "updated_at": "2026-09-01T01:09:58Z",
-    "url": "https://github.com/costrict-plugins-repo/anthropic-togetherai-skills"
+    "updated_at": "2026-09-01T01:23:21Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-automation-builder"
   },
   {
-    "description": "Global Agent Skills library - single source of truth shared with Cline, VS Code Copilot Chat, Claude Code, Antigravity (",
-    "id": "Non-invasive-Neuromodulation-Lab/skills",
-    "language": "Shell",
-    "name": "Non-invasive-Neuromodulation-Lab/skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:09:57Z",
-    "url": "https://github.com/Non-invasive-Neuromodulation-Lab/skills"
-  },
-  {
-    "description": "costrict-plugins mirror of anthropic-streaming-skills-plugin (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/anthropic-streaming-skills-plugin",
-    "language": "Python",
-    "name": "costrict-plugins-repo/anthropic-streaming-skills-plugin",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:09:50Z",
-    "url": "https://github.com/costrict-plugins-repo/anthropic-streaming-skills-plugin"
-  },
-  {
-    "description": "",
-    "id": "s0613/S-skills",
-    "language": "Python",
-    "name": "s0613/S-skills",
-    "stars": 1,
-    "updated_at": "2026-09-01T01:09:45Z",
-    "url": "https://github.com/s0613/S-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of anthropic-qdrant-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/anthropic-qdrant-skills",
-    "language": "Python",
-    "name": "costrict-plugins-repo/anthropic-qdrant-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:09:16Z",
-    "url": "https://github.com/costrict-plugins-repo/anthropic-qdrant-skills"
-  },
-  {
-    "description": "My clone repository",
-    "id": "duver234/skills-release-based-workflow",
+    "description": "Imatimba's skills",
+    "id": "imatimba/skills",
     "language": "JavaScript",
-    "name": "duver234/skills-release-based-workflow",
+    "name": "imatimba/skills",
     "stars": 0,
-    "updated_at": "2026-09-01T01:14:28Z",
-    "url": "https://github.com/duver234/skills-release-based-workflow"
+    "updated_at": "2026-09-01T01:23:20Z",
+    "url": "https://github.com/imatimba/skills"
   },
   {
-    "description": "Awesome AI Agent Skills 2026 \u2014 a curated toolkit of agent skills, prompts, and integrations to supercharge your AI workf",
-    "id": "SectorDesign/awesome-ai-agent-skills",
-    "language": "HTML",
-    "name": "SectorDesign/awesome-ai-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-09-01T01:09:05Z",
-    "url": "https://github.com/SectorDesign/awesome-ai-agent-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of anthropic-netlify-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/anthropic-netlify-skills",
-    "language": "TypeScript",
-    "name": "costrict-plugins-repo/anthropic-netlify-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:09:03Z",
-    "url": "https://github.com/costrict-plugins-repo/anthropic-netlify-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of anthropic-mattpocock-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/anthropic-mattpocock-skills",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/anthropic-mattpocock-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:08:57Z",
-    "url": "https://github.com/costrict-plugins-repo/anthropic-mattpocock-skills"
-  },
-  {
-    "description": "OpenClaw Skills Explorer - discover and browse skills for your OpenClaw agent",
-    "id": "Cluka-399/openclaw-skills-explorer",
-    "language": "HTML",
-    "name": "Cluka-399/openclaw-skills-explorer",
-    "stars": 3,
-    "updated_at": "2026-09-01T01:08:55Z",
-    "url": "https://github.com/Cluka-399/openclaw-skills-explorer"
-  },
-  {
-    "description": "costrict-plugins mirror of anthropic-huggingface-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/anthropic-huggingface-skills",
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-architecture-design (auto-generated, do not edi",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-architecture-design",
     "language": "Python",
-    "name": "costrict-plugins-repo/anthropic-huggingface-skills",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-architecture-design",
     "stars": 0,
-    "updated_at": "2026-09-01T01:08:42Z",
-    "url": "https://github.com/costrict-plugins-repo/anthropic-huggingface-skills"
+    "updated_at": "2026-09-01T01:23:19Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-architecture-design"
   },
   {
-    "description": "costrict-plugins mirror of anthropic-forge-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/anthropic-forge-skills",
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-apple-platform-design (auto-generated, do not e",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-apple-platform-design",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-apple-platform-design",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:17Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-apple-platform-design"
+  },
+  {
+    "description": "\ubc18\ubcf5 \uc791\uc5c5\uc758 \uc808\ucc28\uc640 \uac80\uc99d \uae30\uc900\uc744 \uc2a4\ud0ac(SKILL.md)\ub85c \ubb38\uc11c\ud654\ud574 \uacb0\uacfc\ubb3c \uc7ac\ud604\uc131\uc744 \ud655\ubcf4\ud558\ub294 \uac1c\uc778 Claude Code \uc2a4\ud0ac \ubaa8\uc74c",
+    "id": "Jeric1223/my-claude-skills",
+    "language": "\u2014",
+    "name": "Jeric1223/my-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:14Z",
+    "url": "https://github.com/Jeric1223/my-claude-skills"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-agent-architect (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-agent-architect",
     "language": "Python",
-    "name": "costrict-plugins-repo/anthropic-forge-skills",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-agent-architect",
     "stars": 0,
-    "updated_at": "2026-09-01T01:08:37Z",
-    "url": "https://github.com/costrict-plugins-repo/anthropic-forge-skills"
+    "updated_at": "2026-09-01T01:23:14Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-agent-architect"
   },
   {
-    "description": "costrict-plugins mirror of anthropic-duende-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/anthropic-duende-skills",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/anthropic-duende-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:08:31Z",
-    "url": "https://github.com/costrict-plugins-repo/anthropic-duende-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of anthropic-datarobot-agent-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/anthropic-datarobot-agent-skills",
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-security-engineer (auto-generated, do not e",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-security-engineer",
     "language": "Python",
-    "name": "costrict-plugins-repo/anthropic-datarobot-agent-skills",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-security-engineer",
     "stars": 0,
-    "updated_at": "2026-09-01T01:08:26Z",
-    "url": "https://github.com/costrict-plugins-repo/anthropic-datarobot-agent-skills"
+    "updated_at": "2026-09-01T01:23:13Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-security-engineer"
   },
   {
-    "description": "costrict-plugins mirror of anthropic-datahub-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/anthropic-datahub-skills",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/anthropic-datahub-skills",
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-secure-app-builder (auto-generated, do not ",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-secure-app-builder",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-secure-app-builder",
     "stars": 0,
-    "updated_at": "2026-09-01T01:08:25Z",
-    "url": "https://github.com/costrict-plugins-repo/anthropic-datahub-skills"
+    "updated_at": "2026-09-01T01:23:11Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-secure-app-builder"
   },
   {
-    "description": "Exercise: Code with Codespaces",
-    "id": "XINXUETAN/skills-code-with-codespaces",
+    "description": "FastAPI Python service for extracting skills from text",
+    "id": "Talent-Catalog/tc-skills-extraction-service",
     "language": "Python",
-    "name": "XINXUETAN/skills-code-with-codespaces",
+    "name": "Talent-Catalog/tc-skills-extraction-service",
     "stars": 0,
-    "updated_at": "2026-09-01T01:08:23Z",
-    "url": "https://github.com/XINXUETAN/skills-code-with-codespaces"
+    "updated_at": "2026-09-01T01:23:11Z",
+    "url": "https://github.com/Talent-Catalog/tc-skills-extraction-service"
   },
   {
-    "description": "\u65e5\u672c\u8a9e\u6539\u5584\u30b9\u30ad\u30eb",
-    "id": "seiei-sogen/agent-skills",
-    "language": "Python",
-    "name": "seiei-sogen/agent-skills",
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-saas-launch-revenue (auto-generated, do not",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-saas-launch-revenue",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-saas-launch-revenue",
     "stars": 0,
-    "updated_at": "2026-09-01T01:08:22Z",
-    "url": "https://github.com/seiei-sogen/agent-skills"
+    "updated_at": "2026-09-01T01:23:11Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-saas-launch-revenue"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-qa-test-automation (auto-generated, do not ",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-qa-test-automation",
+    "language": "JavaScript",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-qa-test-automation",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:10Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-qa-test-automation"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-python-api-builder (auto-generated, do not ",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-python-api-builder",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-python-api-builder",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:09Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-python-api-builder"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-product-design-studio (auto-generated, do n",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-product-design-studio",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-product-design-studio",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:08Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-product-design-studio"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-privacy-compliance-engineering (auto-genera",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-privacy-compliance-engineering",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-privacy-compliance-engineering",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:07Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-privacy-compliance-engineering"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-observability-ir (auto-generated, do not ed",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-observability-ir",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-observability-ir",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:06Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-observability-ir"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-mobile-app-builder (auto-generated, do not ",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-mobile-app-builder",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-mobile-app-builder",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:05Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-mobile-app-builder"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-marketing-seo-growth (auto-generated, do no",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-marketing-seo-growth",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-marketing-seo-growth",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:04Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-marketing-seo-growth"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-localization-international-growth (auto-gen",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-localization-international-growth",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-localization-international-growth",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:04Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-localization-international-growth"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-documents-presentations (auto-generated, do",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-documents-presentations",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-documents-presentations",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:03Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-documents-presentations"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-devops-cloud (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-devops-cloud",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-devops-cloud",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:02Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-devops-cloud"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-data-engineering-platform (auto-generated, ",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-data-engineering-platform",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-data-engineering-platform",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:01Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-data-engineering-platform"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-data-analytics (auto-generated, do not edit",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-data-analytics",
+    "language": "JavaScript",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-data-analytics",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:00Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-data-analytics"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-automation-builder (auto-generated, do not ",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-automation-builder",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-automation-builder",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:23:00Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-automation-builder"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-awesome-skills (auto-generated, do not edit)",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-awesome-skills",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-awesome-skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:22:59Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-awesome-skills"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-api-platform-builder (auto-generated, do no",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-api-platform-builder",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-api-platform-builder",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:22:58Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-api-platform-builder"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-ai-product-evaluation-ops (auto-generated, ",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-ai-product-evaluation-ops",
+    "language": "\u2014",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-ai-product-evaluation-ops",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:22:57Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-ai-product-evaluation-ops"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-agent-mcp-builder (auto-generated, do not e",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-agent-mcp-builder",
+    "language": "Python",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-agent-mcp-builder",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:22:55Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-agent-mcp-builder"
+  },
+  {
+    "description": "costrict-plugins mirror of sickn33-agentic-awesome-skills-agentic-bundle-aas-accessibility-inclusive-ux (auto-generated,",
+    "id": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-accessibility-inclusive-ux",
+    "language": "JavaScript",
+    "name": "costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-accessibility-inclusive-ux",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:22:54Z",
+    "url": "https://github.com/costrict-plugins-repo/sickn33-agentic-awesome-skills-agentic-bundle-aas-accessibility-inclusive-ux"
+  },
+  {
+    "description": "Personal skill library for Claude Code / Codex, distributed via cc-switch",
+    "id": "SanAntonio021/agents-skills",
+    "language": "Python",
+    "name": "SanAntonio021/agents-skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:22:40Z",
+    "url": "https://github.com/SanAntonio021/agents-skills"
   },
   {
     "description": "",
-    "id": "nj4x/skills-dev",
-    "language": "Python",
-    "name": "nj4x/skills-dev",
-    "stars": 3,
-    "updated_at": "2026-09-01T01:08:10Z",
-    "url": "https://github.com/nj4x/skills-dev"
-  },
-  {
-    "description": "Agent skills and an AGENTS.md workflow template \u2014 isolate in worktrees, build to a service layer, prove with evidence, s",
-    "id": "michaelshimeles/skills",
-    "language": "Shell",
-    "name": "michaelshimeles/skills",
-    "stars": 331,
-    "updated_at": "2026-09-01T01:08:04Z",
-    "url": "https://github.com/michaelshimeles/skills"
-  },
-  {
-    "description": "Skills for use with Hermes that work with local models",
-    "id": "fnord123/hermes-skills",
-    "language": "Python",
-    "name": "fnord123/hermes-skills",
-    "stars": 2,
-    "updated_at": "2026-09-01T01:07:53Z",
-    "url": "https://github.com/fnord123/hermes-skills"
-  },
-  {
-    "description": "Public Claude Code skills by India Amos",
-    "id": "indiamos/agent-skills-public",
-    "language": "Python",
-    "name": "indiamos/agent-skills-public",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:52Z",
-    "url": "https://github.com/indiamos/agent-skills-public"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-zero-hallucination-coder (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-zero-hallucination-coder",
+    "id": "enhansome/enhansome-Awesome-Journal-Skills",
     "language": "\u2014",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-zero-hallucination-coder",
+    "name": "enhansome/enhansome-Awesome-Journal-Skills",
     "stars": 0,
-    "updated_at": "2026-09-01T01:07:45Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-zero-hallucination-coder"
+    "updated_at": "2026-09-01T01:22:25Z",
+    "url": "https://github.com/enhansome/enhansome-Awesome-Journal-Skills"
   },
   {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-youtube-full (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-youtube-full",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-youtube-full",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:44Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-youtube-full"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-write-a-skill (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-write-a-skill",
+    "description": "",
+    "id": "fengwuxp/skills",
     "language": "Python",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-write-a-skill",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:43Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-write-a-skill"
-  },
-  {
-    "description": "\u4fdd\u5b58\u6211\u4f7f\u7528\u7684skill",
-    "id": "xtiqny/SKILLS",
-    "language": "HTML",
-    "name": "xtiqny/SKILLS",
+    "name": "fengwuxp/skills",
     "stars": 1,
-    "updated_at": "2026-09-01T01:07:43Z",
-    "url": "https://github.com/xtiqny/SKILLS"
+    "updated_at": "2026-09-01T01:22:14Z",
+    "url": "https://github.com/fengwuxp/skills"
   },
   {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-workflow-builder (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-workflow-builder",
-    "language": "Python",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-workflow-builder",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:42Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-workflow-builder"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-weekly-review (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-weekly-review",
-    "language": "Python",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-weekly-review",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:41Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-weekly-review"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-universal-scraping-architect (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-universal-scraping-architect",
-    "language": "Python",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-universal-scraping-architect",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:40Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-universal-scraping-architect"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-video-content-strategist (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-video-content-strategist",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-video-content-strategist",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:40Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-video-content-strategist"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-swedish-mentor (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-swedish-mentor",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-swedish-mentor",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:38Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-swedish-mentor"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-syllabus (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-syllabus",
-    "language": "Python",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-syllabus",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:38Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-syllabus"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-spinning-up-deep-rl (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-spinning-up-deep-rl",
-    "language": "\u2014",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-spinning-up-deep-rl",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:36Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-spinning-up-deep-rl"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-snowflake-development (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-snowflake-development",
-    "language": "Python",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-snowflake-development",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:36Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-snowflake-development"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-skillopt-sleep (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-skillopt-sleep",
-    "language": "Python",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-skillopt-sleep",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:35Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-skillopt-sleep"
+    "description": "\u8ff7\u96fe\u5df2\u6563\uff0c\u7ec8\u70b9\u53ef\u89c1\u3002\u5192\u9669\uff0c\u7531MattSkillsDeck\u63a5\u7ba1\u3002mattpocock/skills\u5728DSH\u7684\u914d\u5957\u63d2\u4ef6\u2014\u50cf\u6e38\u620f\u91cc\u63a5\u4efb\u52a1\u4e00\u6837\uff0c\u4e00\u952e\u9886\u53d6\u3001\u4e00\u952e\u6d3e\u53d1\u3002\u4f60\u7684\u6bcf\u4e00\u9897\u2b50\u90fd\u662f\u6211\u591c\u7a7a\u4e2d\u6700\u4eae\u7684\u661f\uff0c\u4f1a\u6e29\u6696\u6211\uff0c\u8c22\u8c22\u4f60\u3002The fog is gone,",
+    "id": "FeatherHunter/dsh-mattpocock-skills-deck",
+    "language": "JavaScript",
+    "name": "FeatherHunter/dsh-mattpocock-skills-deck",
+    "stars": 35,
+    "updated_at": "2026-09-01T01:22:06Z",
+    "url": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -815,88 +896,7 @@
     "language": "\u2014",
     "name": "Fran-AG/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-09-01T01:12:01Z",
+    "updated_at": "2026-09-01T01:22:02Z",
     "url": "https://github.com/Fran-AG/skills-introduction-to-github"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-skill-doctor (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-skill-doctor",
-    "language": "Python",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-skill-doctor",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:34Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-skill-doctor"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-self-improving-agent (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-self-improving-agent",
-    "language": "Shell",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-self-improving-agent",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:33Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-self-improving-agent"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-security-guidance (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-security-guidance",
-    "language": "Python",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-security-guidance",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:33Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-security-guidance"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-roast (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-roast",
-    "language": "Python",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-roast",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:31Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-roast"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-research-orchestrator (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-research-orchestrator",
-    "language": "Python",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-research-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:31Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-research-orchestrator"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-reflect-skill (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-reflect-skill",
-    "language": "Python",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-reflect-skill",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:29Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-reflect-skill"
-  },
-  {
-    "description": "Exercise: Build applications with GitHub Copilot agent mode",
-    "id": "nithyadevichandrasekaran/skills-build-applications-w-copilot-agent-mode",
-    "language": "Shell",
-    "name": "nithyadevichandrasekaran/skills-build-applications-w-copilot-agent-mode",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:29Z",
-    "url": "https://github.com/nithyadevichandrasekaran/skills-build-applications-w-copilot-agent-mode"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-research-ops-skills (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-research-ops-skills",
-    "language": "Python",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-research-ops-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:29Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-research-ops-skills"
-  },
-  {
-    "description": "costrict-plugins mirror of alirezarezvani-claude-code-skills-pw (auto-generated, do not edit)",
-    "id": "costrict-plugins-repo/alirezarezvani-claude-code-skills-pw",
-    "language": "TypeScript",
-    "name": "costrict-plugins-repo/alirezarezvani-claude-code-skills-pw",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:27Z",
-    "url": "https://github.com/costrict-plugins-repo/alirezarezvani-claude-code-skills-pw"
   }
 ]
