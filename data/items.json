@@ -1,6 +1,96 @@
 [
   {
     "description": "",
+    "id": "sweyjotdhillon-cmd/Skillswap",
+    "language": "TypeScript",
+    "name": "sweyjotdhillon-cmd/Skillswap",
+    "stars": 0,
+    "updated_at": "2026-09-01T23:46:32Z",
+    "url": "https://github.com/sweyjotdhillon-cmd/Skillswap"
+  },
+  {
+    "description": "Agent skill suite for django-unfold: 22 expert skills covering ModelAdmin, actions, filters, tabs, components, dashboard",
+    "id": "Ali-Fani/django-unfold-skills",
+    "language": "Python",
+    "name": "Ali-Fani/django-unfold-skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T23:46:32Z",
+    "url": "https://github.com/Ali-Fani/django-unfold-skills"
+  },
+  {
+    "description": "",
+    "id": "lankz/skills",
+    "language": "Shell",
+    "name": "lankz/skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T23:46:09Z",
+    "url": "https://github.com/lankz/skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "a11r7yan-bot/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "a11r7yan-bot/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-09-01T23:46:08Z",
+    "url": "https://github.com/a11r7yan-bot/skills-introduction-to-github"
+  },
+  {
+    "description": "",
+    "id": "onurseckin/skills",
+    "language": "TypeScript",
+    "name": "onurseckin/skills",
+    "stars": 1,
+    "updated_at": "2026-09-01T23:45:58Z",
+    "url": "https://github.com/onurseckin/skills"
+  },
+  {
+    "description": "A plugin of cross-agent skills for AI coding agents \u2014 GitHub Copilot, Claude, and Codex \u2014 installable with the skills CL",
+    "id": "jongio/skills",
+    "language": "JavaScript",
+    "name": "jongio/skills",
+    "stars": 6,
+    "updated_at": "2026-09-01T23:45:56Z",
+    "url": "https://github.com/jongio/skills"
+  },
+  {
+    "description": "get in loser, we're building god",
+    "id": "wildcat-finance/skills",
+    "language": "Python",
+    "name": "wildcat-finance/skills",
+    "stars": 12,
+    "updated_at": "2026-09-01T23:45:54Z",
+    "url": "https://github.com/wildcat-finance/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-09-01T23:45:35Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 28,
+    "updated_at": "2026-09-01T23:45:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Reusable Codex skills for Story-Driven Development",
+    "id": "TaylorHuston/sdd-skills",
+    "language": "JavaScript",
+    "name": "TaylorHuston/sdd-skills",
+    "stars": 10,
+    "updated_at": "2026-09-01T23:45:32Z",
+    "url": "https://github.com/TaylorHuston/sdd-skills"
+  },
+  {
+    "description": "",
     "id": "VPritesh/collection-ai-skills-library",
     "language": "\u2014",
     "name": "VPritesh/collection-ai-skills-library",
@@ -277,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T23:38:46Z",
     "url": "https://github.com/MINGS-KO-PATCH/korean-game-localization-skills"
-  },
-  {
-    "description": "",
-    "id": "lankz/skills",
-    "language": "Shell",
-    "name": "lankz/skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T23:38:27Z",
-    "url": "https://github.com/lankz/skills"
   },
   {
     "description": "Agent skills for an Omarchy (Arch + Hyprland) desktop.",
@@ -585,24 +666,6 @@
     "url": "https://github.com/SuperavitEC/skills-superavit"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 28,
-    "updated_at": "2026-09-01T23:30:35Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-09-01T23:30:34Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "",
     "id": "shoji9x9/skills",
     "language": "JavaScript",
@@ -664,15 +727,6 @@
     "stars": 53,
     "updated_at": "2026-09-01T23:27:55Z",
     "url": "https://github.com/Desko77/cursor-1c-skills"
-  },
-  {
-    "description": "get in loser, we're building god",
-    "id": "wildcat-finance/skills",
-    "language": "Python",
-    "name": "wildcat-finance/skills",
-    "stars": 12,
-    "updated_at": "2026-09-01T23:43:35Z",
-    "url": "https://github.com/wildcat-finance/skills"
   },
   {
     "description": "116 \u0441\u043a\u0438\u043b\u043e\u0432 \u0438 40 \u043f\u0440\u0430\u0432\u0438\u043b \u0434\u043b\u044f Claude Code: \u0430\u0433\u0435\u043d\u0442 \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442 \u0438\u0441\u0445\u043e\u0434\u043d\u0438\u043a\u0438 1\u0421 (\u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0435, \u0444\u043e\u0440\u043c\u044b, \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f, \u0440\u043e\u043b\u0438, \u0421\u041a\u0414, \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438",
@@ -828,15 +882,6 @@
     "url": "https://github.com/jimweller/clanker-skills"
   },
   {
-    "description": "Agent skill suite for django-unfold: 22 expert skills covering ModelAdmin, actions, filters, tabs, components, dashboard",
-    "id": "Ali-Fani/django-unfold-skills",
-    "language": "Python",
-    "name": "Ali-Fani/django-unfold-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T23:22:43Z",
-    "url": "https://github.com/Ali-Fani/django-unfold-skills"
-  },
-  {
     "description": "Skills I use to execute long-running coding agents without breaking my back.",
     "id": "Parcha-ai/parcha-skills",
     "language": "Python",
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T23:22:32Z",
     "url": "https://github.com/cev6262026/skills-publish-docker-images"
-  },
-  {
-    "description": "AI agent development utilities with Israeli adaptations",
-    "id": "skills-il/developer-tools",
-    "language": "Python",
-    "name": "skills-il/developer-tools",
-    "stars": 10,
-    "updated_at": "2026-09-01T23:22:21Z",
-    "url": "https://github.com/skills-il/developer-tools"
-  },
-  {
-    "description": "Skills that I use in my projects with Codex and ChatGPT.",
-    "id": "jhonatan-oliveiradev/agent-skills",
-    "language": "TypeScript",
-    "name": "jhonatan-oliveiradev/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T23:43:31Z",
-    "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
-  },
-  {
-    "description": "",
-    "id": "atsushi11o7/agent-skills",
-    "language": "\u2014",
-    "name": "atsushi11o7/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T23:21:47Z",
-    "url": "https://github.com/atsushi11o7/agent-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "BryanVasquez1006/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "BryanVasquez1006/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-09-01T23:38:21Z",
-    "url": "https://github.com/BryanVasquez1006/skills-introduction-to-github"
-  },
-  {
-    "description": "Claude Code and Codex skills for Australian public-practice workflows. Not lodgment.",
-    "id": "ryanduguid/australian-accounting-skills",
-    "language": "Python",
-    "name": "ryanduguid/australian-accounting-skills",
-    "stars": 1,
-    "updated_at": "2026-09-01T23:21:08Z",
-    "url": "https://github.com/ryanduguid/australian-accounting-skills"
   }
 ]
