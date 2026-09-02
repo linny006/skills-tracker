@@ -1,5 +1,23 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T11:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-09-02T11:30:15Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Central repository for Agent Skills (SKILL.md) - templates, standards, and reusable skills for AgenticOS and beyond",
     "id": "sramiweb/skills-brain",
     "language": "Python",
@@ -142,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T11:27:31Z",
     "url": "https://github.com/prateekgupta3991/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T11:27:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -394,6 +403,15 @@
     "stars": 0,
     "updated_at": "2026-09-02T11:24:58Z",
     "url": "https://github.com/lgnorant-lu/ming-skills"
+  },
+  {
+    "description": "Pixazo Agent Skills \u2014 install one with: npx skills add Pixazo-AI/skills --skill <model>. 70 skills covering image, video",
+    "id": "Pixazo-AI/skills",
+    "language": "\u2014",
+    "name": "Pixazo-AI/skills",
+    "stars": 0,
+    "updated_at": "2026-09-02T11:24:52Z",
+    "url": "https://github.com/Pixazo-AI/skills"
   },
   {
     "description": "My general skills",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T11:17:33Z",
     "url": "https://github.com/sebastiangc23/skills-introduction-to-codeql"
-  },
-  {
-    "description": "",
-    "id": "aishsynk/SkillSync",
-    "language": "Kotlin",
-    "name": "aishsynk/SkillSync",
-    "stars": 0,
-    "updated_at": "2026-09-02T11:22:09Z",
-    "url": "https://github.com/aishsynk/SkillSync"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "pavenmanivanan1307-create/skills-introduction-to-github1",
-    "language": "\u2014",
-    "name": "pavenmanivanan1307-create/skills-introduction-to-github1",
-    "stars": 0,
-    "updated_at": "2026-09-02T11:17:25Z",
-    "url": "https://github.com/pavenmanivanan1307-create/skills-introduction-to-github1"
   }
 ]
