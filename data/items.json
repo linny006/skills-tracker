@@ -1,5 +1,32 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-03T14:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Exercise: Build applications with GitHub Copilot agent mode",
+    "id": "yevheniimerzhynskyi-epam/skills-build-applications-w-copilot-agent-mode",
+    "language": "Shell",
+    "name": "yevheniimerzhynskyi-epam/skills-build-applications-w-copilot-agent-mode",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:30:13Z",
+    "url": "https://github.com/yevheniimerzhynskyi-epam/skills-build-applications-w-copilot-agent-mode"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-09-03T14:30:10Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "\u0422\u0443\u0442 \u0441\u043e\u0431\u0440\u0430\u043d\u044b \u0441\u043a\u0438\u043b\u043b\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u043c\u0438 \u044f \u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0441\u044c \u0441\u0430\u043c",
     "id": "ScobarDen/scobar-skills",
     "language": "CMake",
@@ -34,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-09-03T14:29:13Z",
     "url": "https://github.com/0xmortuex/claude-code-skills"
+  },
+  {
+    "description": "Exercise: Code with Codespaces",
+    "id": "ajsms/skills-code-with-codespaces",
+    "language": "Shell",
+    "name": "ajsms/skills-code-with-codespaces",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:29:07Z",
+    "url": "https://github.com/ajsms/skills-code-with-codespaces"
   },
   {
     "description": "",
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "LeSplooch/tbaguette-skills",
     "stars": 0,
-    "updated_at": "2026-09-03T14:24:07Z",
+    "updated_at": "2026-09-03T14:30:25Z",
     "url": "https://github.com/LeSplooch/tbaguette-skills"
   },
   {
@@ -272,7 +308,7 @@
   {
     "description": "",
     "id": "Thomas-Kress/b4a-skills",
-    "language": "JavaScript",
+    "language": "\u2014",
     "name": "Thomas-Kress/b4a-skills",
     "stars": 0,
     "updated_at": "2026-09-03T14:23:20Z",
@@ -412,15 +448,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T14:21:04Z",
     "url": "https://github.com/xiezhihu/my-skills"
-  },
-  {
-    "description": "Exercise: Code with Codespaces",
-    "id": "ajsms/skills-code-with-codespaces",
-    "language": "Python",
-    "name": "ajsms/skills-code-with-codespaces",
-    "stars": 0,
-    "updated_at": "2026-09-03T14:29:07Z",
-    "url": "https://github.com/ajsms/skills-code-with-codespaces"
   },
   {
     "description": "",
@@ -725,7 +752,7 @@
     "language": "JavaScript",
     "name": "ssheleg/sshlg-skills",
     "stars": 6,
-    "updated_at": "2026-09-03T14:22:47Z",
+    "updated_at": "2026-09-03T14:30:17Z",
     "url": "https://github.com/ssheleg/sshlg-skills"
   },
   {
@@ -828,15 +855,6 @@
     "url": "https://github.com/DeepLumiere/DeepSkills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-09-03T14:15:41Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T14:15:29Z",
     "url": "https://github.com/AyonO1/skills-introduction-to-github"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-03T14:15:26Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A modern web platform where users can share their skills, connect with others, and learn new skills through skill exchan",
-    "id": "mohammadjawed01/Skills-swap",
-    "language": "CSS",
-    "name": "mohammadjawed01/Skills-swap",
-    "stars": 0,
-    "updated_at": "2026-09-03T14:15:18Z",
-    "url": "https://github.com/mohammadjawed01/Skills-swap"
   }
 ]
