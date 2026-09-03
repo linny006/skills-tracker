@@ -1,12 +1,93 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-03T01:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "My awesome skill setup",
+    "id": "zhongjis/agent-skills",
+    "language": "JavaScript",
+    "name": "zhongjis/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-03T01:14:56Z",
+    "url": "https://github.com/zhongjis/agent-skills"
+  },
+  {
+    "description": "",
+    "id": "emo-eth/skills",
+    "language": "TypeScript",
+    "name": "emo-eth/skills",
+    "stars": 0,
+    "updated_at": "2026-09-03T01:14:51Z",
+    "url": "https://github.com/emo-eth/skills"
+  },
+  {
     "description": "Canonical AI engineering workflow skills, aggregated by wakqasahmed/skills",
     "id": "wakqasahmed/ai-engineering-workflow-skills",
     "language": "Python",
     "name": "wakqasahmed/ai-engineering-workflow-skills",
     "stars": 2,
-    "updated_at": "2026-09-03T01:13:34Z",
+    "updated_at": "2026-09-03T01:15:01Z",
     "url": "https://github.com/wakqasahmed/ai-engineering-workflow-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "gibrancastillo/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "gibrancastillo/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-09-03T01:14:25Z",
+    "url": "https://github.com/gibrancastillo/skills-introduction-to-github"
+  },
+  {
+    "description": "Exercise: Publish Docker Images",
+    "id": "kvngsman/skills-publish-docker-images",
+    "language": "JavaScript",
+    "name": "kvngsman/skills-publish-docker-images",
+    "stars": 0,
+    "updated_at": "2026-09-03T01:14:24Z",
+    "url": "https://github.com/kvngsman/skills-publish-docker-images"
+  },
+  {
+    "description": "",
+    "id": "NadaEstaPerdido/nep-skills",
+    "language": "\u2014",
+    "name": "NadaEstaPerdido/nep-skills",
+    "stars": 0,
+    "updated_at": "2026-09-03T01:14:12Z",
+    "url": "https://github.com/NadaEstaPerdido/nep-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-09-03T01:13:55Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "sunznx/skills",
+    "language": "HTML",
+    "name": "sunznx/skills",
+    "stars": 0,
+    "updated_at": "2026-09-03T01:13:46Z",
+    "url": "https://github.com/sunznx/skills"
+  },
+  {
+    "description": "",
+    "id": "japurcell/skills",
+    "language": "HTML",
+    "name": "japurcell/skills",
+    "stars": 0,
+    "updated_at": "2026-09-03T01:13:38Z",
+    "url": "https://github.com/japurcell/skills"
   },
   {
     "description": "",
@@ -306,15 +387,6 @@
     "url": "https://github.com/aws-samples/sample-aws-solutions-skills"
   },
   {
-    "description": "Exercise: Publish Docker Images",
-    "id": "kvngsman/skills-publish-docker-images",
-    "language": "JavaScript",
-    "name": "kvngsman/skills-publish-docker-images",
-    "stars": 0,
-    "updated_at": "2026-09-03T01:08:02Z",
-    "url": "https://github.com/kvngsman/skills-publish-docker-images"
-  },
-  {
     "description": "Skills autonomously learned by AgentWorld AI agents \u2014 promoted from repeated high-confidence successes into reusable SKI",
     "id": "shawnhvac/agentworld-skills",
     "language": "\u2014",
@@ -491,7 +563,7 @@
     "language": "TypeScript",
     "name": "jhonatan-oliveiradev/agent-skills",
     "stars": 1,
-    "updated_at": "2026-09-03T01:12:50Z",
+    "updated_at": "2026-09-03T01:14:10Z",
     "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
   },
   {
@@ -558,15 +630,6 @@
     "url": "https://github.com/BaamAhmed/skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-09-03T01:00:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -574,15 +637,6 @@
     "stars": 28,
     "updated_at": "2026-09-03T01:00:28Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-03T01:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -844,59 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T00:53:48Z",
     "url": "https://github.com/gugacarbo/agents-skills"
-  },
-  {
-    "description": "Skills that sharpen your thinking",
-    "id": "devinat1/skills",
-    "language": "Python",
-    "name": "devinat1/skills",
-    "stars": 1,
-    "updated_at": "2026-09-03T00:53:28Z",
-    "url": "https://github.com/devinat1/skills"
-  },
-  {
-    "description": "Skillset platform foundation: Next.js, Firebase, Teacher Studio, Student Portal, Stripe, and trust operations.",
-    "id": "SkillsetMind-app/skillset-foundation",
-    "language": "TypeScript",
-    "name": "SkillsetMind-app/skillset-foundation",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:53:27Z",
-    "url": "https://github.com/SkillsetMind-app/skillset-foundation"
-  },
-  {
-    "description": "",
-    "id": "CoCoCoDeDeDe/d3-project-agent-skills",
-    "language": "Python",
-    "name": "CoCoCoDeDeDe/d3-project-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-09-03T00:52:51Z",
-    "url": "https://github.com/CoCoCoDeDeDe/d3-project-agent-skills"
-  },
-  {
-    "description": "Git-versioned Claude Code skills (incl. ja-changelog for Jalisco Alerta)",
-    "id": "ztrange/claude-skills",
-    "language": "Shell",
-    "name": "ztrange/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:52:37Z",
-    "url": "https://github.com/ztrange/claude-skills"
-  },
-  {
-    "description": "Skills platform validation working instance \u2014 2nd team",
-    "id": "heymishy/skills-platform-val",
-    "language": "JavaScript",
-    "name": "heymishy/skills-platform-val",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:52:33Z",
-    "url": "https://github.com/heymishy/skills-platform-val"
-  },
-  {
-    "description": "Exercise: Resolve Merge Conflicts",
-    "id": "brunocaetanobrito/skills-resolve-merge-conflicts",
-    "language": "\u2014",
-    "name": "brunocaetanobrito/skills-resolve-merge-conflicts",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:52:29Z",
-    "url": "https://github.com/brunocaetanobrito/skills-resolve-merge-conflicts"
   }
 ]
