@@ -1,5 +1,68 @@
 [
   {
+    "description": "",
+    "id": "vtu29363-cpu/applied-programing-skills",
+    "language": "Java",
+    "name": "vtu29363-cpu/applied-programing-skills",
+    "stars": 0,
+    "updated_at": "2026-09-03T05:45:57Z",
+    "url": "https://github.com/vtu29363-cpu/applied-programing-skills"
+  },
+  {
+    "description": "Protect your code with automated testing",
+    "id": "lettucebo/skills-test-with-actions-0903",
+    "language": "Python",
+    "name": "lettucebo/skills-test-with-actions-0903",
+    "stars": 0,
+    "updated_at": "2026-09-03T05:45:45Z",
+    "url": "https://github.com/lettucebo/skills-test-with-actions-0903"
+  },
+  {
+    "description": "",
+    "id": "LORD005/skills-connect-the-dots",
+    "language": "\u2014",
+    "name": "LORD005/skills-connect-the-dots",
+    "stars": 0,
+    "updated_at": "2026-09-03T05:45:40Z",
+    "url": "https://github.com/LORD005/skills-connect-the-dots"
+  },
+  {
+    "description": "Each team member has their own branch to work on before we merge to the main branch.",
+    "id": "Rabi2211/SkillsTrackGroupProject",
+    "language": "JavaScript",
+    "name": "Rabi2211/SkillsTrackGroupProject",
+    "stars": 0,
+    "updated_at": "2026-09-03T05:45:38Z",
+    "url": "https://github.com/Rabi2211/SkillsTrackGroupProject"
+  },
+  {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "NareshKumar0404/skills-getting-started-with-github-copilot-nk03092026",
+    "language": "JavaScript",
+    "name": "NareshKumar0404/skills-getting-started-with-github-copilot-nk03092026",
+    "stars": 0,
+    "updated_at": "2026-09-03T05:45:34Z",
+    "url": "https://github.com/NareshKumar0404/skills-getting-started-with-github-copilot-nk03092026"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-09-03T05:45:33Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 28,
+    "updated_at": "2026-09-03T05:45:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Agent skills for Claude, GitHub CoPilot and other AI agents",
     "id": "Agents-On-Rails/skills",
     "language": "PowerShell",
@@ -18,15 +81,6 @@
     "url": "https://github.com/Mehul72/skills"
   },
   {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "NareshKumar0404/skills-getting-started-with-github-copilot-nk03092026",
-    "language": "JavaScript",
-    "name": "NareshKumar0404/skills-getting-started-with-github-copilot-nk03092026",
-    "stars": 0,
-    "updated_at": "2026-09-03T05:45:19Z",
-    "url": "https://github.com/NareshKumar0404/skills-getting-started-with-github-copilot-nk03092026"
-  },
-  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 35,
     "updated_at": "2026-09-03T05:45:14Z",
     "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "",
-    "id": "LORD005/skills-connect-the-dots",
-    "language": "\u2014",
-    "name": "LORD005/skills-connect-the-dots",
-    "stars": 0,
-    "updated_at": "2026-09-03T05:45:29Z",
-    "url": "https://github.com/LORD005/skills-connect-the-dots"
   },
   {
     "description": "Exercise: Get started using GitHub Copilot",
@@ -68,7 +113,7 @@
     "language": "JavaScript",
     "name": "skdkfk8758/carpdm-skills",
     "stars": 0,
-    "updated_at": "2026-09-03T05:44:32Z",
+    "updated_at": "2026-09-03T05:46:00Z",
     "url": "https://github.com/skdkfk8758/carpdm-skills"
   },
   {
@@ -77,7 +122,7 @@
     "language": "\u2014",
     "name": "afifrzkptr/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-09-03T05:45:16Z",
+    "updated_at": "2026-09-03T05:45:39Z",
     "url": "https://github.com/afifrzkptr/skills-introduction-to-github"
   },
   {
@@ -270,15 +315,6 @@
     "url": "https://github.com/tanujyeola/skills-introduction-to-github_new"
   },
   {
-    "description": "Each team member has their own branch to work on before we merge to the main branch.",
-    "id": "Rabi2211/SkillsTrackGroupProject",
-    "language": "JavaScript",
-    "name": "Rabi2211/SkillsTrackGroupProject",
-    "stars": 0,
-    "updated_at": "2026-09-03T05:41:04Z",
-    "url": "https://github.com/Rabi2211/SkillsTrackGroupProject"
-  },
-  {
     "description": "Maintained Codex agent skills for product and engineering workflows, with a multi-harness layout for future Claude and C",
     "id": "AnthonyTlei/skills",
     "language": "Python",
@@ -293,7 +329,7 @@
     "language": "C#",
     "name": "prabitadhikari-coder/skills-secure-repository-supply-chain",
     "stars": 0,
-    "updated_at": "2026-09-03T05:40:53Z",
+    "updated_at": "2026-09-03T05:46:28Z",
     "url": "https://github.com/prabitadhikari-coder/skills-secure-repository-supply-chain"
   },
   {
@@ -529,15 +565,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T05:36:33Z",
     "url": "https://github.com/MohyeonTemplar0427/microgrid-skills-development"
-  },
-  {
-    "description": "",
-    "id": "vtu29363-cpu/applied-programing-skills",
-    "language": "Java",
-    "name": "vtu29363-cpu/applied-programing-skills",
-    "stars": 0,
-    "updated_at": "2026-09-03T05:36:13Z",
-    "url": "https://github.com/vtu29363-cpu/applied-programing-skills"
   },
   {
     "description": "",
@@ -801,24 +828,6 @@
     "url": "https://github.com/durgeshtalekar08/skills-introduction-to-github1"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-09-03T05:30:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 28,
-    "updated_at": "2026-09-03T05:30:30Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "",
     "id": "iconica-rain/skills-publish-package",
     "language": "JavaScript",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T05:29:08Z",
     "url": "https://github.com/coding-hermes/skills"
-  },
-  {
-    "description": "Public image host for LILA AI art skills (ai-art-set, ai-video-beats, sprite + future). Serves raw.githubusercontent URL",
-    "id": "BiswajeetLila/Image-Hosting-for-LILA-Art-Skills",
-    "language": "Shell",
-    "name": "BiswajeetLila/Image-Hosting-for-LILA-Art-Skills",
-    "stars": 0,
-    "updated_at": "2026-09-03T05:29:06Z",
-    "url": "https://github.com/BiswajeetLila/Image-Hosting-for-LILA-Art-Skills"
   }
 ]
