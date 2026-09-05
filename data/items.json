@@ -1,11 +1,56 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-05T05:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "looken1024/auto-skills",
+    "language": "Python",
+    "name": "looken1024/auto-skills",
+    "stars": 0,
+    "updated_at": "2026-09-05T05:00:07Z",
+    "url": "https://github.com/looken1024/auto-skills"
+  },
+  {
+    "description": "Exercise: Communicate using Markdown",
+    "id": "yushengzhou04/skills-communicate-using-markdown",
+    "language": "\u2014",
+    "name": "yushengzhou04/skills-communicate-using-markdown",
+    "stars": 0,
+    "updated_at": "2026-09-05T04:59:58Z",
+    "url": "https://github.com/yushengzhou04/skills-communicate-using-markdown"
+  },
+  {
+    "description": "Reusable AI agent skills for Folson Marketing, importable into Claude or ChatGPT Custom GPTs",
+    "id": "folson-marketing/folson-marketing-skills",
+    "language": "\u2014",
+    "name": "folson-marketing/folson-marketing-skills",
+    "stars": 0,
+    "updated_at": "2026-09-05T04:59:43Z",
+    "url": "https://github.com/folson-marketing/folson-marketing-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-09-05T04:59:39Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Read-only Modbus engineering skills and workflows for Codex, Claude Code, Cursor, and other Agent Plugins clients.",
     "id": "studioxvii/modbus-skills",
     "language": "Python",
     "name": "studioxvii/modbus-skills",
     "stars": 1,
-    "updated_at": "2026-09-05T04:59:26Z",
+    "updated_at": "2026-09-05T05:00:15Z",
     "url": "https://github.com/studioxvii/modbus-skills"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T04:59:15Z",
     "url": "https://github.com/bgutschke/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-05T04:58:00Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "My curated Claude Code agent skills and the idea-to-shipped-PR workflow that ties them together",
@@ -225,15 +261,6 @@
     "url": "https://github.com/Jenish-09/skills-communicate-using-markdown"
   },
   {
-    "description": "Reusable AI agent skills for Folson Marketing, importable into Claude or ChatGPT Custom GPTs",
-    "id": "folson-marketing/folson-marketing-skills",
-    "language": "\u2014",
-    "name": "folson-marketing/folson-marketing-skills",
-    "stars": 0,
-    "updated_at": "2026-09-05T04:55:44Z",
-    "url": "https://github.com/folson-marketing/folson-marketing-skills"
-  },
-  {
     "description": "Evidence-driven Nix and NixOS workflow skills for coding agents",
     "id": "Shangshui0302/some-NixOS-skills",
     "language": "Python",
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "Adam-S-Daniel/skills-evals",
     "stars": 0,
-    "updated_at": "2026-09-05T04:58:14Z",
+    "updated_at": "2026-09-05T05:00:15Z",
     "url": "https://github.com/Adam-S-Daniel/skills-evals"
   },
   {
@@ -284,7 +311,7 @@
     "language": "TypeScript",
     "name": "lelouvincx/agent-skills",
     "stars": 0,
-    "updated_at": "2026-09-05T04:58:47Z",
+    "updated_at": "2026-09-05T05:00:24Z",
     "url": "https://github.com/lelouvincx/agent-skills"
   },
   {
@@ -621,15 +648,6 @@
     "url": "https://github.com/nickstrad/skills-tools"
   },
   {
-    "description": "Exercise: Communicate using Markdown",
-    "id": "yushengzhou04/skills-communicate-using-markdown",
-    "language": "\u2014",
-    "name": "yushengzhou04/skills-communicate-using-markdown",
-    "stars": 0,
-    "updated_at": "2026-09-05T04:59:32Z",
-    "url": "https://github.com/yushengzhou04/skills-communicate-using-markdown"
-  },
-  {
     "description": "Exercise: Introduction to GitHub",
     "id": "zzy-0723/skills-introduction-to-github",
     "language": "\u2014",
@@ -637,15 +655,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T04:45:45Z",
     "url": "https://github.com/zzy-0723/skills-introduction-to-github"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-09-05T04:45:34Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "The multi-agent orchestration layer for mattpocock-skills: /route classifies and splits a spec's tickets across your Cla",
@@ -842,7 +851,7 @@
     "language": "Python",
     "name": "cat-xierluo/legal-skills",
     "stars": 643,
-    "updated_at": "2026-09-05T04:42:37Z",
+    "updated_at": "2026-09-05T04:59:44Z",
     "url": "https://github.com/cat-xierluo/legal-skills"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T04:39:31Z",
     "url": "https://github.com/rewardsdna/people-science-skills"
-  },
-  {
-    "description": "My clone repository",
-    "id": "AgentCheskky007/skills-copilot-codespaces-vscode",
-    "language": "JavaScript",
-    "name": "AgentCheskky007/skills-copilot-codespaces-vscode",
-    "stars": 0,
-    "updated_at": "2026-09-05T04:39:59Z",
-    "url": "https://github.com/AgentCheskky007/skills-copilot-codespaces-vscode"
   }
 ]
