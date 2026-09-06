@@ -1,5 +1,86 @@
 [
   {
+    "description": "A collection of Claude skills",
+    "id": "bilus/skills",
+    "language": "Haskell",
+    "name": "bilus/skills",
+    "stars": 0,
+    "updated_at": "2026-09-06T19:30:25Z",
+    "url": "https://github.com/bilus/skills"
+  },
+  {
+    "description": "Reusable Codex photo style skills",
+    "id": "williamfang/photo-style-skills",
+    "language": "\u2014",
+    "name": "williamfang/photo-style-skills",
+    "stars": 0,
+    "updated_at": "2026-09-06T19:30:23Z",
+    "url": "https://github.com/williamfang/photo-style-skills"
+  },
+  {
+    "description": "Marketri's collection of free Claude (etc.) skills for B2B businesses",
+    "id": "marketri-ai/b2b-skills",
+    "language": "\u2014",
+    "name": "marketri-ai/b2b-skills",
+    "stars": 0,
+    "updated_at": "2026-09-06T19:30:21Z",
+    "url": "https://github.com/marketri-ai/b2b-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T19:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Mapeamento quantitativo de habilidades t\u00e9cnicas demandadas pelo mercado de tecnologia no Brasil e compara\u00e7\u00e3o com as Dire",
+    "id": "diasgarcia/tech-skills-br",
+    "language": "Python",
+    "name": "diasgarcia/tech-skills-br",
+    "stars": 6,
+    "updated_at": "2026-09-06T19:30:14Z",
+    "url": "https://github.com/diasgarcia/tech-skills-br"
+  },
+  {
+    "description": "Exercise: Introduction to CodeQL",
+    "id": "Cydroz/skills-introduction-to-codeql",
+    "language": "Python",
+    "name": "Cydroz/skills-introduction-to-codeql",
+    "stars": 0,
+    "updated_at": "2026-09-06T19:30:09Z",
+    "url": "https://github.com/Cydroz/skills-introduction-to-codeql"
+  },
+  {
+    "description": "Exercise: Create and run a GitHub Actions Workflow",
+    "id": "Maliya2002/skills-hello-github-actions",
+    "language": "\u2014",
+    "name": "Maliya2002/skills-hello-github-actions",
+    "stars": 0,
+    "updated_at": "2026-09-06T19:29:56Z",
+    "url": "https://github.com/Maliya2002/skills-hello-github-actions"
+  },
+  {
+    "description": "repo for reusable plugins and skills",
+    "id": "richfrem/agent-plugins-skills",
+    "language": "Python",
+    "name": "richfrem/agent-plugins-skills",
+    "stars": 6,
+    "updated_at": "2026-09-06T19:30:26Z",
+    "url": "https://github.com/richfrem/agent-plugins-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 21,
+    "updated_at": "2026-09-06T19:29:48Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "",
     "id": "ahmetrz/skillset",
     "language": "TypeScript",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T19:29:07Z",
     "url": "https://github.com/plahotinr336-collab/my_skills_on_js"
-  },
-  {
-    "description": "Exercise: Introduction to CodeQL",
-    "id": "Cydroz/skills-introduction-to-codeql",
-    "language": "Python",
-    "name": "Cydroz/skills-introduction-to-codeql",
-    "stars": 0,
-    "updated_at": "2026-09-06T19:28:38Z",
-    "url": "https://github.com/Cydroz/skills-introduction-to-codeql"
   },
   {
     "description": "The-Tree",
@@ -225,15 +297,6 @@
     "url": "https://github.com/Kasper1985/skills-agentic-workflows-that-read-the-room"
   },
   {
-    "description": "Exercise: Create and run a GitHub Actions Workflow",
-    "id": "Maliya2002/skills-hello-github-actions",
-    "language": "\u2014",
-    "name": "Maliya2002/skills-hello-github-actions",
-    "stars": 0,
-    "updated_at": "2026-09-06T19:27:37Z",
-    "url": "https://github.com/Maliya2002/skills-hello-github-actions"
-  },
-  {
     "description": "Reusable AI agent skills and review agents for Claude Code, Gemini CLI, and other AI coding tools",
     "id": "Sassy-Dog/sassydog-skills",
     "language": "Shell",
@@ -277,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T19:22:46Z",
     "url": "https://github.com/Vaibhav-sri09/SkillSwap"
-  },
-  {
-    "description": "Mapeamento quantitativo de habilidades t\u00e9cnicas demandadas pelo mercado de tecnologia no Brasil e compara\u00e7\u00e3o com as Dire",
-    "id": "diasgarcia/tech-skills-br",
-    "language": "Python",
-    "name": "diasgarcia/tech-skills-br",
-    "stars": 6,
-    "updated_at": "2026-09-06T19:22:43Z",
-    "url": "https://github.com/diasgarcia/tech-skills-br"
   },
   {
     "description": "\u8ba9 WorkBuddy / CodeBuddy \u5728\u591a\u53f0 Windows \u7535\u8111\u4e4b\u95f4\u65e0\u7f1d\u540c\u6b65 \u2014 WPS \u4e91\u76d8\u4e2d\u8f6c + \u4ea4\u63a5\u5355 + \u81ea\u52a8\u5b88\u62a4\u8fdb\u7a0b",
@@ -567,15 +621,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 21,
-    "updated_at": "2026-09-06T19:15:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
     "id": "martinholovsky/SOTA-skills",
     "language": "Python",
@@ -583,15 +628,6 @@
     "stars": 18,
     "updated_at": "2026-09-06T19:15:20Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T19:15:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "ProbePilotAI official Agent skills registry",
@@ -626,7 +662,7 @@
     "language": "HTML",
     "name": "bolens/agent-skills",
     "stars": 1,
-    "updated_at": "2026-09-06T19:23:01Z",
+    "updated_at": "2026-09-06T19:29:54Z",
     "url": "https://github.com/bolens/agent-skills"
   },
   {
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T19:04:42Z",
     "url": "https://github.com/achillebk/skills-introduction-to-codeql"
-  },
-  {
-    "description": "All Agentic Skills",
-    "id": "beeclue/beeclue-skills",
-    "language": "Python",
-    "name": "beeclue/beeclue-skills",
-    "stars": 0,
-    "updated_at": "2026-09-06T19:03:49Z",
-    "url": "https://github.com/beeclue/beeclue-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "j888-dev/skills-introduction-to-github1",
-    "language": "\u2014",
-    "name": "j888-dev/skills-introduction-to-github1",
-    "stars": 0,
-    "updated_at": "2026-09-06T19:03:43Z",
-    "url": "https://github.com/j888-dev/skills-introduction-to-github1"
-  },
-  {
-    "description": "",
-    "id": "AndrosoftStudio/Tasks-and-skills-for-bots-without-LLM-in-Minecraft-Java-26.2-",
-    "language": "TypeScript",
-    "name": "AndrosoftStudio/Tasks-and-skills-for-bots-without-LLM-in-Minecraft-Java-26.2-",
-    "stars": 0,
-    "updated_at": "2026-09-06T19:03:28Z",
-    "url": "https://github.com/AndrosoftStudio/Tasks-and-skills-for-bots-without-LLM-in-Minecraft-Java-26.2-"
-  },
-  {
-    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
-    "id": "shambacts/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "language": "\u2014",
-    "name": "shambacts/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "stars": 0,
-    "updated_at": "2026-09-06T19:06:50Z",
-    "url": "https://github.com/shambacts/skills-scale-institutional-knowledge-using-copilot-spaces"
   }
 ]
