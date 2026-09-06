@@ -1,5 +1,68 @@
 [
   {
+    "description": "",
+    "id": "f12mano/Skills",
+    "language": "\u2014",
+    "name": "f12mano/Skills",
+    "stars": 0,
+    "updated_at": "2026-09-06T00:16:29Z",
+    "url": "https://github.com/f12mano/Skills"
+  },
+  {
+    "description": "Live browser demo for skillsmith: paste a Claude Agent SKILL.md, get instant lint + security-scan results. https://skill",
+    "id": "Larslllllll/skillsmith-web",
+    "language": "Python",
+    "name": "Larslllllll/skillsmith-web",
+    "stars": 0,
+    "updated_at": "2026-09-06T00:16:22Z",
+    "url": "https://github.com/Larslllllll/skillsmith-web"
+  },
+  {
+    "description": "claude code skills",
+    "id": "vinnie357/claude-skills",
+    "language": "Nushell",
+    "name": "vinnie357/claude-skills",
+    "stars": 24,
+    "updated_at": "2026-09-06T00:16:41Z",
+    "url": "https://github.com/vinnie357/claude-skills"
+  },
+  {
+    "description": "",
+    "id": "skill-one/skills-sh-scraper",
+    "language": "JavaScript",
+    "name": "skill-one/skills-sh-scraper",
+    "stars": 0,
+    "updated_at": "2026-09-06T00:15:38Z",
+    "url": "https://github.com/skill-one/skills-sh-scraper"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 32,
+    "updated_at": "2026-09-06T00:15:36Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Liu Lab shared agent skills (plugin marketplace)",
+    "id": "liuhlab/liulab-compute-skills",
+    "language": "Python",
+    "name": "liuhlab/liulab-compute-skills",
+    "stars": 0,
+    "updated_at": "2026-09-06T00:15:52Z",
+    "url": "https://github.com/liuhlab/liulab-compute-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-09-06T00:15:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -167,7 +230,7 @@
     "language": "JavaScript",
     "name": "TPSKaizen/skills-deploy-to-azure",
     "stars": 0,
-    "updated_at": "2026-09-06T00:14:48Z",
+    "updated_at": "2026-09-06T00:16:15Z",
     "url": "https://github.com/TPSKaizen/skills-deploy-to-azure"
   },
   {
@@ -257,7 +320,7 @@
     "language": "Shell",
     "name": "hideokamoto/skills",
     "stars": 0,
-    "updated_at": "2026-09-06T00:15:19Z",
+    "updated_at": "2026-09-06T00:16:24Z",
     "url": "https://github.com/hideokamoto/skills"
   },
   {
@@ -342,15 +405,6 @@
     "url": "https://github.com/diasgarcia/tech-skills-br"
   },
   {
-    "description": "Live browser demo for skillsmith: paste a Claude Agent SKILL.md, get instant lint + security-scan results. https://skill",
-    "id": "Larslllllll/skillsmith-web",
-    "language": "Python",
-    "name": "Larslllllll/skillsmith-web",
-    "stars": 0,
-    "updated_at": "2026-09-06T00:04:58Z",
-    "url": "https://github.com/Larslllllll/skillsmith-web"
-  },
-  {
     "description": "Claude Code Skills packaging nlink-jp workflows \u2014 development process, research, meeting minutes, security analysis, and",
     "id": "nlink-jp/skills-series",
     "language": "\u2014",
@@ -383,7 +437,7 @@
     "language": "\u2014",
     "name": "sbarkund-cmu-F26/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-09-06T00:12:43Z",
+    "updated_at": "2026-09-06T00:16:42Z",
     "url": "https://github.com/sbarkund-cmu-F26/skills-communicate-using-markdown"
   },
   {
@@ -455,7 +509,7 @@
     "language": "Python",
     "name": "alexhawat/bots-agents-skills",
     "stars": 0,
-    "updated_at": "2026-09-06T00:09:34Z",
+    "updated_at": "2026-09-06T00:16:09Z",
     "url": "https://github.com/alexhawat/bots-agents-skills"
   },
   {
@@ -493,24 +547,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T00:00:46Z",
     "url": "https://github.com/sbarkund-cmu-F26/skills-introduction-to-github"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-09-06T00:00:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 32,
-    "updated_at": "2026-09-06T00:00:27Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T23:47:14Z",
     "url": "https://github.com/tomboone/claude-skills"
-  },
-  {
-    "description": "",
-    "id": "josiascardosodias-glitch/skills",
-    "language": "\u2014",
-    "name": "josiascardosodias-glitch/skills",
-    "stars": 0,
-    "updated_at": "2026-09-05T23:47:14Z",
-    "url": "https://github.com/josiascardosodias-glitch/skills"
-  },
-  {
-    "description": "Fourteen independent DeFi agent skill packs for liquidity, Hyperliquid, lending, yield and related workflows. Built arou",
-    "id": "galleonlabs/crypto-defi-skills",
-    "language": "TypeScript",
-    "name": "galleonlabs/crypto-defi-skills",
-    "stars": 1,
-    "updated_at": "2026-09-05T23:47:17Z",
-    "url": "https://github.com/galleonlabs/crypto-defi-skills"
-  },
-  {
-    "description": "",
-    "id": "fangzhengjin/skills-hub",
-    "language": "PowerShell",
-    "name": "fangzhengjin/skills-hub",
-    "stars": 27,
-    "updated_at": "2026-09-05T23:46:40Z",
-    "url": "https://github.com/fangzhengjin/skills-hub"
-  },
-  {
-    "description": "Portable agent skills packaged as a plugin marketplace for Claude Code and Codex",
-    "id": "dimonb/skills",
-    "language": "Shell",
-    "name": "dimonb/skills",
-    "stars": 0,
-    "updated_at": "2026-09-05T23:46:28Z",
-    "url": "https://github.com/dimonb/skills"
   }
 ]
