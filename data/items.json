@@ -1,5 +1,77 @@
 [
   {
+    "description": "Exercise: Build applications with GitHub Copilot agent mode",
+    "id": "hsamjesqu/skills-build-applications-w-copilot-agent-mode",
+    "language": "JavaScript",
+    "name": "hsamjesqu/skills-build-applications-w-copilot-agent-mode",
+    "stars": 0,
+    "updated_at": "2026-09-08T00:31:05Z",
+    "url": "https://github.com/hsamjesqu/skills-build-applications-w-copilot-agent-mode"
+  },
+  {
+    "description": "Version-aware Agent Skills for Go developers using Bubble Tea and the Charm ecosystem. Pinned references, runnable examp",
+    "id": "newbpydev/skills-charmbracelet",
+    "language": "Go",
+    "name": "newbpydev/skills-charmbracelet",
+    "stars": 0,
+    "updated_at": "2026-09-08T00:31:01Z",
+    "url": "https://github.com/newbpydev/skills-charmbracelet"
+  },
+  {
+    "description": "",
+    "id": "optiflow/skills_repo",
+    "language": "Python",
+    "name": "optiflow/skills_repo",
+    "stars": 1,
+    "updated_at": "2026-09-08T00:31:00Z",
+    "url": "https://github.com/optiflow/skills_repo"
+  },
+  {
+    "description": "",
+    "id": "onurseckin/skills",
+    "language": "TypeScript",
+    "name": "onurseckin/skills",
+    "stars": 1,
+    "updated_at": "2026-09-08T00:30:54Z",
+    "url": "https://github.com/onurseckin/skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "thuangf45/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "thuangf45/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-09-08T00:31:01Z",
+    "url": "https://github.com/thuangf45/skills-introduction-to-github"
+  },
+  {
+    "description": "",
+    "id": "Sahithiiiiii/project-skills-recommendation",
+    "language": "TypeScript",
+    "name": "Sahithiiiiii/project-skills-recommendation",
+    "stars": 0,
+    "updated_at": "2026-09-08T00:30:50Z",
+    "url": "https://github.com/Sahithiiiiii/project-skills-recommendation"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 32,
+    "updated_at": "2026-09-08T00:30:35Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 21,
+    "updated_at": "2026-09-08T00:30:34Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "",
     "id": "pyscriptcli/skills",
     "language": "\u2014",
@@ -142,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T00:26:55Z",
     "url": "https://github.com/itgemhi/skills-introduction-to-git"
-  },
-  {
-    "description": "Version-aware Agent Skills for Go developers using Bubble Tea and the Charm ecosystem. Pinned references, runnable examp",
-    "id": "newbpydev/skills-charmbracelet",
-    "language": "Go",
-    "name": "newbpydev/skills-charmbracelet",
-    "stars": 0,
-    "updated_at": "2026-09-08T00:29:34Z",
-    "url": "https://github.com/newbpydev/skills-charmbracelet"
   },
   {
     "description": "Skills pr\u00e1ticas para a comunidade Hermes Agent.",
@@ -360,21 +423,12 @@
     "url": "https://github.com/SackCais/skills-getting-started-with-github-copilot"
   },
   {
-    "description": "",
-    "id": "onurseckin/skills",
-    "language": "TypeScript",
-    "name": "onurseckin/skills",
-    "stars": 1,
-    "updated_at": "2026-09-08T00:21:34Z",
-    "url": "https://github.com/onurseckin/skills"
-  },
-  {
     "description": "Exercise: introduction to repository management",
     "id": "hvu-hsl/skills-introduction-to-repository-management",
     "language": "JavaScript",
     "name": "hvu-hsl/skills-introduction-to-repository-management",
     "stars": 0,
-    "updated_at": "2026-09-08T00:30:00Z",
+    "updated_at": "2026-09-08T00:30:35Z",
     "url": "https://github.com/hvu-hsl/skills-introduction-to-repository-management"
   },
   {
@@ -520,24 +574,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T00:15:30Z",
     "url": "https://github.com/kibretmisganaw/skills-introduction-to-git2"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 21,
-    "updated_at": "2026-09-08T00:15:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 32,
-    "updated_at": "2026-09-08T00:15:28Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Exercise: Introduction to Git",
@@ -783,15 +819,6 @@
     "url": "https://github.com/agents24/skills"
   },
   {
-    "description": "",
-    "id": "Sahithiiiiii/project-skills-recommendation",
-    "language": "TypeScript",
-    "name": "Sahithiiiiii/project-skills-recommendation",
-    "stars": 0,
-    "updated_at": "2026-09-08T00:07:41Z",
-    "url": "https://github.com/Sahithiiiiii/project-skills-recommendation"
-  },
-  {
     "description": "A curated collection of skills for AI coding agents.",
     "id": "justinyoo/skills",
     "language": "PowerShell",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T00:04:27Z",
     "url": "https://github.com/DanSoteloR/skills-introduction-to-git"
-  },
-  {
-    "description": "Repository for Open Edge Platform Agent Skills",
-    "id": "open-edge-platform/skills",
-    "language": "Python",
-    "name": "open-edge-platform/skills",
-    "stars": 2,
-    "updated_at": "2026-09-08T00:04:23Z",
-    "url": "https://github.com/open-edge-platform/skills"
-  },
-  {
-    "description": "",
-    "id": "InsForge/insta-skills",
-    "language": "\u2014",
-    "name": "InsForge/insta-skills",
-    "stars": 0,
-    "updated_at": "2026-09-08T00:04:20Z",
-    "url": "https://github.com/InsForge/insta-skills"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 55,
-    "updated_at": "2026-09-08T00:04:18Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
   }
 ]
