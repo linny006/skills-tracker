@@ -1,5 +1,77 @@
 [
   {
+    "description": "Exercise: Build applications with GitHub Copilot agent mode",
+    "id": "edwardsan00/skills-build-applications-w-copilot-agent-mode",
+    "language": "\u2014",
+    "name": "edwardsan00/skills-build-applications-w-copilot-agent-mode",
+    "stars": 0,
+    "updated_at": "2026-09-09T22:01:29Z",
+    "url": "https://github.com/edwardsan00/skills-build-applications-w-copilot-agent-mode"
+  },
+  {
+    "description": "",
+    "id": "FallGuy102/bilibili-video-skills",
+    "language": "Python",
+    "name": "FallGuy102/bilibili-video-skills",
+    "stars": 0,
+    "updated_at": "2026-09-09T22:01:19Z",
+    "url": "https://github.com/FallGuy102/bilibili-video-skills"
+  },
+  {
+    "description": "",
+    "id": "AustinMatherne/skills",
+    "language": "Python",
+    "name": "AustinMatherne/skills",
+    "stars": 0,
+    "updated_at": "2026-09-09T22:01:10Z",
+    "url": "https://github.com/AustinMatherne/skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "andrewarriaga/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "andrewarriaga/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-09-09T22:01:05Z",
+    "url": "https://github.com/andrewarriaga/skills-introduction-to-github"
+  },
+  {
+    "description": "A personal collection of Agent Skills.",
+    "id": "gtbuchanan/skills",
+    "language": "TypeScript",
+    "name": "gtbuchanan/skills",
+    "stars": 0,
+    "updated_at": "2026-09-09T22:00:46Z",
+    "url": "https://github.com/gtbuchanan/skills"
+  },
+  {
+    "description": "Agent skills for building iOS apps on iPhone Duo, Apple's first foldable iPhone \u2014 adaptive layout, vertical bars, hinge ",
+    "id": "mirzaaghazadeh/iphone-duo-skills",
+    "language": "Python",
+    "name": "mirzaaghazadeh/iphone-duo-skills",
+    "stars": 0,
+    "updated_at": "2026-09-09T22:00:42Z",
+    "url": "https://github.com/mirzaaghazadeh/iphone-duo-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 22,
+    "updated_at": "2026-09-09T22:00:36Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 32,
+    "updated_at": "2026-09-09T22:00:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -16,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-09-09T22:00:09Z",
     "url": "https://github.com/Drezil/hermes-academic-research-skills"
+  },
+  {
+    "description": "",
+    "id": "looken1024/auto-skills",
+    "language": "Python",
+    "name": "looken1024/auto-skills",
+    "stars": 0,
+    "updated_at": "2026-09-09T22:00:06Z",
+    "url": "https://github.com/looken1024/auto-skills"
   },
   {
     "description": "Custom skills for development workflows",
@@ -145,6 +226,15 @@
   },
   {
     "description": "",
+    "id": "mayasdaydreams/skills",
+    "language": "\u2014",
+    "name": "mayasdaydreams/skills",
+    "stars": 0,
+    "updated_at": "2026-09-09T21:58:35Z",
+    "url": "https://github.com/mayasdaydreams/skills"
+  },
+  {
+    "description": "",
     "id": "jpolvora/workflow-skills",
     "language": "JavaScript",
     "name": "jpolvora/workflow-skills",
@@ -239,7 +329,7 @@
     "language": "\u2014",
     "name": "mteper27/the-block-skills",
     "stars": 0,
-    "updated_at": "2026-09-09T21:55:46Z",
+    "updated_at": "2026-09-09T22:01:14Z",
     "url": "https://github.com/mteper27/the-block-skills"
   },
   {
@@ -423,15 +513,6 @@
     "url": "https://github.com/hoopit/skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 32,
-    "updated_at": "2026-09-09T21:50:44Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Agent skills",
     "id": "davidsolheim/skills",
     "language": "Python",
@@ -500,7 +581,7 @@
     "language": "JavaScript",
     "name": "arorashubham07/skills-customize-your-github-copilot-experience",
     "stars": 0,
-    "updated_at": "2026-09-09T21:49:26Z",
+    "updated_at": "2026-09-09T22:01:28Z",
     "url": "https://github.com/arorashubham07/skills-customize-your-github-copilot-experience"
   },
   {
@@ -646,15 +727,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T21:56:54Z",
     "url": "https://github.com/NoxusAfk/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 22,
-    "updated_at": "2026-09-09T21:45:30Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Apache Skills",
@@ -826,77 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-09T21:56:25Z",
     "url": "https://github.com/noelmcloughlin/lokf-agent-skills"
-  },
-  {
-    "description": "AI Skill for mining trading edges and deploying signal trading bots. ",
-    "id": "autonomousEnterprises/nujinSkills",
-    "language": "TypeScript",
-    "name": "autonomousEnterprises/nujinSkills",
-    "stars": 0,
-    "updated_at": "2026-09-09T21:39:40Z",
-    "url": "https://github.com/autonomousEnterprises/nujinSkills"
-  },
-  {
-    "description": "Claude Code skills for understanding social media",
-    "id": "scrollmark/social-skills",
-    "language": "Python",
-    "name": "scrollmark/social-skills",
-    "stars": 15,
-    "updated_at": "2026-09-09T21:39:30Z",
-    "url": "https://github.com/scrollmark/social-skills"
-  },
-  {
-    "description": "Some coding assistant skills I use",
-    "id": "anders-swanson/skills",
-    "language": "\u2014",
-    "name": "anders-swanson/skills",
-    "stars": 1,
-    "updated_at": "2026-09-09T21:39:23Z",
-    "url": "https://github.com/anders-swanson/skills"
-  },
-  {
-    "description": "Exercise: GitHub Copilot Code Review",
-    "id": "lshaible/skills-copilot-code-review",
-    "language": "JavaScript",
-    "name": "lshaible/skills-copilot-code-review",
-    "stars": 0,
-    "updated_at": "2026-09-09T21:38:49Z",
-    "url": "https://github.com/lshaible/skills-copilot-code-review"
-  },
-  {
-    "description": "",
-    "id": "tkersey/skills-zig",
-    "language": "Zig",
-    "name": "tkersey/skills-zig",
-    "stars": 8,
-    "updated_at": "2026-09-09T21:40:07Z",
-    "url": "https://github.com/tkersey/skills-zig"
-  },
-  {
-    "description": "",
-    "id": "h3llb0ys/cc-skills",
-    "language": "Shell",
-    "name": "h3llb0ys/cc-skills",
-    "stars": 0,
-    "updated_at": "2026-09-09T21:38:36Z",
-    "url": "https://github.com/h3llb0ys/cc-skills"
-  },
-  {
-    "description": "Canonical Hermes-native research skills curated by Skill Commons",
-    "id": "skill-commons/curated-research-skills",
-    "language": "Python",
-    "name": "skill-commons/curated-research-skills",
-    "stars": 1,
-    "updated_at": "2026-09-09T21:38:26Z",
-    "url": "https://github.com/skill-commons/curated-research-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "thekritikal/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "thekritikal/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-09-09T21:38:15Z",
-    "url": "https://github.com/thekritikal/skills-introduction-to-github"
   }
 ]
