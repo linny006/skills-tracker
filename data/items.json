@@ -1,5 +1,95 @@
 [
   {
+    "description": "Exercise: Review pull requests",
+    "id": "Aadi-Shah10/skills-review-pull-requests",
+    "language": "HTML",
+    "name": "Aadi-Shah10/skills-review-pull-requests",
+    "stars": 0,
+    "updated_at": "2026-09-11T01:16:47Z",
+    "url": "https://github.com/Aadi-Shah10/skills-review-pull-requests"
+  },
+  {
+    "description": "",
+    "id": "caidc8252/claude-skills",
+    "language": "\u2014",
+    "name": "caidc8252/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-11T01:16:42Z",
+    "url": "https://github.com/caidc8252/claude-skills"
+  },
+  {
+    "description": "",
+    "id": "mlanett/skills",
+    "language": "\u2014",
+    "name": "mlanett/skills",
+    "stars": 0,
+    "updated_at": "2026-09-11T01:16:41Z",
+    "url": "https://github.com/mlanett/skills"
+  },
+  {
+    "description": "create repository",
+    "id": "LeNguyenNhuQuynh-QNU/Digital-Skills",
+    "language": "\u2014",
+    "name": "LeNguyenNhuQuynh-QNU/Digital-Skills",
+    "stars": 0,
+    "updated_at": "2026-09-11T01:16:30Z",
+    "url": "https://github.com/LeNguyenNhuQuynh-QNU/Digital-Skills"
+  },
+  {
+    "description": "Protect your code with automated testing",
+    "id": "Santix123123/skills-test-with-actions",
+    "language": "Python",
+    "name": "Santix123123/skills-test-with-actions",
+    "stars": 0,
+    "updated_at": "2026-09-11T01:16:16Z",
+    "url": "https://github.com/Santix123123/skills-test-with-actions"
+  },
+  {
+    "description": "",
+    "id": "DuongMinhUyen-QNU/Digital-Skills-Publics",
+    "language": "\u2014",
+    "name": "DuongMinhUyen-QNU/Digital-Skills-Publics",
+    "stars": 0,
+    "updated_at": "2026-09-11T01:15:41Z",
+    "url": "https://github.com/DuongMinhUyen-QNU/Digital-Skills-Publics"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 32,
+    "updated_at": "2026-09-11T01:15:39Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Options analytics an AI agent can drive and a person can read. Sixteen Greeks, seventeen structures, dealer positioning,",
+    "id": "Iman/agent-driven-options-desk-and-skills",
+    "language": "Python",
+    "name": "Iman/agent-driven-options-desk-and-skills",
+    "stars": 0,
+    "updated_at": "2026-09-11T01:15:38Z",
+    "url": "https://github.com/Iman/agent-driven-options-desk-and-skills"
+  },
+  {
+    "description": "A curated collection of high-performance Agent Skills (SKILL.md) for Claude Code, Codex, Cursor, OpenCode, and Devin. Co",
+    "id": "afonsoft/skills",
+    "language": "Shell",
+    "name": "afonsoft/skills",
+    "stars": 2,
+    "updated_at": "2026-09-11T01:15:36Z",
+    "url": "https://github.com/afonsoft/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 22,
+    "updated_at": "2026-09-11T01:15:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T01:15:07Z",
     "url": "https://github.com/leu81901-bot/digital-skills"
-  },
-  {
-    "description": "",
-    "id": "caidc8252/claude-skills",
-    "language": "\u2014",
-    "name": "caidc8252/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-09-11T01:14:53Z",
-    "url": "https://github.com/caidc8252/claude-skills"
   },
   {
     "description": "",
@@ -162,15 +243,6 @@
     "url": "https://github.com/xbash/gen-ai-skills"
   },
   {
-    "description": "A curated collection of high-performance Agent Skills (SKILL.md) for Claude Code, Codex, Cursor, OpenCode, and Devin. Co",
-    "id": "afonsoft/skills",
-    "language": "Shell",
-    "name": "afonsoft/skills",
-    "stars": 2,
-    "updated_at": "2026-09-11T01:12:45Z",
-    "url": "https://github.com/afonsoft/skills"
-  },
-  {
     "description": "Exercise: Review pull requests",
     "id": "grayharrod/skills-review-pull-requests",
     "language": "HTML",
@@ -187,15 +259,6 @@
     "stars": 6,
     "updated_at": "2026-09-11T01:12:18Z",
     "url": "https://github.com/alharkan7/skills"
-  },
-  {
-    "description": "",
-    "id": "DuongMinhUyen-QNU/Digital-Skills-Publics",
-    "language": "\u2014",
-    "name": "DuongMinhUyen-QNU/Digital-Skills-Publics",
-    "stars": 0,
-    "updated_at": "2026-09-11T01:11:55Z",
-    "url": "https://github.com/DuongMinhUyen-QNU/Digital-Skills-Publics"
   },
   {
     "description": "A personal collection of Agent Skills.",
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "jeremylongshore/tons-of-skills-marketplace",
     "stars": 2716,
-    "updated_at": "2026-09-11T01:11:15Z",
+    "updated_at": "2026-09-11T01:17:05Z",
     "url": "https://github.com/jeremylongshore/tons-of-skills-marketplace"
   },
   {
@@ -329,7 +392,7 @@
     "language": "\u2014",
     "name": "illusoryw/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-09-11T01:13:38Z",
+    "updated_at": "2026-09-11T01:16:13Z",
     "url": "https://github.com/illusoryw/skills-communicate-using-markdown"
   },
   {
@@ -653,7 +716,7 @@
     "language": "\u2014",
     "name": "DeepSpaceCartel/skills",
     "stars": 0,
-    "updated_at": "2026-09-11T01:05:33Z",
+    "updated_at": "2026-09-11T01:16:49Z",
     "url": "https://github.com/DeepSpaceCartel/skills"
   },
   {
@@ -691,15 +754,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T01:03:50Z",
     "url": "https://github.com/mlamass/skills-resolve-merge-conflicts"
-  },
-  {
-    "description": "Protect your code with automated testing",
-    "id": "Santix123123/skills-test-with-actions",
-    "language": "Python",
-    "name": "Santix123123/skills-test-with-actions",
-    "stars": 0,
-    "updated_at": "2026-09-11T01:03:40Z",
-    "url": "https://github.com/Santix123123/skills-test-with-actions"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -819,15 +873,6 @@
     "url": "https://github.com/AbdelraoufAly/skills-introduction-to-github"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 22,
-    "updated_at": "2026-09-11T01:01:11Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Top-level index for the Lovstudio skills ecosystem",
     "id": "lovstudio/skills",
     "language": "Python",
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T01:01:05Z",
     "url": "https://github.com/GStarP/skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "alanloom/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "alanloom/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-09-11T01:00:52Z",
-    "url": "https://github.com/alanloom/skills-introduction-to-github"
-  },
-  {
-    "description": "Claude Code skills for understanding social media",
-    "id": "scrollmark/social-skills",
-    "language": "Python",
-    "name": "scrollmark/social-skills",
-    "stars": 15,
-    "updated_at": "2026-09-11T01:00:50Z",
-    "url": "https://github.com/scrollmark/social-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 32,
-    "updated_at": "2026-09-11T01:00:33Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "",
-    "id": "nludd25/awesome-codex-skills",
-    "language": "Python",
-    "name": "nludd25/awesome-codex-skills",
-    "stars": 0,
-    "updated_at": "2026-09-11T01:00:31Z",
-    "url": "https://github.com/nludd25/awesome-codex-skills"
-  },
-  {
-    "description": "Write agent files once (skills, rules, hooks, plugins), compile provider-native versions (Claude, Codex, Cursor, and mor",
-    "id": "outfitter-dev/skillset",
-    "language": "TypeScript",
-    "name": "outfitter-dev/skillset",
-    "stars": 1,
-    "updated_at": "2026-09-11T01:04:59Z",
-    "url": "https://github.com/outfitter-dev/skillset"
   }
 ]
