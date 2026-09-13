@@ -1,5 +1,104 @@
 [
   {
+    "description": "Skills I use to execute long-running coding agents without breaking my back.",
+    "id": "Parcha-ai/parcha-skills",
+    "language": "Python",
+    "name": "Parcha-ai/parcha-skills",
+    "stars": 60,
+    "updated_at": "2026-09-13T20:45:14Z",
+    "url": "https://github.com/Parcha-ai/parcha-skills"
+  },
+  {
+    "description": "",
+    "id": "D1ZZY4/agent-skills",
+    "language": "\u2014",
+    "name": "D1ZZY4/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-13T20:45:14Z",
+    "url": "https://github.com/D1ZZY4/agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-13T20:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "CloudBuck/skills-getting-started-with-github-copilot",
+    "language": "JavaScript",
+    "name": "CloudBuck/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-09-13T20:45:12Z",
+    "url": "https://github.com/CloudBuck/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "Fleet skill federation \u2014 contributors/darkhero + contributors/scar3",
+    "id": "scss1199/ai_fleet_skills",
+    "language": "Python",
+    "name": "scss1199/ai_fleet_skills",
+    "stars": 0,
+    "updated_at": "2026-09-13T20:44:59Z",
+    "url": "https://github.com/scss1199/ai_fleet_skills"
+  },
+  {
+    "description": "Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
+    "id": "tusshaarpd/skills",
+    "language": "Python",
+    "name": "tusshaarpd/skills",
+    "stars": 0,
+    "updated_at": "2026-09-13T20:44:57Z",
+    "url": "https://github.com/tusshaarpd/skills"
+  },
+  {
+    "description": "A Claude Code plugin of project-agnostic skills: git safety, PR/issue workflow, documentation sync, and prose voice.",
+    "id": "eengelking/skills",
+    "language": "Shell",
+    "name": "eengelking/skills",
+    "stars": 0,
+    "updated_at": "2026-09-13T20:45:03Z",
+    "url": "https://github.com/eengelking/skills"
+  },
+  {
+    "description": "",
+    "id": "zhangtown/my-skills",
+    "language": "Python",
+    "name": "zhangtown/my-skills",
+    "stars": 0,
+    "updated_at": "2026-09-13T20:44:29Z",
+    "url": "https://github.com/zhangtown/my-skills"
+  },
+  {
+    "description": "agent-skills-toolbox",
+    "id": "rondomondo/agent-skills-toolbox",
+    "language": "HTML",
+    "name": "rondomondo/agent-skills-toolbox",
+    "stars": 0,
+    "updated_at": "2026-09-13T20:44:09Z",
+    "url": "https://github.com/rondomondo/agent-skills-toolbox"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 23,
+    "updated_at": "2026-09-13T20:44:06Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "An uncertainty-driven skill network for product designers and independent product builders working with AI.",
+    "id": "jiayuewangjavy/product-designer-skills-os",
+    "language": "Python",
+    "name": "jiayuewangjavy/product-designer-skills-os",
+    "stars": 0,
+    "updated_at": "2026-09-13T20:44:06Z",
+    "url": "https://github.com/jiayuewangjavy/product-designer-skills-os"
+  },
+  {
     "description": "My clone repository",
     "id": "mahatosumit/optinx_skills",
     "language": "JavaScript",
@@ -180,15 +279,6 @@
     "url": "https://github.com/TPSKaizen/skills-deploy-to-azure"
   },
   {
-    "description": "An uncertainty-driven skill network for product designers and independent product builders working with AI.",
-    "id": "jiayuewangjavy/product-designer-skills-os",
-    "language": "Python",
-    "name": "jiayuewangjavy/product-designer-skills-os",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:41:27Z",
-    "url": "https://github.com/jiayuewangjavy/product-designer-skills-os"
-  },
-  {
     "description": "",
     "id": "aiverse-filmmakers/AI-Verse-Skills",
     "language": "Python",
@@ -268,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T20:40:08Z",
     "url": "https://github.com/DLR-SL/CPACS-Design-System-AI-Skills"
-  },
-  {
-    "description": "",
-    "id": "zhangtown/my-skills",
-    "language": "Python",
-    "name": "zhangtown/my-skills",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:40:01Z",
-    "url": "https://github.com/zhangtown/my-skills"
   },
   {
     "description": "Exercise: Agentic Workflows That Read the Room",
@@ -414,15 +495,6 @@
     "url": "https://github.com/ryanliu-terum/terum-skills"
   },
   {
-    "description": "Skills I use to execute long-running coding agents without breaking my back.",
-    "id": "Parcha-ai/parcha-skills",
-    "language": "Python",
-    "name": "Parcha-ai/parcha-skills",
-    "stars": 60,
-    "updated_at": "2026-09-13T20:39:29Z",
-    "url": "https://github.com/Parcha-ai/parcha-skills"
-  },
-  {
     "description": "",
     "id": "SwannJulien/skills",
     "language": "\u2014",
@@ -448,24 +520,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T20:33:08Z",
     "url": "https://github.com/karansinghverma979/antigravity-custom-skills"
-  },
-  {
-    "description": "",
-    "id": "D1ZZY4/agent-skills",
-    "language": "\u2014",
-    "name": "D1ZZY4/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:33:05Z",
-    "url": "https://github.com/D1ZZY4/agent-skills"
-  },
-  {
-    "description": "agent-skills-toolbox",
-    "id": "rondomondo/agent-skills-toolbox",
-    "language": "HTML",
-    "name": "rondomondo/agent-skills-toolbox",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:32:56Z",
-    "url": "https://github.com/rondomondo/agent-skills-toolbox"
   },
   {
     "description": "Wix Skills",
@@ -529,15 +583,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T20:31:38Z",
     "url": "https://github.com/dyannesquashy6652/hyperframes-community-skills"
-  },
-  {
-    "description": "Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
-    "id": "tusshaarpd/skills",
-    "language": "Python",
-    "name": "tusshaarpd/skills",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:31:34Z",
-    "url": "https://github.com/tusshaarpd/skills"
   },
   {
     "description": "Discover hand-picked Agent Skills from top dev teams\u2014curated, organized, and community-driven for AI builders.",
@@ -657,15 +702,6 @@
     "url": "https://github.com/jleechanorg/jleechan-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 23,
-    "updated_at": "2026-09-13T20:30:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Agent Skills for building AI phone agents on Talkif \u2014 Claude Code, Codex, Cursor",
     "id": "Talkif-ai/skills",
     "language": "\u2014",
@@ -682,15 +718,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T20:30:19Z",
     "url": "https://github.com/Herr-Enklo/meine-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-13T20:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u96f2\u6797\u5730\u65b9\u6587\u53f2\u8207\u89aa\u5b50\u65c5\u904a\u5c0e\u89bd Codex Skills \u5957\u4ef6",
@@ -871,32 +898,5 @@
     "stars": 2,
     "updated_at": "2026-09-13T20:26:14Z",
     "url": "https://github.com/tolimcn7786/skills"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-09-13T20:25:47Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "",
-    "id": "NameArtem/ai_skills_n_promts",
-    "language": "TypeScript",
-    "name": "NameArtem/ai_skills_n_promts",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:25:46Z",
-    "url": "https://github.com/NameArtem/ai_skills_n_promts"
-  },
-  {
-    "description": "Fleet skill federation \u2014 contributors/darkhero + contributors/scar3",
-    "id": "scss1199/ai_fleet_skills",
-    "language": "Python",
-    "name": "scss1199/ai_fleet_skills",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:25:34Z",
-    "url": "https://github.com/scss1199/ai_fleet_skills"
   }
 ]
