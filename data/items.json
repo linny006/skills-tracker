@@ -1,5 +1,41 @@
 [
   {
+    "description": "Projetos de Skills",
+    "id": "fedelc-cloud/Skills",
+    "language": "\u2014",
+    "name": "fedelc-cloud/Skills",
+    "stars": 0,
+    "updated_at": "2026-09-16T18:15:18Z",
+    "url": "https://github.com/fedelc-cloud/Skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-16T18:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Monorepo of agentic engineering skills (req-discovery, us-refinement, res-onboarding, tc-generator) with multi-agent CLI",
+    "id": "hjagar/hjagar-skills",
+    "language": "Shell",
+    "name": "hjagar/hjagar-skills",
+    "stars": 0,
+    "updated_at": "2026-09-16T18:15:11Z",
+    "url": "https://github.com/hjagar/hjagar-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 22,
+    "updated_at": "2026-09-16T18:15:10Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
     "id": "1vadimsokolov/skills-integrate-mcp-with-copilot",
     "language": "JavaScript",
@@ -613,12 +649,12 @@
   },
   {
     "description": "",
-    "id": "akobebe/skills",
+    "id": "mst-mkt/skills",
     "language": "\u2014",
-    "name": "akobebe/skills",
+    "name": "mst-mkt/skills",
     "stars": 0,
     "updated_at": "2026-09-16T18:05:22Z",
-    "url": "https://github.com/akobebe/skills"
+    "url": "https://github.com/mst-mkt/skills"
   },
   {
     "description": "",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T18:02:18Z",
     "url": "https://github.com/Abeerr0/SkillSwap"
-  },
-  {
-    "description": "Agent Skills",
-    "id": "dfftech/skills",
-    "language": "TypeScript",
-    "name": "dfftech/skills",
-    "stars": 0,
-    "updated_at": "2026-09-16T18:02:03Z",
-    "url": "https://github.com/dfftech/skills"
-  },
-  {
-    "description": "",
-    "id": "InvisCo/srs-skills",
-    "language": "\u2014",
-    "name": "InvisCo/srs-skills",
-    "stars": 1,
-    "updated_at": "2026-09-16T18:01:55Z",
-    "url": "https://github.com/InvisCo/srs-skills"
-  },
-  {
-    "description": "",
-    "id": "NickkkLian/nickkk-skills",
-    "language": "Python",
-    "name": "NickkkLian/nickkk-skills",
-    "stars": 0,
-    "updated_at": "2026-09-16T18:01:52Z",
-    "url": "https://github.com/NickkkLian/nickkk-skills"
-  },
-  {
-    "description": "Claude Code plugin marketplace with curated skills and tools for developers",
-    "id": "jayteealao/agent-skills",
-    "language": "JavaScript",
-    "name": "jayteealao/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-16T18:01:29Z",
-    "url": "https://github.com/jayteealao/agent-skills"
   }
 ]
