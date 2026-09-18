@@ -1,5 +1,140 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-18T22:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\"An interactive skill path planner web app to help users track and learn skills efficiently.\"",
+    "id": "Engineer-Sarah/Skills-Path-Planner",
+    "language": "\u2014",
+    "name": "Engineer-Sarah/Skills-Path-Planner",
+    "stars": 0,
+    "updated_at": "2026-09-18T22:00:11Z",
+    "url": "https://github.com/Engineer-Sarah/Skills-Path-Planner"
+  },
+  {
+    "description": "Automated backup of Hermes Agent skills",
+    "id": "barzzly/BarzzLyp_Agent_Skills",
+    "language": "Python",
+    "name": "barzzly/BarzzLyp_Agent_Skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T22:00:04Z",
+    "url": "https://github.com/barzzly/BarzzLyp_Agent_Skills"
+  },
+  {
+    "description": "",
+    "id": "heymishy/skills-repo",
+    "language": "JavaScript",
+    "name": "heymishy/skills-repo",
+    "stars": 1,
+    "updated_at": "2026-09-18T22:00:10Z",
+    "url": "https://github.com/heymishy/skills-repo"
+  },
+  {
+    "description": "Public skills and assets for students",
+    "id": "carlmsu1/seidman-fpa-skills",
+    "language": "\u2014",
+    "name": "carlmsu1/seidman-fpa-skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T21:59:48Z",
+    "url": "https://github.com/carlmsu1/seidman-fpa-skills"
+  },
+  {
+    "description": "",
+    "id": "macron1-automations/grok-and-muse-reporting-skills",
+    "language": "Python",
+    "name": "macron1-automations/grok-and-muse-reporting-skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T21:59:42Z",
+    "url": "https://github.com/macron1-automations/grok-and-muse-reporting-skills"
+  },
+  {
+    "description": "",
+    "id": "Ganesh9923/SkillSwap",
+    "language": "PHP",
+    "name": "Ganesh9923/SkillSwap",
+    "stars": 0,
+    "updated_at": "2026-09-18T21:59:40Z",
+    "url": "https://github.com/Ganesh9923/SkillSwap"
+  },
+  {
+    "description": "",
+    "id": "priyakumari25191-glitch/skillswap",
+    "language": "\u2014",
+    "name": "priyakumari25191-glitch/skillswap",
+    "stars": 0,
+    "updated_at": "2026-09-18T21:59:33Z",
+    "url": "https://github.com/priyakumari25191-glitch/skillswap"
+  },
+  {
+    "description": "",
+    "id": "anthonypero/agent-skills",
+    "language": "Python",
+    "name": "anthonypero/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T21:59:19Z",
+    "url": "https://github.com/anthonypero/agent-skills"
+  },
+  {
+    "description": "",
+    "id": "abianbiya/skills",
+    "language": "TypeScript",
+    "name": "abianbiya/skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T21:59:00Z",
+    "url": "https://github.com/abianbiya/skills"
+  },
+  {
+    "description": "",
+    "id": "SES-Questionnaire/Socio-emotional-skills-and-mathematics-performance-",
+    "language": "\u2014",
+    "name": "SES-Questionnaire/Socio-emotional-skills-and-mathematics-performance-",
+    "stars": 0,
+    "updated_at": "2026-09-18T21:58:54Z",
+    "url": "https://github.com/SES-Questionnaire/Socio-emotional-skills-and-mathematics-performance-"
+  },
+  {
+    "description": "Portable Agent Skills that convert losslessly to and from single-file agents. One SKILL.md is all a user needs; works in",
+    "id": "kody-w/rapp-skills",
+    "language": "Python",
+    "name": "kody-w/rapp-skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T21:58:43Z",
+    "url": "https://github.com/kody-w/rapp-skills"
+  },
+  {
+    "description": "my gpt skills",
+    "id": "MSakamaki/gpt-skills",
+    "language": "JavaScript",
+    "name": "MSakamaki/gpt-skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T21:58:25Z",
+    "url": "https://github.com/MSakamaki/gpt-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 22,
+    "updated_at": "2026-09-18T21:58:12Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "sergionoodles/skillshard",
+    "language": "Rust",
+    "name": "sergionoodles/skillshard",
+    "stars": 0,
+    "updated_at": "2026-09-18T21:58:05Z",
+    "url": "https://github.com/sergionoodles/skillshard"
+  },
+  {
     "description": "",
     "id": "swissarmyhammer/FoundationModelsSkills",
     "language": "Swift",
@@ -45,15 +180,6 @@
     "url": "https://github.com/phuati/claude-skills-arsenal"
   },
   {
-    "description": "",
-    "id": "sergionoodles/skillshard",
-    "language": "\u2014",
-    "name": "sergionoodles/skillshard",
-    "stars": 0,
-    "updated_at": "2026-09-18T21:58:05Z",
-    "url": "https://github.com/sergionoodles/skillshard"
-  },
-  {
     "description": "Agent Skills for Dart and Flutter ecosytem",
     "id": "kevmoo/dash_skills",
     "language": "Dart",
@@ -61,15 +187,6 @@
     "stars": 145,
     "updated_at": "2026-09-18T21:57:05Z",
     "url": "https://github.com/kevmoo/dash_skills"
-  },
-  {
-    "description": "",
-    "id": "SES-Questionnaire/Socio-emotional-skills-and-mathematics-performance-",
-    "language": "\u2014",
-    "name": "SES-Questionnaire/Socio-emotional-skills-and-mathematics-performance-",
-    "stars": 0,
-    "updated_at": "2026-09-18T21:56:54Z",
-    "url": "https://github.com/SES-Questionnaire/Socio-emotional-skills-and-mathematics-performance-"
   },
   {
     "description": "",
@@ -88,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T21:56:31Z",
     "url": "https://github.com/dougkimmerly/claude-skills"
-  },
-  {
-    "description": "Public skills and assets for students",
-    "id": "carlmsu1/seidman-fpa-skills",
-    "language": "\u2014",
-    "name": "carlmsu1/seidman-fpa-skills",
-    "stars": 0,
-    "updated_at": "2026-09-18T21:56:29Z",
-    "url": "https://github.com/carlmsu1/seidman-fpa-skills"
   },
   {
     "description": "\ud83d\udcda A collection of my day-to-day skills.",
@@ -135,15 +243,6 @@
     "url": "https://github.com/vszal/skills"
   },
   {
-    "description": "",
-    "id": "anthonypero/agent-skills",
-    "language": "Python",
-    "name": "anthonypero/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-18T21:54:43Z",
-    "url": "https://github.com/anthonypero/agent-skills"
-  },
-  {
     "description": "My custom skills for different agents",
     "id": "lost-rob0t/skills",
     "language": "Python",
@@ -178,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T21:54:16Z",
     "url": "https://github.com/ronitranjan05-prog/skillswap-creator-marketplace"
-  },
-  {
-    "description": "",
-    "id": "Ganesh9923/SkillSwap",
-    "language": "PHP",
-    "name": "Ganesh9923/SkillSwap",
-    "stars": 0,
-    "updated_at": "2026-09-18T21:53:57Z",
-    "url": "https://github.com/Ganesh9923/SkillSwap"
   },
   {
     "description": "Conversion-safe blog editing, SEO traffic trend scans, and dated claim checks for the SEO Audit Report Builder playbook",
@@ -585,15 +675,6 @@
     "url": "https://github.com/tabilet/skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 22,
-    "updated_at": "2026-09-18T21:45:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Exercise: Introduction to GitHub",
     "id": "quidalex/skills-introduction-to-github",
     "language": "\u2014",
@@ -601,15 +682,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T21:45:17Z",
     "url": "https://github.com/quidalex/skills-introduction-to-github"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-18T21:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent Skills for AI coding agents \u2014 team-workflow turns multi-agent development into a coordinated team with a shared, i",
@@ -698,7 +770,7 @@
     "language": "Python",
     "name": "synthesisengineering/synthesis-skills",
     "stars": 19,
-    "updated_at": "2026-09-18T21:44:29Z",
+    "updated_at": "2026-09-18T22:00:19Z",
     "url": "https://github.com/synthesisengineering/synthesis-skills"
   },
   {
@@ -824,79 +896,7 @@
     "language": "JavaScript",
     "name": "replyxf/skills-expand-your-team-with-copilot-new",
     "stars": 0,
-    "updated_at": "2026-09-18T21:39:22Z",
+    "updated_at": "2026-09-18T22:00:19Z",
     "url": "https://github.com/replyxf/skills-expand-your-team-with-copilot-new"
-  },
-  {
-    "description": "Evolve reusable Agent Skills from real execution traces with per-skill history and cross-harness transcript discovery.",
-    "id": "omorsi45/evolve-skills",
-    "language": "JavaScript",
-    "name": "omorsi45/evolve-skills",
-    "stars": 0,
-    "updated_at": "2026-09-18T21:39:18Z",
-    "url": "https://github.com/omorsi45/evolve-skills"
-  },
-  {
-    "description": "",
-    "id": "emo-eth/skills",
-    "language": "TypeScript",
-    "name": "emo-eth/skills",
-    "stars": 0,
-    "updated_at": "2026-09-18T21:45:34Z",
-    "url": "https://github.com/emo-eth/skills"
-  },
-  {
-    "description": "Five portable review skills that make any coding agent file evidence-backed, severity-graded audits: bugs, tests, doc dr",
-    "id": "specialone0007/review-skills",
-    "language": "Python",
-    "name": "specialone0007/review-skills",
-    "stars": 1,
-    "updated_at": "2026-09-18T21:39:09Z",
-    "url": "https://github.com/specialone0007/review-skills"
-  },
-  {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "jennmath/skills-getting-started-with-github-copilot",
-    "language": "JavaScript",
-    "name": "jennmath/skills-getting-started-with-github-copilot",
-    "stars": 0,
-    "updated_at": "2026-09-18T21:52:02Z",
-    "url": "https://github.com/jennmath/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "Skills pr\u00e1ticas para a comunidade Hermes Agent.",
-    "id": "AgentsFlix/skills",
-    "language": "JavaScript",
-    "name": "AgentsFlix/skills",
-    "stars": 2,
-    "updated_at": "2026-09-18T21:41:06Z",
-    "url": "https://github.com/AgentsFlix/skills"
-  },
-  {
-    "description": "",
-    "id": "wernerglinka/essay-skills",
-    "language": "\u2014",
-    "name": "wernerglinka/essay-skills",
-    "stars": 0,
-    "updated_at": "2026-09-18T21:38:13Z",
-    "url": "https://github.com/wernerglinka/essay-skills"
-  },
-  {
-    "description": "Exercise: Introduction to CodeQL",
-    "id": "FelixV-507/skills-introduction-to-codeql",
-    "language": "Python",
-    "name": "FelixV-507/skills-introduction-to-codeql",
-    "stars": 0,
-    "updated_at": "2026-09-18T21:38:03Z",
-    "url": "https://github.com/FelixV-507/skills-introduction-to-codeql"
-  },
-  {
-    "description": "",
-    "id": "chinxzan/skillswap",
-    "language": "HTML",
-    "name": "chinxzan/skillswap",
-    "stars": 0,
-    "updated_at": "2026-09-18T21:37:37Z",
-    "url": "https://github.com/chinxzan/skillswap"
   }
 ]
