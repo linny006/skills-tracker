@@ -1,5 +1,32 @@
 [
   {
+    "description": "Three source-aware agent skills for contracts, data compliance, and employment law, with bilingual documentation.",
+    "id": "aspiration-Gh/legal-reference-skills",
+    "language": "\u2014",
+    "name": "aspiration-Gh/legal-reference-skills",
+    "stars": 0,
+    "updated_at": "2026-09-19T17:30:32Z",
+    "url": "https://github.com/aspiration-Gh/legal-reference-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 35,
+    "updated_at": "2026-09-19T17:30:30Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 22,
+    "updated_at": "2026-09-19T17:30:28Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -684,24 +711,6 @@
     "url": "https://github.com/the-nam-shub/e5-real-skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 35,
-    "updated_at": "2026-09-19T17:15:29Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 22,
-    "updated_at": "2026-09-19T17:15:25Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "",
     "id": "koh11235813/skills",
     "language": "TeX",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T17:12:08Z",
     "url": "https://github.com/smyx-sunjinhui/smyx-open-claw-skills"
-  },
-  {
-    "description": "Claude Skills for personal use, entrepreneurship, coding, architecture, writing, and more",
-    "id": "ismailkhan313/skills",
-    "language": "Shell",
-    "name": "ismailkhan313/skills",
-    "stars": 0,
-    "updated_at": "2026-09-19T17:12:07Z",
-    "url": "https://github.com/ismailkhan313/skills"
   }
 ]
