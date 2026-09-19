@@ -1,5 +1,50 @@
 [
   {
+    "description": "Exercise: Resolve Merge Conflicts",
+    "id": "Wishwin-create/skills-resolve-merge-conflicts",
+    "language": "\u2014",
+    "name": "Wishwin-create/skills-resolve-merge-conflicts",
+    "stars": 0,
+    "updated_at": "2026-09-19T14:45:50Z",
+    "url": "https://github.com/Wishwin-create/skills-resolve-merge-conflicts"
+  },
+  {
+    "description": "",
+    "id": "iskron-ai/skills",
+    "language": "JavaScript",
+    "name": "iskron-ai/skills",
+    "stars": 1,
+    "updated_at": "2026-09-19T14:45:56Z",
+    "url": "https://github.com/iskron-ai/skills"
+  },
+  {
+    "description": "Fifine-skills",
+    "id": "five-five0909/Fifine-skills",
+    "language": "Python",
+    "name": "five-five0909/Fifine-skills",
+    "stars": 1,
+    "updated_at": "2026-09-19T14:45:34Z",
+    "url": "https://github.com/five-five0909/Fifine-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 22,
+    "updated_at": "2026-09-19T14:45:28Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "AI Agent Skill: \u9cb2\u9e4f\u65e0\u9650/NRadio C2000 Max/C2000 U OpenWrt \u8def\u7531\u5668\u6df1\u5ea6\u5b9a\u5236\u4e0e\u8c03\u4f18\u7ecf\u9a8c\uff08\u5df2\u8131\u654f\uff09\u2014 Docker/1Panel host \u7f51\u7edc\u3001stub ipk \u8865\u4f9d\u8d56\u3001AdGuard Home",
+    "id": "h910056902/kunpeng-router-ai-skills",
+    "language": "Shell",
+    "name": "h910056902/kunpeng-router-ai-skills",
+    "stars": 0,
+    "updated_at": "2026-09-19T14:45:22Z",
+    "url": "https://github.com/h910056902/kunpeng-router-ai-skills"
+  },
+  {
     "description": "Exercise: Code with Codespaces",
     "id": "AliJaved266/skills-code-with-codespaces",
     "language": "Python",
@@ -187,6 +232,15 @@
     "stars": 1,
     "updated_at": "2026-09-19T14:42:22Z",
     "url": "https://github.com/maro114510/skills"
+  },
+  {
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot",
+    "id": "tech-leads-club/agent-skills",
+    "language": "TypeScript",
+    "name": "tech-leads-club/agent-skills",
+    "stars": 6438,
+    "updated_at": "2026-09-19T14:45:51Z",
+    "url": "https://github.com/tech-leads-club/agent-skills"
   },
   {
     "description": "Clean, portable agent skills for DeepSeek Harness, Claude Code and any harness reading the Agent Skills standard. Plain ",
@@ -747,15 +801,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 22,
-    "updated_at": "2026-09-19T14:30:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "invest-skills\u7684skillhub \u6210\u54c1\u4ed3\u5e93",
     "id": "Veblin/invest-skills-skillhub",
     "language": "Python",
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T14:27:54Z",
     "url": "https://github.com/QNFO/qnfo-skills"
-  },
-  {
-    "description": "A personal collection of skills for AI coding assistants \u2014 covering code review, DX/UX analysis, TDD, holistic debugging",
-    "id": "mthines/agent-skills",
-    "language": "JavaScript",
-    "name": "mthines/agent-skills",
-    "stars": 13,
-    "updated_at": "2026-09-19T14:27:34Z",
-    "url": "https://github.com/mthines/agent-skills"
-  },
-  {
-    "description": "\u8de8 Agent \u6280\u80fd\u5171\u4eab\u65b9\u6848\uff1a\u4e00\u5957\u6280\u80fd\u53ea\u88c5\u4e00\u6b21\uff0c\u6240\u6709 Agent\uff08Doubao / Claude Code / Codex / Cursor / Trae / WorkBuddy \u7b49\uff09\u5171\u7528\u3002Windows \u76ee\u5f55\u8054\u63a5 + \u4ea4\u4e92\u5f0f\u7ec8\u7aef\u63a7\u5236\u53f0\uff08\u771f",
-    "id": "JacksenHu/agent-skills-shared",
-    "language": "PowerShell",
-    "name": "JacksenHu/agent-skills-shared",
-    "stars": 0,
-    "updated_at": "2026-09-19T14:27:17Z",
-    "url": "https://github.com/JacksenHu/agent-skills-shared"
-  },
-  {
-    "description": "",
-    "id": "OhmsSweetOhms/claude-skills",
-    "language": "Python",
-    "name": "OhmsSweetOhms/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-09-19T14:27:15Z",
-    "url": "https://github.com/OhmsSweetOhms/claude-skills"
-  },
-  {
-    "description": "Generic, vendor-neutral Claude Code skills vault.",
-    "id": "geekazoid80/Skills-Vault",
-    "language": "Shell",
-    "name": "geekazoid80/Skills-Vault",
-    "stars": 0,
-    "updated_at": "2026-09-19T14:27:11Z",
-    "url": "https://github.com/geekazoid80/Skills-Vault"
-  },
-  {
-    "description": "Agent skill: untangle half-formed ideas through guided questions, one evolving draft per topic",
-    "id": "TingYu1769/skills-thinking-with-me",
-    "language": "\u2014",
-    "name": "TingYu1769/skills-thinking-with-me",
-    "stars": 1,
-    "updated_at": "2026-09-19T14:27:10Z",
-    "url": "https://github.com/TingYu1769/skills-thinking-with-me"
   }
 ]
