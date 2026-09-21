@@ -1,5 +1,149 @@
 [
   {
+    "description": "",
+    "id": "tp6gw94/skills",
+    "language": "HTML",
+    "name": "tp6gw94/skills",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:34:25Z",
+    "url": "https://github.com/tp6gw94/skills"
+  },
+  {
+    "description": "",
+    "id": "cachemoney/agent-skills",
+    "language": "Python",
+    "name": "cachemoney/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:34:03Z",
+    "url": "https://github.com/cachemoney/agent-skills"
+  },
+  {
+    "description": "Manage reversible themes for Chromium and Electron AI desktop apps using installable agent skills.",
+    "id": "jarradstree8577/skills",
+    "language": "\u2014",
+    "name": "jarradstree8577/skills",
+    "stars": 1,
+    "updated_at": "2026-09-21T23:33:52Z",
+    "url": "https://github.com/jarradstree8577/skills"
+  },
+  {
+    "description": "\u4e00\u4e9bskills\u6280\u80fd",
+    "id": "duckytan/skills",
+    "language": "Python",
+    "name": "duckytan/skills",
+    "stars": 1,
+    "updated_at": "2026-09-21T23:33:49Z",
+    "url": "https://github.com/duckytan/skills"
+  },
+  {
+    "description": "A list of agent skills that I think are useful.",
+    "id": "xju2/agent-skills",
+    "language": "\u2014",
+    "name": "xju2/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:33:46Z",
+    "url": "https://github.com/xju2/agent-skills"
+  },
+  {
+    "description": "\u4e2a\u4eba AI \u52a9\u624b Skills\uff5c\u4e92\u52a8\u53d9\u4e8b\uff1a\u590d\u6742\u9152\u9986\uff5c\u5de5\u4f5c\u6d41\u7a0b\uff1a\u4e0d\u7740\u6025\uff5c\u996e\u98df\u8bb0\u5f55\uff1a\u51cf\u8102\u6559\u7ec3",
+    "id": "1948666760dty-sys/agent-skills",
+    "language": "Python",
+    "name": "1948666760dty-sys/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:33:55Z",
+    "url": "https://github.com/1948666760dty-sys/agent-skills"
+  },
+  {
+    "description": "",
+    "id": "mandragola03/graphic-skills-check",
+    "language": "HTML",
+    "name": "mandragola03/graphic-skills-check",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:33:34Z",
+    "url": "https://github.com/mandragola03/graphic-skills-check"
+  },
+  {
+    "description": "Shared skills marketplace for the ecom-business team \u2014 install via /plugins in Claude Code",
+    "id": "ecom-business-team/team-skills",
+    "language": "Python",
+    "name": "ecom-business-team/team-skills",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:33:01Z",
+    "url": "https://github.com/ecom-business-team/team-skills"
+  },
+  {
+    "description": "Skills de workflow do AI Coding Flow para Claude Code: o ciclo de uma demanda, da entrevista ao fechamento.",
+    "id": "hmaurus/skills",
+    "language": "Python",
+    "name": "hmaurus/skills",
+    "stars": 3,
+    "updated_at": "2026-09-21T23:33:01Z",
+    "url": "https://github.com/hmaurus/skills"
+  },
+  {
+    "description": "",
+    "id": "Couchbase-Ecosystem/couchbase_skills_for_claude",
+    "language": "Python",
+    "name": "Couchbase-Ecosystem/couchbase_skills_for_claude",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:31:42Z",
+    "url": "https://github.com/Couchbase-Ecosystem/couchbase_skills_for_claude"
+  },
+  {
+    "description": "Skills para o marketplace do OpenClaw Mission Control. Compativel com skill packs do MC.",
+    "id": "ozp/openclaw-skills",
+    "language": "Python",
+    "name": "ozp/openclaw-skills",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:31:29Z",
+    "url": "https://github.com/ozp/openclaw-skills"
+  },
+  {
+    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
+    "id": "micrometeoric-eye978/academic-research-skills",
+    "language": "\u2014",
+    "name": "micrometeoric-eye978/academic-research-skills",
+    "stars": 2,
+    "updated_at": "2026-09-21T23:30:45Z",
+    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
+  },
+  {
+    "description": "",
+    "id": "AugustoAleGon/skills",
+    "language": "Python",
+    "name": "AugustoAleGon/skills",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:30:41Z",
+    "url": "https://github.com/AugustoAleGon/skills"
+  },
+  {
+    "description": "",
+    "id": "Alejosanch97/FINANCIAL-SKILLS",
+    "language": "JavaScript",
+    "name": "Alejosanch97/FINANCIAL-SKILLS",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:30:40Z",
+    "url": "https://github.com/Alejosanch97/FINANCIAL-SKILLS"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 36,
+    "updated_at": "2026-09-21T23:30:34Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 22,
+    "updated_at": "2026-09-21T23:30:33Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Londopy's Claude Code skills in one install: skill-rollcall, mcp-rollcall, settings-effective, git-attribution - tools t",
     "id": "Londopy/agent-skills",
     "language": "Python",
@@ -16,15 +160,6 @@
     "stars": 44,
     "updated_at": "2026-09-21T23:30:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "\u4e2a\u4eba AI \u52a9\u624b Skills\uff5c\u4e92\u52a8\u53d9\u4e8b\uff1a\u590d\u6742\u9152\u9986\uff5c\u5de5\u4f5c\u6d41\u7a0b\uff1a\u4e0d\u7740\u6025\uff5c\u996e\u98df\u8bb0\u5f55\uff1a\u51cf\u8102\u6559\u7ec3",
-    "id": "1948666760dty-sys/agent-skills",
-    "language": "Python",
-    "name": "1948666760dty-sys/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-21T23:29:55Z",
-    "url": "https://github.com/1948666760dty-sys/agent-skills"
   },
   {
     "description": "Public Codex skills, including a parametric Blender PVC Golu padi designer",
@@ -97,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T23:28:25Z",
     "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "",
-    "id": "Couchbase-Ecosystem/couchbase_skills_for_claude",
-    "language": "Python",
-    "name": "Couchbase-Ecosystem/couchbase_skills_for_claude",
-    "stars": 0,
-    "updated_at": "2026-09-21T23:28:25Z",
-    "url": "https://github.com/Couchbase-Ecosystem/couchbase_skills_for_claude"
   },
   {
     "description": "Import Excel and PowerPoint skills into Claude Code to automate spreadsheets and presentations using local filesystem ac",
@@ -590,7 +716,7 @@
     "language": "\u2014",
     "name": "martinctsp/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-09-21T23:29:15Z",
+    "updated_at": "2026-09-21T23:32:15Z",
     "url": "https://github.com/martinctsp/skills-communicate-using-markdown"
   },
   {
@@ -772,131 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T23:16:23Z",
     "url": "https://github.com/warpmetal/skills"
-  },
-  {
-    "description": "",
-    "id": "bosskrub9992/skills",
-    "language": "Python",
-    "name": "bosskrub9992/skills",
-    "stars": 0,
-    "updated_at": "2026-09-21T23:16:19Z",
-    "url": "https://github.com/bosskrub9992/skills"
-  },
-  {
-    "description": "Skills platform validation working instance \u2014 2nd team",
-    "id": "heymishy/skills-platform-val",
-    "language": "JavaScript",
-    "name": "heymishy/skills-platform-val",
-    "stars": 0,
-    "updated_at": "2026-09-21T23:16:10Z",
-    "url": "https://github.com/heymishy/skills-platform-val"
-  },
-  {
-    "description": "AI Agent skill manager and MCP server for managing and retrieving skills.",
-    "id": "patrickbrandao/purple-skills",
-    "language": "TypeScript",
-    "name": "patrickbrandao/purple-skills",
-    "stars": 3,
-    "updated_at": "2026-09-21T23:16:09Z",
-    "url": "https://github.com/patrickbrandao/purple-skills"
-  },
-  {
-    "description": "\u2699\ufe0f Build and deploy 66 versatile Claude AI skills and 9 workflows designed to enhance productivity for full-stack develo",
-    "id": "zacklecon/claude-skills",
-    "language": "Python",
-    "name": "zacklecon/claude-skills",
-    "stars": 3,
-    "updated_at": "2026-09-21T23:16:05Z",
-    "url": "https://github.com/zacklecon/claude-skills"
-  },
-  {
-    "description": "Skills for developing with Dex and Dex AI Platform",
-    "id": "superdurable/dex-skills",
-    "language": "Python",
-    "name": "superdurable/dex-skills",
-    "stars": 1,
-    "updated_at": "2026-09-21T23:15:55Z",
-    "url": "https://github.com/superdurable/dex-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 36,
-    "updated_at": "2026-09-21T23:15:34Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 22,
-    "updated_at": "2026-09-21T23:15:33Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Claude Code skills that maintain the estate itself: declared-state capture and apply, laptop sync, project scaffolding, ",
-    "id": "lexijamesesq/system-skills",
-    "language": "Shell",
-    "name": "lexijamesesq/system-skills",
-    "stars": 0,
-    "updated_at": "2026-09-21T23:14:51Z",
-    "url": "https://github.com/lexijamesesq/system-skills"
-  },
-  {
-    "description": "Claude Code skills for getting a change from a local checkout to GitHub: the publishing gate, house style checks, README",
-    "id": "lexijamesesq/publish-skills",
-    "language": "Shell",
-    "name": "lexijamesesq/publish-skills",
-    "stars": 0,
-    "updated_at": "2026-09-21T23:14:33Z",
-    "url": "https://github.com/lexijamesesq/publish-skills"
-  },
-  {
-    "description": "Lexi James's authorial voice, thinking models, and review rubric, as a Claude Code plugin.",
-    "id": "lexijamesesq/personal-skills",
-    "language": "\u2014",
-    "name": "lexijamesesq/personal-skills",
-    "stars": 0,
-    "updated_at": "2026-09-21T23:14:18Z",
-    "url": "https://github.com/lexijamesesq/personal-skills"
-  },
-  {
-    "description": "\ud83d\udcf1 Build production-ready Expo React Native apps with essential features like in-app purchases, ads, and multi-language s",
-    "id": "mrshrey007/skills",
-    "language": "\u2014",
-    "name": "mrshrey007/skills",
-    "stars": 0,
-    "updated_at": "2026-09-21T23:14:01Z",
-    "url": "https://github.com/mrshrey007/skills"
-  },
-  {
-    "description": "\ud83c\udfac Enhance interview and podcast videos with stylish visuals using AI-generated effects for a professional touch.",
-    "id": "Kiratuu/Video-Wrapper-Skills",
-    "language": "Python",
-    "name": "Kiratuu/Video-Wrapper-Skills",
-    "stars": 1,
-    "updated_at": "2026-09-21T23:13:52Z",
-    "url": "https://github.com/Kiratuu/Video-Wrapper-Skills"
-  },
-  {
-    "description": "A disciplined development system that turns AI coding agents into test-driven pair-programming partners, working in appr",
-    "id": "liordino/dojo-skills",
-    "language": "Shell",
-    "name": "liordino/dojo-skills",
-    "stars": 0,
-    "updated_at": "2026-09-21T23:13:42Z",
-    "url": "https://github.com/liordino/dojo-skills"
-  },
-  {
-    "description": "\ud83e\udde9 Enhance Claude Code behavior with clear guidelines inspired by Andrej Karpathy's insights on common pitfalls in LLM co",
-    "id": "ferdiansusanto/andrej-karpathy-skills",
-    "language": "\u2014",
-    "name": "ferdiansusanto/andrej-karpathy-skills",
-    "stars": 9,
-    "updated_at": "2026-09-21T23:13:41Z",
-    "url": "https://github.com/ferdiansusanto/andrej-karpathy-skills"
   }
 ]
