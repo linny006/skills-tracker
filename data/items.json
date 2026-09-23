@@ -1,5 +1,104 @@
 [
   {
+    "description": "",
+    "id": "NickkkLian/nickkk-skills",
+    "language": "Python",
+    "name": "NickkkLian/nickkk-skills",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:46:11Z",
+    "url": "https://github.com/NickkkLian/nickkk-skills"
+  },
+  {
+    "description": "Production-grade Agent Skills library for autonomous AI IDEs (Claude Code, Antigravity, Cursor, Gemini CLI)",
+    "id": "Bexruz-cell/agent-skills",
+    "language": "\u2014",
+    "name": "Bexruz-cell/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:46:04Z",
+    "url": "https://github.com/Bexruz-cell/agent-skills"
+  },
+  {
+    "description": "Shared skills for AI agents (Claude Code, Codex, Gemini)",
+    "id": "grahama1970/agent-skills",
+    "language": "Python",
+    "name": "grahama1970/agent-skills",
+    "stars": 7,
+    "updated_at": "2026-09-23T18:46:01Z",
+    "url": "https://github.com/grahama1970/agent-skills"
+  },
+  {
+    "description": "Agent skills for vpay \u2014 installable with npx skills add. Versioned against the vpay commit they were verified on.",
+    "id": "vaam-apps/vpay-skills",
+    "language": "JavaScript",
+    "name": "vaam-apps/vpay-skills",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:46:09Z",
+    "url": "https://github.com/vaam-apps/vpay-skills"
+  },
+  {
+    "description": "get in loser, we're building god",
+    "id": "wildcat-finance/skills",
+    "language": "Python",
+    "name": "wildcat-finance/skills",
+    "stars": 12,
+    "updated_at": "2026-09-23T18:45:56Z",
+    "url": "https://github.com/wildcat-finance/skills"
+  },
+  {
+    "description": "",
+    "id": "JacobHsu/cc-finance-skills",
+    "language": "Python",
+    "name": "JacobHsu/cc-finance-skills",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:45:51Z",
+    "url": "https://github.com/JacobHsu/cc-finance-skills"
+  },
+  {
+    "description": "My sack of delicious Claude skills",
+    "id": "delorenj/skills",
+    "language": "Python",
+    "name": "delorenj/skills",
+    "stars": 15,
+    "updated_at": "2026-09-23T18:45:49Z",
+    "url": "https://github.com/delorenj/skills"
+  },
+  {
+    "description": "Write agent files once (skills, rules, hooks, plugins), compile provider-native versions (Claude, Codex, Cursor, and mor",
+    "id": "outfitter-dev/skillset",
+    "language": "TypeScript",
+    "name": "outfitter-dev/skillset",
+    "stars": 1,
+    "updated_at": "2026-09-23T18:45:58Z",
+    "url": "https://github.com/outfitter-dev/skillset"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 37,
+    "updated_at": "2026-09-23T18:45:42Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "A kit of skills for running software work as a team of agents \u2014 paired planner/implementer roles under separated authori",
+    "id": "iwnlcern/agentic-dev-team-skills",
+    "language": "Python",
+    "name": "iwnlcern/agentic-dev-team-skills",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:45:39Z",
+    "url": "https://github.com/iwnlcern/agentic-dev-team-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 23,
+    "updated_at": "2026-09-23T18:45:34Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Collection of all skills I acquire for my AI Agents",
     "id": "Jo5i4swastaken/Skills",
     "language": "Python",
@@ -32,7 +131,7 @@
     "language": "Python",
     "name": "Senpi-ai/senpi-skills",
     "stars": 126,
-    "updated_at": "2026-09-23T18:44:32Z",
+    "updated_at": "2026-09-23T18:45:45Z",
     "url": "https://github.com/Senpi-ai/senpi-skills"
   },
   {
@@ -187,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T18:42:44Z",
     "url": "https://github.com/sarojkjha/aaj-marketing-skills"
-  },
-  {
-    "description": "Shared skills for AI agents (Claude Code, Codex, Gemini)",
-    "id": "grahama1970/agent-skills",
-    "language": "Python",
-    "name": "grahama1970/agent-skills",
-    "stars": 7,
-    "updated_at": "2026-09-23T18:42:38Z",
-    "url": "https://github.com/grahama1970/agent-skills"
   },
   {
     "description": "Tandem work skills that push back on agent autonomy and give you control back: fewer unprompted antics, more actual coll",
@@ -808,95 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T18:32:12Z",
     "url": "https://github.com/cratestack/cratestack-skills"
-  },
-  {
-    "description": "The universal, platform-agnostic skills and capability registry for AI agents \u2014 mapping capabilities, skills, implementa",
-    "id": "SamoTech/skills-tree",
-    "language": "Python",
-    "name": "SamoTech/skills-tree",
-    "stars": 2,
-    "updated_at": "2026-09-23T18:32:00Z",
-    "url": "https://github.com/SamoTech/skills-tree"
-  },
-  {
-    "description": "Agent-ready Skills for Roboflow and Computer Vision workflows",
-    "id": "roboflow/computer-vision-skills",
-    "language": "Python",
-    "name": "roboflow/computer-vision-skills",
-    "stars": 42,
-    "updated_at": "2026-09-23T18:31:59Z",
-    "url": "https://github.com/roboflow/computer-vision-skills"
-  },
-  {
-    "description": "Automate workflows in Microsoft 365 Copilot Cowork with a library of 15 portable skills and an executive review suite de",
-    "id": "Yugpat1835/awesome-copilot-cowork-skills",
-    "language": "\u2014",
-    "name": "Yugpat1835/awesome-copilot-cowork-skills",
-    "stars": 5,
-    "updated_at": "2026-09-23T18:31:36Z",
-    "url": "https://github.com/Yugpat1835/awesome-copilot-cowork-skills"
-  },
-  {
-    "description": "A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with",
-    "id": "docker/skills",
-    "language": "Python",
-    "name": "docker/skills",
-    "stars": 4,
-    "updated_at": "2026-09-23T18:31:34Z",
-    "url": "https://github.com/docker/skills"
-  },
-  {
-    "description": "Claude Code plugin marketplace: build real static sites and add a working contact form, not tutorials about it.",
-    "id": "BootForm/site-skills",
-    "language": "Vue",
-    "name": "BootForm/site-skills",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:31:28Z",
-    "url": "https://github.com/BootForm/site-skills"
-  },
-  {
-    "description": "",
-    "id": "looken1024/auto-skills",
-    "language": "Python",
-    "name": "looken1024/auto-skills",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:31:21Z",
-    "url": "https://github.com/looken1024/auto-skills"
-  },
-  {
-    "description": "Review, debug, and implement audio software with this curated collection of Markdown skills designed for AI agents.",
-    "id": "Gourdja/sonic-skills",
-    "language": "Shell",
-    "name": "Gourdja/sonic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-23T18:31:18Z",
-    "url": "https://github.com/Gourdja/sonic-skills"
-  },
-  {
-    "description": "Agent skill R2G. Initial version for leveraging OpenRoad.",
-    "id": "ShenShan123/r2g-skills",
-    "language": "Python",
-    "name": "ShenShan123/r2g-skills",
-    "stars": 43,
-    "updated_at": "2026-09-23T18:31:09Z",
-    "url": "https://github.com/ShenShan123/r2g-skills"
-  },
-  {
-    "description": "",
-    "id": "herbertschrotter-blip/claude-skills-bpm",
-    "language": "Python",
-    "name": "herbertschrotter-blip/claude-skills-bpm",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:30:58Z",
-    "url": "https://github.com/herbertschrotter-blip/claude-skills-bpm"
-  },
-  {
-    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
-    "id": "the-nam-shub/e5-real-skills",
-    "language": "TypeScript",
-    "name": "the-nam-shub/e5-real-skills",
-    "stars": 8,
-    "updated_at": "2026-09-23T18:30:51Z",
-    "url": "https://github.com/the-nam-shub/e5-real-skills"
   }
 ]
