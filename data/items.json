@@ -1,5 +1,95 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 47,
+    "updated_at": "2026-09-25T00:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "exethew/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "exethew/skills-introduction-to-git",
+    "stars": 1,
+    "updated_at": "2026-09-25T00:00:03Z",
+    "url": "https://github.com/exethew/skills-introduction-to-git"
+  },
+  {
+    "description": "My clone repository",
+    "id": "max-dean05/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "max-dean05/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:59:54Z",
+    "url": "https://github.com/max-dean05/skills-introduction-to-github"
+  },
+  {
+    "description": "A collection of Agent skills I find helpful",
+    "id": "DaveBben/skills",
+    "language": "Python",
+    "name": "DaveBben/skills",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:59:52Z",
+    "url": "https://github.com/DaveBben/skills"
+  },
+  {
+    "description": "Copilot Skills",
+    "id": "jrblankenhorn1007/copilot_skills",
+    "language": "\u2014",
+    "name": "jrblankenhorn1007/copilot_skills",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:59:47Z",
+    "url": "https://github.com/jrblankenhorn1007/copilot_skills"
+  },
+  {
+    "description": "",
+    "id": "sweyjotdhillon-cmd/Skillswap",
+    "language": "TypeScript",
+    "name": "sweyjotdhillon-cmd/Skillswap",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:59:38Z",
+    "url": "https://github.com/sweyjotdhillon-cmd/Skillswap"
+  },
+  {
+    "description": "",
+    "id": "korneliuszburian/krn-codex-skills",
+    "language": "JavaScript",
+    "name": "korneliuszburian/krn-codex-skills",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:59:28Z",
+    "url": "https://github.com/korneliuszburian/krn-codex-skills"
+  },
+  {
+    "description": "Cloud-based hobby and skills tracker with community sharing, progress analytics, authentication, cloud storage, and depl",
+    "id": "Prashanth-kulal/Cloud-Hobby-Skills-Tracker",
+    "language": "JavaScript",
+    "name": "Prashanth-kulal/Cloud-Hobby-Skills-Tracker",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:59:27Z",
+    "url": "https://github.com/Prashanth-kulal/Cloud-Hobby-Skills-Tracker"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 22,
+    "updated_at": "2026-09-24T23:59:12Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "A public library of AI skills by Ben Davies.",
+    "id": "UnboundBen/ai-skills",
+    "language": "Python",
+    "name": "UnboundBen/ai-skills",
+    "stars": 1,
+    "updated_at": "2026-09-24T23:59:09Z",
+    "url": "https://github.com/UnboundBen/ai-skills"
+  },
+  {
     "description": "Element Biosciences Cloud Sandbox MCP and agent skills for multiomics, QC, and spatial analysis on your AVITI run data.",
     "id": "Elembio/agent-skills",
     "language": "\u2014",
@@ -61,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T23:58:12Z",
     "url": "https://github.com/engine9-ai/skills"
-  },
-  {
-    "description": "Cloud-based hobby and skills tracker with community sharing, progress analytics, authentication, cloud storage, and depl",
-    "id": "Prashanth-kulal/Cloud-Hobby-Skills-Tracker",
-    "language": "\u2014",
-    "name": "Prashanth-kulal/Cloud-Hobby-Skills-Tracker",
-    "stars": 0,
-    "updated_at": "2026-09-24T23:58:03Z",
-    "url": "https://github.com/Prashanth-kulal/Cloud-Hobby-Skills-Tracker"
   },
   {
     "description": "",
@@ -169,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T23:55:24Z",
     "url": "https://github.com/Aethelvance/Skills"
-  },
-  {
-    "description": "Copilot Skills",
-    "id": "jrblankenhorn1007/copilot_skills",
-    "language": "\u2014",
-    "name": "jrblankenhorn1007/copilot_skills",
-    "stars": 0,
-    "updated_at": "2026-09-24T23:55:19Z",
-    "url": "https://github.com/jrblankenhorn1007/copilot_skills"
   },
   {
     "description": "Operational agent skills for Claude Code and other SKILL.md harnesses. Compact, handoff, grill-execute-clear, ralph-loop",
@@ -441,15 +513,6 @@
     "url": "https://github.com/skill-one/skills-profiles"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 22,
-    "updated_at": "2026-09-24T23:45:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "AI Agent Skills by \u7a0b\u5e8f\u5458\u767d\u5927\u529b \u2014 competitive analysis report generator & WeChat article publisher",
     "id": "baiyigali/skills",
     "language": "\u2014",
@@ -457,15 +520,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T23:45:27Z",
     "url": "https://github.com/baiyigali/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 47,
-    "updated_at": "2026-09-24T23:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent skills for Claude Code, Codex and other agents",
@@ -540,15 +594,6 @@
     "url": "https://github.com/langfuse/skills"
   },
   {
-    "description": "My clone repository",
-    "id": "max-dean05/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "max-dean05/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-09-24T23:52:03Z",
-    "url": "https://github.com/max-dean05/skills-introduction-to-github"
-  },
-  {
     "description": "Exercise: Publish Docker Images",
     "id": "alonsobonansco/skills-publish-docker-images",
     "language": "JavaScript",
@@ -619,15 +664,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T23:40:28Z",
     "url": "https://github.com/jingge815/my-claude-skills"
-  },
-  {
-    "description": "",
-    "id": "sweyjotdhillon-cmd/Skillswap",
-    "language": "TypeScript",
-    "name": "sweyjotdhillon-cmd/Skillswap",
-    "stars": 0,
-    "updated_at": "2026-09-24T23:51:18Z",
-    "url": "https://github.com/sweyjotdhillon-cmd/Skillswap"
   },
   {
     "description": "Product research, market intelligence, and content tools for AI-native teams",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T23:32:40Z",
     "url": "https://github.com/chilsmart/skills-chilsmart"
-  },
-  {
-    "description": "Tested, step-by-step skills for everything in the FreeBSD Handbook, verified on every release from 14.0 to 16-CURRENT",
-    "id": "revytechinc/freebsd-handbook-skills",
-    "language": "Python",
-    "name": "revytechinc/freebsd-handbook-skills",
-    "stars": 0,
-    "updated_at": "2026-09-24T23:32:32Z",
-    "url": "https://github.com/revytechinc/freebsd-handbook-skills"
-  },
-  {
-    "description": "Peter's personal Claude Code skills (bus leaflets, genealogy tools, graveyard editor, etc.)",
-    "id": "PeterC66/claude-skills",
-    "language": "JavaScript",
-    "name": "PeterC66/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-09-24T23:31:37Z",
-    "url": "https://github.com/PeterC66/claude-skills"
-  },
-  {
-    "description": "Marketplace de skills operativas de Superavit Asesores para el equipo contable.",
-    "id": "SuperavitEC/skills-superavit",
-    "language": "Python",
-    "name": "SuperavitEC/skills-superavit",
-    "stars": 0,
-    "updated_at": "2026-09-24T23:31:31Z",
-    "url": "https://github.com/SuperavitEC/skills-superavit"
-  },
-  {
-    "description": "",
-    "id": "starci183/starci-skills",
-    "language": "JavaScript",
-    "name": "starci183/starci-skills",
-    "stars": 2,
-    "updated_at": "2026-09-24T23:30:56Z",
-    "url": "https://github.com/starci183/starci-skills"
   }
 ]
