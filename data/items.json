@@ -1,5 +1,59 @@
 [
   {
+    "description": "My clone repository",
+    "id": "Verminchild/skills-connect-the-dots",
+    "language": "\u2014",
+    "name": "Verminchild/skills-connect-the-dots",
+    "stars": 0,
+    "updated_at": "2026-09-25T18:45:23Z",
+    "url": "https://github.com/Verminchild/skills-connect-the-dots"
+  },
+  {
+    "description": "",
+    "id": "xuzhishi/skills",
+    "language": "\u2014",
+    "name": "xuzhishi/skills",
+    "stars": 0,
+    "updated_at": "2026-09-25T18:45:18Z",
+    "url": "https://github.com/xuzhishi/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-25T18:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "My personal agent skills",
+    "id": "davd-gzl/skills",
+    "language": "Rust",
+    "name": "davd-gzl/skills",
+    "stars": 3,
+    "updated_at": "2026-09-25T18:45:05Z",
+    "url": "https://github.com/davd-gzl/skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "mishal-aljumaih/skills-copilot-codespaces-vscode",
+    "language": "\u2014",
+    "name": "mishal-aljumaih/skills-copilot-codespaces-vscode",
+    "stars": 0,
+    "updated_at": "2026-09-25T18:45:04Z",
+    "url": "https://github.com/mishal-aljumaih/skills-copilot-codespaces-vscode"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 22,
+    "updated_at": "2026-09-25T18:44:38Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "",
     "id": "zeeahsan-skills/FB-tool",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T18:43:40Z",
     "url": "https://github.com/trinity-ai-labs/orchestration-skills"
-  },
-  {
-    "description": "My clone repository",
-    "id": "mishal-aljumaih/skills-copilot-codespaces-vscode",
-    "language": "\u2014",
-    "name": "mishal-aljumaih/skills-copilot-codespaces-vscode",
-    "stars": 0,
-    "updated_at": "2026-09-25T18:43:31Z",
-    "url": "https://github.com/mishal-aljumaih/skills-copilot-codespaces-vscode"
   },
   {
     "description": "",
@@ -621,15 +666,6 @@
     "url": "https://github.com/IBM/ibm-watsonx-data-integration-skills"
   },
   {
-    "description": "My personal agent skills",
-    "id": "davd-gzl/skills",
-    "language": "Rust",
-    "name": "davd-gzl/skills",
-    "stars": 3,
-    "updated_at": "2026-09-25T18:34:49Z",
-    "url": "https://github.com/davd-gzl/skills"
-  },
-  {
     "description": "Accelerate AI security workflows with 817 open-source skills across 29 domains for six leading agent frameworks.",
     "id": "anxious-phyllo879/Anthropic-Cybersecurity-Skills",
     "language": "Python",
@@ -862,41 +898,5 @@
     "stars": 2,
     "updated_at": "2026-09-25T18:31:07Z",
     "url": "https://github.com/Discriminative-shoji607/ui-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "Stacy-Otieno/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "Stacy-Otieno/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-09-25T18:31:00Z",
-    "url": "https://github.com/Stacy-Otieno/skills-introduction-to-github"
-  },
-  {
-    "description": "Skills e fluxos que uso nos meus agentes",
-    "id": "rtadewald/skills",
-    "language": "JavaScript",
-    "name": "rtadewald/skills",
-    "stars": 155,
-    "updated_at": "2026-09-25T18:30:36Z",
-    "url": "https://github.com/rtadewald/skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 22,
-    "updated_at": "2026-09-25T18:30:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 37,
-    "updated_at": "2026-09-25T18:30:32Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   }
 ]
