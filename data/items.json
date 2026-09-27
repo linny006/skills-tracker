@@ -1,6 +1,114 @@
 [
   {
     "description": "",
+    "id": "fal-works/skills",
+    "language": "\u2014",
+    "name": "fal-works/skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:46:37Z",
+    "url": "https://github.com/fal-works/skills"
+  },
+  {
+    "description": "Charley's Agent Skills",
+    "id": "akunzai/agent-skills",
+    "language": "Shell",
+    "name": "akunzai/agent-skills",
+    "stars": 4,
+    "updated_at": "2026-09-27T10:46:25Z",
+    "url": "https://github.com/akunzai/agent-skills"
+  },
+  {
+    "description": "Claude Code skills for how an agent should work \u2014 conduct rules, delegation, reviews, prompt engineering, and secure cod",
+    "id": "LordFisch1605/paul-skills-public",
+    "language": "Python",
+    "name": "LordFisch1605/paul-skills-public",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:46:12Z",
+    "url": "https://github.com/LordFisch1605/paul-skills-public"
+  },
+  {
+    "description": "",
+    "id": "jsoehner/skills-backup",
+    "language": "JavaScript",
+    "name": "jsoehner/skills-backup",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:45:57Z",
+    "url": "https://github.com/jsoehner/skills-backup"
+  },
+  {
+    "description": "",
+    "id": "alosh20hh-droid/pilot_10_skills",
+    "language": "Python",
+    "name": "alosh20hh-droid/pilot_10_skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:45:55Z",
+    "url": "https://github.com/alosh20hh-droid/pilot_10_skills"
+  },
+  {
+    "description": "API platform info for agents-skills",
+    "id": "api-evangelist/agents-skills",
+    "language": "HTML",
+    "name": "api-evangelist/agents-skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:45:38Z",
+    "url": "https://github.com/api-evangelist/agents-skills"
+  },
+  {
+    "description": "",
+    "id": "liuli195/my-agent-skills",
+    "language": "Python",
+    "name": "liuli195/my-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:45:33Z",
+    "url": "https://github.com/liuli195/my-agent-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 37,
+    "updated_at": "2026-09-27T10:45:32Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 22,
+    "updated_at": "2026-09-27T10:45:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Practical agent skills and examples for building with Jev. API setup, routing, ranking, and evidence checks.",
+    "id": "laguagu/jev-skills",
+    "language": "\u2014",
+    "name": "laguagu/jev-skills",
+    "stars": 3,
+    "updated_at": "2026-09-27T10:45:30Z",
+    "url": "https://github.com/laguagu/jev-skills"
+  },
+  {
+    "description": "",
+    "id": "syndgo-byte/Skills",
+    "language": "TypeScript",
+    "name": "syndgo-byte/Skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:45:27Z",
+    "url": "https://github.com/syndgo-byte/Skills"
+  },
+  {
+    "description": "Discover and compare open-source Agent Skills, tools & MCP servers \u2014 with quality scoring, trending analysis, and automa",
+    "id": "zhuyansen/agent-skills-hub",
+    "language": "TypeScript",
+    "name": "zhuyansen/agent-skills-hub",
+    "stars": 395,
+    "updated_at": "2026-09-27T10:45:24Z",
+    "url": "https://github.com/zhuyansen/agent-skills-hub"
+  },
+  {
+    "description": "",
     "id": "TheVaradEthics/Cloud-Hobby-Skills-Tracker",
     "language": "JavaScript",
     "name": "TheVaradEthics/Cloud-Hobby-Skills-Tracker",
@@ -16,15 +124,6 @@
     "stars": 49,
     "updated_at": "2026-09-27T10:45:21Z",
     "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "",
-    "id": "alosh20hh-droid/pilot_10_skills",
-    "language": "Python",
-    "name": "alosh20hh-droid/pilot_10_skills",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:45:21Z",
-    "url": "https://github.com/alosh20hh-droid/pilot_10_skills"
   },
   {
     "description": "Exercise: Build applications with GitHub Copilot agent mode",
@@ -171,15 +270,6 @@
     "url": "https://github.com/andreimaxim/skills"
   },
   {
-    "description": "Discover and compare open-source Agent Skills, tools & MCP servers \u2014 with quality scoring, trending analysis, and automa",
-    "id": "zhuyansen/agent-skills-hub",
-    "language": "TypeScript",
-    "name": "zhuyansen/agent-skills-hub",
-    "stars": 395,
-    "updated_at": "2026-09-27T10:45:24Z",
-    "url": "https://github.com/zhuyansen/agent-skills-hub"
-  },
-  {
     "description": "My clone repository",
     "id": "hndrxxclaude/skills-connect-the-dots",
     "language": "\u2014",
@@ -214,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T10:42:25Z",
     "url": "https://github.com/nmahindra-crestron/spec2test-skills"
-  },
-  {
-    "description": "",
-    "id": "syndgo-byte/Skills",
-    "language": "TypeScript",
-    "name": "syndgo-byte/Skills",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:45:27Z",
-    "url": "https://github.com/syndgo-byte/Skills"
   },
   {
     "description": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools\u2019 global skill",
@@ -639,33 +720,6 @@
     "url": "https://github.com/gkmur/skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 37,
-    "updated_at": "2026-09-27T10:30:38Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 22,
-    "updated_at": "2026-09-27T10:30:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Claude Code skills for how an agent should work \u2014 conduct rules, delegation, reviews, prompt engineering, and secure cod",
-    "id": "LordFisch1605/paul-skills-public",
-    "language": "Python",
-    "name": "LordFisch1605/paul-skills-public",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:29:50Z",
-    "url": "https://github.com/LordFisch1605/paul-skills-public"
-  },
-  {
     "description": "Exercise: Secure your Repository Supply Chain",
     "id": "dapra/skills-secure-repository-supply-chain-gh-900",
     "language": "C#",
@@ -801,15 +855,6 @@
     "url": "https://github.com/Ade12Donald/SkillShare"
   },
   {
-    "description": "Practical agent skills and examples for building with Jev. API setup, routing, ranking, and evidence checks.",
-    "id": "laguagu/jev-skills",
-    "language": "\u2014",
-    "name": "laguagu/jev-skills",
-    "stars": 3,
-    "updated_at": "2026-09-27T10:26:22Z",
-    "url": "https://github.com/laguagu/jev-skills"
-  },
-  {
     "description": "",
     "id": "datocms/agent-skills",
     "language": "JavaScript",
@@ -853,50 +898,5 @@
     "stars": 2,
     "updated_at": "2026-09-27T10:25:05Z",
     "url": "https://github.com/SamoTech/skills-tree"
-  },
-  {
-    "description": "Skills Admin web app (GitHub Pages)",
-    "id": "palimato-ship-it/skills-admin",
-    "language": "JavaScript",
-    "name": "palimato-ship-it/skills-admin",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:24:59Z",
-    "url": "https://github.com/palimato-ship-it/skills-admin"
-  },
-  {
-    "description": "Agent skills for building iOS apps on iPhone Duo, Apple's first foldable iPhone \u2014 adaptive layout, vertical bars, hinge ",
-    "id": "mirzaaghazadeh/iphone-duo-skills",
-    "language": "Python",
-    "name": "mirzaaghazadeh/iphone-duo-skills",
-    "stars": 101,
-    "updated_at": "2026-09-27T10:24:36Z",
-    "url": "https://github.com/mirzaaghazadeh/iphone-duo-skills"
-  },
-  {
-    "description": "Original cross-agent skills by J03Fr0st. Repository shell based on mattpocock/skills; no upstream skills included.",
-    "id": "J03Fr0st/skills",
-    "language": "JavaScript",
-    "name": "J03Fr0st/skills",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:24:35Z",
-    "url": "https://github.com/J03Fr0st/skills"
-  },
-  {
-    "description": "WorkBuddy \u8eab\u4efd\u914d\u7f6e\u3001\u8bb0\u5fc6\u3001\u81ea\u5b9a\u4e49\u6280\u80fd\u4e0e SkillHub \u63d2\u4ef6\u5e02\u573a\u914d\u7f6e\u7684\u7248\u672c\u7ba1\u7406\u4ed3\u5e93",
-    "id": "luotiandong799-coder/AI-Skills",
-    "language": "Python",
-    "name": "luotiandong799-coder/AI-Skills",
-    "stars": 1,
-    "updated_at": "2026-09-27T10:24:12Z",
-    "url": "https://github.com/luotiandong799-coder/AI-Skills"
-  },
-  {
-    "description": "",
-    "id": "HaoNgo232/skills",
-    "language": "Python",
-    "name": "HaoNgo232/skills",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:24:05Z",
-    "url": "https://github.com/HaoNgo232/skills"
   }
 ]
