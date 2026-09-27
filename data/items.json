@@ -1,5 +1,32 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-27T05:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 22,
+    "updated_at": "2026-09-27T05:45:01Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
+    "id": "nitinjain999/platform-skills",
+    "language": "Shell",
+    "name": "nitinjain999/platform-skills",
+    "stars": 45,
+    "updated_at": "2026-09-27T05:45:00Z",
+    "url": "https://github.com/nitinjain999/platform-skills"
+  },
+  {
     "description": "Public Claude skills for working with DreamLake (artifacts authoring + CLI)",
     "id": "dreamlake-ai/dreamlake-skills",
     "language": "Python",
@@ -41,7 +68,7 @@
     "language": "JavaScript",
     "name": "PeterC66/claude-skills",
     "stars": 0,
-    "updated_at": "2026-09-27T05:44:55Z",
+    "updated_at": "2026-09-27T05:45:19Z",
     "url": "https://github.com/PeterC66/claude-skills"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "Jamie-BitFlight/claude_skills",
     "stars": 67,
-    "updated_at": "2026-09-27T05:44:54Z",
+    "updated_at": "2026-09-27T05:45:26Z",
     "url": "https://github.com/Jamie-BitFlight/claude_skills"
   },
   {
@@ -477,15 +504,6 @@
     "url": "https://github.com/tyb-sdu/bioagent-skills"
   },
   {
-    "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
-    "id": "nitinjain999/platform-skills",
-    "language": "Shell",
-    "name": "nitinjain999/platform-skills",
-    "stars": 45,
-    "updated_at": "2026-09-27T05:41:47Z",
-    "url": "https://github.com/nitinjain999/platform-skills"
-  },
-  {
     "description": "170 MIT-licensed Agent Skills for Shopify, Etsy, eBay, TikTok Shop, Walmart, Mercado Libre and OZON. Includes 26 MPstats",
     "id": "xjli360/sealeap-ecommerce-skills",
     "language": "Python",
@@ -567,15 +585,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 22,
-    "updated_at": "2026-09-27T05:30:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
     "id": "vthejas44-rgb/skills-github-pages",
     "language": "\u2014",
@@ -583,15 +592,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T05:30:22Z",
     "url": "https://github.com/vthejas44-rgb/skills-github-pages"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-27T05:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Custom skills and agents for Claude Code, distributed as plugins",
