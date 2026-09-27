@@ -1,12 +1,93 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-27T00:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "ChampiP/skills",
+    "language": "PowerShell",
+    "name": "ChampiP/skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T00:45:13Z",
+    "url": "https://github.com/ChampiP/skills"
+  },
+  {
+    "description": "",
+    "id": "enhansome/enhansome-claude-code-and-skills",
+    "language": "\u2014",
+    "name": "enhansome/enhansome-claude-code-and-skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T00:45:02Z",
+    "url": "https://github.com/enhansome/enhansome-claude-code-and-skills"
+  },
+  {
+    "description": "Canonical source for zuz.dev portable skills and Decal Pack releases",
+    "id": "LenoasKor/zuz-skills",
+    "language": "JavaScript",
+    "name": "LenoasKor/zuz-skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T00:45:08Z",
+    "url": "https://github.com/LenoasKor/zuz-skills"
+  },
+  {
     "description": "Claude Code skills for building, shipping, and reviewing Raycast extensions",
     "id": "chrismessina/raycast-extensions-skills",
     "language": "JavaScript",
     "name": "chrismessina/raycast-extensions-skills",
     "stars": 0,
-    "updated_at": "2026-09-27T00:42:26Z",
+    "updated_at": "2026-09-27T00:44:38Z",
     "url": "https://github.com/chrismessina/raycast-extensions-skills"
+  },
+  {
+    "description": "",
+    "id": "caneff/agent-skills",
+    "language": "Python",
+    "name": "caneff/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T00:44:33Z",
+    "url": "https://github.com/caneff/agent-skills"
+  },
+  {
+    "description": "Agent skills for deploying and operating applications through Good Gateway",
+    "id": "the-square-labs/gateway-skills",
+    "language": "Python",
+    "name": "the-square-labs/gateway-skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T00:44:25Z",
+    "url": "https://github.com/the-square-labs/gateway-skills"
+  },
+  {
+    "description": "",
+    "id": "ericmjl/skills",
+    "language": "Python",
+    "name": "ericmjl/skills",
+    "stars": 39,
+    "updated_at": "2026-09-27T00:43:10Z",
+    "url": "https://github.com/ericmjl/skills"
+  },
+  {
+    "description": "Machine and toolchain environment setup skills \u2014 mise + uv migration, dotfiles symlink management, audited SSH key deleg",
+    "id": "dEitY719/devenv-skills",
+    "language": "Shell",
+    "name": "dEitY719/devenv-skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T00:43:04Z",
+    "url": "https://github.com/dEitY719/devenv-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 22,
+    "updated_at": "2026-09-27T00:42:36Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Exercise: Expand your team with GitHub Copilot cloud agent",
@@ -14,7 +95,7 @@
     "language": "JavaScript",
     "name": "KanbanTrainer/skills-expand-your-team-with-copilot",
     "stars": 0,
-    "updated_at": "2026-09-27T00:42:28Z",
+    "updated_at": "2026-09-27T00:43:50Z",
     "url": "https://github.com/KanbanTrainer/skills-expand-your-team-with-copilot"
   },
   {
@@ -216,15 +297,6 @@
     "url": "https://github.com/zivtech/wp-ai-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-27T00:37:58Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Genvid Agent Skills \u2014 reference skill packs that teach any MCP-capable agent to drive Genvid's governed boundary.",
     "id": "genvid-holdings/agent-skills",
     "language": "Python",
@@ -356,7 +428,7 @@
     "language": "TypeScript",
     "name": "kouiso/skillsheet-viewer",
     "stars": 0,
-    "updated_at": "2026-09-27T00:37:31Z",
+    "updated_at": "2026-09-27T00:43:46Z",
     "url": "https://github.com/kouiso/skillsheet-viewer"
   },
   {
@@ -376,15 +448,6 @@
     "stars": 4,
     "updated_at": "2026-09-27T00:31:17Z",
     "url": "https://github.com/nivoset/skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 22,
-    "updated_at": "2026-09-27T00:30:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -693,15 +756,6 @@
     "url": "https://github.com/zenialeaky136/live-to-100-skills"
   },
   {
-    "description": "Machine and toolchain environment setup skills \u2014 mise + uv migration, dotfiles symlink management, audited SSH key deleg",
-    "id": "dEitY719/devenv-skills",
-    "language": "Shell",
-    "name": "dEitY719/devenv-skills",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:42:31Z",
-    "url": "https://github.com/dEitY719/devenv-skills"
-  },
-  {
     "description": "Orlando\u2019s collection of portable skills for coding agents.",
     "id": "Orlando-Villanueva/orlando-agent-skills",
     "language": "Shell",
@@ -844,59 +898,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T00:21:50Z",
     "url": "https://github.com/nariatrip191/my-claude-skills"
-  },
-  {
-    "description": "Automate founder tasks with AI skills for emails, decks, calls, contracts, hiring, sales, and finance across the startup",
-    "id": "Maudeunfledged834/startup-founder-skills",
-    "language": "\u2014",
-    "name": "Maudeunfledged834/startup-founder-skills",
-    "stars": 7,
-    "updated_at": "2026-09-27T00:21:50Z",
-    "url": "https://github.com/Maudeunfledged834/startup-founder-skills"
-  },
-  {
-    "description": "Guide GRC teams with Claude Skills for ISO 27001, SOC 2, FedRAMP, GDPR, HIPAA, NIST CSF, PCI DSS, TSA, and ISO 42001",
-    "id": "Jandyoverseas977/Claude-Skills-Governance-Risk-and-Compliance",
-    "language": "HTML",
-    "name": "Jandyoverseas977/Claude-Skills-Governance-Risk-and-Compliance",
-    "stars": 3,
-    "updated_at": "2026-09-27T00:21:46Z",
-    "url": "https://github.com/Jandyoverseas977/Claude-Skills-Governance-Risk-and-Compliance"
-  },
-  {
-    "description": "Provide reusable skills, agents, and commands for Claude Code to improve workflow and iOS UX design with clear structure",
-    "id": "ajwadrana/skills",
-    "language": "\u2014",
-    "name": "ajwadrana/skills",
-    "stars": 1,
-    "updated_at": "2026-09-27T00:21:26Z",
-    "url": "https://github.com/ajwadrana/skills"
-  },
-  {
-    "description": "Enable AI agents to access real-time Danish data for job search, housing, groceries, weather, travel, and health informa",
-    "id": "Marchelleintrinsical938/skills",
-    "language": "TypeScript",
-    "name": "Marchelleintrinsical938/skills",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:21:14Z",
-    "url": "https://github.com/Marchelleintrinsical938/skills"
-  },
-  {
-    "description": "Provide structured AI-powered PM skills in Korean to improve product decisions from discovery to growth with Claude Code",
-    "id": "weakened-fixedinvestmenttrust229/pm-skills-ko",
-    "language": "\u2014",
-    "name": "weakened-fixedinvestmenttrust229/pm-skills-ko",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:21:09Z",
-    "url": "https://github.com/weakened-fixedinvestmenttrust229/pm-skills-ko"
-  },
-  {
-    "description": "Share and organize custom Claude AI skills with access to useful external skill libraries and resources for enhanced wor",
-    "id": "robuxref2005/my_claude_skills",
-    "language": "\u2014",
-    "name": "robuxref2005/my_claude_skills",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:21:08Z",
-    "url": "https://github.com/robuxref2005/my_claude_skills"
   }
 ]
