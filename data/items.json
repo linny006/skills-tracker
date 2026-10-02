@@ -1,11 +1,83 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-02T12:30:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Skills platform validation working instance \u2014 2nd team",
+    "id": "heymishy/skills-platform-val",
+    "language": "JavaScript",
+    "name": "heymishy/skills-platform-val",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:30:14Z",
+    "url": "https://github.com/heymishy/skills-platform-val"
+  },
+  {
+    "description": "Sharing Free Agency Skills Mostly Business Skills",
+    "id": "shahedsj/managedCoder-Agency-Skills",
+    "language": "Python",
+    "name": "shahedsj/managedCoder-Agency-Skills",
+    "stars": 23,
+    "updated_at": "2026-10-02T12:30:08Z",
+    "url": "https://github.com/shahedsj/managedCoder-Agency-Skills"
+  },
+  {
+    "description": "20 Claude Code skills for indie developers, academics, and educators. Free and open source.",
+    "id": "koach08/claude-code-skills",
+    "language": "Shell",
+    "name": "koach08/claude-code-skills",
+    "stars": 4,
+    "updated_at": "2026-10-02T12:29:53Z",
+    "url": "https://github.com/koach08/claude-code-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "Aaron-fung92/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "Aaron-fung92/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:29:48Z",
+    "url": "https://github.com/Aaron-fung92/skills-introduction-to-github"
+  },
+  {
+    "description": "beautiful agent skill collections for office efficiency",
+    "id": "malan-skills/malanskills_for_office_efficiency",
+    "language": "Python",
+    "name": "malan-skills/malanskills_for_office_efficiency",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:29:34Z",
+    "url": "https://github.com/malan-skills/malanskills_for_office_efficiency"
+  },
+  {
+    "description": "Skills for software development with AI",
+    "id": "javrasya/skills",
+    "language": "JavaScript",
+    "name": "javrasya/skills",
+    "stars": 1,
+    "updated_at": "2026-10-02T12:29:24Z",
+    "url": "https://github.com/javrasya/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 23,
+    "updated_at": "2026-10-02T12:29:15Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Microsoft 365 Copilot agent skills for Workday Orchestrate and the Workday Developer CLI (wdcli): design, components, ex",
     "id": "KarGlo/workday-orchestration-m365-copilot-skills",
     "language": "\u2014",
     "name": "KarGlo/workday-orchestration-m365-copilot-skills",
     "stars": 0,
-    "updated_at": "2026-10-02T12:29:05Z",
+    "updated_at": "2026-10-02T12:29:18Z",
     "url": "https://github.com/KarGlo/workday-orchestration-m365-copilot-skills"
   },
   {
@@ -826,77 +898,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T12:18:01Z",
     "url": "https://github.com/Aleksisin/shared-agent-skills"
-  },
-  {
-    "description": "A collection of custom Claude Code skills for system diagnostics, code review, file management, and more",
-    "id": "hosaypeng/claude-skills",
-    "language": "Shell",
-    "name": "hosaypeng/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:16:55Z",
-    "url": "https://github.com/hosaypeng/claude-skills"
-  },
-  {
-    "description": "",
-    "id": "satnamrsm/https-github.com-sickn33-antigravity-awesome-skills",
-    "language": "Python",
-    "name": "satnamrsm/https-github.com-sickn33-antigravity-awesome-skills",
-    "stars": 8,
-    "updated_at": "2026-10-02T12:16:52Z",
-    "url": "https://github.com/satnamrsm/https-github.com-sickn33-antigravity-awesome-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "DP-WG/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "DP-WG/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:16:49Z",
-    "url": "https://github.com/DP-WG/skills-introduction-to-github"
-  },
-  {
-    "description": "A curated collection of Agent Skills for working with Nextdata.",
-    "id": "nextdata-tech/nexty-agent-skills",
-    "language": "Python",
-    "name": "nextdata-tech/nexty-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:18:55Z",
-    "url": "https://github.com/nextdata-tech/nexty-agent-skills"
-  },
-  {
-    "description": "Agent skills for driving Helldivers 2 unattended (launch, reach ship, enter a mission) - verified key sequences, coordin",
-    "id": "YC426/HD2-Agent-Skills",
-    "language": "\u2014",
-    "name": "YC426/HD2-Agent-Skills",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:16:38Z",
-    "url": "https://github.com/YC426/HD2-Agent-Skills"
-  },
-  {
-    "description": "",
-    "id": "TiddoLangerak/skills",
-    "language": "\u2014",
-    "name": "TiddoLangerak/skills",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:16:33Z",
-    "url": "https://github.com/TiddoLangerak/skills"
-  },
-  {
-    "description": "",
-    "id": "ippoan/claude-skills",
-    "language": "Shell",
-    "name": "ippoan/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:16:31Z",
-    "url": "https://github.com/ippoan/claude-skills"
-  },
-  {
-    "description": "",
-    "id": "merijnmoes/skills",
-    "language": "JavaScript",
-    "name": "merijnmoes/skills",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:16:24Z",
-    "url": "https://github.com/merijnmoes/skills"
   }
 ]
