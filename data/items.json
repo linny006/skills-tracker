@@ -1,5 +1,86 @@
 [
   {
+    "description": "",
+    "id": "buildrtech/skills",
+    "language": "Python",
+    "name": "buildrtech/skills",
+    "stars": 1,
+    "updated_at": "2026-10-03T21:30:22Z",
+    "url": "https://github.com/buildrtech/skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "zyangg10/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "zyangg10/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-10-03T21:30:26Z",
+    "url": "https://github.com/zyangg10/skills-introduction-to-github"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T21:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Skills that teach AI coding assistants to build on ZooClaw Managed Agents",
+    "id": "SerendipityOneInc/zoowork-sdk-skills",
+    "language": "JavaScript",
+    "name": "SerendipityOneInc/zoowork-sdk-skills",
+    "stars": 0,
+    "updated_at": "2026-10-03T21:30:11Z",
+    "url": "https://github.com/SerendipityOneInc/zoowork-sdk-skills"
+  },
+  {
+    "description": "",
+    "id": "Stalemated/simply_skills_tweaks",
+    "language": "\u2014",
+    "name": "Stalemated/simply_skills_tweaks",
+    "stars": 0,
+    "updated_at": "2026-10-03T21:30:11Z",
+    "url": "https://github.com/Stalemated/simply_skills_tweaks"
+  },
+  {
+    "description": "",
+    "id": "NazaninFarzady/Norway-future-skills",
+    "language": "Jupyter Notebook",
+    "name": "NazaninFarzady/Norway-future-skills",
+    "stars": 0,
+    "updated_at": "2026-10-03T21:30:00Z",
+    "url": "https://github.com/NazaninFarzady/Norway-future-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 23,
+    "updated_at": "2026-10-03T21:29:48Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Feedbackbasket skills to get your agents going",
+    "id": "deifos/feedbackbasket-skills",
+    "language": "JavaScript",
+    "name": "deifos/feedbackbasket-skills",
+    "stars": 0,
+    "updated_at": "2026-10-03T21:29:47Z",
+    "url": "https://github.com/deifos/feedbackbasket-skills"
+  },
+  {
+    "description": "Agent Skills for TraceRoot",
+    "id": "traceroot-ai/traceroot-skills",
+    "language": "\u2014",
+    "name": "traceroot-ai/traceroot-skills",
+    "stars": 0,
+    "updated_at": "2026-10-03T21:29:44Z",
+    "url": "https://github.com/traceroot-ai/traceroot-skills"
+  },
+  {
     "description": "Principles and fundamental skills for agents",
     "id": "alekseysidorov/agent-skills",
     "language": "Nix",
@@ -243,15 +324,6 @@
     "url": "https://github.com/jacobposchl/agentic-research-skillset"
   },
   {
-    "description": "",
-    "id": "NazaninFarzady/Norway-future-skills",
-    "language": "Jupyter Notebook",
-    "name": "NazaninFarzady/Norway-future-skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T21:24:51Z",
-    "url": "https://github.com/NazaninFarzady/Norway-future-skills"
-  },
-  {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
     "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
     "language": "HTML",
@@ -455,7 +527,7 @@
     "language": "\u2014",
     "name": "LanNelson/skills-resolve-merge-conflicts",
     "stars": 0,
-    "updated_at": "2026-10-03T21:20:38Z",
+    "updated_at": "2026-10-03T21:29:49Z",
     "url": "https://github.com/LanNelson/skills-resolve-merge-conflicts"
   },
   {
@@ -630,15 +702,6 @@
     "url": "https://github.com/MeuvenEl/skills-introduction-to-github"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 23,
-    "updated_at": "2026-10-03T21:15:33Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -655,15 +718,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T21:15:22Z",
     "url": "https://github.com/LeiterConsulting/skills-for-codex"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T21:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -734,7 +788,7 @@
     "language": "C#",
     "name": "carineconstantino/skills-secure-repository-supply-chain",
     "stars": 0,
-    "updated_at": "2026-10-03T21:13:44Z",
+    "updated_at": "2026-10-03T21:29:56Z",
     "url": "https://github.com/carineconstantino/skills-secure-repository-supply-chain"
   },
   {
@@ -844,59 +898,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T21:09:03Z",
     "url": "https://github.com/rkapadia16/skills-introduction-to-git"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "sv3dka/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "sv3dka/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-10-03T21:08:36Z",
-    "url": "https://github.com/sv3dka/skills-introduction-to-github"
-  },
-  {
-    "description": "Skills de agente de IA do macrex: /cpv, /obsidian-docs e /faz \u2014 instalaveis com npx skills add",
-    "id": "macrex/skills",
-    "language": "Python",
-    "name": "macrex/skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T21:07:59Z",
-    "url": "https://github.com/macrex/skills"
-  },
-  {
-    "description": "A collection of reusable skills for helping AI agents work across a range of tasks.",
-    "id": "Sheeshkidayyy/Skills",
-    "language": "\u2014",
-    "name": "Sheeshkidayyy/Skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T21:07:57Z",
-    "url": "https://github.com/Sheeshkidayyy/Skills"
-  },
-  {
-    "description": "Portable agent skills for intent-driven, evidence-backed software engineering",
-    "id": "tamesystems/intent-engineering-skills",
-    "language": "Python",
-    "name": "tamesystems/intent-engineering-skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T21:08:41Z",
-    "url": "https://github.com/tamesystems/intent-engineering-skills"
-  },
-  {
-    "description": "\u7ec4\u7ec7\u7ea7\u81ea\u52a8\u5316 Actions\uff1a\u6bcf 6 \u5c0f\u65f6\u5c06 Paperclip \u5b98\u65b9 nightly \u5305\u955c\u50cf\u53d1\u5e03\u5230\u963f\u91cc\u4e91\u79c1\u6709 npm \u4ed3\u5e93\uff0c\u6bcf\u65e5\u540c\u6b65\u7ec4\u7ec7\u5185\u6240\u6709 fork \u4ed3\u5e93",
-    "id": "farfarfun-skills/action-daily",
-    "language": "\u2014",
-    "name": "farfarfun-skills/action-daily",
-    "stars": 0,
-    "updated_at": "2026-10-03T21:07:54Z",
-    "url": "https://github.com/farfarfun-skills/action-daily"
-  },
-  {
-    "description": "",
-    "id": "cbusillo/codex-skills",
-    "language": "Python",
-    "name": "cbusillo/codex-skills",
-    "stars": 5,
-    "updated_at": "2026-10-03T21:25:49Z",
-    "url": "https://github.com/cbusillo/codex-skills"
   }
 ]
