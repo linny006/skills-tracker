@@ -1,5 +1,59 @@
 [
   {
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "Andriy29k/skills-getting-started-with-github-copilot",
+    "language": "\u2014",
+    "name": "Andriy29k/skills-getting-started-with-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-10-05T13:00:28Z",
+    "url": "https://github.com/Andriy29k/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 56,
+    "updated_at": "2026-10-05T13:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "ranelmalka100/skills-copilot-codespaces-vscode",
+    "language": "\u2014",
+    "name": "ranelmalka100/skills-copilot-codespaces-vscode",
+    "stars": 0,
+    "updated_at": "2026-10-05T13:00:12Z",
+    "url": "https://github.com/ranelmalka100/skills-copilot-codespaces-vscode"
+  },
+  {
+    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
+    "id": "Maminiainerick/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "language": "\u2014",
+    "name": "Maminiainerick/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "stars": 0,
+    "updated_at": "2026-10-05T13:00:12Z",
+    "url": "https://github.com/Maminiainerick/skills-scale-institutional-knowledge-using-copilot-spaces"
+  },
+  {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "Aaronlaz23/skills-github-pages",
+    "language": "CSS",
+    "name": "Aaronlaz23/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-10-05T13:00:07Z",
+    "url": "https://github.com/Aaronlaz23/skills-github-pages"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 23,
+    "updated_at": "2026-10-05T13:00:06Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Production-ready plugins for SAP development with AI coding assistants \u2014 BTP, CAP, Fiori, ABAP, HANA, Analytics Cloud, D",
     "id": "secondsky/sap-skills",
     "language": "JavaScript",
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T12:59:08Z",
     "url": "https://github.com/full-aigc-skills/filmcraft-skills"
-  },
-  {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "Aaronlaz23/skills-github-pages",
-    "language": "CSS",
-    "name": "Aaronlaz23/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-10-05T12:59:08Z",
-    "url": "https://github.com/Aaronlaz23/skills-github-pages"
   },
   {
     "description": "",
@@ -509,7 +554,7 @@
     "language": "Python",
     "name": "KunoLu/640-skills",
     "stars": 345,
-    "updated_at": "2026-10-05T12:55:02Z",
+    "updated_at": "2026-10-05T13:00:09Z",
     "url": "https://github.com/KunoLu/640-skills"
   },
   {
@@ -853,50 +898,5 @@
     "stars": 4,
     "updated_at": "2026-10-05T12:50:17Z",
     "url": "https://github.com/erxes/erxes-skills"
-  },
-  {
-    "description": "The universal, platform-agnostic skills and capability registry for AI agents \u2014 mapping capabilities, skills, implementa",
-    "id": "SamoTech/skills-tree",
-    "language": "Python",
-    "name": "SamoTech/skills-tree",
-    "stars": 3,
-    "updated_at": "2026-10-05T12:50:16Z",
-    "url": "https://github.com/SamoTech/skills-tree"
-  },
-  {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "Pedrinchi-Dante/skills-getting-started-with-github-copilot",
-    "language": "JavaScript",
-    "name": "Pedrinchi-Dante/skills-getting-started-with-github-copilot",
-    "stars": 0,
-    "updated_at": "2026-10-05T12:50:14Z",
-    "url": "https://github.com/Pedrinchi-Dante/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "Public canon skills distribution repo",
-    "id": "sunitghub/canon-skills",
-    "language": "Shell",
-    "name": "sunitghub/canon-skills",
-    "stars": 9,
-    "updated_at": "2026-10-05T12:50:14Z",
-    "url": "https://github.com/sunitghub/canon-skills"
-  },
-  {
-    "description": "My clone repository",
-    "id": "usmanirfnn/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "usmanirfnn/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-10-05T12:58:41Z",
-    "url": "https://github.com/usmanirfnn/skills-introduction-to-github"
-  },
-  {
-    "description": "",
-    "id": "arcads-ai/skills",
-    "language": "Shell",
-    "name": "arcads-ai/skills",
-    "stars": 22,
-    "updated_at": "2026-10-05T12:50:05Z",
-    "url": "https://github.com/arcads-ai/skills"
   }
 ]
