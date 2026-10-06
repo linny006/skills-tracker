@@ -1,5 +1,140 @@
 [
   {
+    "description": "Ten Claude Skills that review product design: critique, missing states, journeys, copy, patterns, localization, accessib",
+    "id": "johnhowrey/design-review-skills",
+    "language": "\u2014",
+    "name": "johnhowrey/design-review-skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:47:10Z",
+    "url": "https://github.com/johnhowrey/design-review-skills"
+  },
+  {
+    "description": "Exercise: Agent Orchestration: Build Your AI Dream Team",
+    "id": "BrCod/skills-agent-orchestration-build-your-ai-dream-team",
+    "language": "Shell",
+    "name": "BrCod/skills-agent-orchestration-build-your-ai-dream-team",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:47:02Z",
+    "url": "https://github.com/BrCod/skills-agent-orchestration-build-your-ai-dream-team"
+  },
+  {
+    "description": "",
+    "id": "anagri/skills",
+    "language": "TypeScript",
+    "name": "anagri/skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:46:58Z",
+    "url": "https://github.com/anagri/skills"
+  },
+  {
+    "description": "Reusable claude skills",
+    "id": "blas1n/claude-skills",
+    "language": "Python",
+    "name": "blas1n/claude-skills",
+    "stars": 2,
+    "updated_at": "2026-10-06T23:46:50Z",
+    "url": "https://github.com/blas1n/claude-skills"
+  },
+  {
+    "description": "Protect your code with automated testing",
+    "id": "tk-44/skills-test-with-actions",
+    "language": "Python",
+    "name": "tk-44/skills-test-with-actions",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:46:42Z",
+    "url": "https://github.com/tk-44/skills-test-with-actions"
+  },
+  {
+    "description": "Vectorcraft independent Agent Skills, pinned CLI installation and editable native workflows (development release).",
+    "id": "full-aigc-skills/vectorcraft-skills",
+    "language": "Python",
+    "name": "full-aigc-skills/vectorcraft-skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:46:40Z",
+    "url": "https://github.com/full-aigc-skills/vectorcraft-skills"
+  },
+  {
+    "description": "Artcraft independent Agent Skills, pinned CLI installation and editable native workflows (development release).",
+    "id": "full-aigc-skills/artcraft-skills",
+    "language": "Python",
+    "name": "full-aigc-skills/artcraft-skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:46:35Z",
+    "url": "https://github.com/full-aigc-skills/artcraft-skills"
+  },
+  {
+    "description": "Find the AI tools, apps, extensions, automations and MCP servers that fit how you work, for any job. 25 sources, ranked ",
+    "id": "sauronnitin/skillscout",
+    "language": "JavaScript",
+    "name": "sauronnitin/skillscout",
+    "stars": 1,
+    "updated_at": "2026-10-06T23:46:26Z",
+    "url": "https://github.com/sauronnitin/skillscout"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
+    "id": "428alexander9/claude-skills-marketplace",
+    "language": "Python",
+    "name": "428alexander9/claude-skills-marketplace",
+    "stars": 3,
+    "updated_at": "2026-10-06T23:46:25Z",
+    "url": "https://github.com/428alexander9/claude-skills-marketplace"
+  },
+  {
+    "description": "Generic ccxp-family Claude Code workflow skills (config-driven, no company-specific dependencies)",
+    "id": "Synx-Data-Labs/ccxp-skills",
+    "language": "Shell",
+    "name": "Synx-Data-Labs/ccxp-skills",
+    "stars": 1,
+    "updated_at": "2026-10-06T23:46:25Z",
+    "url": "https://github.com/Synx-Data-Labs/ccxp-skills"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance Claude's capabilities with example skills that streamline tasks and improve performance in specialized areas.",
+    "id": "shajith003/awesome-claude-skills",
+    "language": "Python",
+    "name": "shajith003/awesome-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-10-06T23:46:16Z",
+    "url": "https://github.com/shajith003/awesome-claude-skills"
+  },
+  {
+    "description": "A curated AI skill pack for Codex/Cursor, with reusable SKILL.md workflows for research, coding, and documentation autom",
+    "id": "YuukiAS/AI_Skills_Collection",
+    "language": "Python",
+    "name": "YuukiAS/AI_Skills_Collection",
+    "stars": 2,
+    "updated_at": "2026-10-06T23:46:15Z",
+    "url": "https://github.com/YuukiAS/AI_Skills_Collection"
+  },
+  {
+    "description": "",
+    "id": "inerhead/gossio-skills",
+    "language": "Shell",
+    "name": "inerhead/gossio-skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:46:10Z",
+    "url": "https://github.com/inerhead/gossio-skills"
+  },
+  {
+    "description": "",
+    "id": "mselser95/production-skills",
+    "language": "Shell",
+    "name": "mselser95/production-skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:45:38Z",
+    "url": "https://github.com/mselser95/production-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 23,
+    "updated_at": "2026-10-06T23:45:36Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -28,15 +163,6 @@
   },
   {
     "description": "",
-    "id": "inerhead/gossio-skills",
-    "language": "\u2014",
-    "name": "inerhead/gossio-skills",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:45:11Z",
-    "url": "https://github.com/inerhead/gossio-skills"
-  },
-  {
-    "description": "",
     "id": "ACC0895/docker-demo-aws-skills-centers",
     "language": "\u2014",
     "name": "ACC0895/docker-demo-aws-skills-centers",
@@ -52,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T23:44:36Z",
     "url": "https://github.com/timmo001/skills"
-  },
-  {
-    "description": "A curated AI skill pack for Codex/Cursor, with reusable SKILL.md workflows for research, coding, and documentation autom",
-    "id": "YuukiAS/AI_Skills_Collection",
-    "language": "Python",
-    "name": "YuukiAS/AI_Skills_Collection",
-    "stars": 2,
-    "updated_at": "2026-10-06T23:45:29Z",
-    "url": "https://github.com/YuukiAS/AI_Skills_Collection"
   },
   {
     "description": "LinkedIn strategy skills for Claude Code, plus a skill that publishes and schedules posts through the Podawaa API.",
@@ -131,7 +248,7 @@
     "language": "JavaScript",
     "name": "danjdewhurst/story-skills",
     "stars": 273,
-    "updated_at": "2026-10-06T23:44:52Z",
+    "updated_at": "2026-10-06T23:46:16Z",
     "url": "https://github.com/danjdewhurst/story-skills"
   },
   {
@@ -151,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T23:43:11Z",
     "url": "https://github.com/nagutabby/agent-skills-settings"
-  },
-  {
-    "description": "Artcraft independent Agent Skills, pinned CLI installation and editable native workflows (development release).",
-    "id": "full-aigc-skills/artcraft-skills",
-    "language": "Python",
-    "name": "full-aigc-skills/artcraft-skills",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:42:42Z",
-    "url": "https://github.com/full-aigc-skills/artcraft-skills"
   },
   {
     "description": "Luke-authored portable agent skills for Codex, Claude Code, Cursor, OpenCode, and other compatible agents.",
@@ -232,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T23:41:56Z",
     "url": "https://github.com/xdevs23/workflow-skills"
-  },
-  {
-    "description": "Reusable claude skills",
-    "id": "blas1n/claude-skills",
-    "language": "Python",
-    "name": "blas1n/claude-skills",
-    "stars": 2,
-    "updated_at": "2026-10-06T23:41:48Z",
-    "url": "https://github.com/blas1n/claude-skills"
   },
   {
     "description": "",
@@ -392,7 +491,7 @@
     "language": "JavaScript",
     "name": "it-all-playpark/skills",
     "stars": 1,
-    "updated_at": "2026-10-06T23:41:50Z",
+    "updated_at": "2026-10-06T23:46:02Z",
     "url": "https://github.com/it-all-playpark/skills"
   },
   {
@@ -455,7 +554,7 @@
     "language": "\u2014",
     "name": "TheOneMontanha/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-10-06T23:38:39Z",
+    "updated_at": "2026-10-06T23:46:15Z",
     "url": "https://github.com/TheOneMontanha/skills-introduction-to-github"
   },
   {
@@ -466,15 +565,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T23:38:38Z",
     "url": "https://github.com/alakshminarayana-clgx/skills-copilot-code-review"
-  },
-  {
-    "description": "Find the AI tools, apps, extensions, automations and MCP servers that fit how you work, for any job. 25 sources, ranked ",
-    "id": "sauronnitin/skillscout",
-    "language": "JavaScript",
-    "name": "sauronnitin/skillscout",
-    "stars": 1,
-    "updated_at": "2026-10-06T23:44:19Z",
-    "url": "https://github.com/sauronnitin/skillscout"
   },
   {
     "description": "Portable agent skills I actually use",
@@ -493,15 +583,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T23:38:20Z",
     "url": "https://github.com/evanlanese/agent-skills"
-  },
-  {
-    "description": "Vectorcraft independent Agent Skills, pinned CLI installation and editable native workflows (development release).",
-    "id": "full-aigc-skills/vectorcraft-skills",
-    "language": "Python",
-    "name": "full-aigc-skills/vectorcraft-skills",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:38:12Z",
-    "url": "https://github.com/full-aigc-skills/vectorcraft-skills"
   },
   {
     "description": "An MCP skills repo for Airia",
@@ -610,15 +691,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T23:35:57Z",
     "url": "https://github.com/nerra30/skills-introduction-to-git"
-  },
-  {
-    "description": "Generic ccxp-family Claude Code workflow skills (config-driven, no company-specific dependencies)",
-    "id": "Synx-Data-Labs/ccxp-skills",
-    "language": "Shell",
-    "name": "Synx-Data-Labs/ccxp-skills",
-    "stars": 1,
-    "updated_at": "2026-10-06T23:41:41Z",
-    "url": "https://github.com/Synx-Data-Labs/ccxp-skills"
   },
   {
     "description": "",
@@ -810,15 +882,6 @@
     "url": "https://github.com/MrBrunoWolff/the-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 23,
-    "updated_at": "2026-10-06T23:30:34Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Exercise: Introduction to GitHub",
     "id": "radoslawgorski1983-dot/skills-introduction-to-github",
     "language": "\u2014",
@@ -835,68 +898,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T23:29:54Z",
     "url": "https://github.com/multipleof4/skills"
-  },
-  {
-    "description": "Claude Code plugin marketplace: git release workflow and project note-keeping.",
-    "id": "walkerh/claude-skills",
-    "language": "Python",
-    "name": "walkerh/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:29:47Z",
-    "url": "https://github.com/walkerh/claude-skills"
-  },
-  {
-    "description": "Exercise: Create and run a GitHub Actions Workflow",
-    "id": "viraant/skills-hello-github-actions",
-    "language": "\u2014",
-    "name": "viraant/skills-hello-github-actions",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:29:17Z",
-    "url": "https://github.com/viraant/skills-hello-github-actions"
-  },
-  {
-    "description": "",
-    "id": "beyondwin/skills",
-    "language": "Python",
-    "name": "beyondwin/skills",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:28:58Z",
-    "url": "https://github.com/beyondwin/skills"
-  },
-  {
-    "description": "",
-    "id": "jeanfbrito/agent-skills",
-    "language": "Python",
-    "name": "jeanfbrito/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:28:31Z",
-    "url": "https://github.com/jeanfbrito/agent-skills"
-  },
-  {
-    "description": "Installable skills for LLM Wiki. Requires llm-wiki-plugins.",
-    "id": "llm-wiki-packages/llm-wiki-skills",
-    "language": "Python",
-    "name": "llm-wiki-packages/llm-wiki-skills",
-    "stars": 1,
-    "updated_at": "2026-10-06T23:28:40Z",
-    "url": "https://github.com/llm-wiki-packages/llm-wiki-skills"
-  },
-  {
-    "description": "",
-    "id": "rintoHasegawa/SkillSemiWebGame",
-    "language": "TypeScript",
-    "name": "rintoHasegawa/SkillSemiWebGame",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:28:15Z",
-    "url": "https://github.com/rintoHasegawa/SkillSemiWebGame"
-  },
-  {
-    "description": "Exercise: AI in Actions",
-    "id": "vmartinezmav/skills-ai-in-actions",
-    "language": "\u2014",
-    "name": "vmartinezmav/skills-ai-in-actions",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:28:08Z",
-    "url": "https://github.com/vmartinezmav/skills-ai-in-actions"
   }
 ]
