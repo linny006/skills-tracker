@@ -1,5 +1,41 @@
 [
   {
+    "description": "Skills for Inference Engineers",
+    "id": "zetomatoz/skills",
+    "language": "Python",
+    "name": "zetomatoz/skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T20:15:42Z",
+    "url": "https://github.com/zetomatoz/skills"
+  },
+  {
+    "description": "Claude plugins for real estate agents: CMAs, offers and contract timelines.",
+    "id": "axelrivera/real-estate-skills",
+    "language": "Python",
+    "name": "axelrivera/real-estate-skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T20:15:41Z",
+    "url": "https://github.com/axelrivera/real-estate-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 39,
+    "updated_at": "2026-10-08T20:15:39Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 24,
+    "updated_at": "2026-10-08T20:15:34Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
     "id": "kalendatom/skills-github-pages",
     "language": "\u2014",
@@ -351,15 +387,6 @@
     "url": "https://github.com/alexalv0519-eng/landing-contratos-skills"
   },
   {
-    "description": "Claude plugins for real estate agents: CMAs, offers and contract timelines.",
-    "id": "axelrivera/real-estate-skills",
-    "language": "Python",
-    "name": "axelrivera/real-estate-skills",
-    "stars": 0,
-    "updated_at": "2026-10-08T20:15:17Z",
-    "url": "https://github.com/axelrivera/real-estate-skills"
-  },
-  {
     "description": "Exercise: Create and run a GitHub Actions Workflow",
     "id": "guilhermeLimaferreira/skills-hello-github-actions",
     "language": "\u2014",
@@ -599,7 +626,7 @@
     "language": "JavaScript",
     "name": "Sashuteak/skills-copilot-code-review",
     "stars": 0,
-    "updated_at": "2026-10-08T20:07:08Z",
+    "updated_at": "2026-10-08T20:16:17Z",
     "url": "https://github.com/Sashuteak/skills-copilot-code-review"
   },
   {
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T20:03:08Z",
     "url": "https://github.com/chrisfradenburg/skills-introduction-to-github"
-  },
-  {
-    "description": "Agent Skills for EVtivity CSMS: set up, use, troubleshoot and report issues with any coding agent",
-    "id": "EVtivity/evtivity-skills",
-    "language": "Shell",
-    "name": "EVtivity/evtivity-skills",
-    "stars": 0,
-    "updated_at": "2026-10-08T20:02:59Z",
-    "url": "https://github.com/EVtivity/evtivity-skills"
-  },
-  {
-    "description": "The repo for all system/public ornn skills",
-    "id": "ChronoAIProject/nyx-skills",
-    "language": "JavaScript",
-    "name": "ChronoAIProject/nyx-skills",
-    "stars": 0,
-    "updated_at": "2026-10-08T20:02:53Z",
-    "url": "https://github.com/ChronoAIProject/nyx-skills"
-  },
-  {
-    "description": "Exercise: Agentic Workflows That Read the Room",
-    "id": "ToddLawrence/skills-agentic-workflows-that-read-the-room",
-    "language": "Astro",
-    "name": "ToddLawrence/skills-agentic-workflows-that-read-the-room",
-    "stars": 0,
-    "updated_at": "2026-10-08T20:02:38Z",
-    "url": "https://github.com/ToddLawrence/skills-agentic-workflows-that-read-the-room"
   }
 ]
