@@ -1,12 +1,39 @@
 [
   {
-    "description": "Este reposit\u00f3rio serve especificamente para disponibilizar skills para o claude.",
-    "id": "opradopedro/claude-skills",
+    "description": "GitHub Skills: Introduction to Secret Scanning",
+    "id": "sam23287/skills-introduction-to-secret-scanning",
     "language": "\u2014",
-    "name": "opradopedro/claude-skills",
+    "name": "sam23287/skills-introduction-to-secret-scanning",
     "stars": 0,
-    "updated_at": "2026-10-09T22:59:47Z",
-    "url": "https://github.com/opradopedro/claude-skills"
+    "updated_at": "2026-10-09T23:00:21Z",
+    "url": "https://github.com/sam23287/skills-introduction-to-secret-scanning"
+  },
+  {
+    "description": "",
+    "id": "Omer-F-Ylmz/omer-skills",
+    "language": "Python",
+    "name": "Omer-F-Ylmz/omer-skills",
+    "stars": 0,
+    "updated_at": "2026-10-09T23:00:16Z",
+    "url": "https://github.com/Omer-F-Ylmz/omer-skills"
+  },
+  {
+    "description": "",
+    "id": "michaellhm/lhm-skills",
+    "language": "Python",
+    "name": "michaellhm/lhm-skills",
+    "stars": 0,
+    "updated_at": "2026-10-09T23:00:16Z",
+    "url": "https://github.com/michaellhm/lhm-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 124,
+    "updated_at": "2026-10-09T23:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Exercise: Review pull requests",
@@ -14,8 +41,44 @@
     "language": "HTML",
     "name": "eliskalee/skills-review-pull-requests",
     "stars": 0,
-    "updated_at": "2026-10-09T22:59:44Z",
+    "updated_at": "2026-10-09T23:00:11Z",
     "url": "https://github.com/eliskalee/skills-review-pull-requests"
+  },
+  {
+    "description": "",
+    "id": "kuishung/trading-skills",
+    "language": "Python",
+    "name": "kuishung/trading-skills",
+    "stars": 0,
+    "updated_at": "2026-10-09T23:00:09Z",
+    "url": "https://github.com/kuishung/trading-skills"
+  },
+  {
+    "description": "Installable, plugin-ready skills that give coding agents disciplined workflows, from code standards and review gates to ",
+    "id": "Vivswan/skills",
+    "language": "TypeScript",
+    "name": "Vivswan/skills",
+    "stars": 1,
+    "updated_at": "2026-10-09T23:00:06Z",
+    "url": "https://github.com/Vivswan/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 24,
+    "updated_at": "2026-10-09T22:59:58Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Este reposit\u00f3rio serve especificamente para disponibilizar skills para o claude.",
+    "id": "opradopedro/claude-skills",
+    "language": "\u2014",
+    "name": "opradopedro/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-09T22:59:47Z",
+    "url": "https://github.com/opradopedro/claude-skills"
   },
   {
     "description": "At the end of the day, why wouldn't I want to put my brain into markdown files?",
@@ -459,15 +522,6 @@
     "url": "https://github.com/ELFILALI-Alaa/skills-build-applications-w-copilot-agent-mode"
   },
   {
-    "description": "",
-    "id": "Omer-F-Ylmz/omer-skills",
-    "language": "Python",
-    "name": "Omer-F-Ylmz/omer-skills",
-    "stars": 0,
-    "updated_at": "2026-10-09T22:47:05Z",
-    "url": "https://github.com/Omer-F-Ylmz/omer-skills"
-  },
-  {
     "description": "Custom Agent Skills",
     "id": "PBandDev/skills",
     "language": "TypeScript",
@@ -538,24 +592,6 @@
     "stars": 39,
     "updated_at": "2026-10-09T22:45:33Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 24,
-    "updated_at": "2026-10-09T22:45:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 124,
-    "updated_at": "2026-10-09T22:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "WorkBuddy \u8eab\u4efd\u914d\u7f6e\u3001\u8bb0\u5fc6\u3001\u81ea\u5b9a\u4e49\u6280\u80fd\u4e0e SkillHub \u63d2\u4ef6\u5e02\u573a\u914d\u7f6e\u7684\u7248\u672c\u7ba1\u7406\u4ed3\u5e93",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T22:36:37Z",
     "url": "https://github.com/hirahiratriangle/ipa-exam-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "hamedonassar95/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "hamedonassar95/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-10-09T22:36:36Z",
-    "url": "https://github.com/hamedonassar95/skills-introduction-to-github"
-  },
-  {
-    "description": "trmnl.com template writer agent's prompts and skills",
-    "id": "usetrmnl/trmnl-agent-skills",
-    "language": "Ruby",
-    "name": "usetrmnl/trmnl-agent-skills",
-    "stars": 27,
-    "updated_at": "2026-10-09T22:36:27Z",
-    "url": "https://github.com/usetrmnl/trmnl-agent-skills"
-  },
-  {
-    "description": "",
-    "id": "Blumie-io/lucen-skills",
-    "language": "\u2014",
-    "name": "Blumie-io/lucen-skills",
-    "stars": 0,
-    "updated_at": "2026-10-09T22:36:16Z",
-    "url": "https://github.com/Blumie-io/lucen-skills"
-  },
-  {
-    "description": "A curated collection of Claude Code plugins: multi-agent dev team, AI council code reviews, and project management",
-    "id": "rube-de/cc-skills",
-    "language": "TypeScript",
-    "name": "rube-de/cc-skills",
-    "stars": 10,
-    "updated_at": "2026-10-09T22:36:01Z",
-    "url": "https://github.com/rube-de/cc-skills"
   }
 ]
