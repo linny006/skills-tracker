@@ -1,5 +1,86 @@
 [
   {
+    "description": "Claude Code plugin for Louisiana environmental-justice research and permit-application interrogation.",
+    "id": "Lythimus/bayou-blockade-skills",
+    "language": "Python",
+    "name": "Lythimus/bayou-blockade-skills",
+    "stars": 0,
+    "updated_at": "2026-10-09T00:30:16Z",
+    "url": "https://github.com/Lythimus/bayou-blockade-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-09T00:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "skills\u306e\u4e00\u5143\u7ba1\u7406",
+    "id": "it-all-playpark/skills",
+    "language": "JavaScript",
+    "name": "it-all-playpark/skills",
+    "stars": 1,
+    "updated_at": "2026-10-09T00:30:14Z",
+    "url": "https://github.com/it-all-playpark/skills"
+  },
+  {
+    "description": "Exercise: Resolve Merge Conflicts",
+    "id": "xueying2/skills-resolve-merge-conflicts",
+    "language": "\u2014",
+    "name": "xueying2/skills-resolve-merge-conflicts",
+    "stars": 0,
+    "updated_at": "2026-10-09T00:30:02Z",
+    "url": "https://github.com/xueying2/skills-resolve-merge-conflicts"
+  },
+  {
+    "description": "\u5b89\u88c5\u5373\u81ea\u5e26mattpocock/skills v1.3.1\u768427\u4e2a\u5de5\u7a0b\u4e0e\u6548\u7387\u6280\u80fd\uff0c\u65e0\u9700\u624b\u52a8\u88c5\u6280\u80fd\u3002400\u4ebftoken\u6253\u9020\u672c\u63d2\u4ef6\uff0c\u5728\u539f\u59cb\u6280\u80fd\u4e4b\u4e0a\u63d0\u4f9b10\u500d\u7684\u5f00\u53d1\u6548\u7387\uff0c\u4e5f\u80fd\u5e2e\u52a9\u65b0\u624b\u66f4\u5feb\u4e0a\u624b\u8be5\u6280\u80fd\u5957\u4ef6\u3002\u5168\u529b\u652f\u6301GitHub issue\uff1bMarkd",
+    "id": "FeatherHunter/dsh-mattpocock-skills-deck",
+    "language": "JavaScript",
+    "name": "FeatherHunter/dsh-mattpocock-skills-deck",
+    "stars": 122,
+    "updated_at": "2026-10-09T00:30:01Z",
+    "url": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck"
+  },
+  {
+    "description": "",
+    "id": "fu-skillswap/fu-skillswap-fe-2",
+    "language": "TypeScript",
+    "name": "fu-skillswap/fu-skillswap-fe-2",
+    "stars": 0,
+    "updated_at": "2026-10-09T00:30:19Z",
+    "url": "https://github.com/fu-skillswap/fu-skillswap-fe-2"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "kyturner-ucsd/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "kyturner-ucsd/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-10-09T00:29:39Z",
+    "url": "https://github.com/kyturner-ucsd/skills-introduction-to-github"
+  },
+  {
+    "description": "\u5df2\u8fc1\u79fb\u5230 ZanePan2027/zpskill",
+    "id": "ZanePan2027/zane-career-skills",
+    "language": "Python",
+    "name": "ZanePan2027/zane-career-skills",
+    "stars": 0,
+    "updated_at": "2026-10-09T00:29:33Z",
+    "url": "https://github.com/ZanePan2027/zane-career-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 24,
+    "updated_at": "2026-10-09T00:29:29Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "AI agent skills for Kotlin Multiplatform (KMP) development \u2014 clean architecture, feature scaffolding, Compose UI, MVI, n",
     "id": "ronjunevaldoz/kmp-agent-skills",
     "language": "Python",
@@ -16,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T00:29:16Z",
     "url": "https://github.com/3tallah/awesome-ai-agent-skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "kyturner-ucsd/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "kyturner-ucsd/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-10-09T00:29:18Z",
-    "url": "https://github.com/kyturner-ucsd/skills-introduction-to-github"
   },
   {
     "description": "",
@@ -61,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T00:27:55Z",
     "url": "https://github.com/wujiaming88/skills"
-  },
-  {
-    "description": "\u5b89\u88c5\u5373\u81ea\u5e26mattpocock/skills v1.3.1\u768427\u4e2a\u5de5\u7a0b\u4e0e\u6548\u7387\u6280\u80fd\uff0c\u65e0\u9700\u624b\u52a8\u88c5\u6280\u80fd\u3002400\u4ebftoken\u6253\u9020\u672c\u63d2\u4ef6\uff0c\u5728\u539f\u59cb\u6280\u80fd\u4e4b\u4e0a\u63d0\u4f9b10\u500d\u7684\u5f00\u53d1\u6548\u7387\uff0c\u4e5f\u80fd\u5e2e\u52a9\u65b0\u624b\u66f4\u5feb\u4e0a\u624b\u8be5\u6280\u80fd\u5957\u4ef6\u3002\u5168\u529b\u652f\u6301GitHub issue\uff1bMarkd",
-    "id": "FeatherHunter/dsh-mattpocock-skills-deck",
-    "language": "JavaScript",
-    "name": "FeatherHunter/dsh-mattpocock-skills-deck",
-    "stars": 122,
-    "updated_at": "2026-10-09T00:27:46Z",
-    "url": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck"
   },
   {
     "description": "Private Skill monorepo with independently governed first-party projects and pinned upstream skills",
@@ -657,15 +720,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 24,
-    "updated_at": "2026-10-09T00:15:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Exercise: Get started using GitHub Copilot",
     "id": "cortay-8/skills-getting-started-with-github-copilot",
     "language": "JavaScript",
@@ -682,15 +736,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T00:15:21Z",
     "url": "https://github.com/adrianhernandezg1973/skills-introduction-to-secret-scanning"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-09T00:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T00:11:13Z",
     "url": "https://github.com/olivermatheus-dev/skills"
-  },
-  {
-    "description": "Skills for teaching agents how to build on Cloudflare.",
-    "id": "cloudflare/skills",
-    "language": "Shell",
-    "name": "cloudflare/skills",
-    "stars": 3013,
-    "updated_at": "2026-10-09T00:11:03Z",
-    "url": "https://github.com/cloudflare/skills"
-  },
-  {
-    "description": "Claude Code skill suite for managing an Obsidian vault as a productivity system: automated todos from email, Teams, meet",
-    "id": "doyled-it/claude-vault-skills",
-    "language": "Python",
-    "name": "doyled-it/claude-vault-skills",
-    "stars": 1,
-    "updated_at": "2026-10-09T00:10:46Z",
-    "url": "https://github.com/doyled-it/claude-vault-skills"
-  },
-  {
-    "description": "Personal Claude Code skills marketplace",
-    "id": "doyled-it/claude-skills",
-    "language": "Batchfile",
-    "name": "doyled-it/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-10-09T00:10:44Z",
-    "url": "https://github.com/doyled-it/claude-skills"
-  },
-  {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "jarixhew-bit/skills-github-pages",
-    "language": "HTML",
-    "name": "jarixhew-bit/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-10-09T00:10:19Z",
-    "url": "https://github.com/jarixhew-bit/skills-github-pages"
-  },
-  {
-    "description": "Agent Skills for JUG PH demonstration and initiatives",
-    "id": "JUGPH/agent-skills",
-    "language": "\u2014",
-    "name": "JUGPH/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-09T00:10:11Z",
-    "url": "https://github.com/JUGPH/agent-skills"
   }
 ]
